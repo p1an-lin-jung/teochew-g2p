@@ -1,4 +1,4 @@
-高|go1(姓)
+高|go1(姓)*
 不|houn2*
 场|ciang5*
 勒|dêg8*
@@ -788,3 +788,4 @@
 朴|poh4|piou5(姓)
 番|puan1|po5|hung1
 啊|o7|o6|o2
+悬|huin5|ngui5|guin5
