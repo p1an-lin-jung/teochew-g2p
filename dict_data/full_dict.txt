@@ -2869,7 +2869,7 @@
 婓|hui6
 绯|hui1
 啡|hui1
-菲|hui6|hui2
+菲|hui1|hui2
 辉|hui1
 斐|hui1|hui2
 扉|hui1
@@ -8821,7 +8821,7 @@
 刺|ceng3|ci3|ciah4
 柽|cêng1
 亲|cing1
-称|cêng1|ceng3|cing3
+称|cêng1|cêng3|cing3
 圊|cêng1
 偁|cêng1
 清|cêng1
