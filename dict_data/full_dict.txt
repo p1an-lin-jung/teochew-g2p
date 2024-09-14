@@ -101,7 +101,7 @@
 东|dang1
 冬|dang1
 当|deng1|deng3
-坍|tam6
+坍|tam1
 鸫|dang1
 珰|dang1
 郸|dang1
@@ -2207,7 +2207,7 @@
 勋|hng1
 埙|hng1
 殷|hng1
-掀|hiêng1|hng1|hioun6
+掀|hiêng1|hng1|hioun1
 訢|hng1
 𣔙|hng1|hiêng1
 焮|hng1
@@ -4216,9 +4216,9 @@
 鴷|liêg8
 鬣|liag8
 掠|liah8
-拈|liam6|ni1
+拈|liam1|ni1
 粘|liam1|liam5|ziam1
-黏|liam6|liam5
+黏|liam1|liam5
 殓|liam2
 敛|liam2
 裣|liam2
@@ -5713,7 +5713,7 @@
 爪|riou2
 扰|riou2
 娆|riou5|riou2
-诏|ziou6|riou3
+诏|ziou3|riou3
 沼|riou3
 绕|riou3
 遶|riou3
@@ -7791,7 +7791,7 @@
 糨|ziên3|ziang3
 颤|ziêng3
 仗|ziang6
-匠|ciên6|ziang6
+匠|ciên7|ziang6
 杖|ziang6
 諓|ziêng6
 钊|ziou1
@@ -8198,7 +8198,7 @@
 癍|boin1|bang1
 板|bang2
 版|bang2
-钣|bang2|boin6
+钣|bang2|boin2
 匚|bang1|bang3
 邦|bang1
 祊|bang1
