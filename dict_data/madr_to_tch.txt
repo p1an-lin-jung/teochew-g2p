@@ -9,7 +9,7 @@
 谈|诐|puêh8
 聊|诐|puêh8
 绳子|索|soh4
-玩耍|踢跎|𨑨迌|tig8 to5
+玩耍|𨑨迌|tig8 to5
 两半|二爿|no6 boin5
 说|呾|dan3
 跟着|缀|duê3
@@ -19,11 +19,11 @@
 以前|许𠶧时|he2 diang1 si5
 小时候|细𠶧时|soi3 diang1 si5
 是谁|底𠶧|di6 diang5
-我们|[俺,阮]|[nang2,ng2,uang2]
-咱们|[俺,阮]|[nang2,ng2,uang2]
+我们|[俺,阮]|[nang2,ng2]
+咱们|[俺,阮]|[nang2,ng2]
 自己|家己|ga1 gi7
 自己人|家己人|ga1 gi7 nang5
-睡|夗|[ug8, ngh8,inh8,in6]
+睡|夗|[ug8,ngh8,inh8,in6]
 粥|糜|muê5
 喝粥|食糜|ziah8 muê5
 砂锅粥|砂锅糜|sua1 uê1 muê5
@@ -75,7 +75,7 @@
 差点|绌滴囝|zuah8 dih4 gian2
 差一点|绌滴囝|zuah8 dih4 gian2
 像|然|riêng5
-一起|[做一下,做倵]|[zo3 zêg8 ê7 , zo bhu5]
+一起|[做一下,做倵]|[zo3 zêg8 ê7,zo bhu5]
 水边|水墘|zui2 gin5
 路边|路墘|lou7 gin5
 溪边|溪墘|koi1 gin5
@@ -242,12 +242,12 @@
 上去|落去|loh8 ke3
 两头锋利|双头利|sang1 tao5 lai7
 太锋利|过利|guê3 lai7
-刚刚好|拄拄|du2 du2
-拄拄好|du2 du2 ho2
+刚好|拄拄|du2 du2
+刚刚好|拄拄好|du2 du2 ho2
 碰上|拄着|du2 diêh4
-粗拄|cou1 du2
+凑合|粗拄|cou1 du2
 相拄|siê1 du2
-唔拄好|m6 du2 ho2
+不碰巧|唔拄好|m6 du2 ho2
 受不了|拄唔缀|du2 m6 duê3
 呛喉咙|错喉|coh4 ao5
 打喷嚏|拍咳嚏|pah4 ga1 ti3
