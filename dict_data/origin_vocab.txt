@@ -1,5 +1,5 @@
 灱|da1
-打|da2
+打|da2|pah4
 罩|zao6
 禾|da5
 溚|dab4
@@ -7,7 +7,7 @@
 瘩|dab4
 怛|dag4
 妲|dag4
-哒|dag4
+哒|da1
 炟|dag4
 笪|dag4
 嗒|dah4|dag4
@@ -96,7 +96,7 @@
 氮|dan6
 憺|dan6
 澹|dan6
-中|dong1
+中|dong1|dang1
 丹|dang1
 东|dang1
 冬|dang1
@@ -114,7 +114,7 @@
 襌|duan1|dang1
 蟷|dang1
 党|dang2
-董|dong2|dang2
+董|dong2|dang2(姓)
 谠|dang2
 等|dêng2|dang2|têng6
 亶|dang2
@@ -130,7 +130,7 @@
 蛋|dang3
 仝|dang5|tong5
 同|dang5
-陈|dang5
+陈|dang5(姓)|ting5
 铜|dang5
 筒|dang5|dang6
 曈|tong5|dang5
@@ -876,7 +876,7 @@
 胭|ing1
 痈|iong1|êng1
 莺|êng1
-翁|ong1
+翁|ong1|êng1(姓)
 桜|êng1
 萦|iong5|ing1
 裀|ing1
@@ -1696,7 +1696,7 @@
 菰|gou1
 菇|gou1
 蛄|gu1|gou1
-辜|gou1
+辜|gou1(姓)|gu1
 酤|gou1
 軱|gou1
 古|gou2
@@ -1764,7 +1764,7 @@
 舅|gu6
 鶪|gu6
 旧|gu7
-柯|gua1|ko1
+柯|gua1(姓)|ko1
 剐|guan2
 寡|guan2
 卦|kuê3
@@ -1778,7 +1778,7 @@
 決|guêg4
 炔|guêg4
 玦|guêg4
-刮|guah4|guêh4|guag4|huah4
+刮|guah4
 活|uah8
 括|guêg4
 砄|guêg4
@@ -1823,7 +1823,7 @@
 蒯|guai3
 鲙|guai3
 擓|guai3
-果|guê2|guên2|guain2|guan2
+果|guê2
 县|guin7
 肝|guan1
 官|guan1
@@ -2176,7 +2176,7 @@
 墟|he1
 嘘|he1|si1
 歔|he1
-许|he2
+许|he2|kou2(姓)
 浒|hu2|he2
 鱼|he5
 渔|he5
@@ -2234,7 +2234,7 @@
 馨|hêng1
 馫|hêng1
 夐|hêng6|hêng3
-王|uang5
+王|uang5|hêng5(姓)
 刑|hêng5
 陉|hêng5
 形|hêng5
@@ -2318,7 +2318,7 @@
 騢|hia5
 瓦|ua1|hia6
 蚁|hia6
-叶|hiêh8
+叶|hiêh8|iab8(姓)|hiab8(姓)
 协|hiab8
 侠|hiab8
 胁|hiab8
@@ -2439,7 +2439,7 @@
 齅|hiun3
 裘|kiu5|hiun5
 噷|hm2
-方|huang1
+方|huang1|bung1(姓)
 荒|huang1|hng1
 啈|hng2
 园|hng5
@@ -2517,7 +2517,7 @@
 闳|hong5
 泓|hong5
 荭|hong5
-洪|hong5
+洪|hong5|ang5(姓)
 虹|hong5
 竑|hong5
 翃|hong5
@@ -2533,7 +2533,7 @@
 呼|hu1|u1|hou1|kou1
 戽|hou3
 狐|hu5
-胡|hu5
+胡|hu5|ou5(姓)
 葫|hou5
 瘊|hou5
 睺|hou5
@@ -3132,7 +3132,7 @@
 炀|iang5
 旸|iang5
 玚|iang5|tiang3
-杨|iang5|iên5
+杨|iang5|iên5(姓)
 飏|iang5
 疡|iang5
 佯|iang5|iang6|siang5
@@ -3654,7 +3654,7 @@
 跫|kiong5
 藭|kiong5
 丘|kiu1
-邱|ku1|kiu1
+邱|ku1(姓)|kiu1
 鸠|kiu1
 虬|kiu1
 犰|kiu5
@@ -5068,7 +5068,7 @@
 昂|ngang1
 眼|ngang2
 唁|ngang3|ngang6
-元|nguêng5
+元|nguêng5|ngeng5
 言|ngang5
 枊|ngang6
 彦|ngang6
@@ -5267,7 +5267,7 @@
 幄|og4
 鋈|og4
 龌|og4
-矮|gê6
+矮|oi2
 鞋|oi5
 闲|oin5
 閒|oin5
@@ -5386,7 +5386,7 @@
 膨|pên5
 蟛|pên5|bhê5
 伻|pêng1
-拚|bian3|pêng1
+拚|bian3
 拼|pêng1
 俜|pêng1
 姘|pêng1
@@ -5403,7 +5403,7 @@
 评|pêng5
 匉|pêng5
 玭|ping5
-坪|pêng5|pian5
+坪|pêng5|pian5|bên5
 怦|pêng5
 抨|pêng5
 苹|ping5
@@ -6031,7 +6031,7 @@
 省|sên2
 性|sên3
 姓|sên3
-孙|sung1
+孙|sung1|seng1(姓)
 狻|seng1
 栓|cuêng5|seng1
 桑|seng1
@@ -6150,7 +6150,6 @@
 氏|si6
 侍|si6
 视|si6
-昰|si6
 是|si6
 叙|su6
 恃|si6
@@ -6180,7 +6179,7 @@
 麝|sia7|sia5
 灺|sia6|to6
 社|sia6
-谢|sia7
+谢|sia7|zia7(姓)
 塮|sia7
 榭|sia7|zia7
 卌|siab4
@@ -6507,13 +6506,13 @@
 墅|su2
 醑|su2
 曙|su2
-诉|su6
+诉|su3
 恕|su3
-庶|su6
+庶|su3
 絮|su3
 腧|su3
 嗉|su3
-愫|su6
+愫|su3
 愬|su3
 𠘧|su5
 殳|su5
@@ -6893,7 +6892,7 @@
 痔|ti6
 帖|tiab4
 怗|tiab4
-贴|tiab4
+贴|tiab4|dah4
 萜|tiab4
 屮|tiêg4
 辵|tiag4
@@ -7218,7 +7217,7 @@
 煨|ui1
 椳|ui1
 毉|ui1
-韦|ui2|ui5
+韦|ui2|ui5(姓)
 伟|ui2
 苇|ui2
 炜|ui2
@@ -7382,7 +7381,7 @@
 赃|zang1|zeng1
 脏|zang6
 牂|zang1
-曾|zêng1|zang1|zêng5
+曾|zang1(姓)|zêng5
 棕|zang1|zong1
 臧|zang1
 糌|zang1
@@ -7738,7 +7737,7 @@
 旃|ziêng1
 栴|ziêng1
 飦|ziêng1
-章|ziên1
+章|ziên1|ziang1(姓)
 笺|ziêng1
 湔|ziêng1
 溅|ziêng2
@@ -7885,7 +7884,7 @@
 咒|ziu3
 呪|ziu3
 甃|ziu3
-就|ziu6
+就|ziu6|zu6
 僦|ziu6
 鹫|ziu6
 左|zo2
@@ -8105,7 +8104,7 @@
 瑷|ain3
 僾|ain3
 懓|ain3
-厂|ciang2|am1
+厂|ciang2
 庵|am1
 谙|am3|am1
 媕|am1
@@ -8970,7 +8969,7 @@
 鱻|cin1
 冲|cong1|cong3
 充|cong1
-从|cong5
+从|cong5|dang5
 初|co1
 秋|ciu1
 秌|ciu1

@@ -1799,7 +1799,7 @@
 倪#ghoi5	ghoi7
 还#hain5	hoin5
 番#puan1	puang1
-番#hung1	puang1
+番#hung1	huang1
 掀#hioun1	hiaon1
 互#hu5	hu6
 孕#hêng6	rêng6
@@ -1828,3 +1828,4 @@
 庄#zang1	zuang1
 荘#zang1	zuang1
 𤞚#siou2	siao2
+熇#ho3	hoh4
