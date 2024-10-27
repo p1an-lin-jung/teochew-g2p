@@ -14,7 +14,7 @@
 爿#boin5	bain5
 爿#puêng5	puang5
 畔#puêng3	puang3
-畔#boin5	bain5
+
 扮#buêng6	buang6
 瓶#ping5	pêng5
 缾#ping5	pêng5
@@ -200,7 +200,7 @@
 尾#bhuê2	mai2
 韈#bhuêh8	ghuêh8
 啜#cuêg4	cuag4
-千#coin1	cain1
+
 仟#coin1	cain1
 筅#coin2	cain2
 蚕#coin5	cain5
@@ -231,8 +231,8 @@
 燀#ciêng2	ciang2
 唱#ciê3	cio3
 长#diên2	dion2
-场#diên5	dion5
-常#siên5	sion5
+
+
 弨#ciou1	ciao1
 弨#ziou1	ziao1
 悄#ciou2	ciao2
@@ -252,8 +252,7 @@
 嘲#ciou2	ciao2
 謿#ciou2	ciao2
 晁#ciou5	ciao5
-朝#ciou5	ciao5
-朝#ziou1	ziao1
+
 鼌#ciou5	ciao5
 瞧#ciou5	ciao5
 七#cig4	cêg4
@@ -366,7 +365,7 @@
 靛#diêng6	diang6
 癜#doin7	dain7
 癜#diêng6	diang6
-石#ziêh8	zioh8
+
 石#sig8	sêg8
 石#siêh8	sioh8
 掸#siêng6	siang6
@@ -521,12 +520,10 @@
 跳#diê5	dio5
 潮#diê5	dio5
 赵#diên6	dio6
-着#diêh4	dioh4
-着#diêh8	dioh8
+
 著#diêh4	dioh4
 鐯#diêh4	dioh4
-张#diên1	dion1
-张#diên3	dion3
+
 帐#diên3	dion3
 胀#diên3	dion3
 钓#diên3	dion3
@@ -539,7 +536,7 @@
 躲#do5	do2
 剁#do3	do3
 萄#to5	do5
-第#doin6	doi6
+
 单#siêng6	siang6
 单#siêng5	siang5
 耑#zuêng1	zuang1
@@ -704,7 +701,7 @@
 橘#gig4	gêg4
 驈#gig4	gêg4
 紧#ging2	gêng2
-叫#giê3	gio3
+
 呌#giê3	gio3
 嘂#giê3	gio3
 噭#giê3	gio3
@@ -844,6 +841,7 @@
 佷#heng2	hêng2
 很#heng2	hêng2
 狠#hng2	hêng2
+狠#heng2	hêng2
 恨#heng6	hêng6
 曳#ig8	êg8
 叶#hiêh8	hioh8
@@ -898,7 +896,7 @@
 远#iêng2	iang2
 或#hog8	huêg8
 阈#hog8	huêg8
-域#hog8	huêg8
+
 惑#hog8	huêg8
 棫#hog8	huêg8
 蜮#hog8	huêg8
@@ -983,7 +981,7 @@
 忆#ig4	êg4
 噎#ig4	êg4
 曰#uêg4	iag4
-约#iêh4	ioh4
+
 约#iouh4	iaoh4
 咽#ing1	êng1
 咽#iêng3	iang3
@@ -1018,7 +1016,7 @@
 杨#iên5	ion5
 沿#ing5	êng5
 昜#iên5	ion5
-洋#iên5	ion5
+
 垟#iê5	io5
 烊#iên5	ion5
 铅#ing5	êng5
@@ -1046,8 +1044,7 @@
 吆#iou1	iao1
 妖#iou1	iao1
 殀#iou1	iao1
-要#iou3	iao3
-要#iou1	iao1
+
 枵#iou1	iao1
 喓#iou1	iao1
 窈#iou2	iao2
@@ -1289,8 +1286,7 @@
 滥#lam6	nam6
 鳞#ling5	lêng5
 赧#lang2	nang2
-难#lang5	nang5
-难#lang7	nang7
+
 烂#lang6	nang6
 捞#liou5	liao5
 捞#liê5	lio5
@@ -1336,7 +1332,7 @@
 鬑#liam5	niam5
 念#liam6	niam6
 念#liam7	niam7
-唸#liam7	niam6
+唸#liam7	niam7
 两#niê2	nio2
 涊#liêng2	liang2
 脸#liêng2	liang2
@@ -1440,7 +1436,7 @@
 乱#luêng6	luang6
 乱#ruêng6	ruang6
 𤯦#lung3	nung3
-嫩#lung3	nung3
+
 能#lêng5	nêng5
 哞#mong5	mou5
 蔑#mig8	mêg8
@@ -1514,10 +1510,10 @@
 珉#ming5	mêng5
 眠#ming5	mêng5
 缗#ming5	mêng5
-摸#mong6	mou5
+摸#mong5	mou5
 某#mong2	mou2
 檬#mong5	mou5
-贸#mong3	mou3
+
 鄮#mong3	mou3
 牟#mong5	mou5
 侔#mong5	mou5
@@ -1662,7 +1658,7 @@
 频#ping5	pêng5
 濒#ping5	pêng5
 矉#ping5	pêng5
-蘋#ping5	pêng1
+蘋#ping5	pêng5
 颦#ping5	pêng5
 票#piê3	pio3
 萍#piê5	pio5
@@ -1727,7 +1723,7 @@
 褥#rog8	riog8
 𣭲#rong2	riong2
 氄#rong2	riong2
-仍#rong5	riong5
+
 礽#rong5	riong5
 戎#rong5	riong5
 肜#rong5	riong5
@@ -1778,7 +1774,7 @@
 毨#siêng2	siang2
 𣭡#siêng2	siang2
 铣#siêng2	siang2
-想#siên6	sion6
+
 尠#siêng2	siang2
 尟#siêng2	siang2
 跣#siêng2	siang2
@@ -1790,8 +1786,7 @@
 骟#siêng3	siang3
 煽#siêng3	siang3
 #siêng3	siang3
-上#ziên6	zion6
-上#ziên7	zion7
+
 失#sig4	sêg4
 室#sig4	sêg4
 湜#sig8	sêg8
@@ -1844,7 +1839,7 @@
 小#siê2	sio2
 惜#siêh4	sioh4
 液#siêh8	sioh8
-伤#siên1	sion1
+
 箱#siên1	sion1
 赏#siên2	sion2
 肖#siou6	siao6
@@ -1908,7 +1903,7 @@
 𢹱#siou1	siao1
 筱#siou2	siao2
 謏#siou2	siao2
-少#ziê2	zio2
+
 少#siou3	siao3
 数#siou3	siao3
 劭#siou6	siao6
@@ -1982,15 +1977,15 @@
 镬#uag8	uêg8
 㠾#uêng1	uang1
 弯#uêng1	uang1
-冤#uêng1	uang6
-眢#uêng1	uang6
+冤#uêng1	uang1
+眢#uêng1	uang1
 鸳#uêng1	uang1
-帵#uêng1	uang6
+帵#uêng1	uang1
 湾#uêng1	uang1
 㾓#uêng1	uang1
 塆#uêng1	uang1
 鹓#uêng1	uang1
-箢#uêng1	uang6
+箢#uêng1	uang1
 豌#uêng1	uang1
 宛#uêng2	uang2
 苑#uêng2	uang2
@@ -2059,12 +2054,12 @@
 赆#ziêng2	ziang2
 儘#zing6	zêng6
 招#ziê1	zio1
-招#ziou1	ziao1
+
 椒#ziê1	zio1
 蕉#ziê1	zio1
 蕉#ziou1	ziao1
 炤#ziê3	zio3
-照#ziê3	zio3
+
 曌#ziê3	zio3
 瞾#ziê3	zio3
 即#ziêg4	ziag4
@@ -2148,7 +2143,7 @@
 譔#zuêng6	zuang6
 籑#zuêng6	zuang6
 䉵#zuêng6	zuang6
-前#zoin5	zain5
+
 蘸#ziou1	ziao1
 辎#ze1	zu1
 浙#zig4	ziag4
@@ -2238,7 +2233,7 @@
 暖#luêng2	nuang2
 忍#rim2	rêng2
 忍#lung2	nung2
-乜#mih4	mêh4
+
 耨#rog8	riog8
 阮#ng2	uang2
 诏#ziou3	ziao3
@@ -2251,3 +2246,38 @@
 𤞚#siou2	siao2
 盺#geng3	gêng5
 从#dang5	dêng5
+织#zig4	zêh4
+方#bung1	beng1
+唺#diêng5	diang5
+前#zoin5	zain5
+伤#siên1	sion1
+想#siên6	sion6
+嫩#lung3	nung3
+乜#mih4	mêh4
+千#coin1	cain1
+上#ziên6	zion6
+上#ziên7	zion7
+约#iêh4	ioh4
+常#siên5	sion5
+张#diên1	dion1
+张#diên3	dion3
+叫#giê3	gio3
+着#diêh4	dioh4
+着#diêh8	dioh8
+贸#mong3	mou3
+石#ziêh8	zioh8
+招#ziou1	ziao1
+场#diên5	dion5
+畔#boin5	bain5
+难#lang5	nang5
+难#lang7	nang7
+洋#iên5	ion5
+要#iou3	iao3
+要#iou1	iao1
+仍#rong5	riong5
+少#ziê2	zio2
+照#ziê3	zio3
+朝#ciou5	ciao5
+朝#ziou1	ziao1
+第#doin6	doi6
+域#hog8	huêg8

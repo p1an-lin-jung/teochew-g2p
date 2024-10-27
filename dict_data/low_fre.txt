@@ -13,7 +13,7 @@
 地|do3*
 汕|suan3*
 蚁|ngi6*
-间|goin1|goin3
+间|goin3|goin1
 个|go6|gai7
 芫|nguêng5
 五|ngou2|u2|u5
@@ -120,7 +120,7 @@
 掸|dang6|siêng6
 逗|dao1
 锄|te5|co5
-的|di7
+的|di7|dêg8
 嫡|diah4
 转|deng2
 冒|mog8*
@@ -196,7 +196,7 @@
 蹲|cung5*|ceng5*
 震|dung3
 厦|ê6
-一|ig4|iou1
+一|iou1
 初|ciu1
 荔|noi7
 与|e6|e7
@@ -204,7 +204,7 @@
 恶|u3|e3|u1
 恩|ng1*
 哑|ia1*
-下|ê7|hê6|hia6
+下|ê7|hê6
 华|hua1|huê1|ê6
 区|ao1(姓)
 蝴|hou5*
@@ -217,7 +217,6 @@
 吉|ga1*
 雄|hêng5*
 牙|nga5*
-亦|ia7*
 易|i6|êg8|iah8
 浴|iog8*
 液|siêh8*
@@ -244,7 +243,6 @@
 橄|gan2*
 榄|lam2*
 校|ga3
-别|bag8
 脆|cui3
 衣|ui1*
 繁|po5*
@@ -319,7 +317,6 @@
 沸|bui3
 林|na5*
 看|kang3*
-加|gê1
 家|gia1*|ga1*|kia1*
 结|gig4
 降|hang5
@@ -384,7 +381,6 @@
 斑|boin1*
 拜|bai6
 接|ziab4
-只|zi2
 精|zian1
 作|zoh4|zo3
 田|tiêng5*
@@ -425,7 +421,7 @@
 拥|ong6*
 化|huê1*|hua3*
 想|siang2
-三|sam1
+三|sam1*
 曲|kiog4*|kag4*
 上|siang5*|ziên7*
 落|lag4*|laoh8*
@@ -480,15 +476,13 @@
 危|guin5*
 熏|heng1
 朽|hiu2
-遏|hag4*
-兴|hêng3*
+兴|hêng3
 烂|lang6
 姥|m2*
 礼|li2
 瘤|lao5*
 瞭|liou2*
 蕾|lui5*
-忍|lung2
 拇|m2
 亡|bho5*
 勿|bhug4*|mug4*
@@ -497,7 +491,7 @@
 苗|bhiê5*
 抛|pa1*
 篷|pong5
-若|riêh8*
+若|riêh8
 尿|sui1*|su1*
 砂|sa1*
 漏|lao2*
@@ -527,7 +521,6 @@
 费|bi3(姓)*
 碌|lag4*
 圈|kuêng1
-扩|kuêg4
 宽|kuan1
 款|kuan1*
 垃|nah4*
@@ -537,7 +530,6 @@
 休|hiu1
 御|ghe7*
 君|gung6*
-边|bin1
 越|huah8*
 伐|huah8
 虹|kêng6*
@@ -571,7 +563,6 @@
 核|hug8
 狠|hng2*
 侥|ngiou5*
-远|hng6
 风|hong1
 逢|pong5*
 夫|bou1*|hu7*
@@ -587,9 +578,7 @@
 瀑|bao6*
 劈|poh4
 瓶|bang5*
-办|bang7
 婆|bo5*
-筛|sai6
 耿|guang2*
 镐|hao2*|hao1*
 冈|geng1*
@@ -650,7 +639,6 @@
 跪|guin6*
 各|goh4*|gah4*
 生|cên1|sêng1
-铺|pou3
 盖|gua3*|kab4*|gah4*
 幽|hiun1
 颜|ngang5(姓)|hian5(姓)
@@ -662,12 +650,10 @@
 乐|ghaoh8|ngaoh8
 奶|ni6|ni1
 几|gua3|gi2*
-重|dong6|dêng5
 被|puê6
 算|suêng3
 挑|tiê1
 使|sai3
-淋|lim5
 吃|geh4*|keh4*
 逆|gêh8|ngiag8*
 仔|ze2|zai2*
@@ -680,7 +666,7 @@
 将|ziang3
 契|ki3|kiêg4|siêg4
 荷|o5|o6|ho3
-行|hêng5|hêng6|hên5
+行|hêng5|hên5
 辣|luah4|luah8
 搀|cam5
 汰|tua7
@@ -696,7 +682,7 @@
 假|gia2|gê3*
 么|mo7|iou1*
 臭|hiun3
-许|hu2*
+许|kou2(姓)|hu2*
 乏|hag8*
 创|ceng1*
 圣|sêng3*
@@ -753,7 +739,6 @@
 拄|zu6
 棱|lêng7*
 溅|ziêng1*
-约|iag4*
 浅|ziêng1*
 挤|zi3*
 断|duêng3
@@ -785,3 +770,18 @@
 拚|pêng1*
 刮|guêh4*|guag4*|huah4*
 哒|dag4
+就|ziu6
+等|dang2|têng6
+诐|bi3
+咯|kag4|gêh4
+暖|ruêng2
+让|niê7
+密|bhag8
+把|bê2
+办|bang7
+呼|u1|hou1|kou1
+暨|kai3
+恁|rim2
+媸|ci1
+徼|hiou2|giou3
+猛|mêng2

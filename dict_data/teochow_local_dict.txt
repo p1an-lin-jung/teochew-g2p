@@ -1,12 +1,8 @@
-套|𠕄
-套走|𠕄走
-套住|𠕄紧
-
-抑是|a
-
 下颏#ê6 hai5
 衹类#zi2 lui7
 哩#li1
+介#gai7
+均#gêng1
 秽刷#uê3 suêh4
 哩啰#li1 lo1|lo5
 正啰#zian3 lo1
@@ -21,7 +17,6 @@
 生来然#sên1 lai5 riêng5
 照些做#ziê3 sên1 zo3
 禾皋#huên5 gao1
-
 秽刷#uê3 suêh4
 哩啰#li1 lo1|lo5
 正啰#zian3 lo1
@@ -48,32 +43,8 @@
 过热#guê3 ruah8
 热天时#ruah8 tin1 si5
 还会#huan1 oi6
-
-做钽事
-行钽路
-呾钽
-想钽
-
-是呾
-
-这|者
-这里|衹块
-这些|衹撮
-这是|者是
-这样|衹样
-那些|兮些
-那里|兮块
-
-这位|衹主
-这个|衹个
-怎么样|乜些样
-这一次|衹一次
-这条|衹条
-这轮|衹轮
-
 吤是#gai2 si6
 做尼#zo3 ni5
-介#gai3
 佮#gah4
 诐#puêh8
 诐#puêh8
@@ -84,15 +55,16 @@
 缀#duê3
 呾#dan3
 欲#ain3
+欲让#ain3 riang6
 𠶧时#diang1 si5
 许𠶧时#he2 diang1 si5
 细𠶧时#soi3 diang1 si5
-底𠶧#di6 diang5
+底𠶧#di7 diang5
 俺#nang2
 阮#ng2|uang2
 家己#ga1 gi7
 家己人#ga1 gi7 nang5
-夗#ug8|ngh8|inh8|in6
+夗#ug8|ngh8
 糜#muê5
 食糜#ziah8 muê5
 砂锅糜#sua1 uê1 muê5
@@ -168,7 +140,7 @@
 沕#bhih4
 跋钱#buah8 zin5
 跋落#buah8 loh8
-跤落#ga1 laoh8,loh8
+跤落#ga1 laoh8|loh8
 落去#loh8 ke3
 相察#siê1 cag4
 相辅#siê1 hu6
@@ -195,17 +167,17 @@
 鸡毛筅#goi1 mo5 coin2
 大家人#dai6 gê1 nang5
 伊人#i1 nang7
+𡛂人#i1 nang7
 日昼#rig8 dao3
 眠起早#mung5 ki2 za2
 眠早#mên2 za2
-明日#man2 rig8
-明眠早#man2 mên2 za2
-今日#gim1|gian1 rig8
+明日#ma2|muan2 rig8
+明眠早#ma2|muan2 mên2 za2
+今日#gim1|gian2 rig8
 今夜#gim1 mên5
 暝囝#mêng5 gian2
 翁姐#ang1 zia2
 小姐#siê2 zia2
-后畔#ao6 boin5
 后畔#ao6 boin5
 厝#cu3
 积钱#zêg4 zin5
@@ -286,7 +258,7 @@
 尻脊枋#ga1 ziah4 bang1
 约#iêh4
 成十人#zian5 zab8 nang5
-𫩯好#kah4 ho2,haon3
+𫩯好#kah4 ho2|haon3
 天峗人大#tin1 guin5 nang5 dua7
 胡蜞#hou5 ki5
 胡鰡#hou5 liu1
@@ -343,5 +315,256 @@
 载土#zai3 tou2
 红土#ang5 tou2
 番葛#hung1 guah4
-振动#ding dang6
 明夜#muan2 mên5
+者#zia2
+衹#zi2
+衹块#zi2 go3
+衹撮#zi2 coh4
+者是#zia2 si6
+衹样#zi2 iên7
+兮些#hi1 sên1
+兮块#hi1 go3
+衹主#zi2 zu2
+衹个#zi2 gai5
+乜些样#mih4 sên1 iên7
+衹一次#zi2 zêg8 ce3
+衹条#zi2 diou5
+衹轮#zi2 lung5
+平样#pêng5 iên7
+𧧸#bag4
+唔𧧸#m6 bag4
+每日#muê2 rig8
+乜个#mih4 gai5
+有变#u6 biêng3
+无#bho5
+缩细#sog4 soi3
+好然#hoh4 riêng5
+𠀾僫#bhoi6 oh4
+唔单#m6 duan1
+险险#hiam2 hiam2
+做一下#zo3 zêg8 ê7
+做倵#zo3 bhu5
+好#hoh4
+过#guê3
+拢是#long2 si6
+尽是#zing6 si6
+坫#diam3
+沕#bhih4
+尚#siang6
+𠀒#hiê2
+食水#ziah8 zui2
+肚枵#dou2 iou1
+肚困#dou2 kung3
+伙#huê3
+愈来愈㩼#ru2 lai5 ru2 zoi7
+蔑手机#mag4 ciu2 gi1
+耍手机#seng2 ciu2 gi1
+孬#mo2
+𠀾孬#bhoi6 mo2
+塗下#tou5 ê6
+塗骹#tou5 ka1
+分#bung1
+从细#dang5 soi3
+挂手套#gua3 ciu2 tao3
+{不畏}#mui3
+抑是#a1 si6
+抑#a1
+只欲#ziah4 ain3
+𬽥#gê6
+峗#guin5
+也好#ia7 ho2
+嫑乞#mai3 keh4
+物件#muêh8 gian6
+偷占#tao1 kiêh8
+偷𢭪#tao1 ziam3 
+内畔#lai6 boin5
+掠着#liah8 diêh4
+老贼#lao6 cag8
+笔记簿#big4 gi3 pou6
+每一日#muê2 zêg8 rig8
+一日#zêg8 rig8
+写到#sia2 gao3
+行#gian5
+行一行#gian5 zêg8 gian5
+行路#gian5 lou7
+行钽路#gian5 dan7 lou7
+行来行去#gian5 lai5 gian5 ke3
+行近路#gian5 geng6 lou7
+够个#gao3 gai5
+连嘢#liêng5 ia1
+唔敢#m6 gan2
+看着#toin2 diêh4
+桥顶#giê5 dêng2
+有主#u6 zu2
+姿娘#ze1 niê5
+跳落去#tiou3 loh8 ke3
+清#cêng1
+清用了#cêng1 êng7 liou3
+外钟#ghua7 zêng1
+溪对面#koi1 dui3 ming7
+掠鱼#liah8 he5
+者谜#zia2 mi6
+唔谜#m6 mi6
+接着#zih4 diêh4
+两主#no6 zu2
+捔#gag8
+对衹#dui3 zi2
+外岁#ghua7 huê3
+㩼#zoi7
+着#diêh4
+唔𧧸#m6 bag4
+挽掉#mang2 diou7
+诓人#guang1 nang5
+姿娘仔#ze1 niê5 gian2
+好耍#haon3 seng2
+暗静#am3 zên6
+做知#zo3 zai1
+身顶#sing1 dêng2
+使白#sai2 bêh8
+跤落去#gao1 loh8 ke3
+唔知预#m6 zai1 e6
+联系唔着#liêng5 hi6 m6 diêh8
+家内人#gê1 lai6 nang5
+返去内#deng2 ke3 lai6
+扱#zah4
+想欲#siên6 ain3
+孥仔#nou5 gian2
+更欲#gêng3 ain3
+个外#gai5 ghua7
+衹段#zi2 deng7
+开铺#kui1 pou3
+铺内#pou3 lai6
+两日#no6 rig8
+衹两日#zi2 no6 rig8
+食一嘴#ziah8 zêg8 cui3
+食#ziah8
+睡#sui6
+𠕄#lab4
+𠕄走#lab4 zao2
+𠕄紧#lab4 ging2
+一丛#zêg8 zang5
+颔#am6
+𡊵着#dan6 diêh4
+𡊵#dan6
+𡊵伤#dan6 siên1
+比拚#bi2 bian3
+拚命#bian3 mian7
+拚搏#bian3 pag4
+拚生死#bian3 sên1 si2
+正过去#zian3 guê3 ke3
+还着#huan1 diêh4
+熇张相#ho3 diên1 siên3
+熇相#ho3 siên3
+熇相机#ho3 siên3 gi1
+跋落去#buah8 loh8 ke3
+物到徼迈#muêh8 gao3 giou2 mai2
+旧年#gu7 ni5
+唔同#m6 dang5
+衹转#zi2 deng2
+衹阵#zi2 zung6
+绌人无预#cuah4 nang5 bho5 e6
+绌𡛂无预#cuah4 i1 bho5 e6
+绌伊无预#cuah4 i1 bho5 e6
+闸车#zah8 cia1
+衹两个#zi2 no6 gai5
+海涌#hai2 iong3
+落水#loh8 zui2
+一只#zêg8 ziah4
+搹到#gêh8 gao3
+塗路#tou5 lou7
+下雨下晴#ê6 hou6 ê6 zên5
+钽#dan7
+做钽事#zo3 dan7 se7
+呾钽#dan3 dan7
+想钽#siên6 dan7
+什乜#sib8 mih4
+还欲#huan1 ain3
+是呾#si6 dan2
+徼尾#giou2 bhuê2
+红砖#ang5 zeng1
+红毛灰#ang5 mo5 huê1
+芫荽#uêng5 sui1
+饼药#bian2 iêh8
+檨#suain7
+洗头膏#soi2 tao5 go1
+脚车#ka1 cia1
+婓来婓去#hui1 lai5 hui1 ke3
+婓圈#hui1 kou1
+婓返头#hui1 deng2 tao5
+昙早#tam5 za2
+衹张#zi2 diên1
+唔够#m6 gao3
+遇着#ngo6 diêh4
+硬虎#ngên6 houn2
+无若信#bho5 riêh8 sing3
+伊还#i1 huan1
+𡛂还#i1 huan1
+食落#ziah8 loh8
+加一下#gê1 zêg8 ê7
+愈更#ru2 gêng3
+个伊人#gai5 i1 nang7
+掊着#buê2 dioh4
+许底#he2 doin2
+食大#ziah8 dua7
+咄救#duah4 giu3
+暝晏头#mên1 ang3 tao5
+吸薰#guh4 hung1
+打寸嫩#pah4 cung3 lung3
+若大#riêh8 dua7
+许块#he2 go3
+馓奅#sah4 pan3
+蠓薰#mang2 hung1
+衹种#zi2 zêng2
+一主#zêg8 zu2
+呵咾#o1 lo2
+通日#tang3 rig8
+通旰#tang3 gua3
+许种#he2 zêng2
+头眩#tao5 hing5
+面顶#ming7 dêng2
+乜些样#mih4 sên1 iên7
+待下#tai6 ê6
+下畔#ê6 boin5
+遇着#ngo6 diêh4
+照些样#ziê3 sên1 iên7
+照些#ziê3 sên1
+赴唔着#hu3 m6 diêh8
+徛𢕍#kia6 na7
+满底块#ma2 di7 go3
+看唔着#toin2 m6 diêh8
+底一撮#di7 zêg8 coh4
+若#riêh8
+好得#ho2 dig4
+当夜#deng1 mên5
+若长#riêh8 deng5
+徛起#kia6 ki2
+唔知关#m6 zai1 guêng1
+好猛#hoh4 mên2
+沕唔俐#bhih4 m6 li7
+揞紧#an1 ging2
+底种#di7 zêng2
+接落来#zih4 loh8 lai7
+吚人#i1 nang7
+衹片#zê2 piêng3
+为俺#ui7 nang2
+从细到大#dêng5 soi3 gao3 dua7
+若干#riag8 gang1
+熻热#hib4 ruah8
+底撮#di7 coh4
+惊到亍下叫#gian1 gao3 coh4 ê7 gio3
+瘾#ngiang3
+会知#oi6 zai1
+倒返#do2 deng2
+一眠早#zêg8 mên2 za2
+一下旰#zêg8 ê7 gua3
+鮀莲#to5 noin5
+离唔开#li5 m6 kui1
+大大细细#dua7 dua7 soi3 soi3
+绌#cuah4
+厝边#cu3 bin1
+迒车#han5 cia1
+通间#tong1 goin1
+昨下旰#za1 ê6 gua3
+像烧#ciên6 siê1
+昨眠早#za1 mên5 za2
+觅着#cuê7 dioh4

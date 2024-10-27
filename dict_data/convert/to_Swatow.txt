@@ -91,7 +91,6 @@
 漂#biê3	bio3
 漂#piou3	piao3
 般#puêng5	puang5
-薄#boh8	bêg4
 拔#buêg8	buag8
 孛#buêg8	buag8
 茇#buêg8	buag8
@@ -858,7 +857,7 @@
 媛#iêng5	iang5
 媛#iêng6	iang6
 湲#iêng5	iang5
-演#ing5	iang5
+演1#ing5	iang5
 涎#iêng6	iang6
 胤#iêng6	iang6
 衍#iêng6	iang6
@@ -1097,7 +1096,7 @@
 鬑#liam5	niam5
 念#liam6	niam6
 念#liam7	niam7
-唸#liam7	niam6
+唸#liam7	niam7
 两#niê2	nio2
 涊#liêng2	liang2
 脸#liêng2	liang2
@@ -1783,7 +1782,7 @@
 侈#ti2	ci2
 寻#cin5	siam5
 挦#ziam5	zim5
-匠#ciên6	cion7
+匠#ciên7	cion7
 绌#zuêg4	cuag4
 鳝#cuain6	cuan6
 坍#tam1	tang1
@@ -1796,6 +1795,7 @@
 卦#kuê3	guê3
 悬#huin5	hiang5
 悬#ngui5	hiang5
+悬#hiêng5	hiang5
 倪#ghoi5	ghoi7
 还#hain5	hoin5
 番#puan1	puang1
@@ -1817,7 +1817,7 @@
 捻#liam3	niam3
 埝#niang3	liam3,niang3
 乞#keh4	koih4
-摸#mong6	mou5,mo5
+摸#mong5	mou5,mo5
 阮#ng2	uang2
 诏#ziou3	ziao3
 鞘#siou1	siao2
@@ -1829,3 +1829,4 @@
 荘#zang1	zuang1
 𤞚#siou2	siao2
 熇#ho3	hoh4
+唺#diêng5	diang5

@@ -5,13 +5,67 @@ from tkinter import Menu
 
 import jieba.analyse
 
+teochew_dict=dict()
+word_dict=dict()
+madr_to_teochew=dict()
+kityall_dict=dict()
+swatow_dict=dict()
+tenhigh_dict=dict()
+
+with open('./dict_data/convert/to_Kityall.txt','r',encoding='utf-8')as fr:
+    for line in fr.readlines():
+        tc_pinyin, target_pinyin=line.strip().split('\t')
+        swatow_dict[tc_pinyin]=target_pinyin
+
+with open('./dict_data/convert/to_Swatow.txt','r',encoding='utf-8')as fr:
+    for line in fr.readlines():
+        tc_pinyin, target_pinyin=line.strip().split('\t')
+        kityall_dict[tc_pinyin]=target_pinyin
+with open('./dict_data/convert/to_Tenhigh.txt','r',encoding='utf-8')as fr:
+    for line in fr.readlines():
+        tc_pinyin, target_pinyin=line.strip().split('\t')
+        tenhigh_dict[tc_pinyin]=target_pinyin
+
+# with open('./dict_data/madr_to_tch.txt','r',encoding='utf-8')as fr:
+#     for line in fr.readlines():
+#         try:
+#             md,tc=line.strip().split('|')
+#         except:
+#             print(line)
+#             # exit()    
+
+#         if tc.startswith('['):
+#             words=tc[1:-1].split(',')
+#             pys=pinyins[1:-1].split(',')
+#         else:
+#             words=list([tc,""])
+#             pys=list([pinyins,""])    
+
+#         madr_to_teochew[md]=(words,pys)
+
+
+with open('./dict_data/origin_vocab.txt','r',encoding='utf-8')as fr:
+    for line in fr.readlines():
+        zi,pinyins=line.strip().split('|',maxsplit=1)
+        teochew_dict[zi]=pinyins
+
+with open('./dict_data/dict.txt','r',encoding='utf-8')as fr:
+    for line in fr.readlines():
+        if len(line.strip())==0:
+            continue
+        try:
+            word,pinyins=line.strip().split('#',maxsplit=1)
+            word_dict[word]=pinyins.split(' ')
+        except:
+            print(line)
+
 # jieba.analyse.set_stop_words(r'D:\dict_1.txt')
 
-def second_split(word):
+# def second_split(word):
     # if "今天" in word:
         # word.split
-    sub = '今天'
-    return word.replace(sub, f' {sub} ')
+    # sub = '今天'/
+    # return word.replace(sub, f' {sub} ')
 # 需要增加停止词汇，没遇到一个词就分割
 
 
@@ -23,7 +77,7 @@ class App(tk.Tk):
         self.entry = tk.Entry(self, textvariable=self.input_var, width=150)
         self.button0 = tk.Button(self, text="   潮州府城   ", command=self.transform)
         self.button1 = tk.Button(self, text="   汕头   ", command=self.transform)
-        self.button2 = tk.Button(self, text="   揭阳   ", command=self.transform)
+        self.button2 = tk.Button(self, text="   揭阳   ", command=self.transform_ky)
         self.button3 = tk.Button(self, text="   澄海   ", command=self.transform)
 
         self.label = tk.Text(self,height=15, width=150)
@@ -36,26 +90,108 @@ class App(tk.Tk):
 
         self.setup_ui()
 
-    # def transform(self):
-    #     print(1)
-    #     self.output_var.set("1111")
+    def transform_word(self,word,pinyin_ls):
+        ls=[]
+        for idx,ch in enumerate(word):
+            ls.append(ch+'@'+pinyin_ls[idx])
+            # ls.append()
+        return ' '.join(ls)
+    
     def to_pinyin(self,text):
+        words = jieba.cut(text)
+        # print(words)
+        ls = []
+        to_tc_word_ls=[]
+        for word in words:
+            # print(word)
+            # print(madr_to_teochew['一起'])
+            if word in madr_to_teochew.keys():
+                tc_ls,py_ls=madr_to_teochew[word]
+                # print(tc_ls[0],py_ls[0])
 
-        return " ".join(text.split(','))
+                to_tc_word_ls.append(word+':')
+                to_tc_word_ls.append(self.transform_word(tc_ls[0],py_ls[0].split(' ')))
+                to_tc_word_ls.append('\n')
+                ls.append('【】')
+            if word in word_dict.keys():
+                ls.append(self.transform_word(word,word_dict[word]))
+            else:
+                for ch in word:
+                    if ch in teochew_dict.keys():
+                        item = "@".join([ch,teochew_dict[ch]])
+                        ls.append(item)
+                    else:
+                        ls.append(word)
+
+        return ls,to_tc_word_ls
+    
     def transform(self):
-        # self.output_var.set("1111")
         input_value = self.input_var.get()
-        print(input_value)
-        print(self.to_pinyin(input_value))
+        text_ls = jieba.cut(input_value)
+        self.label.delete('1.0', 'end')
+        self.label.insert(tk.END, " ".join(text_ls))
+
+
+        # input_value = self.input_var.get()
+        # text_ls,to_tc_word_ls =self.to_pinyin(input_value)
+
+        # self.label.delete('1.0', 'end')
+        # self.label.insert(tk.END, " ".join(text_ls))  # insert new content
+
+        # self.label_1.delete('1.0', 'end')
+        # # self.label_1.insert(tk.END, "|".join(jieba.cut(input_value, cut_all=False)))  # insert new content
+        # self.label_1.insert(tk.END, " ".join(to_tc_word_ls))  # insert new content
+    
+    def transform_ky(self):
+        return ''
+        input_value = self.input_var.get()
+        text_ls,to_tc_word_ls = self.to_pinyin(input_value)
+        text_ls=" ".join(text_ls).split(' ')
+        print(text_ls)
+        new_text_ls=[]
+        for item in text_ls:
+
+            if '%' in item:
+                try:
+                    ch,pinyin_ls=item.split('%')
+                except:
+                    print(item)
+            else:
+                ch= item            
+            if ch not in kityall_dict.keys():
+                new_text_ls.append(item)
+                continue
+            if '|' in pinyin_ls:
+                target='|'.join([kityall_dict[ch+'#'+pinyin] for pinyin in pinyin_ls.split('|')])
+                    
+            else:
+                target=kityall_dict[ch+'#'+pinyin_ls]
+            new_text_ls.append(ch+' '+target)
+
+        new_convert_ls=[]
+        for item in to_tc_word_ls:
+            try:
+                ch,pinyin_ls=item.split(' ')
+            except :
+                print(item)
+
+            if ch not in kityall_dict.keys():
+                new_convert_ls.append(item)
+                continue
+            if '|' in pinyin_ls:
+                target='|'.join([kityall_dict[ch+'#'+pinyin] for pinyin in pinyin_ls.split('|')])
+            
+            else:
+                target=kityall_dict[ch+'#'+pinyin_ls]
+            new_convert_ls.append(ch+' '+target)
 
         self.label.delete('1.0', 'end')
-        self.label.insert(tk.END, self.to_pinyin(input_value))  # insert new content
+        self.label.insert(tk.END, ' '.join(new_text_ls))  # insert new content
 
         self.label_1.delete('1.0', 'end')
         # self.label_1.insert(tk.END, "|".join(jieba.cut(input_value, cut_all=False)))  # insert new content
-        self.label_1.insert(tk.END, "|".join(jieba.cut_for_search(input_value)))  # insert new content
-        print(second_split('今天天气'))
-        # segs = jieba.cut_for_search(text)
+        self.label_1.insert(tk.END, ' '.join(new_convert_ls))  # insert new content
+    
     def setup_ui(self):
         self.entry['font'] =  ("Helvetica", 10)
         self.label['bg'] = '#CCFF99'
@@ -108,5 +244,5 @@ class App(tk.Tk):
 
 if __name__ == "__main__":
     app = App()
-    app.geometry('1400x700')
+    app.geometry('1200x500')
     app.mainloop()

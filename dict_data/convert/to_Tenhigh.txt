@@ -208,7 +208,7 @@
 蕺#cib4	cig4
 檝#zib4	zig4
 檝#cib4	cig4
-深#cim6	cing1
+深#cim1	cing1
 棽#cim1	cing1
 綝#cim1	cing1
 綝#tim1	ting1
@@ -1075,7 +1075,7 @@
 衿#kim1	king1
 钦#kim1	king1
 衾#kim1	king1
-嵚#kim6	king1
+嵚#kim1	king1
 襟#kim1	king1
 揿#kim3	king3
 揿#kim2	king2
@@ -1608,15 +1608,15 @@
 剜#uêng2	uang2
 㠾#uêng1	uang1
 弯#uêng1	uang1
-冤#uêng1	uang6
-眢#uêng1	uang6
+冤#uêng1	uang1
+眢#uêng1	uang1
 鸳#uêng1	uang1
-帵#uêng1	uang6
+帵#uêng1	uang1
 湾#uêng1	uang1
 塆#uêng1	uang1
 㾓#uêng1	uang1
 鹓#uêng1	uang1
-箢#uêng1	uang6
+箢#uêng1	uang1
 豌#uêng1	uang1
 宛#uêng2	uang2
 苑#uêng2	uang2
@@ -1827,3 +1827,4 @@
 阮#ng2	uang2
 鞘#siou1	siou2
 盺#geng3	geng5
+唺#diêng5	diang5
