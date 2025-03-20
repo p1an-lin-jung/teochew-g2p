@@ -8,7 +8,6 @@
 四大#si3 dai6
 之一#ze1 zêg8
 荔枝#li6 gi1
-荔果#noi7 guain2
 个体#go6 ti2
 个人#go6 ring5
 个别#go6 biêg8
@@ -28,7 +27,7 @@
 值日#dêg8 rig8
 值班#dêg8 bang1
 值守#dêg8 siu2
-踏实#dah4 seg8
+踏实#dah4 sig8
 一沓#zeg8 tah8
 舌苔#zih8 tai1|dai2
 花旦#huê1 duan3
@@ -141,7 +140,7 @@
 现此在#hing7 ce2 zai6
 自在#ze6 zai6
 实在#sig8 zai6
-珍珠#zing1 zu1
+珍珠#diêng1 zu1
 调皮#tiou3 pi5
 亟来问讯#ki3 lai5 mung7 sing3
 猪肚#de1 dou6
@@ -281,7 +280,7 @@
 味素#bhi7 sou3
 蚯蚓#gao6 ung2
 钽元素#tang2 nguêng5 su3
-开元#kai1 ngang5
+开元#kai1 ngang5|nguêng5
 开元寺#kai1 ngang5 ri7
 合磨#hab8 bhua5
 合身#gah4 sing1
@@ -290,7 +289,7 @@
 合药#gab4|gah4 iêh8
 芍药#ciag4 iag8
 伙计#huê2 gi3
-哈达#hah4 dag6
+哈达#hah4 dag8
 哈巴狗#hah4 ba1 gao2
 舞龙#mong6 lêng5
 舞狮#mong6 sai1
@@ -306,7 +305,7 @@
 师公#sai1 gong1
 功夫#gang1 hu1
 耳机#re2 gi1
-木耳#bhag6 re2
+木耳#bhag8 re2
 土耳其#tou2 re2 ki5
 顺风耳#sung6 huang1 re2
 烧香#siê1 hiên1
@@ -374,7 +373,7 @@
 万岁#bhuêng7 suê3
 千岁#coin1 suê3
 节气#zoih4 kui3
-㪗气#tao2 kui3
+
 扣分#ka3 hung1
 要求#iou1 kiu5
 要挟#iou1 hiab8
@@ -703,11 +702,9 @@
 变性#biêng3 sên3
 变心#biêng3 sim1
 变现#biêng3 hing7
-
 变脸#bin3 liêng2
 变面#bin3 ming7
 变作#bin3 zoh4
-
 
 人姃关系#nang5 guêng1 hi6
 亲戚#cing1 cêg4
@@ -723,7 +720,7 @@
 萝卜#lo5 bog8
 宝贝#bo2 buê3
 作证#zo3 zêng3
-作伴#zo3 puan6
+作伴#zag4 puan6
 作为#zo3|zag4 ui5
 当做#deng3 zo3
 种作#zêng3 zoh4
@@ -734,7 +731,7 @@
 登岗#dêng1 geng1
 岗位#gang1 ui7
 楷树#gai1 ciu7
-楷木#gai1 bhag6
+楷木#gai1 bhag8
 金含#gim1 gam5
 含放嘴底#gam5 bang3 cui3 doin2
 
@@ -1135,7 +1132,7 @@
 本行#bung2 hang5
 行列#hang5 liêg8
 行列式#hang5 liêg8 sêg4
-同行#dang5 hang5
+同行#dang5 hang5|gian5
 行家#hang5 gê1
 车行#cia1 hang5
 行会#hang5 huê6
@@ -1144,6 +1141,7 @@
 商行#siang1 hang5
 行业#hang5 ngiab8
 排行#bai5 hang5
+一行字#zêg8 hang5 ri7
 几行字#gui2 hang5 ri7
 内行#lai6 hang5
 欺行霸市#ki1 hang5 ba3 ci6
@@ -1490,7 +1488,7 @@
 身孕#sing1 hung7
 
 绵羊#mi5 iên5
-绵薄#mi5 boh8
+绵薄#miêng5|mi5 boh8
 海绵#hai2 mi5
 绵软#mi5 neng2
 
@@ -1594,7 +1592,7 @@
 心中#sim1 dang1
 暗中#am3 dang1
 手中#ciu2 dang1
-囹中#lêng5 dang1
+
 田垟中#cang5 iên5 dang1
 日常中#rig8 siên5 dang1
 目中无人#mag8 dang1 bho5 nang5
@@ -1625,8 +1623,7 @@
 扛老爷#geng1 lao6 ia5
 指甲#zeng2 gah4
 指甲花#zeng2 gah4 huê1
-指头公#zeng2 tao5 gong1
-指尾囝#zeng2 bhuê2 gian2
+
 
 脚指#ka1 zoin2
 尾指#bhuê2 zoin2
@@ -1735,7 +1732,7 @@
 选拔#suêng2 buêg8
 提拔#ti5 buêg8
 挺拔#têng2 buêg8
-拔地而起#buêg8 di7 re5 ki2
+拔地而起#boih8 di7 re5 ki2
 拔尖#buêg8 ziam1
 不能自拔#bug4 lêng5 ze6 buêg8
 拔河#buêg8 ho5
@@ -1744,7 +1741,6 @@
 
 衫枷#san1 gê5
 峡山#hab8 suan1
-
 
 标准#piou1 zung2
 标题#piou1 doi5
@@ -1832,6 +1828,7 @@
 宽行#kuan1 gian5
 宽宽来#kuan1 kuan1 lai5
 宽宽等#kuan1 kuan1 dang2
+宽宽#kuan1 kuan1
 
 仔细#ze2 soi3
 仔仔细细#ze2 ze2 soi3 soi3
@@ -1872,7 +1869,7 @@
 打更#da2 gên1
 
 饭勺#bung7 siah8
-铜勺#dang5 siah8
+铜勺#dang5 siêh8
 汤勺#teng1 siah8
 
 作坊#zag4 huang2
@@ -2131,7 +2128,7 @@
 上行#ziên6 gian5
 上流#siang6 liu5
 上映#ziên6 iang3
-上乘#ziên6 sêng6
+上乘#siang6 sêng6
 上工#ziên6 gang1
 上心#ziên6 sim1
 上端#ziên6 duêng1
@@ -2380,7 +2377,7 @@
 腌臜#am1 zang1
 傅作义#bou3 zag4 ngi6
 孙悟空#seng1 ngo6 kong1
-翁万达#êng1 bhuêng7 dag6
+翁万达#êng1 bhuêng7 dag8
 翁厝#êng1 cu3
 翁玉#êng1 ghêg8
 姚冶#iou5 ia2
@@ -2538,7 +2535,7 @@
 水滴石穿#zui2 dih4 ziêh8 cuêng1
 望眼欲穿#mo7 ngang2 ain3 cuêng1
 胃穿孔#ui7 cuêng1 kong2
-
+寻觅#cim5 mig8
 寻寻觅觅#cim5 cim5 mig8 mig8
 觅食#mig8 ziah8
 
@@ -2761,8 +2758,7 @@
 浓郁#long5 hiog4
 馥郁#hiog4 hiog4
 郁金香#hiog4 gim1 hiang1
-ug4#
-郁郁葱葱#ug4 ug4 cang1 cang1
+郁郁葱葱#hiog4 hiog4 cang1 cang1
 阴郁#im1 ug4
 郁郁不乐#ug4 ug4 bug4 lag8
 郁郁寡欢#ug4 ug4 guan2 huan1
@@ -3072,7 +3068,7 @@ ug4#
 中学#dong1 hag8
 大学#dai6 hag8
 学习#hag8 sib8
-
+兴奋#hêng3 hung3
 豪兴#hao5 hêng3
 酒兴#ziu2 hêng3
 兴致#hêng3 di3
@@ -3090,6 +3086,8 @@ ug4#
 绚烂#hiêng3 lang6
 
 学生#hag8 sêng1
+女生#neng2 sêng1
+男生#lam5 sêng1
 复读生#hog8 tag8 sêng1
 本科生#bung2 kuê1 sêng1
 研究生#ngiêng2 giu3 sêng1
@@ -3535,7 +3533,7 @@ ug4#
 安装#uan1 zuang1
 南安#lam5 uan1
 惠安#hui6 uan1
-义安#ngi6 uan1
+义安#ngi6 uan1|ang1
 安定#uan1 dian7
 安插#uan1 cah4
 治安#di7 uan1
@@ -3571,7 +3569,7 @@ ug4#
 莲阳#noin5 iang5
 莲上#noin5 ziên6
 莲下#noin5 ê6
-莲子#noin5 z12
+莲子#noin5 zi2
 莲蓬#noin5 pong5
 莲雾#liêng5 bhu7
 
@@ -3650,7 +3648,7 @@ ug4#
 洗被#soi2 puê6
 被套#puê6 tao3
 被单#puê6 duan1
-领被#nian2 puê6
+
 植被#sêg4 puê6
 被褥#puê6 rog8
 
@@ -3672,7 +3670,6 @@ ug4#
 二等#ri6 dêng2
 二月#ri6 ghuêh8
 十二#zab8 ri6
-廿二#rih8 ri6
 二十#ri6 zab8
 二叔#ri6 zêg4
 二伯#ri6 bêh4
@@ -3909,7 +3906,7 @@ ug4#
 垂涎欲滴#sui5 iêng6 ain3 dih4
 
 好然#hoh4 riêng5
-好像#hoh4 ciên6
+好像#ho2 ciên6
 像样#ciên6 iên7
 不像话#bug4 ciên6 uê7
 相像#siang1 ciên6
@@ -3951,11 +3948,11 @@ ug4#
 半身像#buan3 sing1 siên3
 
 
-恢复#kuê1 hog4
+恢复#kuê1 hog8
 答复#dab4 hog8
 报复#bo3 hog8
 复苏#hog4 sou1
-修复#siu1 hog4
+修复#siu1 hog8
 康复#kang1 hog8
 回复#huê5 hog8
 批复#poi1 hog4
@@ -3972,7 +3969,7 @@ ug4#
 万劫不复#bhuêng7 giab4 bug4 hog8
 官复原职#guan1 hog8 nguêng5 zêh4
 复杂性#hog4 zab8 sên3
-错综复杂#co3 zong1 hog4 zab8
+错综复杂#co3 zong1 hog8 zab8
 复联#hog8 liêng5
 文艺复兴#bhung5 ghoi7 hog4 hêng1
 复印#hog4 ing3
@@ -4001,7 +3998,7 @@ ug4#
 复姓#hog4 sên3
 复验#hog4 ngiam7
 得而复失#dig4 re5 hog4 sig4
-复杂#hog4 zab8
+复杂#hog8 zab8
 复兴#hog4 hêng1
 复制#hog4 zi3
 复合#hog4 hah8
@@ -4245,6 +4242,7 @@ ug4#
 反响#huêng2 hiang2
 反正#huêng2 zian3
 反动#huêng2 dong6
+反动派#huêng2 dong6 pai3
 反抗#huêng2 kang3
 反思#huêng2 se1
 反馈#huêng2 kui6
@@ -4435,7 +4433,7 @@ ug4#
 以来#in2 lai5
 从来#cong5 lai5
 自来水#ze6 lai5 zui2
-本来#bung2 lai5
+本来#bung2 lai5|lai7
 才来#cai5 lai5
 历来#lêh8 lai5
 来世#lai5 si3
@@ -4455,7 +4453,7 @@ ug4#
 起来#ki2 lai7
 入来#rib8 lai7
 过来#guê3 lai7
-后来#ao6 lai7
+后来#ao6 lai7|lai5
 散来#suan3 lai7
 雨来#hou6 lai7
 来去#lai2 ke3
@@ -4734,7 +4732,7 @@ ug4#
 相爱#siang1 ain3
 相亲相爱#siang1 cing1 siang1 ain3
 相中#siang1 dong3
-相信#siang1 sing3
+
 相识#siang1 sêg4
 相等#siang1 dêng2
 相助#siang1 zo6
@@ -4748,7 +4746,7 @@ ug4#
 
 首相#siu2 siang3
 宰相#zai2 siang3
-丞相#sêng5 siang3
+丞相#sêng5 siên3
 相公#siang3 gong1
 真相#zing1 siang3
 天相#tiêng1 siang3
@@ -4759,7 +4757,7 @@ ug4#
 肖米#siou1 bhi2
 
 相机#siên3 gi1
-亮相#liang6 siên3
+亮相#liang6 siên3|siang3
 照相机#ziê3 siên3 gi1
 洋相#iên5 siên3
 相貌#siên3 mao6
@@ -4774,7 +4772,7 @@ ug4#
 相争#siê1 zên1
 相亲#siang1 cing1
 相叫好#siê1 giê3 ho2
-相通#siê1 tong1
+相通#siang1|siê1 tong1|tang3
 相送#siê1 sang3
 相骂#siê1 mên7
 相遇#siê1 ngo6
@@ -4832,7 +4830,6 @@ ug4#
 肢解#zin1 goi2
 解聘#goi2 pian3
 解闷#goi2 bhung7
-
 龟兹#kiu1 ce5
 龟裂#gung1 lih8
 海龟#hai2 gu1
@@ -4840,19 +4837,16 @@ ug4#
 龟壳#gu1 kag4
 龟入去#giu1 rib8 ke3
 龟存#giu1 cung5
-
 洪水#ang5 zui2
 洪峰#ang5 hong1
 洪氏#ang5 si6
 洪秀全#ang5 siu3 cuêng5
 洪承畴#ang5 sêng5 tiu5
 洪厝#ang5 cu3
-
 风扇#huang1 sin3
 扇子#sin3 ze2
 铁扇#tih4 sin3
 扇动#sin3 dong6
-
 痛苦#tong3 kou2
 痛快#tong3 kuai3
 痛哭#tong3 kao3
@@ -4863,29 +4857,22 @@ ug4#
 痛痒#tong3 iang6
 悲痛#bui1 tong3
 痛风#tong3 huang1
-
 富商大贾#bu3 siang1 dai6 gu2
 商贾#siang1 gu2
-
 贾宝玉#gia2 bo2 ghêg8
 贾似道#gia2 se6 dao6
 贾府#gia2 hu2
-
 漳州云霄#ziang1 ziu1 ung5 siê1
 云霄县#ung5 siê1 guin7
 孬种#nao1 zêng2
-
 鱼鳞#he5 lang5
-硬鳞#ngên6 lang5
-巴鳞#ba1 lang5
-
+巴鳞#ba1 lang1
 鳞片#ling5 piêng3
 鳞次栉比#ling5 ce3 zag4 bi2
 遍体鳞伤#biêng3 ti2 ling5 siên1
 鳞甲#ling5 gah4
 逆鳞#ngêg8 ling5
 鳞茎#ling5 kêng5
-
 深刻#cim1 kêg4
 时刻#si5 kêg4
 立刻#lib8 kêg4
@@ -4900,26 +4887,21 @@ ug4#
 光刻机#guang1 kêg4 gi1
 复刻#hog4 kêg4
 蚀刻#sih8 kêg4
-
 刻苦#kag4 kou2
-
 占卜#ziam1 bog4
 占星#ziam1 cên1
 占星术#ziam1 cên1 sug8
 占卦#ziam1 kuê3
 算卦#seng3 kuê3
 八卦#boih4 kuê3
-
 占有#ziam3 u6
 占领#ziam3 nian2
 占据#ziam3 ge6
 占地#ziam3 di7
 占用#ziam3 êng7
-
 近百#geng6 bêh4
 近千#geng6 coin1
 近万#geng6 bhuêng7
-
 一成#zêg8 sian5
 两成#no6 sian5
 三成#san1 sian5
@@ -5003,7 +4985,7 @@ ug4#
 打成一片#da2 sêng5 zêg8 piêng3
 三五成群#san1 ngou6 sêng5 kung5
 望子成龙#mo7 ze2 sêng5 lêng5
-积劳成疾#zêh4 lao5sêng5 zib8
+积劳成疾#zêh4 lao5 sêng5 zib8
 墨守成规#bhag8 siu2 sêng5 gui1
 马到成功#bhê2 gao3 sêng5 gong1
 弄巧成拙#long6 ka2 sêng5 zuêg4
@@ -5416,7 +5398,7 @@ ug4#
 倚靠#i2 gou6
 倚重#i2 dong6
 倚仗#i2 ziang6
-倚赖#i2 nai6
+
 倚老卖老#i2 lao2 bhoi7 lao2
 倚势#i2 si3
 倚天#i2 tiêng1
@@ -5754,7 +5736,7 @@ ug4#
 假借#gia2 ziêh4
 假定#gia2 dian7
 不假时日#bug4 gia2 si5 rig8
-请假#cian2 gia2
+请假#cian2 gian2
 病假#bên7 gian2
 节假#zoih4 gian2
 婚假#hung1 gian2
@@ -6107,7 +6089,7 @@ ug4#
 事情#se7 cêng5
 事成之后#se7 sêng5 ze1 ao6
 二位#no6 ui7
-二十一#ri6 zab8 zêg8
+二十一#ri6 zab8 ig4
 二十里#ri6 zab8 li2
 二国#no6 gog4
 于是#i1 si6
@@ -6297,7 +6279,7 @@ ug4#
 大声#dua7 sian1
 大夫#dai6 hu1
 大怒#dai6 no7
-大惊#dua7 gian1
+大惊#dai6 gian1
 大摆酒宴#dua7 bai2 ziu2 ang3
 大王#dua7|dai6 uang5
 大笑#dai6 ciê3
@@ -6343,8 +6325,8 @@ ug4#
 宫里宫外#gêng1 li2 gêng1 ghua7
 家伙#gê1 huê2
 宽恕#kuêng1 su3
-密信#mig6 sing3
-密议#mig6 ngi2
+密信#mig8 sing3
+密议#mig8 ngi2
 寻求#cim5 kiu5
 寻访#cim5 huang2
 将势#ziang1 si3
@@ -6837,6 +6819,7 @@ ug4#
 间或#goin3 hog8
 相间#siang1 goin3
 间歇#goin3 hiah4
+间歇式#goin3 hiah4 sêg4
 无间#bho5 goin3
 离间#li5 goin3
 亲密无间#cing1 mig8 bho5 goin3
@@ -6983,7 +6966,7 @@ ug4#
 当先#deng1 soin1
 敢当#gan2 deng1
 适当#sêg4 dang3
-当作#deng3 zoh4
+当作#deng3 zo3
 当时#deng1 si5
 当日#deng1 rig8
 当晚#deng1 mung2
@@ -7396,7 +7379,7 @@ ug4#
 到底#gao3 doin2
 刹那间#cag4 na2 gang1
 刹车#sab8 cia1
-前刹#zion5 sab8
+前刹#zoin5 sab8
 后刹#ao6 sab8
 力气#lag8 ki3
 动植物#dong6 sêg4 muêh8
@@ -7848,7 +7831,7 @@ ug4#
 西长线#sai1 ciang5 suan3
 大功率#dua7 gong1 lug8
 三十分#san1 zab8 hung1
-电视台#diêng6 si6|si7 tai5
+电视台#diêng6 si6 tai5
 打电话#pah4 diêng6 uê7
 外观上#ghua7 guêng1 ziên7
 生来#sên1 lai5
@@ -7919,16 +7902,16 @@ ug4#
 解开#goi2 kui1
 办法#poin7 huab4
 重生#dêng5 sên1
-开头#kai1 tao5
+开头#kai1|kui1 tao5
 开棺#kui1 guan1
 主见#zu2 giêng3
 安魂#uan1 hung5
 还魂散#huêng5 hung5 suan2
 陈最良#dang5 zuê3 liang5
-意见稿#i3 giang3 go2
-意见#i3 giang3
+意见稿#i3 giêng3 go2
+意见#i3 giêng3
 拉开#la1 kui1
-大幕#dua7 mo6
+大幕#dai6 mo6
 两点#no6 diam2
 湿热#sib4 riag8
 呼吸道#hu1 kib4 dao6
@@ -8065,7 +8048,7 @@ ug4#
 取暖#cu2 luêng2
 迷途知返#mi5 tu5 zai1 huêng2
 现代化#hing7 do7 huê3
-天衣无缝#tiang1 i1 bho5 pang7
+天衣无缝#tiêng1 i1 bho5 pang7
 空子#kong1 ze2
 犯罪分子#huam6 zuê6 hung7 ze2
 不法分子#bug4 huab4 hung7 ze2
@@ -8218,6 +8201,7 @@ ug4#
 干锅#gang1 uê1
 上车#ziên6 cia1
 主人#zu2 ring5
+主人公#zu2 ring5 gong1
 招财#ziê1 cai5
 误会#ghou7 huê6
 师风#se1 hong1
@@ -8319,7 +8303,7 @@ ug4#
 负担#hu6 dan1
 好转#ho2 zuêng2
 居委会#ge1 ui2 huê6
-纸张#zua2 dion1
+纸张#zua2 diên1
 限量#hang6 liang6
 冲洗#cong1 soi2
 一箱#zêg8 siên1
@@ -8337,7 +8321,6 @@ ug4#
 来看#lai7 toin2
 带来#dua3 lai7
 传说#tuêng5 suêh4
-只车#ziah4 cia1
 撞着#zuang6 diêh4
 一系列#zêg8 hi6 liêg8
 历代#lêh8 do7
@@ -8351,7 +8334,7 @@ ug4#
 诗人#si1 ring5
 一阵阵#zêg8 zung7 zung7
 白鹭#bêh8 lu6
-着手#diêh4 ciu2
+着手#diêh8 ciu2
 带着#dua3 diêh4
 加工#gia1 gang1
 视为#si6 ui5
@@ -8626,7 +8609,7 @@ ug4#
 匾额#biêng2 hiah8
 一侧#zêg8 cêg4
 时分#si5 hung1
-天文#tiang1 bhung5
+天文#tiêng1 bhung5
 父亲节#bê6 cing1 zoih4
 转入#zuêng2 rib8
 护士节#hu6 se6 zoih4
@@ -8643,7 +8626,7 @@ ug4#
 班会#bang1 huê6
 中考#dong1 kao2
 初中#co1 dong1
-高中#gao1 dong1
+高中#gao1 dong1|dong3
 啃老#kêng2 lao2
 一段路#zêg8 deng7 lou7
 重病#dang6 bên7
@@ -8655,4 +8638,981 @@ ug4#
 不远千里#bug4 iêng2 coin1 li2
 上位#ziên6 ui7
 一则#zêg8 zêg4
-
+也是#ia7|a7 si6
+洋洋大观#iên5 iên5 dai6 guêng1
+背倚#buê3 i2
+陈留#dang5 liu5
+花岗岩#huê1 gang1 ngam5
+双面#sang1 ming7
+谢氏#zia7 si6
+镶嵌#siang1 kam2
+出将入相#cug4 ziang3 rib8 siang3
+石刻#ziêh8 kêg4
+大气磅礴#dai6 ki3 pang5 boh8
+一丝不苟#zêg8 si1 bug4 gou2
+九江#giu2 gang1
+兴学育才#hêng1 hag8 iog8 cai5
+惠来#hui6 lai5
+总面积#zong2 ming7 zêh4
+行政村#gian5 zêng3 ceng1
+相映#siang1 iang3
+假山#gê2 suan1
+龟山#gu1 suan1
+九曲桥#giu2 kêg4 giê5
+九曲#giu2 kêg4
+被誉为#bi6 e6 ui5
+中山公园#dong1 suan1 gong1 hng5
+俯瞰#hu2 kam2
+估计#gou1 goi3
+拂面#hug4 ming7
+清代#cêng1 do7
+大字#dua7 ri7
+一千#zêg8 coin1
+重口味#dang6 kao2 bhi7
+深藏不露#cim1 cang5 bug4 lou3
+环境污染#huêng5 gêng2 u1 riam2
+盯住#dêng1 zu6
+长期化#ciang5 ki5 huê3
+转发#zuêng2 huêg4
+甄别#ing1 biêg8
+以免#in2 miêng2
+贴心#tiab4 sim1
+市中心#ci6 dong1 sim1
+煤气中毒#bhuê5 ki3 dong3 dag8
+热水器#riag8 zui2 ki3
+热水浴#riag8 zui2 êg8
+来势汹汹#lai7 si3 hiong1 hiong1
+滞留#ti3 liu5
+指挥部#zi2 hui1 bou6
+严阵以待#ngiam5 ding7 in2 tai6
+露宿#lou3 suah4
+席卷而来#ciêh8 guêng2 re5 lai5
+以下#in2 ê6
+雨量#hou6 liang6
+转化#zuêng2 huê3
+累累硕果#lui2 lui2 sêg4 guê2
+烙印#log8 ing3
+大地#dai6 di7
+加紧#gia1 ging2
+一笔#zêg8 big4
+干贝#gang1 buê6
+土生土长#tou2 sên1 tou2 ziang2
+花露水#huê1 lou7 zui2
+鱼露#he5 lou7
+枇杷露#bi5 bê5 lou7
+花露#huê1 lou7
+止咳露#zi2 hai6 lou7
+露水#lou7 zui2
+子孙后代#ze2 sung1 ao6 do7
+硕大#sêg4 dai6
+之王#ze1 uang5
+加深#gia1 cim1
+开网店#kui1 mang6 diam3
+厅长#tian1 ziang2
+一家亲#zêg8 gê1 cing1
+点燃#diam2 riêng5
+泡影#pa6 ian2
+生命力#sên1 mian7 lag8
+年中#ni5 dong1.
+扎实#zag4 sig8
+二十二#ri6 zab8 ri6
+一周#zêg8 ziu1
+一番#zêg8 huêng1
+管理方#guang2 li2 huang1
+方剂#hng1 zi3
+一十#ig4 zab8
+翠叶#cui3 hiêh8
+一棵#zêg8 ko2
+栽种#zai1 zêng3
+树下#ciu7 ê6
+还在#huan1 do6
+夯筑#hang1 dog4
+一夜之间#zêg8 mên5 ze1 gang1
+倒塌#do2 tab8
+一声#zêg8 sian1
+中叶#dong1 hiêh8
+种有#zêng3 u6
+两岸#liang2 ngai6
+每只#muê2 ziah4
+十二月#zab8 ri6 ghuêh8
+一间#zêg8 goin1
+调派#tiou5 pai3
+主办方#zu2 poin7 huang1
+岐山#gia6 suan1
+倒计时#do3 goi3 si5
+倒数#do3 siou3
+陈厝合#dang5 cu3 hah8
+体量#ti2 liang6
+片区#piêng3 ku1
+新加坡#sing1 gia1 bo1
+大吴村#dua7 ghou5 ceng1
+末代皇帝#muêg8 do7 huang5 di3
+返回#huêng2 huê5
+阵亡#ding7 bhuang5
+陈姓#dang5 sên3
+刺史#ceng3 se2
+甘露寺#gam1 lou7 ri7
+传单#tuêng5 duan1
+举人#ge2 ring5
+平方米#pêng5 bang1 bhi2
+门生#mung5 sêng1
+会试#huê6 ci3
+婚丧#hung1 seng1
+之一#ze1 zêg8
+许姓#kou2 sên3
+子孙#ze2 sung1
+谢厝#zia7 cu3
+许厝#kou2 cu3
+故称#gu3 cêng1
+行善积德#gian5 siang6 zêh4 dêg4
+善行#siang6 hêng6
+李鸿章#li2 hong5 ziang1
+刻有#kêg4 u6
+二零#ri6 lêng5
+构想#gou3 siang2
+两广#liang2 guang2
+转型#zuang2 hêng5
+易名#êg8 mian5
+行医#gian5 ui1
+柯玉井#gua1 ghêg8 zên2
+御方#ghe6 hng1
+柯氏#gua1 si6
+广为#guang2 ui5
+一条街#zêg8 diou5 goi1
+响当当#hiang2 dang1 dang1
+革命烈士#gêg4 mêng6 liêg8 se6
+村委会#ceng1 ui2 huê6
+插上#cah4 ziên6
+翅膀#ti3 pang5
+一体#zêg8 ti2
+靠着#gou6 diêh4
+海拔#hai2 buêg8
+葱郁#cang1 hiog4
+烘托#hong1 toh4
+地下党#di7 ê6 dang2
+重大贡献#dong6 dai6 gong3 hiêng3
+着力#diêh8 lag8
+后来居上#ao6 lai5 ge1 ziên6
+当地人#deng1 di7 nang5
+为数不多#ui5 siou3 bug4 do1
+军长#gung1 ziang2
+天启#tiêng1 ki2
+一日千里#zêg8 rig8 coin1 li2
+住宅区#zu6 têh8 ku1
+陶片#tao5 piêng3
+左翼#zo2 êg8
+右翼#iu6 êg8
+工人运动#gang1 ring5 ung7 dong6
+工人#gang1 ring5
+玄孙#hiêng5 sung1
+王氏#hêng5 si6
+大宗祠#dai6 zong1 se5
+中后期#dong1 ao6 ki5
+层次分明#zang5 ce3 hung1 mêng5
+凌空#lêng5 kong1
+遗风#rui6 hong1
+践行#ziêng2 gian5
+重回#dêng5 huê5
+大学士#dai6 hag8 se6
+指日可待#zi2 rig8 ko2 tai6
+重振#dêng5 zing2
+几经辗转#gi1 gêng1 diêng2 zuêng2
+一律#zêg8 lug8
+另行通知#lêng5 gian5 tong1 zai1
+伏季#hog8 kui3
+基金会#gi1 gim1 huê6
+一半#zêg8 buan3
+张三#diên1 san1
+法学#huab4 hag8
+擦边球#cag4 biêng1 giu5
+名人#mian5 ring5
+唔见去#m6 gin3 ke3
+社会各界#sia6 huê6 gag4 gai3
+品学兼优#bing2 hag8 giam1 iu1
+打铁#pah4 tih4
+王厝#hêng5 cu3
+大埕#dua7 dian5
+称之为#cêng1 ze1 ui5
+相当于#siang1 deng1 i1
+摇篮#iê6 na5
+甘露#gam1 lou7
+相伴#siang1 puan6
+同知#tong5 di1
+执着#zib4 diêh8
+天竺#tiêng1 dêg4
+赖厝#lua7|nai6 cu3
+风骚#hong1 sao1
+天资聪颖#tiêng1 ze1 cong1 têng2
+趁热打铁#ziêng2 riêg8 da2 tih4
+水蠓#zui2 mang2
+主物#zu2 muêh8
+姎婀#iang1 o1
+面巾#ming7 geng1
+扭转#niu2 zuêng2
+扭亏为盈#niu2 kui1 ui5 iong5
+歌谣#gua1 iou5
+宝盖头#bo2 gai3 tao5
+天网恢恢#tiêng1 mang6 kuê1 kuê1
+断片#deng6 piêng3
+茼蒿#dang6 o1
+校方#hao6 huang1
+公安机关#gong1 ang1 gi1 guêng1
+一线#ig4 suan3
+总分#zong2 hung1
+盎然#ang3 riêng5
+船只#zung5 ziah4
+种在#zêng3 do6
+村中#ceng1 dang1
+岐黄#gi1 ng5
+别具#biêg8 gu6
+颇见#po1 giêng3
+木刻#bhag8 kêg4
+一楼#ig4 lao5
+争相#zên1 siang1
+中堂#dong1 deng5
+代名词#toi3 mian5 se5
+金字招牌#gim1 ri7 ziê1 bai5
+香橼#hiên1 ng5
+见效#giêng3 hao7
+中草药#dong1 cao2 iêh8
+晒干#sai3 gang1
+瓦罐#ua1 guêng3
+是指#si6 zi2
+长势#ziang2 si3
+潮阳区#diê5 iên5 ku1
+天王#tiêng1 uang5
+玄天上帝#hiêng5 tiêng1 siang6 di3
+山上#suan1 ziên7
+啧啧称奇#zêh4 zêh4 cêng1 ki5
+大雄#dai6 hiong5
+伏地#hog8 di7
+镌刻#zuêng1 kêg4
+交错#gao1 cag4
+地藏#di7 zang6
+千载#coin1 zai2
+由来#iu5 lai5
+始称#si2 cêng1
+山下#suan1 ê6
+下沉#hia6 dim5
+竞相#gêng6 siang1
+靓丽#liang6 li6
+中小企业#dong1 siou2 gi6 ngiab8
+知识产权#di3 sêg4 suan2 kuêng5
+大雨#dua7 hou6
+揭阳市#gig4 iên5 ci6
+揭东区#gig4 dang1 ku1
+平方公里#pêng5 bang1 gong1 li2
+不远处#bug4 iêng2 cu3
+待字闺中#tai6 re6 gui1 dang1
+评为#pêng5 ui5
+花开#huê1 kui1
+摇荡#iou5 dang6
+四大发明#si3 dai6 huêg4 mêng5
+一公里#zêg8 gong1 li2
+又称#iu7 cêng1
+长约#ciang5|deng5 iag4
+穿过#cuêng1 guê3
+知州#di1 ziu1
+下部#ê6 bou6
+开间#kui1 goin1
+管理中心#guêng2 li2 dong1 sim1
+二百外#no6 bêh4 ghua7
+一百外#zêg8 bêh4 ghua7
+公安局#gong1 ang1 gêg8
+一八#ig4 boih4
+几十#gui2 zab8
+后代#ao6 do7
+空城#kong1 sian5
+古称#gou2 cêng1
+为业#ui5 ngiab8
+两广总督#liang2 guang2 zong2 dog4
+上奏#ziên6 zao3
+地方官#di7 hng1 guan1
+二是#ri6 si6
+两全之计#liang2 cuêng5 ze1 goi3
+下来#hia6 lai7
+只剩下#zi2 sing7 hia6
+两所#no6 so2
+大兴土木#dai6 hêng1 tou2 bhag8
+开花#kui1 huê1
+平方厘米#pêng5 bang1 li5 bhi2
+雅称#ngia2 cêng1
+立方米#lib8 bang1 bhi2
+革命家#gêg4 mêng6 gê1
+中华人民共和国#dong1 hua5 nang5 ming5 gang7 hua5 gog4
+开国元勋#kai1 gog4 nguêng5 hng1
+开国元帅#kai1 gog4 nguêng5 suê3
+遥相呼应#iou5 siang1 hu1 êng3
+坐下#zo6 hia6
+斜靠#sia5 gou6
+徐行#ce5 gian5
+一景#zêg8 gêng2
+水陂#zui2 bi1
+桥孔#giê5 kong2
+欢声#huan1 sian1
+行到#gian5 gao3
+摩崖#mo5 ngai5
+意为#i3 ui5
+一两日#zêg8 no6 rig8
+挣扎#zêng1 zab4
+中浣#dong1 uêng2
+乡中#hiên1 dang1
+大门#dua7 mung5
+足见#zog4 giêng3
+郁郁葱葱#hiog4 hiog4 cang1 cang1
+时光倒流#si5 guang1 do2 liu5
+一睹#zêg8 du2
+别号#biêg8 ho7
+贡生#gong3 sêng1
+收为#siu1 ui5
+二字#no6 ri7
+局长#gêg8 ziang2
+美好愿望#mui2 ho2 nguêng6 mo7
+上佳#siang6 gia1
+种下#zêng3 hia6
+苹婆#ping5 to5
+美好时光#mui2 ho2 si5 guang1
+陪伴着#buê5 puan6 diêh4
+一件#zêg8 gian6
+相聚#siang1 zu6
+大宅#dua7 têh8
+咫尺天涯#zi2 ciêh4 tiêng1 ngai5
+抱孙#po6 sung1
+传宗接代#tuêng5 zong1 zih4 do7
+长梯#ciang5 tui1
+墙下#ciên5 ê6
+下梯#hia6 tui1
+蔡元培#cua3 nguêng5 buê5
+北京大学#bag4 gian1 dai6 hag8
+大娘岗#dua7 niê5 geng1
+一段时间#zêg8 deng7 si5 gang1
+下榻#hia6 tab4
+中宪第#dong1 hiêng3 doin6
+宅中#têh8 dang1
+夹石#goih8 ziêh8
+富商巨贾#bu3 siang1 ge6 gu2
+对外贸易#dui3 ghua7 mong3 êg8
+还曾#huan1 zêng5
+便在#biêng6 do6
+时任#si5 rim7
+小住#siou2 zu6
+首任#siu2 rim7
+重写#dêng5 sia2
+潮阳县#diê5 iên5 guin7
+重焕#dêng5 huêng3
+祖堂#zou2 deng5
+别有洞天#biêg8 u6 dang7 tiêng1
+盛放#sêng6 huang3
+园中#hng5 dang1
+一小段#zêg8 siou2 deng7
+两层#no6 zang5
+枝繁叶茂#gi1 huêng5 hiêh8 mong6
+重兴#dêng5 hêng1
+廿二#rih8|riab8 ri6
+分类学#hung1 lui7 hag8
+传为佳话#tuêng5 ui5 gia1 uê7
+二个月#no6 gai5 ghuêh8
+一时#zêg8 si5
+佛教协会#hug8 ga3 hiab8 huê6
+硬叶#ngên6 hiêh8
+也称#ia7 cêng1
+下垂#hia6 sui5
+亚属#a3 sog8
+尖叶#ziam1 hiêh8
+大号#dua7 ho7
+一厘米#zêg8 li5 bhi2
+难得一见#lang5 dig4 zêg8 giêng3
+种满#zêng3 muan2
+禅意#siêng5|siam5 i3
+长青#ciang5 cên1
+一身#zêg8 sing1
+蓬头垢面#pong5 tao5 gou3 ming7
+分之一#hung7 ze1 zêg8
+第二个#doin6 ri6 gai5
+聪明能干#cong1 mêng5 lêng5 gang3
+荷枪实弹#o6 ciên1 sig8 tang5
+登高望远#dêng1 gao1 mo7 iêng2
+望远#mo7 iêng2
+远望#iêng2 mo7
+倒出来#do3 cug4 lai7
+𫼶秋千#so6 ciu1 ciêng1
+秋千#ciu1 ciêng1
+出老千#cug4 lao6 ciêng1
+掩埋#iam1 mai5
+挨饿#ai1 gho7
+挨家挨户#ai1 gê1 ai1 hou6
+乱来#luêng6 lai5
+胡乱#hu5 luêng6
+倚老卖老#in2 lao2 bhoi7 lao2
+掊击#pou2 kêg4
+王公#uang5 gong1
+远山#iêng2 suan1
+朝晖夕阴#ziou1 hui1 sêg4 im1
+小人#siou2 ring5
+为师#ui5 se1
+洞庭#tong5 têng5
+大观#dai6 guêng1
+一山#zêg8 suan1
+开朗#kai1 lang6
+螺旋式#lo5 suêng5 sêg4
+纹理#bhung5 li2
+下滴#hia6 dih4
+铺开#pou1 kui1
+各抒己见#gag4 su1 gi2 giêng3
+反义词#huêng2 ngi6 se5
+天寒地冻#tiêng1 hang5 di7 dong3
+狗窦#gao2 dao3
+鸟窦#ziou2 dao3
+稙叶#sêg4 hiêh8
+情窦初开#cêng5 dou6 co1 kai1
+承办#sêng5 poin7
+反文#huêng2 bhung5
+打闹#da2 nao6
+盛情难却#sêng6 cêng5 lang5 kiag4
+图方便#tu5 huang1 biêng6
+下水道#ê6 zui2 dao6
+毕业生#big8 ngiab8 sêng1
+最难#zuê3 lang5
+上线#ziên6 suan3
+就业#ziu6 ngiab8
+倩女#ceng3 neng2
+倩影#ceng3 ian2
+一斤#zêg8 geng1
+放射性#huang3 sia7 sên3
+边缘#biêng1 uêng5
+删繁就简#sang1 huêng5 ziu6 gang2
+积压#zêh4 iab4
+压缩#iab4 sog4
+烟尘#êng1 dêng5
+一丈#zêg8 deng6
+二丈#no6 deng6
+就好#zu6 ho2
+大鱼大肉#dua7 he5 dua7 nêg8
+宴会#ang3 huê6
+两点水#no6 diam2 zui2
+象声词#siang6 sian1 se5
+吃饭#ngeg4 huêng6
+笑呓#ciê3 ngi3
+呓语#ghoi7 ghe2
+梦呓#mang7 ghoi7
+调查组#tiou5 cê5 zu1
+抵抗力#di2 kang3 lag8
+难以实现#lang5 in2 sig8 hing7
+大只#dua7 ziah4
+另一方面#lêng5 zêg8 huang1 ming7
+见怪不怪#giêng3 guai3 bug4 guai3
+习以为常#sib8 in2 ui5 siên5
+私了#se1 liou2
+盲区#mang5 ku1
+阳光#iang5 guang1
+医学院#ui1 hag8 in7
+蒙混过关#mong5 hung6 guê3 guêng1
+免责声明#miêng2 zêh4 sian1 mêng5
+一部分#zêg8 bou6 hung7
+开店#kui1 diam3
+赃款#zeng1 kuêng2
+王某#hêng5 mong2
+轻量化#king1 liang6 huê3
+露营#lou3 ian5
+东莆#dang1 pou2
+主人翁#zu2 ring5 ong1
+宣传者#suang1 tuêng5 zia2
+先行者#soin1 gian5 zia2
+无症状#bho5 zêng3 zuang6
+阵雨#ding7 hou6
+间中#goin3 dong1
+评分标准#pêng5 hung1 piou1 zung2
+下旬#ê6 sung5
+亲朋好友#cing1 pêng5 ho2 iu2
+寸步难行#cung3 bou7 lang5 gian5
+任何人#rim6 ho5 nang5
+等红灯#dang2 ang5 dêng1
+一百元#zêg8 bêh4 ngeng5
+枯叶#gou1 hiêh8
+车行道#cia1 gian5 dao6
+多加留意#do1 gia1 liu5 i3
+嘘寒问暖#he1 hang5 mung7 luêng2
+关怀备至#guêng1 huai5 bi6 zi3
+一步步#zêg8 bou7 bou7
+下周一#ê6 ziu1 ig4
+食品安全#ziah8 bing2 uan1 cuang5
+屏障#ping5 ziang3
+扎堆#zab4 dui1
+一员#zêg8 uêng5
+环卫工人#huêng5 uê6 gang1 ring5
+荣誉称号#iong5 e6 cêng1 ho7
+敬重#gêng3 dong6
+血汗钱#huêh4 guan7 zin5
+面目全非#ming7 mag8 cuêng5 hui1
+阅卷#luêg4 geng2
+断电#deng6 diêng6
+补贴#bou2 tiab4
+公安部#gong1 ang1 bou6
+星期一#cên1 ki5 ig4
+返校#huêng2 hao6
+燃料#riêng5 liou7
+拾金不昧#sib8 gim1 bug4 muê6
+新风#sing1 hong1
+精神风貌#zêng1 sing5 hong1 mao6
+开放式#kai1 huang3 sêg4
+通行费#tong1 gian5 hui3
+覆盖率#hog8 gai3 lug8
+一幅#zêg8 bag4
+服务质量#hog8 bhu6 ziêh4 liang6
+社会保障#sia6 huê6 bo2 ziang3
+阳光明媚#iang5 guang1 mêng5 mi6
+乐天知命#lag8 tiêng1 zai1 mêng6
+一百#zêg8 bêh4
+相夫教子#siang1 hu1 ga3 ze2
+朝代#ciou5 do7
+立传#lib8 deng7
+镇压#ding3 iab4
+免遭#miêng2 zao1
+免战#miêng2 ziêng3
+抵达#di2 dag8
+转战#zuêng2 ziêng3
+交趾#gao1 zi2
+叛将#buêng6 ziang3
+一腔热血#zêg8 kiên1 riêg8 huêh4
+学术界#hag8 sug8 gai3
+类别#lui7 biêg8
+篇章#piêng1 ziang1
+一一说明#ig4 ig4 suêh4 mêng5
+长存#ciang5 cung5
+地方志#di7 hng1 zi3
+西亚#sai1 a1
+大部分#dai6 bou6 hung7
+大鱼#dua7 he5
+平平安安#pêng5 pêng5 ang1 ang1
+来龙去脉#lai5 lêng5 ke3 mêh8
+姓陈#sên3 dang5
+抛下#pao1 hia6
+陈旭年#dang5 hiog4 ni5
+大人物#dua7 nang5 muêh8
+令人称奇#lêng6 nang7 cêng1 ki5
+上门#ziên6 mung5
+王爷#uang5 ia5
+当堂#deng1 deng5
+恶行#ag4 hêng6
+逐一#dog8 ig4
+等下#dang2 ê7
+等到#dang2 gao3
+过分#guê3 hung7
+上刑#ziên6 hêng5
+手下#ciu2 ê6
+下半身#ê6 buan3 sing1
+阎罗王#ngiam5 lo5 uang5
+干脆#gang1 cui2
+封疆大吏#hong1 giang1 dua7 li7
+还未#huan1 bhuê7
+布政使#bu3 zêng3 sai3
+盐运使#iam5 ung7 sai3
+民间传说#ming5 gang1 tuêng5 suêh4
+传奇人物#tuêng5 ki5 nang5 muêh8
+一世#zêg8 si3
+颐养天年#hi1 iang2 tiêng1 ni5
+难如登天#lang5 ru5 dêng1 tiêng1
+整顿#zian2 dung6
+拥兵#iong1 bian1
+世称#si3 cêng1
+一门#zêg8 mung5
+还清#hain5 cêng1
+大义灭亲#dai6 ngi6 mig8 cing1
+原称#nguêng5 cêng1
+为重#ui5 dong6
+离别#li5 biêg8
+上船#ziên6 zung5
+上前#ziên6 zoin5
+手𢾧脚踢#ciu2 zêng1 ka1 tag4
+阎王#ngiam5 uang5
+严加#ngiam5 gia1
+深明大义#cim1 mêng5 dai6 ngi6
+大公无私#dai6 gong1 bho5 se1
+戎马一生#rong5 bhê2 zêg8 sên1
+生源#sêng1 nguêng5
+倒立#do3 lib8
+大帝#dai6 di3
+自由自在#ze6 iu5 ze6 zai6
+虾兵蟹将#hê5 bian1 hoi6 ziang3
+为荣#ui5 iong5
+龙王#lêng5 uang5
+相迎#siang1 ngiêng5
+即刻#ziêg4 kêg4
+埋下#mai5 hia6
+分清#hung1|bung1 cêng1
+一跃#zêg8 iag4
+帝王#di3 uang5
+为非作歹#ui5 hui1 zag4 dai2
+长生不老#ciang5 sên1 bug4 lao2
+一面之词#zêg8 ming7 ze1 se5
+削职为民#siah4 zêh4 ui5 ming5
+背疾#buê3 zib8
+大埔#dua7 bou1
+三河坝#sam1 ho5 ba3
+三边总督#sam1 biêng1 zong2 dog4
+揭晓#giah4 hiou2
+一帆风顺#zêg8 pang5 huang1 sung6
+天文台#tiêng1 bhung5 tai5
+加持#gia1 ti5
+亚洲#a1 ziu1
+只求#zi2 kiu5
+兴学#hêng1 hag8
+泽被后世#zêg8 pi1 ao6 si3
+功德无量#gong1 dêg4 bho5 liang6
+如何是好#ru5 ho5 si6 ho2
+下联#ê6 liêng5
+上联#ziên6 liêng5
+一粒#zêg8 liab8
+反咬一口#huêng2 ga6 zêg8 kao2
+加倍#gia1 buê6
+学童#hag8 tong5
+学金#hag8 gim1
+缴卷#giou2 geng2
+龙颜大悦#lêng5 nguêng5 dai6 ruêg8
+悲从中来#bui1 cong5 dong1 lai5
+流传千古#liu5 tuêng5 coin1 gou2
+东北面#dang1 bag4 ming7
+省长#sên2 ziang2
+南面#lam5 ming7
+西面#sai1 ming7
+北面#bag4 ming7
+东南面#dang1 lam5 ming7
+西南面#sai1 lam5 ming7
+西北面#sai1 bag4 ming7
+个人得失#go6 ring5 dig4 sig4
+参将#cam1 ziang3
+大捷#dai6 ziab8
+倭寇#oi2 kou3
+热死#ruah8 si2
+凡尘#huam5 ding5
+遮阳#zia1 iang5
+郑大进#dên7 dai6 zing3
+揭阳县#gig4 iên5 guin7
+一百万#zêg8 bêh4 bhuêng7
+唐宋元明清#tang5 song3 nguêng5 mêng5 cêng1
+指路灯#zi2 lou7 dêng1
+龟蛇#gu1 zua5
+玄天#hiêng5 tiêng1
+追忆#dui1 i3
+天经地义#tiêng1 gêng1 di7 ngi6
+别墅#biêg8 su2
+文人#bhung5 ring5
+沙茶#sa1 dê5
+盖印#kab4 ing3
+旅游节#li2 iu5 zoih4
+菠萝#bo1 lo5
+陈伟南#dang5 ui2 lam5
+建行#giêng6 hang5
+学宫#hag8 gêng1
+关帝#guêng1 di3
+来来来#lai5 lai5 lai5
+大街#dua7 goi1
+安济王#ang1 zi3 uang5
+太阳#tai3 iang5
+化险为夷#huê3 hiam2 ui5 i5
+国泰民安#gog4 tai3 ming5 ang1
+因果关系#ing1 guê2 guêng1 hi6
+万人空巷#bhuêng7 nang5 kong1 hang7
+开枝散叶#kai1 gi1 suan3 hiêh8
+传媒#tuêng5 bhuê5
+入关#rib8 guêng1
+关帝庙#guêng1 di3 bhiê7
+几成#gui2|gua3 sian5
+一切#zêg8 ciêg4
+元凯#nguêng5 kai2
+太平盛世#tai3 pêng5 sêng6 si3
+重光#dêng5 guang1
+吴三桂#ghou5 sam1 gui3
+覃恩#tam5 eng1
+裂缝#lih8 pang7
+庙会#bhiê7 huê6
+期间#ki5 gang1
+叠加#tah8 gia1
+绕道而行#riou3 dao6 re5 gian5
+看一看#toin2 zêg8 toin2
+行一行#gian5 zêg8 gian5
+崎岖#ki1 ku1
+干整#gang1 zian2
+数代#su3 do7
+蒋介石#ziên2 gai3 ziêh8
+媒介#bhuê5 gai3
+简介#gang2 gai3
+介入#gai3 rib8
+介绍#gai3 siou6
+介意#gai3 i3
+介质#gai3 ziêh4
+介词#gai3 se5
+介于#gai3 i1
+关庙#guêng1 bhiê7
+记忆#gi3 i3
+两三年#no6 san1 ni5
+过长#guê3 deng5
+层面#zang5 ming7
+王朝#uang5 ciou5
+横行#huên5 gian5
+取代#cu2 toi3
+相信1#siê1 siang3
+相信#siang1 sing3
+周转#ziu1 zuêng2
+旧社会#gu7 sia6 huê6
+一桌#zêg8 doh4
+好酒#ho2 ziu2
+一时之间#zêg8 si5 ze1 gang1
+相贺#siê1 ho7
+行进#gian5 zing3
+只船#ziah4 zung5
+一审#ig4 sim2
+被判#bi6 puêng3
+断子绝孙#deng6 ze2 zoh8 sung1
+热榜#riag8 bang2
+之间#ze1 gang1
+飙车#biê1 cia1
+级别#kib4 biêg8
+一味#zêg8 bhi7
+停学#têng5 hag8
+翘起#kiou3 ki2
+几十人#gui2 zag8 nang5
+散客#suan3 keh4
+强制性#kiang5 zi3 sên3
+开枪#kui1 ciên1
+只狗#ziah4 gao2
+反向#huêng2 hiang3
+告上#go3 ziên6
+好友#ho2 iu2
+相撞#siang1 zuang6
+下体#ê6 ti2
+趣味#cu2 bhi6|bhi7
+能为#lêng5 ui5
+下毒手#hia6 dag8 ciu2
+目无王法#mag8 bho5 uang5 huab4
+十几#zab8 gui2
+女同学#neng2 dang5 hag8
+给事中#gib4 se7 dong1
+相逼#siang1 bêg4
+少卿#siou3 kêng1
+切中#ciag4 dong3
+只恨#zi2 heng6
+皇命#huang5 mêng6
+命薄#mian7 boh8
+魄散#pêg4 suan3
+就地#ziu6 di7
+老二#lao6 ri6
+露骨#lou3 gug4
+来历#lai5 lêh8
+奥运会#o3 ung7 huê6
+大开眼界#dai6 kai1 ngang2 gai3
+大意#dai6 i3
+无命#bho5 mian7
+学生妹#hag8 sên1 muê6
+一尸两命#zêg8 si1 no6 mian7
+到来#gao3 lai5
+住持#zu2 ti5
+色即是空#sêg4 ziêg4 si6 kong1
+调职#tiou5 zêh4
+招人#ziê1 nang5
+男同学#nang5 dang5 hag8
+桥下#giê5 ê6
+医好#ui1 ho2
+一夜#zêg8 mên5
+大姆#dua7 m2
+保重#bo2 dong6
+外来人口#ghua7 lai5 nang5 kao2
+拥堵#iong1 du2
+脱衣舞#tug4 i1 bhu2
+揭露#giah4 lou3
+两句#no6 gu3
+私人#se1 ring5
+开房#kui1 bang5
+一查#zêg8 cê5
+招嫖#ziê1 piou5
+大小便#dai6 siou2 biang6
+小便#siou2 biang6
+大便#dai6 biang6
+打抱不平#da2 bao6 bug4 pêng5
+差役#cê1 hiah8
+画风#uê7 hong1
+热血青年#riêg8 huêh4 cên1 ni5
+中心点#dong1 sim1 diam2
+一排#zêg8 bai5
+和睦相处#hua5 mog8 siang1 cu3
+作假#zag4 gê2
+行事#gian5 se7
+一国#zêg8 gog4
+孙儿#sung1 rim5
+蛤蟆#gab4 bo5
+香菇#hiên1 gou1
+逢年过节#hong5 ni5 guê3 zoih4
+刮目相看#guah4 mag8 siang1 toin2
+知耻近乎勇#di1 ci2 geng6 hu1 iong2
+一气之下#zêg8 ki3 ze1 ê6
+了断#liou2 duêng3
+立下#lib8 hia6
+德高望重#dêg4 gao1 bhuang6 dong6
+战斗力#ziêng3 dou3 lag8
+来往#lai5 uang2
+搬开#buan1 kui1
+药铺#iêh8 pou3
+行踪#gian5 zong1
+大队长#dua7 dui7 ziang2
+数一数二#siou3 ig4 siou3 ri6
+门下#mung5 ê6
+两三个#no6 san1 gai5
+相通透#siê1 tong1 tao3
+相续#siê1 sua3
+几日#gui2|gua3 rig8
+眉头一皱#bhai5 tao5 zêg8 niou3
+好景不长#ho2 gêng2 bug4 ciang5
+老本行#lao6 bung2 hang5
+代代相传#do7 do7 siang1 tuêng5
+祖传#zou2 tuêng5
+传人#tuêng5 nang5
+从不间断#cong5 bug4 goin3 duêng6
+几经#gi1 gêng1
+呱呱#gua1 gua1
+大种#dua7 zêng2
+教学楼#ga3 hag8 lao5
+养老#iang2 lao2
+公孙#gong1 sung1
+个案#go6 uan3
+脑瘫#nao2 tuan1
+先天性#soin1 tin1 sên3
+一周年#zêg8 ziu1 ni5
+冲浪#cong1 lang6
+百分之百#bêh4 hung7 ze1 bêh4
+十二号#zab8 ri6 ho7
+传开#tuêng5 kui1
+行辕#gian5 uêng5
+就义#ziu6 ngi6
+边疆#biêng1 giang1
+论功行赏#lung6 gong1 gian5 siên2
+代步#toi3 bou7
+谢意#sia7 i3
+志在四方#zi3 do6 si3 huang1
+两全#liang2 cuêng5
+一举#zêg8 ge2
+肥沃#bui5 og4
+沃壤#og4 riang2
+禅房#siam5 bang5
+相国#siang3 gog4
+千恩万谢#coin1 eng1 bhuêng7 sia7
+遵命#zung1 mêng6
+阵势#ding7 si3
+主将#zu2 ziang3
+一哄而散#zêg8 hong1 re5 suan3
+十指#zag8 zoin2
+不中#bug4 dong3
+年少无知#ni5 siou3 bho5 di1
+阵前#ding7 zoin5
+表露#biou2 lou3
+慌张#huang1 ziang1
+就职#ziu6 zêh4
+古董#gou2 dong2
+老古董#lao6 gou2 dong2
+含糊其辞#ham5 hu5 ki5 se5
+半推半就#buan3 cui1 buan3 ziu6
+便是#biêng6 si6
+紫气东来#zi2 ki3 dang1 lai5
+驷马拖车#si3 bhê2 tua1 cia1
+许应骙#kou2 êng3 kui5
+中西合璧#dong1 sai1 hah8 biah4
+点缀#diam2 cuêg4
+失传#sig4 tuêng5
+开枝散叶#kai1 gi1 suan3 hiêh8
+金不换#gim1 bug4 huêng3
+脱颖拔萃#tug4 têng2 buêg8 zui6
+革命军#gêg4 mêng6 gung1
+中国共产党#dong1 gog4 gang7 suan2 dang2
+遐迩#hia5 re2
+避开#bi7 kui1
+直播间#dig8 bua3 goin1
+反清复明#huêng2 cêng1 hog4 mêng5
+尊老#zung1 lao2
+敬老#gêng3 lao2
+赛会#sai3 huê6
+盘瓠#puêng5 hu6
+农会#long5 huê6
+工会#gang1 huê6
+公会#gong1 huê6
+几年#gua3|gui2 ni5
+紫来轩#zi2 lai5 hng1
+保住#bo2 zu6
+谢恩#sia7 eng1
+外孙女#ghua7 sung1 neng2
+外孙#ghua7 sung1
+降妖伏魔#hang6 iou1 hog8 mo5
+举足轻重#ge2 zog4 king1 dang6
+事关重大#se7 guêng1 dong6 dai6
+教书先生#ga3 ze1 sing1 sên1
+中山装#dong1 suan1 zuang1
+中年人#dong1 ni5 nang5
+跌打#diag4 da2
+小打小闹#siou2 da2 siou2 nao6
+相提并论呢#siang1 ti5 bêng6 lung6 nê1
+大会#dai6 huê6
+淋巴细胞#lim5 ba1 soi3 bao1
+潜在#ciam5 zai6
+试运行#ci3 ung7 gian5
+开发商#kai1 huêg4 siang1
+一氧化碳#zêg8 iang2 huê3 tuan3
+打石师父#pah4 ziêh8 sai1 bê6
+无若久#bho5 riêh8 gu2
+宽宏大量#kuêng1 hong5 dai6 liang6
+王宫#uang5 gêng1
+一个个#zêg8 gai5 gai5
+揭榜#giah4 bang2
+口耳相传#kao2 re2 siang1 tuêng5
+大张旗鼓#dai6 ziang1 gi5 gou2
+招展#ziou1 diêng2
+张灯结彩#ziang1 dêng1 gag4 cai2
+陛下#bi6 ê6
+热心人#riêg8 sim1 nang5
+困难群众#kung3 lang5 kung5 zêng3
+打包#pah4 bao1
+贵阳#gui3 iang5
+中小学#dong1 siou2 hag8
+欺诈#ki1 za3
+明码标价#mêng5 bhê2 piou1 gê3
+一分钟#zêg8 hung1 zêng1
+一命#zêg8 mian7
+中心医院#dong1 sim1 ui1 in7
+别开生面#biêg8 kai1 sên1 ming7
+风范长存#hong1 huam6 ciang5 cung5
+面相#ming7 siên3
+怪象#guai3 siang6
+爱好者#ain3 haon3 zia2
+免死金牌#miêng2 si2 gim1 bai5
+面部#ming7 bou6
+潮阳市#diê5 iên5 ci6
+座谈会#zo7 tam5 huê6
+哈啰#hah4 lo5
+商标#siang1 piou1
+相打#siê1 pah4
+男人#lam5 ring5
+女人#neng2 ring5
+黑社会#hêg4 sia6 huê6
+王法#uang5 huab4
+只牛#ziah4 ghu5
+只鸡#ziah4 goi1
+只鸭#ziah4 ah4
+只鹅#ziah4 gho5
+只猪#ziah4 de1
+只猫#ziah4 ngiou1
+长生#ciang5 sên1
+一阳真人#zêg8 iang5 zing1 ring5
+一清二白#zêg8 cêng1 no6 bêh8
+欢呼雀跃#huan1 hu1 ciag4 iag4
+大招#dua7 ziê1
+反对者#huêng2 dui3 zia2
+网约车#mang6 iêh4 cia1
+想象力#siên6 ciên6 lag8
+天马行空#tiêng1 bhê2 gian5 kong1
+分级#bung1 kib4
+传唤#tuêng5 huêng3
+短时间#do2 si5 gang1
+就近#ziu6 geng6
+高一#gao1 ig4
+满腹经纶#muan2 bag4 gêng1 lung5
+传授#tuêng5 siu6
+少年得志#siou3 ni5 dig4 zi3
+父老乡亲#bê6 lao2 hiên1 cing1
+命官#mêng6 guan1
