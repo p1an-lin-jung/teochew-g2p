@@ -134,6 +134,15 @@ print(oral_text)
     输出:
         sên1 li2
         sêng1 li2
+
+    print(pinyin_tool.pinyin('倚赖')['pinyin_seq'])# 普通话词义，表示依赖、依靠
+    print(pinyin_tool.pinyin('倚赖#')['pinyin_seq'])# 潮汕话词义，表示诬陷、诬赖 
+
+    输出:
+      i2|in2 nai6
+      ua2 lua7
+
+
   ```
 
 #### 6、单字模式
@@ -184,8 +193,10 @@ print(pinyin_tool.pinyin('*',accent='ky')['result']) # 转揭阳口音
 [['*', ['None']]]
 ```
 
+#### 11、谐音字查询正字【待定】
+由【奥】查询【沤】，由【华普】查询【喝誧】,【拉普】查询【喇誧】。[TODO]
 
-### 图形界面版本
+### 图形界面版本【待定】
 
 以交互方式调整词汇转换和拼音标注。[TODO]
 

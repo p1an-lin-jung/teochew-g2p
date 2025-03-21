@@ -31,6 +31,9 @@ print(pinyin_tool.to_oral('晚上 晚上1 晚上2 晚上3',auto_split=False))# �
 print(pinyin_tool.pinyin('生理')['pinyin_seq'])# 普通话词义，表示生物体的有机活动
 print(pinyin_tool.pinyin('生理#')['pinyin_seq'])# 潮汕话词义，表示生意 
 
+print(pinyin_tool.pinyin('倚赖')['pinyin_seq'])# 普通话词义，表示依赖、依靠
+print(pinyin_tool.pinyin('倚赖#')['pinyin_seq'])# 潮汕话词义，表示诬陷、诬赖 
+
 
 # 查询单字的所有读音和口音
 print(pinyin_tool.single_query('生'))
