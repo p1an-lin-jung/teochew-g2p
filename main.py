@@ -9,6 +9,7 @@ pinyin_tool = pyPengIm()
 print(pinyin_tool.pinyin('中心 企业'))
 print(pinyin_tool.pinyin('方耀 翁万达')) 
 
+# exit()
 # 多音字模式
 print(pinyin_tool.pinyin('家中',heteronym=True)) 
 

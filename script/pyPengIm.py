@@ -64,6 +64,8 @@ class pyPengIm():
         return ' '.join(result)
 
     def _surname_notice(self, text):
+        # import pdb
+        # pdb.set_trace()
         result = []
         for ch in text:
             if ch in self.surname_dict.keys():
@@ -145,7 +147,7 @@ class pyPengIm():
                     query_item = f'{hanzi}_{pronunciation}'
                     target_accent = target_vocab.get(query_item, pronunciation)
                     pronunciations.extend(self._to_pinyin_list(target_accent))
-                item.append(pronunciations)
+                item.append(list(dict.fromkeys(pronunciations)))# 去重
             result.append(item)
         return result
 
