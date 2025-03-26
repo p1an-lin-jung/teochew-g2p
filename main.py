@@ -1,8 +1,6 @@
 
 from script.pyPengIm import pyPengIm 
 
-
-
 pinyin_tool = pyPengIm()
 
 # 默认模式
