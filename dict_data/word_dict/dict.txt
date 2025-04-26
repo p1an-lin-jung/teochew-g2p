@@ -43,7 +43,6 @@
 太后#tai3 hou6
 瓜子#guê1 zi2
 菜子#cai3 zi2
-揝头毛#zang2 tao5 mo5
 马上#ma2 siang6
 马虎#ma2 hu1
 马马虎虎#ma2 ma2 hu1 hu1
@@ -419,6 +418,8 @@
 企鹅#kia6 gho5
 奖状#ziang3 zeng7
 状元#zo6 nguêng5
+传胪#tuêng5 lu5
+亚元#a3 nguêng5
 节日#zoih4 rig8
 季节#kui3 zoih4
 时节#si5 zoih4
@@ -1393,7 +1394,7 @@
 观止#guêng1 zi2
 观瞻#guêng1 ziam1
 观览#guêng1 lam2
-客观#keh4 guêng1
+客观#kêh4 guêng1
 宏观#hong5 guêng1
 主观#zu2 guêng1
 景观#gêng2 guêng1
@@ -2085,7 +2086,7 @@
 太上皇#tai3 siang6 huang5
 占上风#ziam3 ziên6 huang1
 心上人#sim1 ziên7 nang5
-座上客#zo7 ziên7 keh4
+座上客#zo7 ziên7 kêh4
 地上塔#di7 ziên7 tah4
 湿上衣#sib4 ziên7 i1
 成千上万#sêng5 coin1 ziên7 bhuêng7
@@ -2110,6 +2111,9 @@
 掌上明珠#ziên2 ziên7 mêng5 zu1
 力争上游#lag8 zên1 ziên6 iu5
 逼上梁山#bêg4 ziên6 niê5 suan1
+梁山伯#niê5 suan1 bêh4
+梁山泊#niê5 suan1 boh8
+梁山#niê5 suan1
 披挂上阵#pi1 kua3 ziên6 ding7
 上纲上线#ziên6 gang1 ziên6 suan3
 板上钉钉#bang2 ziên7 dêng3 dêng1
@@ -2789,7 +2793,7 @@
 重番#dêng5 huêng1
 番爿#huêng1 boin5
 过番#guê3 huêng1
-番客#huêng1 keh4
+番客#huêng1 kêh4
 番石榴#huêng1 siêh8 liu5
 
 朴刀#pog4 do1
@@ -3156,7 +3160,7 @@
 刺绣#ceng3 siu3
 被刺#bi6 ceng3
 刺探#ceng3 tam3
-刺客#ceng3 keh4
+刺客#ceng3 kêh4
 刺骨#ceng3 gug4
 刺杀#ceng3 suah4
 刺眼#ceng3 ngang2
@@ -3823,7 +3827,7 @@
 乘法#sêng5 huab4
 
 乘虚#sêng6 he1
-乘客#sêng6 keh4
+乘客#sêng6 kêh4
 乘坐#sêng6 zo6
 乘车#sêng6 cia1
 换乘#uan7 sêng6
@@ -4746,6 +4750,7 @@
 
 首相#siu2 siang3
 宰相#zai2 siang3
+相国#siang3 gog4
 丞相#sêng5 siên3
 相公#siang3 gong1
 真相#zing1 siang3
@@ -5324,7 +5329,7 @@
 载渡#zai3 dou7
 一年半载#zêg8 ni5 buan3 zai2
 载体#zai3 ti2
-载客#zai3 keh4
+载客#zai3 kêh4
 载人#zai3 nang5
 载货#zai3 huê3
 载沙#zai3 sua1
@@ -5537,7 +5542,7 @@
 好评#ho2 pêng5
 爱好#ain3 haon3
 好学#haon3 hag8
-好客#haon3 keh4
+好客#haon3 kêh4
 好色#haon3 sêg4
 喜好#hi2 haon3
 好恶#haon3 u3
@@ -7742,7 +7747,7 @@
 最高法#zuê3 gao1 huab4
 两英#liang2 êng1
 天赋#tiêng1 hu3
-不速之客#bug4 sog4 ze1 keh4
+不速之客#bug4 sog4 ze1 kêh4
 初衷#co1 cong1
 关头#guêng1 tao5
 大家#dai6 gê1
@@ -7752,7 +7757,7 @@
 学会#oh8 oi6
 合法#hah8 huab4
 增加#zêng1 gia1
-游客量#iu5 keh4 liang5
+游客量#iu5 kêh4 liang5
 大舞台#dua7 bhu2 tai5
 二零二四#ri6 lêng5 ri6 si3
 主持人#zu2 ti5 nang5
@@ -8120,7 +8125,7 @@
 症状#zêng3 zuang6
 就诊#ziu6 ziêng2
 重启#dêng5 ki2
-客人#keh4 ring5
+客人#kêh4 ring5
 乱象#luêng6 siang6
 烘干机#hong1 gang1 gi1
 陈慈黉#dang5 ce5 huang5
@@ -9051,6 +9056,7 @@
 小人#siou2 ring5
 为师#ui5 se1
 洞庭#tong5 têng5
+洞庭湖#tong5 têng5 ou5
 大观#dai6 guêng1
 一山#zêg8 suan1
 开朗#kai1 lang6
@@ -9372,7 +9378,7 @@
 停学#têng5 hag8
 翘起#kiou3 ki2
 几十人#gui2 zag8 nang5
-散客#suan3 keh4
+散客#suan3 kêh4
 强制性#kiang5 zi3 sên3
 开枪#kui1 ciên1
 只狗#ziah4 gao2
@@ -9622,3 +9628,16 @@
 巨擘#ge6 pêg4
 倚赖#i2|in2 nai6
 嫪毐#lao7 ai2
+蛤蟆#gab4 mo5
+咸熙#ham5 hi1
+咸宁#ham5 lêng5
+咸和#ham5 hua5
+咸康#ham5 kang1
+咸安#ham5 ang1
+咸亨#ham5 hêng1
+咸通#ham5 tong1
+咸平#ham5 pêng5
+咸淳#ham5 sung5
+咸雍#ham5 iong1
+咸清#ham5 cêng1
+枸杞#gao2 ki2

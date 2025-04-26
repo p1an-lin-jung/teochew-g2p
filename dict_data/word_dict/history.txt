@@ -1,0 +1,338 @@
+三皇五帝#san1 huang5 ngou2 di3
+夏朝#hê7 ciou5
+夏代#hê7 do7
+商朝#siang1 ciou5
+商代#siang1 do7
+周朝#ziu1 ciou5
+周代#ziu1 do7
+西周#sai1 ziu1
+东周#dang1 ziu1
+秦朝#cing5 ciou5
+秦代#cing5 do7
+汉朝#hang3 ciou5
+汉代#hang3 do7
+西汉#sai1 hang3
+东汉#dang1 hang3
+新朝#sing1 ciou5
+三国#san1|sam1 gog4
+蜀国#zuag8 gog4
+蜀汉#zuag8 hang3
+晋朝#zing3 ciou5
+晋代#zing3 do7
+西晋#sai1 zing3
+东晋#dang1 zing3
+成汉#sêng5 hang3
+前燕#zoin5 iêng1
+后燕#ao6 iêng1
+西燕#sai1 iêng1
+南燕#lam5 iêng1
+北燕#bag4 iêng1
+南北朝#lam5 bag4 ciou5
+南朝#lam5 ciou5
+宋齐梁陈#song3 ci5 niê5 dang5
+南朝宋#lam5 ciou5 song3
+南齐#lam5 ci5
+梁国#niê5 gog4
+南梁#lam5 niê5
+萧梁#siou1 niê5
+南朝梁#lam5 ciou5 niê5
+梁朝#niê5 ciou5
+梁代#niê5 do7
+陈朝#dang5 ciou5
+陈代#dang5 do7
+南陈#lam5 dang5
+南朝陈#lam5 ciou5 dang5
+北朝#bag4 ciou5
+元魏#nguêng5 ghui7
+拓跋魏#tag4 buêg8 ghui7
+东魏#dang1 ghui7
+西魏#sai1 ghui7
+北齐#bag4 ci5
+隋朝#sui5 ciou5
+隋代#sui5 do7
+唐朝#tang5 ciou5
+唐代#tang5 do7
+隋唐#sui5 tang5
+五代#ngou2 do7
+五代十国#ngou2 do7 zab8 gog4
+后梁#ao6 niê5
+后唐#ao6 tang5
+后晋#ao6 zing3
+前蜀#zoin5 zuag8
+后蜀#ao6 zuag8
+南唐#lam5 tang5
+吴越#ghou5 uêg8
+南平#lam5 pêng5
+宋朝#song3 ciou5
+宋代#song3 do7
+北宋#bag4 song3
+南宋#lam5 song3
+两宋#liang2 song3
+辽朝#liou5 ciou5
+辽代#liou5 do7
+契丹#koi3 dang1
+西夏#sai1 hê7
+金朝#gim1 ciou5
+金代#gim1 do7
+元朝#nguêng5 ciou5
+元代#nguêng5 do7
+北元#bag4 nguêng5
+明朝#mêng5 ciou5
+明代#mêng5 do7
+清朝#cêng1 ciou5
+清代#cêng1 do7
+大秦#dai6 cing5
+大汉#dai6 hang3
+大魏#dai6 ghui7
+大楚#dai6 co2
+大周#dai6 ziu1
+大唐#dai6 tang5
+大宋#dai6 song3
+大元#dai6 nguêng5
+大明#dai6 mêng5
+大清#dai6 cêng1
+大顺#dai6 sung6
+大西#dai6 sai1
+唐宋元明清#tang5 song3 nguêng5 mêng5 cêng1
+唐宋#tang5 song3
+宋元#song3 nguêng5
+燕国#iêng1 gog4
+姜齐#giang1 ci5
+田齐#cang5 ci5
+申姜#sing1 giang1
+代国#dai3|do7 gog4
+中山国#dong1 suan1 gog4
+陈国#dang5 gog4
+齐王#ci5 uang5
+燕王#iêng1 uang5
+楚王#co2 uang5
+秦王#cing5 uang5
+赵王#diên6 uang5
+韩王#hang5 uang5
+魏王#ghui7 uang5
+代王#dai3|do7 uang5
+雍王#iong1 uang5
+蜀王#zuag8 uang5
+晋王#zing3 uang5
+冀王#gi6 uang5
+九江王#giu2 gang1 uang5
+长沙王#ciang5 sa1 uang5
+梁王#niê5 uang5
+南越王#lam5 uêg8 uang5
+兰陵王#lang5 lêng5 uang5
+汉王#hang3 uang5
+太上皇帝#tai3 siang6 huang5 di3
+太上皇#tai3 siang6 huang5
+太平天国#tai3 pêng5 tiêng1 gog4
+大洪国#dai6 hong5 gog4
+可汗#kiog4 hang5
+天可汗#tiêng1 kiog4 hang5
+单于#siêng5 u1
+大单于#dai6 siêng5 u1
+高句骊#gao1 gao1 li5
+高句丽#gao1 gao1 li5
+突厥#dug8 kiêg8
+回鹘#huê5 gug4|gug8
+回纥#huê5 hêg4|ngeg4
+鲜卑#siêng1 bui1
+准噶尔#zung2 guah4 re2
+吐谷浑#tou3 iog8 hung6
+吐蕃#tou3 buah4|boh4
+大理#dai6 li2
+伍子胥#ngou2 ze2 su1
+伍员#ngou2 uêng5
+南宫适#lam5 gêng1 kuah4
+蔺相如#liêng6 siang1 ru5
+禽滑厘#kim5 gug8 li5
+禽滑釐#kim5 gug8 li5
+高渐离#go1 ziam6 li5
+孙武#seng1 bhu2
+孙子兵法#seng1 ze2 bian1 huab4
+孙膑#seng1 bing3
+孙权#seng1 kuêng5
+孙策#seng1 cêh4
+夫差#hu1 cê1
+张良#diên1 liang5
+陈平#dang5 pêng5
+韩信#hang5 sing3
+郦食其#li6 i6 gi1
+金日磾#gim1 rig8 di1
+王导#hêng5 dao6
+王敦#hêng5 dung1
+张辽#diên1 liou5
+王莽#hêng5 mang2
+高欢#go1 huêng1
+高澄#go1 têng5
+高洋#go1 iên5
+高演#go1 ing5
+高纬#go1 ui2
+高湛#go1 zam3
+高长恭#go1 ciang5 giong1
+陈霸先#dang5 ba3 soin1
+陈叔宝#dang5 sog4 bo2
+杨坚#iên5 giêng1
+杨广#iên5 guang2
+杨玄感#iên5 hiêng5 gam2
+杨素#iên5 su3
+杨行密#iên5 hêng6 mig8
+窦建德#dou6 giêng6 dêg4
+王世充#hêng5 si3 cong1
+高仙芝#go1 siêng1 ze1
+高力士#go1 lag8 se6
+杨国忠#iên5 gog4 dong1
+杨贵妃#iên5 gui3 hui1
+杨玉环#iên5 ghêg8 huêng5
+安禄山#ang1 log8 suan1
+史思明#se2 se1 mêng5
+史朝义#se2 ciou5 ngi6
+安庆绪#ang1 kêng3 su2
+唐德宗李适#tang5 dêg4 zong1 li2 kuah4
+李适#li2 kuah4
+田承嗣#cang5 sêng5 se6
+王武俊#hêng5 bhu2 zung3
+杨业#iên5 ngiab8
+杨家将#iên5 gê1 ziang1
+王建#hêng5 giêng6
+徐知诰#ce5 di1 gao3
+武则天#bhu2 zêg4 tiêng1
+赵匡胤#diên6 kuang1 iêng6
+朱元璋#zu1 nguêng5 ziang1
+张邦昌#diên1 bang1 ciang1
+王小波#hêng5 siou2 bo1
+钟相#zêng1 siang3
+杨幺#iên5 iou1
+洪适#ang5 kuah4
+张士诚#diên1 se6 sêng5
+陈友谅#dang5 iu2 liang6
+方国珍#bung1 gog4 diêng1
+张居正#diên1 ge1 zian3
+孙传庭#seng1 tuêng5 têng5
+张献忠#diên1 hiêng3 dong1
+大司马#dai6 si1 bhê2
+大司空#dai6 si1 kong1
+大司徒#dai6 si1 tu5
+大将军#dai6 ziang1 gung1
+司空#si1 kong1
+宰相#zai2 siang3
+丞相#sêng5 siên3
+右丞相#iu6 sêng5 siên3
+左丞相#zo2 sêng5 siên3
+相国#siang3 gog4
+相邦#siang3 bang1
+相印#siang3|siên3 ing3
+正相#zian3 siang3
+副相#hu3 siang3
+太傅#tai3 hu3
+太保#tai3 bao2
+少保#siou3 bao2
+太子太保#tai3 ze2 tai3 bao2
+太子少保#tai3 ze2 siou3 bao2
+太子少傅#tai3 ze2 ziê2 hu3
+太子太傅#tai3 ze2 tai3 hu3
+都督同知#dou1 dog4 tong5 di1
+太尉#tai3 uê3
+御史大夫#ghe6 se2 dua7 hu1
+太仆#tai3 bog8
+侍郎#si6|se6 neng5
+左侍郎#zo2 si6|se6 neng5
+右侍郎#iu6 si6|se6 neng5
+检校#giam2 hao6
+副使#hu3 sai3
+郎中#neng5 dong1
+侍中#si6|se6 dong1
+中书省#dong1 ze1 sên2
+尚书省#siên7 ze1 sên2
+门下省#mung5 ê6 sên2
+尚书#siên7 ze1
+领尚书事#nian2 siên7 ze1 se7
+录尚书事#log8 siên7 ze1 se7
+尚书台#siên7 ze1 tai5
+尚书令#siên7 ze1 lêng6
+仆射#bog8 ia7
+尚书仆射#siên7 ze1 bog8 ia7
+尚书左仆射#siên7 ze1 zo2 bog8 ia7
+尚书右仆射#siên7 ze1 iu6 bog8 ia7
+尚书左丞#siên7 ze1 zo2 sêng5
+尚书右丞#siên7 ze1 iu6 sêng5
+开府仪同三司#kai1 hu2 ngi5 tong5 san1 si1
+左仆射#zo2 bog8 ia7
+右仆射#iu6 bog8 ia7
+中书门下平章事#dong1 ze1 mung5 ê6 pêng5 ziang1 se7
+同中书门下平章事#tong5 dong1 ze1 mung5 ê6 pêng5 ziang1 se7
+同中书门下三品#tong5 dong1 ze1 mung5 ê6 san1 bing2
+同平章事#tong5 pêng5 ziang1 se7
+使相#sai3 siang3
+中书令#dong1 ze1 lêng6
+中书舍人#dong1 ze1 sia3 nang5
+参知政事#cam1 di1 zêng3 se7
+给事中#gib4 se7 dong1
+左给事中#zo2 gib4 se7 dong1
+右给事中#iu6 gib4 se7 dong1
+监察御史#gam1 cag4 ghe7 se2
+光禄大夫#guang1 log8 dai6 hu1
+谏议大夫#gang3 ngi2 dai6 hu1
+招讨使#ziê1 to2 sai3
+副招讨使#hu3 ziê1 to2 sai3
+节度使#zag4 dou7 sai3
+兵马使#bian1 bhê2 sai3
+枢密使#ku1 mig8 sai3
+按察使#ang3 cag4 sai3
+按察副使#ang3 cag4 hu3 sai3
+观察使#guêng1 cag4 sai3
+宣抚使#suang1 bhu2 sai3
+安抚使#uan1 bhu2 sai3
+宣慰使#suang1 uê3 sai3
+转运使#zuêng2 ung7 sai3
+指挥使#zi2 hui1 sai3
+都指挥使#dou1 zi2 hui1 sai3
+都指挥使司#dou1 zi2 hui1 sai3 si1
+提刑按察使#ti5 hêng5 ang3 cag4 sai3
+提刑按察使司#ti5 hêng5 ang3 cag4 sai3 si1
+通政使#tong1 zêng3 sai3
+通政使司#tong1 zêng3 sai3 si1
+布政使#bu3 zêng3 sai3
+承宣布政使#sêng5 suang1 bu3 zêng3 sai3
+承宣布政使司#sêng5 suang1 bu3 zêng3 sai3 si1
+布政使司#bu3 zêng3 sai3 si1
+员外郎#uêng5 ghua7 neng5
+太常寺#tai3 siên5 ri7
+大理寺#dai6 li2 ri7
+光禄寺#guang1 log8 ri7
+国子监#gog4 ze2 gam3
+钦天监#kim1 tiêng1 gam3
+少卿#siou3 kêng1
+少詹事#siou3 ziam1 se7
+少宰#siou3 zai2
+监丞#gam3 sêng5
+参议#cam1 ngi2
+参政#cam1 zêng3
+知府#di1 hu2
+县令#guin7 lêng6
+知县#di1 guin7
+县尉#guin7 uê3
+刺史#ceng3 se2
+知州#di1 ziu1
+同知#tong5 di1
+州同知#ziu1 tong5 di1
+知事#di1 se7
+通判#tong1 puêng3
+顺天府#sung6 tiêng1 hu2
+应天府#êng3 tiêng1 hu2
+奉天府#hong6 tiêng1 hu2
+元帅#nguêng5 suê3
+参将#cam1 ziang3
+学士#hag8 se6
+侍读学士#si6|se6 tag8 hag8 se6
+翰林学士#hang5 lim5 hag8 se6
+内阁学士#lai6 goh4 hag8 se6
+大学士#dai6 hag8 se6
+协办大学士#hiab8 poin7 dai6 hag8 se6
+殿阁大学士#doin7 goh4 dai6 hag8 se6
+东阁大学士#dang1 goh4 dai6 hag8 se6
+文华殿大学士#bhung5 hua5 doin7 dai6 hag8 se6
+军机大臣#gung1 gi1 dai6 cing5
+北洋大臣#bag4 iên5 dai6 cing5
+上柱国#siang6 tiou6 gog4
+车骑将军#cia1 kia5 ziang1 gung1
+骠骑将军#piou1 kia5 ziang1 gung1
+卫将军#uê6 ziang1 gung1

@@ -1,4 +1,3 @@
-
 from script.pyPengIm import pyPengIm 
 
 pinyin_tool = pyPengIm()
@@ -16,6 +15,9 @@ print(pinyin_tool.pinyin('恁揭阳')['result'])# 潮州市区口音
 print(pinyin_tool.pinyin('恁揭阳',accent='st')['result']) # 转汕头市区口音
 print(pinyin_tool.pinyin('恁揭阳',accent='th')['result']) # 转澄海口音
 print(pinyin_tool.pinyin('恁揭阳',accent='ky')['result']) # 转揭阳口音
+
+# print(pinyin_tool.pinyin('橄榄',accent='gz_c')['result']) # 转经典金石口音
+# print(pinyin_tool.pinyin('人参',accent='ap')['result']) # 转庵埠口音
 
 #
 print(pinyin_tool.pinyin('我吃蘑菇中毒了')) 

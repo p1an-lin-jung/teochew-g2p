@@ -1,26 +1,36 @@
 from . import utils
-import jieba.analyse
+import jieba
+import types
+import yaml
+import os
+
 
 jieba.load_userdict('./dict_data/word_dict/jieba_cut.txt')
 
 
 class pyPengIm():
-    def __init__(self) -> None:
+    def __init__(self, history=False) -> None:
         self._dict_paths = {
             "vocab": "./dict_data/vocab/origin_vocab.txt",
             "vocab_extension": "./dict_data/vocab/vocab_extension.txt",
             "word_dict": "./dict_data/word_dict/dict.txt",
             "teochew_word_dict": "./dict_data/word_dict/teochew_local_dict.txt",
             "translation_dict": "./dict_data/word_dict/madr_to_tch.txt",
-            "kityall_vocab": "./dict_data/accent_convert/to_Kityall.txt",
-            "swatow_vocab": "./dict_data/accent_convert/to_Swatow.txt",
-            "tenhigh_vocab": "./dict_data/accent_convert/to_Tenhigh.txt",
             "surname_dict": "./dict_data/vocab/Surname.txt",
             "IPA_dict": "./dict_data/vocab/IPA_lexicon.txt",
-            "phoneme_dict": "./dict_data/vocab/phone.txt",
+            # "phoneme_dict": "./dict_data/vocab/phone.txt",
             "low_fre_dict": "./dict_data/vocab/low_fre.txt"
         }
+
+        self.accent_dict = self._load_accent()
+
         self._loaded_dicts = {}
+        
+        # 是否启用中国历史词典，以支持古代年号、政权、官职、人名、民族等
+        if history:
+            self.word_dict.update(utils.load_dict("./dict_data/word_dict/history.txt"))
+            self.word_dict.update(utils.load_dict("./dict_data/word_dict/reign_title.txt"))
+            
 
     def __getattr__(self, name):
         if name in self._dict_paths:
@@ -30,30 +40,49 @@ class pyPengIm():
 
         raise AttributeError(f"'{self.__class__.__name__}' object has no attribute '{name}'")
 
-    def pinyin(self, text, heteronym=False, accent='tc', auto_split=True):
+    def _load_accent(self,accent_config_path="./dict_data/accent_convert/accent.yaml"):
+        with open(accent_config_path, 'r', encoding='utf-8') as file:
+            accent_config = yaml.safe_load(file)
+            accent_dict = {}
+            for k,v in accent_config.items():
+                accent_dict[k] = (
+                        utils.load_dict(os.path.join("./dict_data/accent_convert",v['path'])),
+                        v['name']
+                    )
+
+        return accent_dict
+    
+    def pinyin(self, text, heteronym=False, accent='', auto_split=True):
+        text = text.upper()
         if heteronym:
             pinyin_list = self._pinyin_heteronym(text)
         else:
             if auto_split:
-                pinyin_list = self.pinyin_optimize(utils.preprocess_generator(jieba.cut(text)))
+                pinyin_list = self.pinyin_optimize(utils.preprocess_generator(self.sentence_cut(text)))
             else:
                 pinyin_list = self.pinyin_optimize(text.split(' '))
 
-        if accent in ['th','st','ky']:
+        if accent in self.accent_dict:
             pinyin_list = self.convert_accent(pinyin_list, accent)
 
         surname_list = self._surname_notice(text)
+
         return {
             'result': pinyin_list,
             'pinyin_seq': self._to_pinyin_sequence(pinyin_list),
             'surname_notice': surname_list
         }
 
-    def split(self, text, auto_split=True):
-        if auto_split:
-            return list(jieba.cut(text))
-        else:
-            return text.split(' ')            
+    def sentence_cut(self, text):
+        new_text_list = []
+        for ch in text:
+            if ch not in self.vocab and ch not in self.vocab_extension:
+                new_text_list.append(' {} '.format(ch))
+            else:
+                new_text_list.append(ch)
+        
+        return jieba.cut("".join(new_text_list))
+
 
     def _to_pinyin_sequence(self, pinyin_list):
         result = []
@@ -61,11 +90,12 @@ class pyPengIm():
             for pinyin in item[1:]:
                 if pinyin != ['None']:
                     result.append('|'.join([py.replace('*', '') for py in pinyin]))
+                else:
+                    result.append(item[0]) ## 非法字符，原样输出
+
         return ' '.join(result)
 
     def _surname_notice(self, text):
-        # import pdb
-        # pdb.set_trace()
         result = []
         for ch in text:
             if ch in self.surname_dict.keys():
@@ -85,6 +115,7 @@ class pyPengIm():
             if zh_char in self.low_fre_dict.keys():
                 item.extend(self._to_pinyin_list(self.low_fre_dict[zh_char]))
             result.append([zh_char, item])
+
         return result
 
     def _to_pinyin_list(self, pinyin_item):
@@ -114,6 +145,7 @@ class pyPengIm():
                 item = [word]
                 item.extend(self._word_to_pinyin(self.word_dict[word]))  # 在非翻译模式下，清空之前的拼音，仅保留 word_dict 结果，也就是只保存普通话语义
                 word_found_flag = True
+
             elif not word_translate_flag or not word_found_flag:
                 if word in self.word_dict:
                     item.extend(self._word_to_pinyin(self.word_dict[word]))
@@ -128,14 +160,12 @@ class pyPengIm():
                         item.append(self._to_pinyin_list(self.vocab_extension[zh_char]))
                     else:
                         item.append(self._to_pinyin_list('None'))
+
             result.append(item)
         return result
 
     def convert_accent(self, pinyin_list, accent):
-        target_vocab = {
-            'st': self.swatow_vocab,
-            'ky': self.kityall_vocab
-        }.get(accent, self.tenhigh_vocab)
+        target_vocab = self.accent_dict[accent][0]
 
         result = []
         for one_pair in pinyin_list:
@@ -151,14 +181,37 @@ class pyPengIm():
             result.append(item)
         return result
 
-    def to_IPA(self, pinyin_seq):
-        return ['|'.join([self.IPA_dict[py] for py in pinyin.split('|')]) if '|' in pinyin else self.IPA_dict[pinyin] for pinyin in pinyin_seq.split(' ')]
+    def to_IPA(self, pinyin_seq, blank=True):
+        if blank:
+            split_char = ' '
+        else:
+            split_char = ''
+
+        result = []
+        for pinyin in pinyin_seq.split(' '):
+            if '|' in pinyin:
+                ipa_item = []
+                for py in pinyin.split('|'):
+                    ph_list = utils.pinyin_to_phoneme_list(py)
+                    ipa_item.append(split_char.join([self.IPA_dict[ph] if ph in self.IPA_dict else ph for ph in ph_list]))
+                result.append("|".join(ipa_item))
+            else:
+                ph_list = utils.pinyin_to_phoneme_list(pinyin)
+                result.append(split_char.join(self.IPA_dict[ph] if ph in self.IPA_dict else ph for ph in ph_list))
+
+        return result
 
     def to_phoneme(self, pinyin_seq):
-        return ['|'.join([self.phoneme_dict[py[:-1]] + py[-1] for py in pinyin.split('|')]) if '|' in pinyin else self.phoneme_dict[pinyin[:-1]] + pinyin[-1] for pinyin in pinyin_seq.split(' ')]
+        return ['|'.join([utils.pinyin_to_phoneme(py) for py in pinyin.split('|')]) if '|' in pinyin else utils.pinyin_to_phoneme(pinyin) for pinyin in pinyin_seq.split(' ')]
 
     def to_oral(self, text, auto_split=True):
-        word_list = jieba.cut(text) if auto_split else text.split(' ')
+        if isinstance(text, list) or isinstance(text, types.GeneratorType):
+            word_list = text
+        elif isinstance(text, str):
+            word_list = jieba.cut(text) if auto_split else text.split(' ')
+        else:
+            return None
+
         return ' '.join([self.translation_dict.get(word, word) + '#' if word in self.translation_dict else word for word in word_list])
 
     def add_word_mapping(self, user_mapping: dict):
@@ -172,14 +225,11 @@ class pyPengIm():
         if len(single_char) > 1:
             return None
 
+        result_dict = {}
         pinyin_list = self._pinyin_heteronym(single_char)
-        st = self.convert_accent(pinyin_list, accent='st')
-        th = self.convert_accent(pinyin_list, accent='th')
-        ky = self.convert_accent(pinyin_list, accent='ky')
+        result_dict['府城'] = pinyin_list[0]
 
-        return {
-            '潮州': pinyin_list[0],
-            '汕头': st[0],
-            '澄海': th[0],
-            '揭阳': ky[0]
-        }
+        for k,v in self.accent_dict.items():
+            result_dict[v[1]] = self.convert_accent(pinyin_list, accent=k)[0]
+
+        return result_dict

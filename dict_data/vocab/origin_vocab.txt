@@ -2690,7 +2690,7 @@
 患#huam6
 梵#huam6
 漶#huam6
-樊#huam6
+樊#huam6|huang5
 欢#huan1|huêng1
 驩#huan1
 垾#huan7
@@ -3443,7 +3443,7 @@
 击#kêg4
 克#kiog4
 蛐#kêg4
-客#keh4
+客#kêh4
 揢#kêh4
 喀#kêh4
 坑#kên1
@@ -3777,7 +3777,7 @@
 狂#kuang5
 茕#kuang5
 惓#kuêng5|kung5
-蜷#kuang5
+蜷#kuêng5
 鬈#kuêng5
 鵟#kuang5
 科#kuê1

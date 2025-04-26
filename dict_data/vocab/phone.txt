@@ -52,6 +52,8 @@ buag#b uag
 buan#b uan
 buang#b uang
 buê#b uê
+buên#b uên
+buêh#b uêh
 buêg#b uêg
 buêng#b uêng
 bug#b ug
@@ -735,6 +737,7 @@ puah#p uah
 puan#p uan
 puang#p uang
 puê#p uê
+puên#p uên
 puêg#p uêg
 puêh#p uêh
 puêng#p uêng

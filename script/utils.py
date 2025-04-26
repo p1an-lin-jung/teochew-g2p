@@ -1,10 +1,13 @@
 
 import re
 import cn2an
+from .syllable import *
 
 num_map = {  
     '0': '零', '1': '【一 幺】', '2': '二', '3': '三', '4': '四', '5': '五', '6': '六', '7': '七', '8': '八', '9': '九'  
 }
+
+
 
 # 将数字直接转为汉字，适用于年份、电话号、身份证号等情况，15->一五、幺五 ； 110->一一零、幺幺零
 def num_to_chinese(num):
@@ -36,6 +39,8 @@ def load_dict(dict_path='./dict_data/vocab/origin_vocab.txt'):
         for line in fr.readlines():
             if len(line.strip())==0:
                 continue
+            if line.strip().startswith('%'):
+                continue
             left_item,right_item=line.strip().split('#',maxsplit=1)
             vocab[left_item]=right_item
     return vocab
@@ -59,3 +64,44 @@ def preprocess_generator(input_gen):
 
     return result
 
+
+def pinyin_to_phoneme(pinyin):
+    tone = pinyin[-1]
+    initial_final = pinyin[:-1]
+
+    if initial_final in NASALS:
+        return pinyin
+    
+    if initial_final[0] not in INITIALS:
+        return pinyin
+
+    split_idx=1
+    if initial_final[:2] in ['bh','gh','ng']:
+        split_idx=2
+
+    initial = initial_final[:split_idx]
+    final = initial_final[split_idx:]
+
+    return "{} {}{}".format(initial,final,tone)
+
+def pinyin_to_phoneme_list(pinyin):
+    if len(pinyin)<=1:
+        return pinyin
+    
+    tone = pinyin[-1]
+    initial_final = pinyin[:-1]
+
+    if initial_final in NASALS:
+        return [initial_final, tone]
+    
+    if initial_final[0] not in INITIALS:
+        return [initial_final, tone]
+
+    split_idx=1
+    if initial_final[:2] in ['bh','gh','ng']:
+        split_idx=2
+
+    initial = initial_final[:split_idx]
+    final = initial_final[split_idx:]
+
+    return [initial,final,tone]

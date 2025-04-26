@@ -1,0 +1,23 @@
+ky: 
+  path: to_Kityall.txt
+  name: "揭阳"
+  
+st: 
+  path: to_Swatow.txt
+  name: "汕头"
+
+th: 
+  path: to_Tenhigh.txt
+  name: "澄海"
+
+gz_c: 
+  path: to_Gimzieh_c.txt
+  name: "金石-经典"
+
+gz_g: 
+  path: to_Gimzieh_g.txt
+  name: "金石-泛"
+
+ap: 
+  path: to_Ampou.txt
+  name: "庵埠"
