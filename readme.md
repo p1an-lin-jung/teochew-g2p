@@ -16,6 +16,8 @@
 
 - 6、支持GUI操作。 
 
+- **7、[在线UI-demo](https://huggingface.co/spaces/panlr/teochew_pyPengIm)**
+
 ### 本项目存在的一些不足：
 
 - 1、所有资料基本由本人一人爬取、整理、组织，不可避免存在一定的疏漏和错误。
