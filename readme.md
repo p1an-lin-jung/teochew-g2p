@@ -16,7 +16,7 @@
 
 - 6、支持GUI操作。 
 
-- **7、[在线UI-demo](https://huggingface.co/spaces/panlr/teochew_pyPengIm)**
+- **7、在线UI-demo:[huggingface](https://huggingface.co/spaces/panlr/teochew_pyPengIm)|[modelscope](https://www.modelscope.cn/studios/zzhway/teochew_pyPengIm/)**
 
 ### 本项目存在的一些不足：
 
