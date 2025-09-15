@@ -100,7 +100,7 @@
 姜齐#giang1 ci5
 田齐#cang5 ci5
 申姜#sing1 giang1
-代国#dai3|do7 gog4
+代国#dai3 gog4
 中山国#dong1 suan1 gog4
 陈国#dang5 gog4
 齐王#ci5 uang5
@@ -110,7 +110,7 @@
 赵王#diên6 uang5
 韩王#hang5 uang5
 魏王#ghui7 uang5
-代王#dai3|do7 uang5
+代王#dai3 uang5
 雍王#iong1 uang5
 蜀王#zuag8 uang5
 晋王#zing3 uang5
@@ -336,3 +336,7 @@
 车骑将军#cia1 kia5 ziang1 gung1
 骠骑将军#piou1 kia5 ziang1 gung1
 卫将军#uê6 ziang1 gung1
+魏徵#ghui7 dêng1
+魏征#ghui7 dêng1
+文征明#bhung5 dêng1 mêng5
+文徵明#bhung5 dêng1 mêng5

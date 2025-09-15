@@ -681,7 +681,7 @@
 堵#du2
 楮#du2
 赌#du2
-褚#du2|su2
+褚#du2
 睹#du2
 覩#du2
 注#zu3
@@ -970,7 +970,7 @@
 珓#ga3|gao1
 咬#ga6
 合#hah8
-哈#ha1
+哈#ha1|hah4
 鸽#gab4
 颌#gab4|hab8
 蛤#gab4
@@ -2581,7 +2581,7 @@
 敷#hu1|pou1
 鳺#hu1
 父#bê6
-缶#hu2|bao6|hui5
+缶#hui5|hu2|bao6
 姁#hu2
 诩#hu2
 府#hu2
@@ -2631,7 +2631,7 @@
 祜#hu6
 扈#hu6
 辅#hu6
-瓠#hu6|bu3
+瓠#hu6|bu5
 楛#kou2|hu6
 鲋#hu6
 煦#hu6
@@ -3290,7 +3290,7 @@
 怣#iu5
 酋#iu5|ciu5
 疣#iu5
-柚#iu5|iu7
+柚#iu7
 铀#iu5
 莜#iu5
 莸#iu5
@@ -4708,7 +4708,7 @@
 湄#bhai5|mi5
 穈#mi5
 醚#mi5
-糜#mi5
+糜#muê5|mi5
 麿#muan5|mi5
 縻#mi5
 麋#mi5

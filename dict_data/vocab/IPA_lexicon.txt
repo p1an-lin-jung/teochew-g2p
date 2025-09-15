@@ -31,6 +31,7 @@ ang#aŋ
 ao#au
 aoh#auʔ
 aon#ãũ
+aonh#ãũʔ
 e#ɯ
 eg#ɯk
 eh#ɯʔ
@@ -89,6 +90,7 @@ uag#uak
 uah#uaʔ
 uai#uai
 uain#ũãĩ
+uainh#ũãĩʔ
 uam#uam
 uan#ũã
 uang#uaŋ

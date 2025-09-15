@@ -4,9 +4,7 @@ import types
 import yaml
 import os
 
-
 jieba.load_userdict('./dict_data/word_dict/jieba_cut.txt')
-
 
 class pyPengIm():
     def __init__(self, history=False) -> None:
@@ -30,7 +28,8 @@ class pyPengIm():
         if history:
             self.word_dict.update(utils.load_dict("./dict_data/word_dict/history.txt"))
             self.word_dict.update(utils.load_dict("./dict_data/word_dict/reign_title.txt"))
-            
+
+        jieba.cut('')# 预热
 
     def __getattr__(self, name):
         if name in self._dict_paths:

@@ -74,12 +74,12 @@ def zi_and_pinyin(text, pinyin_seq):
 
 def process_text(input_text, location, return_seq):
     # print(input_text)
-    pinyin_seq = pinyin_tool.pinyin(input_text,accent=reversed_accent_dict[location],auto_split=False)['pinyin_seq']
+    pinyin_seq = pinyin_tool.pinyin(input_text,accent=reversed_accent_dict[location], auto_split=False)['pinyin_seq']
     
     if return_seq:
         return pinyin_seq
     
-    zi_at_pinyin_seq = zi_and_pinyin(input_text,pinyin_seq)
+    zi_at_pinyin_seq = zi_and_pinyin(input_text, pinyin_seq)
     return zi_at_pinyin_seq
 
 def auto_translate(text):

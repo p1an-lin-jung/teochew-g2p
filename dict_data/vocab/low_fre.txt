@@ -258,7 +258,7 @@
 药#iag8*
 顾#gou3
 计#gi3*
-哈#hah4*|gab4*
+哈#gab4*
 女#ni2*
 鸥#ou1*
 乌#u1*
@@ -489,7 +489,6 @@
 漏#lao2*
 名#mêng5*
 棉#miêng5*
-糜#muê5
 癞#tai2*
 富#pou3*
 咋#zo3
@@ -791,3 +790,6 @@
 擘#bêh4*
 徊#huai5
 信#siang3
+褚#su2
+磊#log8
+柚#iu5

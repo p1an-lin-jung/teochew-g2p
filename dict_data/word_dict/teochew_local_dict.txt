@@ -696,12 +696,12 @@
 头戆#tao5 gong5
 吱吱啹啹#gih4 gih4 geh8 geh8
 珍珠花菜#zing1 zu1 huê1 cai3
-深山林内#cim1 suan1 lim5 lai6
+深山林内#cim1 suan1 na5 lai6
 卤贡菜#lou6 gong3 cai3
 大大粒#dua7 dua7 liab8
 拄拄#du2 du2
 崎岖暴瘘#ki1 ku1 bao6 lu6
-腰痀暴瘘#ki1 ku1 bao6 lu6
+腰痀暴瘘#iê1 gu1 bao6 lu6
 癞瘑#tai2 go1
 搁啰#goh4 lo5
 眩倒#hing5 do2
@@ -744,3 +744,47 @@
 生好#sên1 ho2
 生雅#sên1 ngia2
 甘筒#gang1 dang5
+和尚#huê5 siên7
+钱纸麸#zin5 zua2 hu1
+相乜个#siên3 mih4 gai5
+相鼠#siên3 ce2
+相牛#siên3 ghu5
+相虎#siên3 houn2
+相兔#siên3 tou3
+相龙#siên3 lêng5
+相蛇#siên3 zua5
+相马#siên3 bhê2
+相羊#siên3 iên5
+相猴#siên3 gao5
+相鸡#siên3 goi1
+相狗#siên3 gao2
+相猪#siên3 de1
+食相#ziah8 siên3
+臭相#cao3 siên3
+破相#pua3 siên3
+生相#sên1 siên3
+肖米#siou1 bhi2
+捏药#noih4 iêh8
+霍斛#kag4 hog8
+好长#hoh4 deng5
+檐龙#zin5 lêng5
+临檐下#lim5 zin5 ê6 
+厝瓦下#cu3 hia6 ê6
+荠葱#zin5 cang1
+漱齿#ciu3 ki2
+生痔#sên1 ti6
+旮对#ga1 dui3 
+柠檬#lam5 mong2
+鲳鱼#ciên1 he5
+银鲳#ngeng5 ciên1
+金鲳#gim1 ciên1
+菠薐#buê1 lêng5
+菠菱#buê1 lêng5
+象鼻蚶#ciên6 pin7 ham1
+田鳝#cang5 cuain6
+刺鳝#ci3 cuain6
+海鳝#hai2 cuain6
+鳝鱼#cuain6 he5
+鲢鱼#ling5 he5
+林檎#lim5 kim5
+手䘼#ciu2 ung2

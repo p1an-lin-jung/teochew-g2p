@@ -72,7 +72,7 @@
 罗布泊#lo5 bu3 boh8
 泊车#boh4 cia1
 泊位#boh4 ui7
-尼泊尔#bi5 boh8 re2
+尼泊尔#ni5 boh8 re2
 摒挡#bing2 deng3
 荡嘴#deng6 cui3
 倒过来#dao2 guê3 lai7
@@ -313,8 +313,7 @@
 香火#hiên1 huê2
 告状#go3 zeng7
 告别#gao3 biêg8
-菠薐#buê1 lêng5
-和尚#huê5 siên7
+和尚#hua5 siang6
 尚书#siên7 ze1
 浩浩汤汤#hao2 hao2 siang1 siang1
 笼床#lêng5 seng5
@@ -372,7 +371,7 @@
 万岁#bhuêng7 suê3
 千岁#coin1 suê3
 节气#zoih4 kui3
-
+节后#zoih4 ao6
 扣分#ka3 hung1
 要求#iou1 kiu5
 要挟#iou1 hiab8
@@ -4025,7 +4024,7 @@
 厝边#cu3 bin1
 衹边#zi2 bin1
 越南#uêg8 lam5
-长沙#ciang5 sa1
+长沙#ciang5 sua1|sa1
 呢喃#ni5 lam5
 呢子#ni5 ze2
 呢绒#ni5 rong5
@@ -4759,19 +4758,13 @@
 
 中阮#dong1 nguêng2
 不肖#bug4 siou6
-肖米#siou1 bhi2
 
 相机#siên3 gi1
 亮相#liang6 siên3|siang3
 照相机#ziê3 siên3 gi1
 洋相#iên5 siên3
 相貌#siên3 mao6
-食相#ziah8 siên3
-臭相#cao3 siên3
-破相#pua3 siên3
-生相#sên1 siên3
 相位#siên3 ui7
-
 相共#siê1 gang7
 相拍#siê1 pah4
 相争#siê1 zên1
@@ -4788,7 +4781,8 @@
 解数#hai6 siou3
 浑身解数#hung1 sing1 hai6 siou3
 解逅#hai6 hou6
-
+解县#hai6 guin7
+解甲归田#hai6 gah4 gui1 cang5
 解元#goi3 nguêng5
 押解#ah4 goi3
 解送#goi3 sang3
@@ -5551,7 +5545,7 @@
 偏好#piêng1 haon3
 洁身自好#giêg4 sing1 ze6 haon3
 乐善好施#lag8 siêng6 haon3 si1
-叶公好龙#hiab8 gong1 haon3 lêng5
+叶公好龙#iab8 gong1 haon3 lêng5
 好为人师#haon3 ui5 nang5 se1
 各有所好#gag4 u6 so2 haon3
 嗜好#si7 haon3
@@ -6219,7 +6213,6 @@
 召她#diou6 ta1
 召集#diou6 zib8
 可他#ko2 ta1
-可伶#ko2 lêng5
 可是#ko2 si6
 可让#ko2 riang6
 可速#ko2 sog4
@@ -6301,7 +6294,7 @@
 好勇#haon3 iong2
 好听的#ho2 tian1 di1
 好比#ho2 bi2
-好长#ho2 ciang5
+好长#hoh4|ho2 ciang5
 如有#ru5 u6
 如果#ru5 guan2
 妄说#bhuang2 suêh4
@@ -8719,7 +8712,7 @@
 泡影#pa6 ian2
 生命力#sên1 mian7 lag8
 年中#ni5 dong1.
-扎实#zag4 sig8
+扎实#zab4 sig8
 二十二#ri6 zab8 ri6
 一周#zêg8 ziu1
 一番#zêg8 huêng1
@@ -8959,7 +8952,7 @@
 摩崖#mo5 ngai5
 意为#i3 ui5
 一两日#zêg8 no6 rig8
-挣扎#zêng1 zab4
+挣扎#zêng1 zag4
 中浣#dong1 uêng2
 乡中#hiên1 dang1
 大门#dua7 mung5
@@ -9610,7 +9603,7 @@
 大招#dua7 ziê1
 反对者#huêng2 dui3 zia2
 网约车#mang6 iêh4 cia1
-想象力#siên6 ciên6 lag8
+想象力#siên6 siên3 lag8
 天马行空#tiêng1 bhê2 gian5 kong1
 分级#bung1 kib4
 传唤#tuêng5 huêng3
@@ -9641,3 +9634,149 @@
 咸雍#ham5 iong1
 咸清#ham5 cêng1
 枸杞#gao2 ki2
+老少咸宜#lao6 siou3 ham5 ngi5
+少长咸集#siou3 ziang2 ham5 zib8
+漯河#tag4 ho5
+哈尔滨#hah4 re2 bing1
+哈工大#hah4 gang1 dai6
+哈工深#hah4 gang1 cim1
+哈工#hah4 gang1
+哈佛#hah4 hug8
+抑或#ag4 hog8
+抑止#ag4 zi2
+抑扬#ag4 iang5
+
+抑扬顿挫#ag4 iang5 dung6 co5
+重农抑商#dong6 long5 ag4 siang1
+抑制#ag4 zi3
+无抑制#bho5 ag4 zi3
+不可抑制#bug4 ko2 ag4 zi3
+谄上抑下#tiam2 ziên6 ag4 ê6
+崇本抑末#cong5 bung2 ag4 muêg8
+顿挫抑扬#dung6 co5 ag4 iang5
+扶弱抑强#hu5 riag8 ag4 kiang5
+免疫抑制#miêng2 mog8 ag4 zi3
+难以抑制#lang5 in2 ag4 zi3
+前摄抑制#zoin5 niab4 ag4 zi3
+谦抑原则#kiam1 ag4 nguêng5 zêg4
+屈心抑志#kug4 sim1 ag4 zi3
+嵬岸抑扬#ngui5 ngai6 ag4 iang5
+务本抑末#bhu6 bung2 ag4 muêg8
+先抑后扬#soin1 ag4 ao6 iang5
+扬清抑浊#iang5 cêng1 ag4 zuag8
+以暴抑暴#in2 bao6 ag4 bao6
+郁抑不申#ug4 ag4 bug4 sing1
+重本抑末#dong6 bung2 ag4 muêg8
+重此抑彼#dong6 ce2 ag4 bi2
+诌上抑下#zou1 ziên6 ag4 ê6
+阻抑#zo2 ag4
+按行自抑#ang3 gian5|hêng6 ze6 ag4
+潜遁幽抑#ciam5 dung6 hiu1 ag4
+谦光自抑#kiam1 guang1 ze6 ag4
+欲扬先抑#ain3 iang5 soin1 ag4
+压抑#iab4 ag4
+平抑#pêng5 ag4
+贬抑#ping2|biêng2 ag4
+抑菌剂#ag4 kung2 zi3
+抑止力#ag4 zi2 lag8
+抑制力#ag4 zi3 lag8
+抑暴扶弱#ag4 bao6 hu5 riag8
+抑恶扬善#ag4 ag4 iang5 siêng6
+抑菌作用#ag4 kung2 zag4 êng7
+抑强扶弱#ag4 kiang5 hu5 riag8
+抑塞磊落#ag4 sag4 lui2 loh8
+抑郁不平#ag4 ug4 bug4 pêng5
+抑郁成疾#ag4 ug4 sêng5 zib8
+抑郁寡欢#ag4 ug4 guan2 huan1
+包扎#bao1 zag4
+结扎#gag4 zag4
+捆扎#kung2 zag4
+扎染#zag4 riam2
+扎彩#zag4 cai2
+扎紧#zag4 ging2
+裹扎#go2|lo2 zag4
+拽扎#hi6 zag4
+安扎#uan1 zag4
+
+扎实#zab4 sig8
+扎根#zab4 geng1
+驻扎#zu6 zab4
+安营扎寨#uan1 ian5 zab4 zê7
+扎营#zab4 ian5
+稳扎稳打#ung2 zab4 ung2 da2
+扎针#zab4 zam1
+绑扎#bang2 zab4
+扎堆#zab4 dui1
+扎手#zab4 ciu2
+扎啤#zab4 bi5
+扎花#zab4 huê1
+阿扎尔#a1 zab4 re2
+马扎尔#bhê2 zab4 re2
+扎扎实实#zab4 zab4 sig8 sig8
+稳稳扎扎#ung2 ung2 zab4 zab4
+挣扎#zêng1 zag4
+马扎#bhê2 zag4
+垂死挣扎#sui5 si2 zêng1 zag4
+扎挣#zag4 zêng1
+扎入#zab4 rib8
+扎辫#zag4 bin1
+扎腿#zag4 tui2
+扎辫子#zag4 bin1 ze2
+一扎线#zêg8 zag4 suan3
+一扎#zêg8 zag4|za1
+桑葚#seng1 sim6
+柚木#iu5 bhag8
+柠檬#lêng5 mong5
+桔梗#giêg4 gên2
+桔槔#giêg4 gao1
+桔子#gig4 ze2
+金桔#gim1 gig4
+哈密瓜#hah4 mig8 guê1
+哈蜜瓜#hah4 mig8|bhig8 guê1
+安康鱼#ang1 kang1 he5
+马鲛鱼#bhê2 ga1 he5
+鲛鱼#gao1 he5
+
+鲳鱼#ciang1 he5
+银鲳#ngeng5 ciang1
+金鲳#gim1 ciang1
+翘嘴鲌#kiou3 cui3 bêh8
+鳙鱼#song5|iong5 he5
+大豆油#dua7 dao7 iu5
+葵花籽油#kui5 huê1 zi2 iu5
+黑松露酱#hêg4 song5 lou7 ziên3
+白松露酱#bêh8 song5 lou7 ziên3
+松露盐#song5 lou7 iam5
+松露#song5 lou7
+松露酱#song5 lou7 ziên3
+胡人#hu5 ring5
+胡服#hu5 hog8
+胡萝卜#hu5 lo5 bog4
+空心菜#kong1 sim1 cai3
+芳菜#pang1 cai3
+菠菜#bo1 cai3
+叶菜类#hiêh8 cai3 lui7
+叶菜#hiêh8 cai3
+根茎叶#geng1 kêng5 hiêh8
+香菜籽#hiang1 cai3 zi2
+菜籽#cai3 zi2
+黑胡椒#hêg4 hu5 ziê1
+白胡椒#bêh8 hu5 ziê1
+胡椒油#hu5 ziê1 iu5
+胡椒粉#hu5 ziê1 hung2
+香叶#hiang1 hiêh8
+板栗#bang2 liêg8
+大黄鱼#dua7 ng5 he5
+长荚豆#deng5 koih4 dao7
+扁豆#biêng2 dao7
+瓠瓜#bu5 guê1
+西葫芦#sai1 hou5 lou5
+柠檬汁#lêng5 mong5 zab4
+咖喱粉#ga1 li5 hung2
+咖喱#ga1 li5
+大蒜#dua7 seng3
+猕猴桃#ni2|mi5 gao5 to5
+猕猴#ni2|mi5 gao5
+鳝鱼#siêng6 he5
+黄鳝#ng5 siêng6
+鲢鱼#liêng5 he5
