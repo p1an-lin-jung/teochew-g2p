@@ -891,7 +891,7 @@
 克罗地亚#kiog4 lo5 di7 a1
 梵蒂冈#huam6 dih4 gang1
 比利时#bi2 li6 si5
-马耳他#bhê2 hin6 ta1
+马耳他#bhê2 re2 ta1
 丹麦#dang1 bhêh8
 卢森堡#lu5|lou5 siam1 bao2
 波斯尼亚和黑塞哥维那#bo1 se1 ni5 a1 hua5 hêg4 sai3 go1 rui6 na2
@@ -1106,3 +1106,44 @@
 首尔#siu2 re2
 汉城#hang3 sian5
 平壤#pêng5 riang2
+叙利亚#su6 li6 a1
+亚速尔群岛#a1 sog4 re2 kung5 dao2
+科索沃#kuê1 sog4 og4
+克里米亚#kiog4 li2 bhi2 a1
+阿布哈兹#a1 bu3 hah4 ze1
+南奥塞梯#lam5 o3 sai3 tui1
+多米尼加共和国#do1 bhi2 ni5 gia1 gang7 hua5 gog4
+圣基茨和尼维斯#sian3 gi1 ce5 hua5 ni5 rui6 se1
+百慕大#bêh4 mo6 dai6
+开曼群岛#kai1 bhuêng6 kung5 dao2
+蒙特塞拉特#mong5 dêg8 sai3 la1 dêg8
+安圭拉#ang1 gui1 la1
+英属维尔京群岛#êng1 sog8 rui6 re2 gian1 kung5 dao2
+库拉索#kou3 la1 sog4
+加勒比荷兰#gia1 lêg8 bi2 ho5 lang5
+美属维尔京群岛#mui2 sog8 rui6 re2 gian1 kung5 dao2
+马尔维纳斯群岛#bhê2 re2 rui6 nab8 se1 kung5 dao2
+南乔治亚岛和南桑威奇群岛#lam5 kiou5 di7 a1 dao2 hua5 lam5 seng1 ui1 ki5 kung5 dao2
+法属圭亚那#huab4 sog8 gui1 a1 na2
+密克罗尼西亚联邦#mig8 kiog4 lo5 ni5 sai1 a1 liêng5 bang1
+萨摩亚#sag4 mo5 a1
+瓦努阿图#ua1 no3 a1 dou5
+关岛#guêng1 dao2
+北马里亚纳群岛#bag4 bhê2 li2 a1 nab8 kung5 dao2
+美属萨摩亚#mui2 sog8 sag4 mo5 a1
+中途岛#dong1 tu5 dao2
+法属波利尼西亚#huab4 sog8 bo1 li6 ni5 sai1 a1
+新喀里多尼亚#sing1 kêh4 li2 do1 ni5 a1
+瓦利斯和富图纳#ua1 li6 se1 hua5 bu3 dou5 nab8
+纽埃#niu2 ai1
+西撒哈拉#sai1 sag4 ha1 la1
+中非共和国#dong1 hui1 gang7 hua5 gog4
+刚果共和国#gang1 guê2 gang7 hua5 gog4
+刚果布拉柴维尔#gang1 guê2 bu3 la1 ca5 rui6 re2
+科摩罗#kuê1 mo5 lo5
+肯尼亚#kêng2 ni5 a1
+坦桑尼亚#tang2 seng1 ni5 a1
+赞比亚#zang3 bi2 a1
+津巴布韦#zing1 ba1 bu3 ui2
+莱索托#lai5 sog4 toh4
+直布罗陀#dig8 bu3 lo5 to5
