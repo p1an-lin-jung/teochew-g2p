@@ -41,7 +41,9 @@
     PC网页端访问：https://pd.qq.com/s/13fb621f2
 
     手机QQ/微信小程序端：
-    ![](./image/tencent_discord.jpg)
+            <div align="center">
+                <img src="./image/tencent_discord.jpg" width="200" />
+            </div>
 
 * [2025/04/23] 
   - 增加[国家名称的参考读音](./doc/country_list.md)列表 
