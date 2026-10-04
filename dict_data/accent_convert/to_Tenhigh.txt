@@ -120,13 +120,13 @@
 末_muêg8#muag8
 沫_muêg8#muag8
 秣_muêg8#muag8
-曼_bhuêng6#bhuang6|bhuang2
-谩_bhuêng6#bhuang6|bhuang2
-嫚_bhuêng6#bhuang6|bhuang2
-缦_bhuêng6#bhuang6|bhuang2
-漫_bhuêng6#bhuang6|bhuang2
-墁_bhuêng6#bhuang6|bhuang2
-熳_bhuêng6#bhuang6|bhuang2
+曼_bhuêng2#bhuang2
+谩_bhuêng2#bhuang2
+嫚_bhuêng2#bhuang2
+缦_bhuêng2#bhuang2
+漫_bhuêng2#bhuang2
+墁_bhuêng2#bhuang2
+熳_bhuêng2#bhuang2
 慢_bhuêng6#bhuang6
 蔓_bhuêng6#bhuang6|muang6
 幔_bhuêng6#bhuang6
@@ -678,7 +678,6 @@
 倦_guêng6#guang6
 吸_kib4#kig4
 邺_ngiab8#ngiag8
-寱_ngi3#ghoi7
 拮_kiêg4#kiag4
 刭_gên3#gêng3
 橛_kiêg4#kiag4
@@ -989,7 +988,7 @@
 溘_kab4#kag4
 磕_kab4#kag4
 瞌_kab4#kag4
-榼_kab8#kag4
+榼_kab8#kag8
 勘_kam1#kang1
 勘_kam3#kang3
 龛_kam1#kang1
@@ -1309,7 +1308,6 @@
 揅_ngiêng2#ngiang2
 揅_ngiêng5#ngiang5
 齴_ngiêng3#ngiang3
-妍_ngiêng1#ngiang5
 芩_ngim5#nging5
 吟_ngim5#nging5
 涔_ngim5#nging5
@@ -1399,7 +1397,6 @@
 礽_rong5#rêng5
 说_ruêg8#ruag8
 悦_ruêg8#ruag8
-媵_êng3#rêng6
 卅_sab4#sag4
 飒_sab4#sag4
 靸_sab4#sag4
@@ -1780,7 +1777,6 @@
 鳝_cuain6#cuan6
 坍_tam1#tang1
 岧_tiou5#tiao5
-稙_sêg4#sig8
 盖_kam3#koin3
 囝_lam5#nang5
 挝_zuan1#zua1

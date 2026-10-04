@@ -207,7 +207,7 @@
 淂#dig4
 骘#têg4|dêg4
 锝#dig4
-稙#sêg4|dêg4
+稙#sêg4
 嘚#dig4|dêi1
 踯#dêg4
 德#dêg4
@@ -571,7 +571,7 @@
 多#do1
 哆#do1
 鱽#do1
-朵#do5
+朵#do5|do2
 垛#do5|do2|do6
 哚#do5
 埵#do5|do2
@@ -912,7 +912,7 @@
 印#ing3
 应#êng3
 茚#ing3
-媵#êng3
+媵#êng3|rêng6
 鮣#ing3
 壅#iong2|êng3
 蕹#êng3
@@ -1870,7 +1870,7 @@
 丱#guêng3
 贯#guêng3
 券#guêng3
-逛#guang3|kuang1|guang6
+逛#guang3|guang6
 桊#guêng3
 涫#guêng3
 惯#guêng3
@@ -2548,7 +2548,7 @@
 茩#hou6
 逅#hou6
 垕#hou6
-互#hu5
+互#hu5|hu6
 不#bug4
 否#houn2
 虎#houn2
@@ -3550,7 +3550,7 @@
 颉#kiêg4
 蛣#kiêg4
 揳#kiêg4|soih4
-厥#kiêg8
+厥#kiêg4
 慊#kiam2|kiag4
 阙#kuêh4|kiag4
 楔#siêg4|soih4|kiêg4
@@ -5162,7 +5162,7 @@
 仰#ngiang2
 揅#ngiêng2|ngiêng5
 齴#ngiêng3
-妍#ngiêng1
+妍#ngiêng2|ngiêng5
 尧#ngiou5
 垚#ngiou5
 荛#ngiou5|riou5
@@ -5394,7 +5394,7 @@
 蘋#ping5
 牝#ping2
 贬#ping2|biêng2
-窆#ping2|biêng2
+窆#ping2|biêng6
 砭#ping2|biêng1
 品#bing2
 娉#pêng3
@@ -6431,7 +6431,7 @@
 尗#sog4
 束#sog4
 叔#zêg4
-泝#sog4
+泝#sog4|suag4|su3
 肃#sog4
 索#sog4|soh4
 涑#sog4
@@ -6441,7 +6441,7 @@
 淑#sog4
 寂#sog4
 谡#zêg4|sog4
-溯#su3|sog4
+溯#sog4|suag4|su3
 溹#sog4
 塑#sog4|su3
 鹔#sog4

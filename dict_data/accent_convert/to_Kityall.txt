@@ -19,7 +19,6 @@
 缾_ping5#pêng5
 毕_big8#biag8
 哔_big4#bêg4
-哔_pêg4#biag8
 荜_big4#bêg4
 筚_big8#biag8
 跸_big8#biag8
@@ -200,7 +199,6 @@
 尾_bhuê2#bhuê2|mai2
 韈_bhuêh8#ghuêh8
 啜_cuêg4#cuag4
-
 仟_coin1#cain1
 筅_coin2#cain2
 蚕_coin5#cain5
@@ -231,8 +229,6 @@
 燀_ciêng2#ciang2
 唱_ciê3#cio3
 长_diên2#dion2
-
-
 弨_ciou1#ciao1
 弨_ziou1#ziao1
 悄_ciou2#ciao2
@@ -252,7 +248,6 @@
 嘲_ciou2#ciao2
 謿_ciou2#ciao2
 晁_ciou5#ciao5
-
 鼌_ciou5#ciao5
 瞧_ciou5#ciao5
 七_cig4#cêg4
@@ -365,7 +360,6 @@
 靛_diêng6#diang6
 癜_doin7#dain7
 癜_diêng6#diang6
-
 石_sig8#sêg8
 石_siêh8#sioh8
 掸_siêng6#siang6
@@ -520,23 +514,19 @@
 跳_diê5#dio5
 潮_diê5#dio5
 赵_diên6#dio6
-
 著_diêh4#dioh4
 鐯_diêh4#dioh4
-
 帐_diên3#dion3
 胀_diên3#dion3
 钓_diên3#dion3
 账_diên3#dion3
 塲_diên5#dion5
 繇_iou5#iao5
-朵_do5#do2
 垛_do2#do2
 哚_do5#do2
 躲_do5#do2
 剁_do3#do3
 萄_to5#do5
-
 单_siêng6#siang6
 单_siêng5#siang5
 耑_zuêng1#zuang1
@@ -604,7 +594,7 @@
 殣_geng2#gêng2
 亘_geng3#gêng3
 茛_geng3#gêng3
-哏_geng3#gêng1
+哏_geng3#gêng3
 睊_giêng3#giang3
 靳_geng3#gêng3
 觐_geng3#gêng3
@@ -701,7 +691,6 @@
 橘_gig4#gêg4
 驈_gig4#gêg4
 紧_ging2#gêng2
-
 呌_giê3#gio3
 嘂_giê3#gio3
 噭_giê3#gio3
@@ -799,7 +788,6 @@
 劵_guêng6#guang6
 倦_guêng6#guang6
 鄞_ngeng5#ngêng5
-寱_ngi3#ghoi7
 拮_kiêg4#kiag4
 刭_gên3#gêng3
 橛_kiêg4#kiag4
@@ -896,7 +884,6 @@
 远_iêng2#iang2
 或_hog8#huêg8
 阈_hog8#huêg8
-
 惑_hog8#huêg8
 棫_hog8#huêg8
 蜮_hog8#huêg8
@@ -981,7 +968,6 @@
 忆_ig4#êg4
 噎_ig4#êg4
 曰_uêg4#iag4
-
 约_iouh4#iaoh4
 咽_ing1#êng1
 咽_iêng3#iang3
@@ -1016,7 +1002,6 @@
 杨_iên5#ion5
 沿_ing5#êng5
 昜_iên5#ion5
-
 垟_iê5#io5
 烊_iên5#ion5
 铅_ing5#êng5
@@ -1044,7 +1029,6 @@
 吆_iou1#iao1
 妖_iou1#iao1
 殀_iou1#iao1
-
 枵_iou1#iao1
 喓_iou1#iao1
 窈_iou2#iao2
@@ -1161,7 +1145,7 @@
 垦_keng2#kiang2
 恳_keng2#kiang2
 邝_kuang3#keng3
-芹_keng5#kêng1
+芹_keng5#kêng5
 囷_keng5#kêng5
 勤_keng5#kêng5
 懃_keng5#kêng5
@@ -1286,7 +1270,6 @@
 滥_lam6#nam6
 鳞_ling5#lêng5
 赧_lang2#nang2
-
 烂_lang6#nang6
 捞_liou5#liao5
 捞_liê5#lio5
@@ -1401,7 +1384,7 @@
 遴_ling5#lêng5
 嶙_ling5#lêng5
 璘_ling5#lêng5
-辚_ling5#lêng1
+辚_ling5#lêng5
 膦_ling5#lêng5
 𪊲_ling5#lêng5
 磷_ling5#lêng5
@@ -1436,7 +1419,6 @@
 乱_luêng6#luang6
 乱_ruêng6#ruang6
 𤯦_lung3#nung3
-
 能_lêng5#nêng5
 哞_mong5#mou5
 蔑_mig8#mêg8
@@ -1513,7 +1495,6 @@
 摸_mong5#mou5
 某_mong2#mou2
 檬_mong5#mou5
-
 鄮_mong3#mou3
 牟_mong5#mou5
 侔_mong5#mou5
@@ -1588,7 +1569,6 @@
 揅_ngiêng2#ngiang2
 揅_ngiêng5#ngiang5
 齴_ngiêng3#ngiang3
-妍_ngiêng1#ngiang5
 尧_ngiou5#ngiao5
 垚_ngiou5#ngiao5
 荛_ngiou5#ngiao5
@@ -1723,7 +1703,6 @@
 褥_rog8#riog8
 𣭲_rong2#riong2
 氄_rong2#riong2
-
 礽_rong5#riong5
 戎_rong5#riong5
 肜_rong5#riong5
@@ -1733,7 +1712,7 @@
 毧_rong5#riong5
 说_ruêg8#ruag8
 悦_ruêg8#ruag8
-媵_êng3#uêng6
+媵_rêng6#uêng6
 筲_siou1#siao1
 先_soin1#sain1
 先_sing1#sêng1
@@ -1774,7 +1753,6 @@
 毨_siêng2#siang2
 𣭡_siêng2#siang2
 铣_siêng2#siang2
-
 尠_siêng2#siang2
 尟_siêng2#siang2
 跣_siêng2#siang2
@@ -1786,7 +1764,6 @@
 骟_siêng3#siang3
 煽_siêng3#siang3
 _siêng3#siang3
-
 失_sig4#sêg4
 室_sig4#sêg4
 湜_sig8#sêg8
@@ -1839,7 +1816,6 @@
 小_siê2#sio2
 惜_siêh4#sioh4
 液_siêh8#sioh8
-
 箱_siên1#sion1
 赏_siên2#sion2
 肖_siou6#siao6
@@ -1903,7 +1879,6 @@
 𢹱_siou1#siao1
 筱_siou2#siao2
 謏_siou2#siao2
-
 少_siou3#siao3
 数_siou3#siao3
 劭_siou6#siao6
@@ -2054,12 +2029,10 @@
 赆_ziêng2#ziang2
 儘_zing6#zêng6
 招_ziê1#zio1
-
 椒_ziê1#zio1
 蕉_ziê1#zio1
 蕉_ziou1#ziao1
 炤_ziê3#zio3
-
 曌_ziê3#zio3
 瞾_ziê3#zio3
 即_ziêg4#ziag4
@@ -2143,7 +2116,6 @@
 譔_zuêng6#zuang6
 籑_zuêng6#zuang6
 䉵_zuêng6#zuang6
-
 蘸_ziou1#ziao1
 辎_ze1#zu1
 浙_zig4#ziag4
@@ -2205,9 +2177,7 @@
 褧_guang2#kuêng2
 裹_lo2#lua2
 矜_keng5#kêng1
-逛_guang3#kuang5
 逛_kuang1#kuang5
-逛_guang6#kuang5
 悬_hiêng5#hiang5
 悬_huin5#hiang5
 悬_ngui5#hiang5
@@ -2238,8 +2208,6 @@
 诏_ziou3#ziao3
 冗_rong2#riong2
 糁_siam1#sim1
-泝_sog4#suag4|su3
-溯_sog4#suag4
 塑_sog4#suag4
 囹_ling3#lêng3
 𤞚_siou2#siao2
@@ -2284,7 +2252,7 @@
 𠀒_hiê2#hio2
 𨅹_diê7#dio7
 蔡_cua3#cuan3
-板_boin1#boin2
+板_boin1#bain2
 踢_tig4#têg4
 解_goi3#gai3
 𠲶_ming1#mêng1

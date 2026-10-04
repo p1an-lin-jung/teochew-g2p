@@ -8,7 +8,6 @@
 瓶_ping5#pêng5
 缾_ping5#pêng5
 毕_big8#biag8
-哔_pêg4#biag8
 哔_big8#biag8
 哔_big4#bêg4
 荜_big4#bêg4
@@ -365,7 +364,6 @@
 稭_giêg4#giag4
 菅_guêng2#guang2
 乾_kiêng5#kiang5
-
 痫_hiêng5#hiang5
 卷_guêng2#guang2
 筦_guêng2#guang2
@@ -853,7 +851,7 @@
 遴_ling5#lêng5
 嶙_ling5#lêng5
 璘_ling5#lêng5
-辚_ling5#lêng1
+辚_ling5#lêng5
 膦_ling5#lêng5
 𪊲_ling5#lêng5
 磷_ling5#lêng5
@@ -965,7 +963,6 @@
 揅_ngiêng2#ngiang2
 揅_ngiêng5#ngiang5
 齴_ngiêng3#ngiang3
-妍_ngiêng1#ngiang5
 玩_nguêng2#nguang2
 朊_nguêng2#nguang2
 顽_nguêng2#nguang2
@@ -1339,7 +1336,6 @@
 柈_puêng3#bang3
 饭_huêng6#huang6
 哔_big8#biag8
-哔_pêg4#biag8
 荜_big8#biag8
 弼_big8#biag8
 瘪_big8#biag8
@@ -1367,12 +1363,9 @@
 眩_hing5#hêng5
 斡_uêg4#uag4
 迎_ngiêng5#ngêng5
-
 暖_luêng2#nuang2
 忍_rim2#ring2
 糁_siam1#siang1
-泝_sog4#suag4|su3
-溯_sog4#suag4|sog4
 塑_sog4#suag4|sog4
 囹_ling3#lêng3
 唺_diêng5#diang5
@@ -1767,7 +1760,7 @@
 溘_kab4#kag4
 磕_kab4#kag4
 瞌_kab4#kag4
-榼_kab8#kag4
+榼_kab8#kag8
 勘_kam1#kang1
 勘_kam3#kang3
 龛_kam1#kang1
@@ -2065,11 +2058,9 @@
 拈_liam1#niang1
 廿_niam6#niang6
 唚_zim1#zing1
-
 黏_liam1#niang1
 捻_liam3#niang3
 埝_niang3#liang3|niang3
-
 囝_lam5#nang5
 罱_lam2#lang2
 罱_lam1#lang1
@@ -2100,7 +2091,6 @@
 滥_lam6#lang6
 鳞_ling5#lêng5
 赧_lang2#nang2
-
 踢_tig4#têg4
 解_goi3#gai3
 某_mong2#mung2
