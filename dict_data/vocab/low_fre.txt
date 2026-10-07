@@ -361,7 +361,7 @@
 鸦#ah4*
 积#zêg4
 树#su6
-象#siang6
+象#siang6|siên3
 檐#zin5*
 硕#siah8*
 丧#seng1
@@ -399,7 +399,7 @@
 表#biê1|biê2
 爆#pog4*
 氓#ming5*
-芒#mên5*
+芒#mê5*
 梁#liang5*
 篱#loi7*
 联#ling5*
@@ -538,10 +538,10 @@
 管#geng2*
 蘑#bhua5*
 摩#mo5|bhua5
-蔓#muan5*
+蔓#mua5*
 呢#ni5*|ni1*|ni7*
 淆#nao1*
-漫#muan7*
+漫#mua7*
 闷#bhung6*
 草#co2
 沮#zu2*|zu6*
@@ -782,7 +782,7 @@
 啰#lo7|lo5
 还#huêng5
 唚#cim3
-乜#mi1|nian7
+乜#mi1|nia7
 紩#diêg4*
 段#duêng6
 嗄#sah4|o6
@@ -804,3 +804,10 @@
 稙#sig8|dêg4
 溢#iah4
 逛#kuang1
+适#kuah4
+倒#dao2
+胪#lu5
+岁#suê3
+山#sang1
+迈#mai1
+朗#lang5

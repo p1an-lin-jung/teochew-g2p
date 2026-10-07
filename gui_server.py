@@ -2,6 +2,7 @@ import gradio as gr
 import jieba
 from script.pyPengIm import pyPengIm 
 from script import utils
+from script import romanization
 import yaml
 
 pinyin_tool = pyPengIm()
@@ -14,6 +15,11 @@ with open("./dict_data/accent_convert/accent.yaml", 'r', encoding='utf-8') as fi
         accent_dict[k] = v['name']
 
 reversed_accent_dict = {value: key for key, value in accent_dict.items()}
+
+# 拼音方案：展示名 -> 方案代码，默认潮拼
+scheme_dict = romanization.available_schemes()
+reversed_scheme_dict = {value: key for key, value in scheme_dict.items()}
+default_scheme_name = scheme_dict['pengim']
 
 def auto_segment(input_text):
     return " ".join(jieba.cut(input_text))
@@ -72,15 +78,38 @@ def zi_and_pinyin(text, pinyin_seq):
             result.append(text[i]+'@'+ls[i])
     return " ".join(result)
 
-def process_text(input_text, location, return_seq):
+def process_text(input_text, location, return_seq, scheme_name=default_scheme_name):
     # print(input_text)
-    pinyin_seq = pinyin_tool.pinyin(input_text,accent=reversed_accent_dict[location], auto_split=False)['pinyin_seq']
+    pinyin_seq = pinyin_tool.pinyin(
+        input_text,
+        accent=reversed_accent_dict[location],
+        auto_split=False,
+        scheme=reversed_scheme_dict[scheme_name]
+    )['pinyin_seq']
     
     if return_seq:
         return pinyin_seq
     
     zi_at_pinyin_seq = zi_and_pinyin(input_text, pinyin_seq)
     return zi_at_pinyin_seq
+
+def convert_between(han, pinyin_seq, from_accent_name, to_accent_name, from_scheme_name, to_scheme_name):
+    """口音互转 + 拼音方案互转：读音按“源拼音方案”解析成潮拼，转口音后再按“目标拼音方案”输出。"""
+    han = restrip(han)
+    pinyin_seq = pinyin_seq.strip()
+    if not pinyin_seq:
+        return ""
+    try:
+        chaopeng = pinyin_tool.to_scheme(pinyin_seq, 'pengim', from_scheme=reversed_scheme_dict[from_scheme_name])
+        from_accent = reversed_accent_dict[from_accent_name]
+        to_accent = reversed_accent_dict[to_accent_name]
+        if han and from_accent != to_accent:
+            chaopeng = pinyin_tool.convert_accent_between(han, chaopeng, from_accent, to_accent)
+        elif from_accent != to_accent:
+            return "口音互转需要同时填写汉字，且汉字个数要和读音个数一致"
+        return pinyin_tool.to_scheme(chaopeng, reversed_scheme_dict[to_scheme_name])
+    except ValueError as e:
+        return str(e)
 
 def auto_translate(text):
     return pinyin_tool.to_oral(jieba.lcut(text))
@@ -106,6 +135,12 @@ with gr.Blocks() as demo:
                 value="府城"
         )
 
+        scheme = gr.Dropdown(
+                choices=list(reversed_scheme_dict.keys()),
+                label="拼音方案（国际音标请点“转国际音标”）",
+                value=default_scheme_name
+        )
+
     with gr.Row():
         num_conv_btn_1 = gr.Button("阿拉伯数字转汉字（智能）")
         num_conv_btn_0 = gr.Button("阿拉伯数字转汉字（直接）")
@@ -126,6 +161,20 @@ with gr.Blocks() as demo:
         ipa_btn = gr.Button("转国际音标③")
         pinyin_btn = gr.Button("拼音转换③")
     
+    gr.Markdown("### 口音 / 拼音方案互转")
+    gr.Markdown("填写汉字和对应的读音（空格分隔，每个字一个读音，多音字候选用 | 分隔），选择源与目标口音、源与目标拼音方案。"
+                "只转拼音方案时可以不填汉字且口音保持一致。")
+    with gr.Row():
+        convert_han = gr.Textbox(label="汉字（口音互转需要）")
+        convert_seq = gr.Textbox(label="读音")
+    with gr.Row():
+        from_accent = gr.Dropdown(choices=list(reversed_accent_dict.keys()), label="源口音", value="府城")
+        to_accent = gr.Dropdown(choices=list(reversed_accent_dict.keys()), label="目标口音", value="府城")
+        from_scheme = gr.Dropdown(choices=list(reversed_scheme_dict.keys()), label="源拼音方案", value=default_scheme_name)
+        to_scheme = gr.Dropdown(choices=list(reversed_scheme_dict.keys()), label="目标拼音方案", value=default_scheme_name)
+    convert_btn = gr.Button("互转")
+    convert_output = gr.Textbox(label="互转结果")
+
     # 按钮事件绑定
     auto_seg_btn.click(auto_segment, input_text, seg_output)
     manual_seg_btn.click(manual_segment, input_text, seg_output)
@@ -138,6 +187,7 @@ with gr.Blocks() as demo:
     single_char_btn.click(single_char_query, input_text, pinyin_output)
     clear_btn.click(clear_all, None, [input_text, seg_output, pinyin_output])
     ipa_btn.click(to_ipa, [seg_output, location], pinyin_output)
-    pinyin_btn.click(process_text, [seg_output, location, return_type], pinyin_output)
+    pinyin_btn.click(process_text, [seg_output, location, return_type, scheme], pinyin_output)
+    convert_btn.click(convert_between, [convert_han, convert_seq, from_accent, to_accent, from_scheme, to_scheme], convert_output)
 
 demo.launch()

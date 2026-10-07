@@ -1,4 +1,6 @@
 from . import utils
+from . import romanization
+from .accent import AccentConverter
 import jieba
 import types
 import yaml
@@ -21,6 +23,7 @@ class pyPengIm():
         }
 
         self.accent_dict = self._load_accent()
+        self._accent_converter = AccentConverter()
 
         self._loaded_dicts = {}
         
@@ -51,7 +54,14 @@ class pyPengIm():
 
         return accent_dict
     
-    def pinyin(self, text, heteronym=False, accent='', auto_split=True):
+    def pinyin(self, text, heteronym=False, accent='', auto_split=True, scheme='pengim'):
+        """汉字转拼音。
+
+        scheme: 输出的拼音方案，默认 'pengim'（潮拼）。可选值见 romanization.available_schemes()。
+                'result' 字段始终保持潮拼，只有 'pinyin_seq' 会按 scheme 转换。
+        """
+        if scheme not in romanization.SCHEMES:
+            raise ValueError("未知拼音方案: {}，可选: {}".format(scheme, ', '.join(romanization.SCHEMES)))
         text = text.upper()
         if heteronym:
             pinyin_list = self._pinyin_heteronym(text)
@@ -68,9 +78,40 @@ class pyPengIm():
 
         return {
             'result': pinyin_list,
-            'pinyin_seq': self._to_pinyin_sequence(pinyin_list),
+            'pinyin_seq': self.to_scheme(self._to_pinyin_sequence(pinyin_list), scheme),
             'surname_notice': surname_list
         }
+
+    def to_scheme(self, pinyin_seq, scheme='pengim', from_scheme='pengim'):
+        """拼音方案互转：把 from_scheme 写的拼音序列（空格分隔，多音字用 | 分隔）转成 scheme。
+
+        不写 from_scheme 时，输入按潮拼处理。任意两个方案之间都可以互转，内部经潮拼中转。
+        scheme / from_scheme 可选: pengim(潮拼)、dieghv(潮语拼音)、fielde(斐尔德)、puj(白话字，符号声调)、
+        pujn(白话字，数字声调)、pujs(白话字，上标声调)、ggn(家己人)、ggns(家己人，上标声调)、chen(陈恩泉)。
+        反向解析时，无法识别的音节原样保留。
+        """
+        for name in (scheme, from_scheme):
+            if name not in romanization.SCHEMES:
+                raise ValueError("未知拼音方案: {}，可选: {}".format(name, ', '.join(romanization.SCHEMES)))
+        return romanization.convert_between(pinyin_seq, from_scheme, scheme)
+
+    def convert_accent_between(self, word, pinyin_seq, from_accent, to_accent):
+        """口音互转：把 from_accent 口音下 word 的读音，转成 to_accent 口音。
+
+        word 是汉字串；pinyin_seq 是与汉字一一对应的潮拼序列（空格分隔，多音字候选用 | 分隔），
+        可以是任意口音的读音，只要和 from_accent 一致。返回同样格式的字符串。
+        口音代码见 accent_converter().accents()：tc 府城、ky 揭阳、st 汕头、th 澄海、gz_c / gz_g 金石、ap 庵埠。
+        已知汉字时能精确还原（词典里 99.9% 的 (字,音) 可唯一还原）；word 与读音数量对不上时抛 ValueError。
+        """
+        syllables = [token.split('|') for token in pinyin_seq.split(' ')]
+        if len(word) != len(syllables):
+            raise ValueError("汉字数 {} 与读音数 {} 不一致".format(len(word), len(syllables)))
+        converted = self._accent_converter.convert_word(word, syllables, from_accent, to_accent)
+        return ' '.join('|'.join(item) if item else syl for item, syl in zip(converted, pinyin_seq.split(' ')))
+
+    def accent_converter(self):
+        """返回口音互转器，可直接调用 convert_char / convert_syllable / candidates 等。"""
+        return self._accent_converter
 
     def sentence_cut(self, text):
         new_text_list = []

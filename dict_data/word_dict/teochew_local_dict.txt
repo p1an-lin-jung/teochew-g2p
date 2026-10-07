@@ -7,7 +7,7 @@
 秽刷#uê3 suêh4
 哩啰#li1 lo1
 正啰#zian3 lo1
-猛猛#mên2 mên2
+猛猛#mê2 mê2
 个筒#gai5 dang6
 𠀾成#bhoi6 zian5
 喏是#a7 si6
@@ -21,7 +21,7 @@
 秽刷#uê3 suêh4
 哩啰#li1 lo1
 正啰#zian3 lo1
-猛猛#mên2 mên2
+猛猛#mê2 mê2
 代言#toi3 ngang5
 个筒#gai5 dang6
 𠀾正#bhoi6 zian5
@@ -46,7 +46,7 @@
 吤是#gai2 si6
 做尼#zo3 ni5
 𨑨迌#tig4 to5
-二爿#no6 boin5
+
 欲让#ain3 riang6
 昣时#diang1 si5
 许昣时#he2 diang1 si5
@@ -89,7 +89,7 @@
 滴囝奶#dih4 gian2 ni6
 绌滴囝#zuah8 dih4 gian2
 做一下#zo3 zêg8 ê7
-做倵#zo bhu5
+做倵#zo3 bhu5
 水墘#zui2 gin5
 路墘#lou7 gin5
 溪墘#koi1 gin5
@@ -124,11 +124,11 @@
 𡛂人#i1 nang7
 日昼#rig8 dao3
 眠起早#mung5 ki2 za2
-眠早#mên2 za2
-明日#ma2|muan2 rig8
-明眠早#ma2|muan2 mên2 za2
+眠早#mê2 za2
+明日#ma2|mua2 rig8
+明眠早#ma2|mua2 mê2 za2
 今日#gim1|gian2 rig8
-今夜#gim1 mên5
+今夜#gim1 mê5
 暝囝#mêng1 gian2
 翁姐#ang1 zia2
 小姐#siê2 zia2
@@ -153,8 +153,8 @@
 伐过去#huah8 guê3 ke3
 㘰粪#dou6 bung3
 𠀾少#bhoi6 ziê2
-塗下#tou6 ê6
-塗骹#tou6 ka1
+塗下#tou5 ê6
+塗骹#tou5 ka1
 车辇#cia1 ling2
 后生#hao6 sên1
 后生囝#hao6 sên1 gian2
@@ -260,7 +260,7 @@
 载土#zai3 tou2
 红土#ang5 tou2
 番葛#hung1 guah4
-明夜#ma2|muan2 mên5
+明夜#ma2|mua2 mê5
 衹块#zi2 go3
 衹撮#zi2 coh4
 者是#zia2 si6
@@ -284,7 +284,6 @@
 唔单#m6 duan1
 险险#hiam2 hiam2
 做一下#zo3 zêg8 ê7
-做倵#zo3 bhu5
 拢是#long2 si6
 尽是#zing6 si6
 食水#ziah8 zui2
@@ -294,8 +293,8 @@
 蔑手机#mag4 ciu2 gi1
 耍手机#seng2 ciu2 gi1
 𠀾孬#bhoi6 mo2
-塗下#tou5 ê6
-塗骹#tou5 ka1
+
+
 從细#dang5 soi3
 挂手套#gua3 ciu2 tao3
 抑是#a1 si6
@@ -365,7 +364,7 @@
 𡊵着#dan6 diêh4
 𡊵伤#dan6 siên1
 比拚#bi2 bian3
-拚命#bian3 mian7
+拚命#bian3 mia7
 拚搏#bian3 pag4
 拚生死#bian3 sên1 si2
 正过去#zian3 guê3 ke3
@@ -410,7 +409,7 @@
 衹张#zi2 diên1
 唔够#m6 gao3
 遇着#ngo6 diêh4
-硬虎#ngên6 houn2
+硬虎#ngê6 houn2
 无若信#bho5 riêh8 sing3
 伊还#i1 huan1
 𡛂还#i1 huan1
@@ -423,7 +422,7 @@
 许底#he2 doin2
 食大#ziah8 dua7
 咄救#duah4 giu3
-暝暗头#mên1 am3 tao5
+暝暗头#mê1 am3 tao5
 吸薰#guh4 hung1
 打寸嫩#pah4 cung3 lung3
 若大#riêh8 dua7
@@ -450,11 +449,11 @@
 看唔着#toin2 m6 diêh8
 底一撮#di7 zêg8 coh4
 好得#ho2 dig4
-当夜#deng1 mên5
+当夜#deng1 mê5
 若长#riêh8 deng5
 徛起#kia6 ki2
 唔知关#m6 zai1 guêng1
-好猛#hoh4 mên2
+好猛#hoh4 mê2
 沕唔俐#bhih4 m6 li7
 揞紧#an1 ging2
 底种#di7 zêng2
@@ -469,9 +468,9 @@
 惊到亍下叫#gian1 gao3 coh4 ê7 giê3
 会知#oi6 zai1
 倒返#do3 deng2
-一眠早#zêg8 mên2 za2
+一眠早#zêg8 mê2 za2
 一下旰#zêg8 ê7 gua3
-鮀莲#to5 noin5
+鮀莲#to5 noi5
 离唔开#li5 m6 kui1
 大大细细#dua7 dua7 soi3 soi3
 厝边#cu3 bin1
@@ -479,16 +478,16 @@
 通间#tong1 goin1
 昨下旰#za1 ê6 gua3
 像烧#ciên6 siê1
-昨眠早#za1 mên5 za2
+昨眠早#za1 mê5 za2
 觅着#cuê7 diêh4
 觅到#cuê7 gao3
 底一种#di7 zêg8 zêng2
-莲䕧#noin5 gao6
+莲䕧#noi5 gao6
 地豆#di7 dao7
 㪗气#tao2 kui3
 波薐#buê1 lêng5
 㪗开#tao2 kui1
-硬鳞#ngên6 lang1
+硬鳞#ngê6 lang1
 透你嫑#tao3 le2 mai3
 收宿#siu1 suah4
 好稜#hoh4 lêng7
@@ -499,9 +498,9 @@
 只车#ziah4 cia1
 双箸#sang1 de7
 丛树#zang5 ciu7
-颠倒#ding1 do2 dao2
+颠倒倒#ding1 do2 dao2
 块形#go3 hêng5
-领被#nian2 puê6
+领被#nia2 puê6
 洗白#soi2 bêh8
 白白#bêh8 bêh8
 坪畔#pian5 boin5
@@ -545,7 +544,7 @@
 曈曈光#dang5 dang5 geng1
 肉字畔#bhah4 ri7 boin5
 手指头#ciu2 zoin2 tao5
-二爿#ri6 boin5
+二爿#no6|ri6 boin5
 鸡窦#goi1 dao3
 呾大话#dan3 dua7 uê7
 行棋#gian5 gi5
@@ -584,7 +583,7 @@
 囥臱#keng3 mi1
 曝着#pag8 diêh4
 哺屎呐尿#bou7 sai2 nah4 riê7
-夜旰#mên5 gua3
+夜旰#mê5 gua3
 逷跎#tig8 to5
 平峗#bên5 guin5
 平㩼#bên5 zoi7
@@ -656,7 +655,7 @@
 平家#bên5 gê1
 抑无#a1 bho5
 吊颔#diou3 ang6
-瘾瘾#ngiang3 ngiang3
+瘾瘾#ngiêng3 ngiêng3
 看会出#toin2 oi6 cug4
 行磨#gian5 bhua5
 孙仔#sung1 gian2
@@ -667,7 +666,7 @@
 相输#siê1 su1
 行孝#gian5 hao3
 火麸土#huê2 hu1 tou2
-青盲#cên1 mên5
+青盲#cên1 mê5
 面头前#ming7 tao5 zoin5
 佮加#gah4 gê1
 压帖#iab4 tiab4
@@ -725,7 +724,7 @@
 相续#siê1 sua3
 好瘾#hoh4 ngiêng3
 瘾#ngiêng3
-暝暗#mên1 am3
+暝暗#mê1 am3
 夜昏囝#mêng1 hng1 gian2
 曱甴#ga1 zuah8
 使匸#sai2 soih4
@@ -768,12 +767,12 @@
 霍斛#kag4 hog8
 好长#hoh4 deng5
 檐龙#zin5 lêng5
-临檐下#lim5 zin5 ê6 
+临檐下#lim5 zin5 ê6
 厝瓦下#cu3 hia6 ê6
 荠葱#zin5 cang1
 漱齿#ciu3 ki2
 生痔#sên1 ti6
-旮对#ga1 dui3 
+旮对#ga1 dui3
 柠檬#lam5 mong2
 鲳鱼#ciên1 he5
 银鲳#ngeng5 ciên1

@@ -1535,7 +1535,7 @@
 橼_uêng5#uang5
 研_ngiêng2#ngiang2
 研_ngiêng5#ngiang5
-研_ngoin2#ngain2
+研_ngoi2#ngai2
 元_nguêng5#nguang5
 元_ngeng5#ngêng5
 讫_ngeg4#ngiag4
@@ -2198,8 +2198,8 @@
 黏_liam1#niam1
 捻_liam3#niam3
 埝_niang3#liam3|niang3
-莲_noin5#nai5
-楝_noin7#nai7
+莲_noi5#nai5
+楝_noi7#nai7
 暖_luêng2#nuang2
 忍_rim2#rêng2
 忍_lung2#nung2

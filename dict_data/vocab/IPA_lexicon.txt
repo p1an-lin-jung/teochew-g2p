@@ -66,6 +66,7 @@ iouh#iouʔ
 ioun#iõũ
 iounh#iõũʔ
 iu#iu
+iuh#iuʔ
 iun#ĩũ
 iê#ie
 iêg#iek
@@ -105,11 +106,12 @@ uêg#uek
 uêh#ueʔ
 uêi#ueɪ
 uên#ũẽ
-uêng#ueng
+uêng#ueŋ
 ê#e
 êg#ek
 êh#eʔ
 êi#eɪ
+êm#em
 ên#ẽ
 êng#eŋ
 ênh#ẽʔ

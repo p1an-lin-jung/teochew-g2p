@@ -27,7 +27,7 @@
 莱芜炮台#lai5 bhu5 pao3 tai5
 崎碌炮台#gia6 lag8 pao3 tai5
 龟山#gu1 suan1
-鸥汀#ou1 dêng1 
+鸥汀#ou1 dêng1
 月浦#ghuêh8 pou2
 东陇#dang1 lêng2
 东里#dang1 lêng2
@@ -179,7 +179,7 @@
 江门#gang1 mung5
 阳江#iang5 gang1
 湛江#kam1 gang1
-茂名#mong6 mian5
+茂名#mong6 mia5
 云浮#hung5 pu5
 肇庆#siou6 kêng3
 乐昌#lag8 ciang1
@@ -192,7 +192,7 @@
 梅县#bhuê5 guin7
 兴宁#hêng1 lêng5
 平远#pêng5 iêng2
-蕉岭县#ziê1 nian2 guin7
+蕉岭县#ziê1 nia2 guin7
 大埔#dua7 bou1
 丰顺#hong1 sung6
 五华#ngou2 hua5
@@ -212,7 +212,7 @@
 鹤山#hoh8 suan1
 恩平#eng1 pêng5
 阳春#iang5 cung1
-麻章#muan5 ziang1
+麻章#mua5 ziang1
 坡头#bo1 tao5
 雷州#lui5 ziu1
 廉江#liam5 gang1
@@ -262,7 +262,7 @@
 塘厦#deng5 hê7
 清溪#cêng1 koi1
 凤岗#hong6 gang1
-麻涌#muan5 cong1
+麻涌#mua5 cong1
 道滘镇#dao6 ga3 ding3
 小榄镇#siou2 na2 ding3
 大涌镇#dai6 cong1 ding3
@@ -335,7 +335,7 @@
 光华街道#guang1 hua5 goi1 dao6
 广厦街道#guang2 hê7 goi1 dao6
 岐山街道#gia6 suan1 goi1 dao6
-鮀莲街道#to5 noin5 goi1 dao6
+鮀莲街道#to5 noi5 goi1 dao6
 鮀江街道#to5 gang1 goi1 dao6
 月浦街道#ghuêh8 pou2 goi1 dao6
 小公园街道#siou2 gong1 hng5 goi1 dao6
@@ -369,19 +369,19 @@
 仙城镇#siêng1 sian5 ding3
 胪岗镇#lou5 geng1 ding3
 红场镇#ang5 diên5 ding3
-雷岭镇#lui5 nian2 ding3
+雷岭镇#lui5 nia2 ding3
 陇田镇#lêng2 cang5 ding3
 凤翔街道#hong6 siang5 goi1 dao6
 广益街道#guang2 iah4 goi1 dao6
 澄华街道#têng5 hua5 goi1 dao6
 上华镇#siang6 hua5 ding3
 隆都镇#long5 dou1 ding3
-莲下镇#noin5 ê6 ding3
-莲上镇#noin5 ziên6 ding3
+莲下镇#noi5 ê6 ding3
+莲上镇#noi5 ziên6 ding3
 溪南镇#koi1 lam5 ding3
 东里镇#dang1 lêng2 ding3
 盐鸿镇#iam5 hong5 ding3
-莲华镇#noin5 hua5 ding3
+莲华镇#noi5 hua5 ding3
 后宅镇#ao6 têh8 ding3
 云澳镇#hung5 o3 ding3
 深澳镇#cim1 o3 ding3
@@ -406,7 +406,7 @@
 月城镇#ghuêh8 sian5 ding3
 白塔镇#bêh8 tah4 ding3
 龙尾镇#lêng5 bhuê2 ding3
-桂岭镇#gui3 nian2 ding3
+桂岭镇#gui3 nia2 ding3
 玉滘镇#ghêg8 ga3 ding3
 河婆街道#ho5 bo5 goi1 dao6
 龙潭镇#lêng5 tam5 ding3
@@ -530,7 +530,7 @@
 阜新市#hu6 sing1 ci6
 辽阳市#liou5 iang5 ci6
 盘锦市#buan5 gim2 ci6
-铁岭市#tih4 nian2 ci6
+铁岭市#tih4 nia2 ci6
 朝阳市#ciou5 iang5 ci6
 葫芦岛市#hou5 lou5 dao2 ci6
 吉林#gig4 lim5
@@ -585,7 +585,7 @@
 舟山市#ziu1 suan1 ci6
 台州市#tai5 ziu1 ci6
 丽水市#li6 zui2 ci6
-安徽#ang1 hui6
+安徽#ang1 hui1
 安徽省#ang1 hui1 sên2
 合肥市#hah8 bui5 ci6
 芜湖市#bhu5 ou5 ci6
@@ -798,7 +798,7 @@
 金陵#gim1 lêng5
 临安#lim5 ang1|uan1
 建康#giêng6 kang1
-大名#dai6 mian5
+大名#dai6 mia5
 汴梁#biêng6 niê5
 京师#gian1 se1
 盛京#sêng6 gian1
