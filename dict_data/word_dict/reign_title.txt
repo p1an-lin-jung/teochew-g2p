@@ -16,7 +16,7 @@
 地节#di7 zag4
 元康#nguêng5 kang1
 神爵#sing5 ziag4
-五凤#ngou6 hong6
+五凤#ngoun6 hong6
 甘露#gam1 lou7
 黄龙#ng5 lêng5
 初元#co1 nguêng5
@@ -131,7 +131,7 @@
 宁康#lêng5 kang1
 隆安#long5 ang1
 大亨#dai6 hêng1
-义熙#ngi6 hi1
+义熙#ngin6 hi1
 元熙#nguêng5 hi1
 天康#tiêng1 kang1
 永凤#iong2 hong6
@@ -165,7 +165,7 @@
 昌平#ciang1 pêng5
 建明#giêng6 mêng5
 中兴#dong1 hêng1
-建义#giêng6 ngi6
+建义#giêng6 ngin6
 建弘#giêng6 hong5
 永弘#iong2 hong5
 龙飞#lêng5 buê1
@@ -186,7 +186,7 @@
 神玺#sing5 re2
 玄始#hiêng5 si2
 承玄#sêng5 hiêng5
-义和#ngi6 hua5
+义和#ngin6 hua5
 承阳#sêng5 iang5
 缘禾#uêng5 da5
 承和#sêng5 hua5
@@ -199,7 +199,7 @@
 泰豫#tai3 e6
 元徽#nguêng5 hui1
 升明#sêng1 mêng5
-义嘉#ngi6 gia1
+义嘉#ngin6 gia1
 永明#iong2 mêng5
 隆昌#long5 ciang1
 延兴#iêng6 hêng1
@@ -294,7 +294,7 @@
 开皇#kai1 huang5
 仁寿#ring5 siu7
 大业#dai6 ngiab8
-义宁#ngi6 lêng5
+义宁#ngin6 lêng5
 武德#bhu2 dêg4
 贞观#zêng1 guêng1
 永徽#iong2 hui1
@@ -305,7 +305,7 @@
 总章#zong2 ziang1
 咸亨#ham5 hêng1
 上元#siang6 nguêng5
-仪凤#ngi5 hong6
+仪凤#ngin5 hong6
 调露#diou7 lou7
 永隆#iong2 long5
 开耀#kai1 iou6
@@ -399,8 +399,8 @@
 乾祐#kiêng5 iu6
 广顺#guang2 sung6
 显德#hiêng2 dêg4
-武义#bhu2 ngi6
-顺义#sung6 ngi6
+武义#bhu2 ngin6
+顺义#sung6 ngin6
 乾贞#kiêng5 zêng1
 天祚#tiêng1 zu6
 通正#tong1 zian3
@@ -518,7 +518,7 @@
 拱化#giong2 huê3
 天赐礼盛国庆#tiêng1 se3 loi2 sêng6 gog4 kêng3
 天安礼定#tiêng1 ang1 loi2 dian7
-天仪治平#tiêng1 ngi5 di7 pêng5
+天仪治平#tiêng1 ngin5 di7 pêng5
 天祐民安#tiêng1 iu6 ming5 ang1
 雍宁#iong1 lêng5
 元德#nguêng5 dêg4
@@ -527,7 +527,7 @@
 天盛#tiêng1 sêng6
 光定#guang1 dian7
 乾定#kiêng5 dian7
-宝义#bo2 ngi6
+宝义#bo2 ngin6
 收国#siu1 gog4
 天辅#tiêng1 hu6
 天眷#tiêng1 guêng3

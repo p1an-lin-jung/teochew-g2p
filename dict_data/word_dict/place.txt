@@ -20,7 +20,7 @@
 升平#sêng1 pêng5
 金园#gim1 hng5
 凤凰山#hong6 uang5|huang5 suan1
-妈屿#ma1 se6
+妈屿#man1 se6
 宋厝巷#sang3 cu3 hang7
 赤寮#ciah4 liou5
 澄海管陇#têng5 hai2 guan2 lêng2
@@ -54,7 +54,7 @@
 广济桥#guang2 zi3 giê5
 小公园#siou2 gong1 hng5
 西澳#sai1 o3
-华美#hua5 mui2
+华美#hua5 muin2
 下尾#ê6 bhuê2
 华桥#hua5 giê5
 下桥#ê6 giê5
@@ -80,7 +80,7 @@
 上西林#ziên6 sai1 lim5
 下西林#ê6 sai1 lim5
 厦底尾#ê6 doin2 bhuê2
-厦里美#ê6 li2 mui2
+厦里美#ê6 li2 muin2
 桃李陇#to5 li2 lêng2
 刘厝#lao5 cu3
 颜厝#hian5 cu3
@@ -89,8 +89,8 @@
 仙庭#siêng1 têng5
 乌洋#ou1 iên5
 礼阳郑#li2 iên5 dên7
-坽头#nê7 tao5
-水美#zui2 mui2
+坽头#nên7 tao5
+水美#zui2 muin2
 红旗#ang5 gi5
 旗地#gi5 di7
 金砂#gim1 sua1
@@ -113,7 +113,7 @@
 思明区#se1 mêng5 ku1
 海沧区#hai2 cang1 ku1
 湖里区#ou5 li2 ku1
-集美区#zib8 mui2 ku1
+集美区#zib8 muin2 ku1
 同安区#dang5 uan1 ku1
 翔安区#siang5 ang1 ku1
 鲤城区#li2 sian5 ku1
@@ -144,7 +144,7 @@
 高新区#gao1 sing1 ku1
 开发区#kai1 huêg4 ku1
 广州#geng2 ziu1
-番禺#puan1 ngo5
+番禺#puan1 ngon5
 黄埔#ng5 bou1
 增城#zêng1 sian5
 越秀#uêg8 siu3
@@ -179,7 +179,7 @@
 江门#gang1 mung5
 阳江#iang5 gang1
 湛江#kam1 gang1
-茂名#mong6 mia5
+茂名#mong6 mian5
 云浮#hung5 pu5
 肇庆#siou6 kêng3
 乐昌#lag8 ciang1
@@ -192,10 +192,10 @@
 梅县#bhuê5 guin7
 兴宁#hêng1 lêng5
 平远#pêng5 iêng2
-蕉岭县#ziê1 nia2 guin7
+蕉岭县#ziê1 nian2 guin7
 大埔#dua7 bou1
 丰顺#hong1 sung6
-五华#ngou2 hua5
+五华#ngoun2 hua5
 惠城#hui6 sian5
 惠阳#hui6 iang5
 惠东#hui6 dang1
@@ -212,7 +212,7 @@
 鹤山#hoh8 suan1
 恩平#eng1 pêng5
 阳春#iang5 cung1
-麻章#mua5 ziang1
+麻章#muan5 ziang1
 坡头#bo1 tao5
 雷州#lui5 ziu1
 廉江#liam5 gang1
@@ -221,7 +221,7 @@
 徐闻#ce5 bhung6
 茂南#mong6 lam5
 电白#diêng6 bêh8
-信宜#sing3 ngi5
+信宜#sing3 ngin5
 高州#gao1 ziu1
 化州#huê3 ziu1
 端州#duêng1 ziu1
@@ -262,9 +262,9 @@
 塘厦#deng5 hê7
 清溪#cêng1 koi1
 凤岗#hong6 gang1
-麻涌#mua5 cong1
+麻涌#muan5 cong1
 道滘镇#dao6 ga3 ding3
-小榄镇#siou2 na2 ding3
+小榄镇#siou2 nan2 ding3
 大涌镇#dai6 cong1 ding3
 古镇镇#gou2 ding3 ding3
 莞城#uêng2 sian5
@@ -315,7 +315,7 @@
 联饶镇#liêng5 riou5 ding3
 所城镇#so2 sian5 ding3
 大埕镇#dua7 dian5 ding3
-柘林镇#ziah4 na5 ding3
+柘林镇#ziah4 nan5 ding3
 汫洲镇#zian2 ziu1 ding3
 海山镇#hai2 suan1 ding3
 金霞街道#gim1 hia5 goi1 dao6
@@ -335,7 +335,7 @@
 光华街道#guang1 hua5 goi1 dao6
 广厦街道#guang2 hê7 goi1 dao6
 岐山街道#gia6 suan1 goi1 dao6
-鮀莲街道#to5 noi5 goi1 dao6
+鮀莲街道#to5 noin5 goi1 dao6
 鮀江街道#to5 gang1 goi1 dao6
 月浦街道#ghuêh8 pou2 goi1 dao6
 小公园街道#siou2 gong1 hng5 goi1 dao6
@@ -369,19 +369,19 @@
 仙城镇#siêng1 sian5 ding3
 胪岗镇#lou5 geng1 ding3
 红场镇#ang5 diên5 ding3
-雷岭镇#lui5 nia2 ding3
+雷岭镇#lui5 nian2 ding3
 陇田镇#lêng2 cang5 ding3
 凤翔街道#hong6 siang5 goi1 dao6
 广益街道#guang2 iah4 goi1 dao6
 澄华街道#têng5 hua5 goi1 dao6
 上华镇#siang6 hua5 ding3
 隆都镇#long5 dou1 ding3
-莲下镇#noi5 ê6 ding3
-莲上镇#noi5 ziên6 ding3
+莲下镇#noin5 ê6 ding3
+莲上镇#noin5 ziên6 ding3
 溪南镇#koi1 lam5 ding3
 东里镇#dang1 lêng2 ding3
 盐鸿镇#iam5 hong5 ding3
-莲华镇#noi5 hua5 ding3
+莲华镇#noin5 hua5 ding3
 后宅镇#ao6 têh8 ding3
 云澳镇#hung5 o3 ding3
 深澳镇#cim1 o3 ding3
@@ -406,23 +406,23 @@
 月城镇#ghuêh8 sian5 ding3
 白塔镇#bêh8 tah4 ding3
 龙尾镇#lêng5 bhuê2 ding3
-桂岭镇#gui3 nia2 ding3
+桂岭镇#gui3 nian2 ding3
 玉滘镇#ghêg8 ga3 ding3
 河婆街道#ho5 bo5 goi1 dao6
 龙潭镇#lêng5 tam5 ding3
 南山镇#lam5 suan1 ding3
-五经富镇#ngou2 gên1 pou3 ding3
+五经富镇#ngoun2 gên1 pou3 ding3
 京溪园镇#gian1 koi1 hng5 ding3
 灰寨镇#huê1 zê7 ding3
 塔头镇#tah4 tao5 ding3
 东园镇#dang1 hng5 ding3
 凤江镇#hong6 gang1 ding3
-棉湖镇#mi5 ou5 ding3
+棉湖镇#min5 ou5 ding3
 金和镇#gim1 hua5 ding3
 大溪镇#dua7 koi1 ding3
 钱坑镇#zin5 kên1 ding3
 坪上镇#bên5 ziên7 ding3
-五云镇#ngou6 hung5 ding3
+五云镇#ngoun6 hung5 ding3
 上砂镇#ziên6 sua1 ding3
 良田乡#liang5 cang5 hiên1
 惠城镇#hui6 sian5 ding3
@@ -436,7 +436,7 @@
 岐石镇#gia6 ziêh8 ding3
 隆江镇#lêng5 gang1 ding3
 溪西镇#koi1 sai1 ding3
-鳌江镇#ngao5 gang1 ding3
+鳌江镇#ngaon5 gang1 ding3
 东港镇#dang1 gang2 ding3
 葵潭镇#kui5 tam5 ding3
 侨园镇#kiou5 hng5 ding3
@@ -446,7 +446,7 @@
 南海街道#lam5 hai2 goi1 dao6
 京冈街道#gian1 gang1 goi1 dao6
 溪南街道#koi1 lam5 goi1 dao6
-凤美街道#hong6 mui2 goi1 dao6
+凤美街道#hong6 muin2 goi1 dao6
 渔湖街道#he5 ou5 goi1 dao6
 砲台镇#pao3 tai5 ding3
 地都镇#di7 dou1 ding3
@@ -505,7 +505,7 @@
 运城市#ung7 sian5 ci6
 忻州市#hng1 ziu1 ci6
 临汾市#lim5 hung1 ci6
-吕梁市#le6 niê5 ci6
+吕梁市#le6 niên5 ci6
 内蒙古#lai6 mong5 gou2
 内蒙古自治区#lai6 mong5 gou2 ze6 di7 ku1
 呼和浩特市#hu1|u1 hua5 hao1 dêg8 ci6
@@ -515,7 +515,7 @@
 通辽市#tong1 liou5 ci6
 鄂尔多斯市#ngag8 re2 do1 se1 ci6
 呼伦贝尔市#hu1 lung5 buê6 re2 ci6
-巴彦淖尔市#ba1 ngang6 nao6 re2 ci6
+巴彦淖尔市#ba1 ngang6 naon6 re2 ci6
 乌兰察布市#ou1 lang5 cag4 bu3 ci6
 辽宁#liou5 lêng5
 辽宁省#liou5 lêng5 sên2
@@ -530,7 +530,7 @@
 阜新市#hu6 sing1 ci6
 辽阳市#liou5 iang5 ci6
 盘锦市#buan5 gim2 ci6
-铁岭市#tih4 nia2 ci6
+铁岭市#tih4 nian2 ci6
 朝阳市#ciou5 iang5 ci6
 葫芦岛市#hou5 lou5 dao2 ci6
 吉林#gig4 lim5
@@ -613,7 +613,7 @@
 鹰潭市#êng1 tam5 ci6
 赣州市#gang3 ziu1 ci6
 吉安市#gig4 ang1 ci6
-宜春市#ngi5 cung1 ci6
+宜春市#ngin5 cung1 ci6
 新余市#sing1 e5 ci6
 上饶市#siang6 riou5 ci6
 山东#suan1 dang1
@@ -657,7 +657,7 @@
 武汉市#bhu2 hang3 ci6
 黄石市#ng5 ziêh8 ci6
 十堰市#zab8 iam2 ci6
-宜昌市#ngi5 ciang1 ci6
+宜昌市#ngin5 ciang1 ci6
 襄阳市#siang1 iang5 ci6
 鄂州市#ngag8 ziu1 ci6
 荆门市#gêng1 mung5 ci6
@@ -684,7 +684,7 @@
 南宁市#lam5 lêng5 ci6
 柳州市#liu2 ziu1 ci6
 桂林市#gui3 lim5 ci6
-梧州市#ngo5 ziu1 ci6
+梧州市#ngon5 ziu1 ci6
 北海市#bag4 hai2 ci6
 防城港市#huang5 sian5 gang2 ci6
 钦州市#kim1 ziu1 ci6
@@ -713,16 +713,16 @@
 乐山市#lag8 suan1 ci6
 南充市#lam5 cong1 ci6
 眉山市#bhai5 suan1 ci6
-宜宾市#ngi5 bing1 ci6
+宜宾市#ngin5 bing1 ci6
 广安市#guang2 ang1 ci6
 达州市#dag8 ziu1 ci6
-雅安市#ngia2 ang1 ci6
+雅安市#ngian2 ang1 ci6
 巴中市#ba1 dong1 ci6
 资阳市#ze1 iang5 ci6
 贵州省#gui3 ziu1 sên2
 贵阳市#gui3 iang5 ci6
 六盘水市#lag8 puang5 zui2 ci6
-遵义市#zung1 ngi6 ci6
+遵义市#zung1 ngin6 ci6
 安顺市#ang1 sung6 ci6
 毕节市#big8 zag4 ci6
 铜仁市#dang5 ring5 ci6
@@ -773,7 +773,7 @@
 新疆#sing1 giang1
 新疆维吾尔自治区#sing1 giang1 rui6 u5 re2 ze6 di7 ku1
 乌鲁木齐市#ou1 lu2 bhag8 ci5 ci6
-克拉玛依市#kiog4 la1 ma2 i1 ci6
+克拉玛依市#kiog4 la1 man2 i1 ci6
 吐鲁番市#tou3 lu2 huêng1 ci6
 哈密市#hah4 mig8 ci6
 重庆#dong6 kêng3
@@ -798,13 +798,13 @@
 金陵#gim1 lêng5
 临安#lim5 ang1|uan1
 建康#giêng6 kang1
-大名#dai6 mia5
-汴梁#biêng6 niê5
+大名#dai6 mian5
+汴梁#biêng6 niên5
 京师#gian1 se1
 盛京#sêng6 gian1
-美洲#mui2 ziu1
-北美洲#bag4 mui2 ziu1
-南美洲#lam5 mui2 ziu1
+美洲#muin2 ziu1
+北美洲#bag4 muin2 ziu1
+南美洲#lam5 muin2 ziu1
 欧洲#ao1 ziu1
 亚洲#a1 ziu1
 东亚#dang1 a1
@@ -834,7 +834,7 @@
 不丹#bug4 dang1
 阿富汗#a1 bu3 hang2
 柬埔寨#gang2 bou1 zê7
-尼泊尔#ni5 boh8 re2
+尼泊尔#nin5 boh8 re2
 老挝#lao6 ko1
 以色列#in2 sêg4 liêg8
 也门#ia7 mung5
@@ -843,7 +843,7 @@
 马尔代夫#bhê2 re2 toi3 hu1
 文莱#bhung5 lai5
 东帝汶#dang1 di3 bhung7
-印度尼西亚#ing3 dou7 ni5 sai1 a1
+印度尼西亚#ing3 dou7 nin5 sai1 a1
 伊拉克#i1 la1 kiog4
 伊朗#i1 lang5
 约旦#iêh4 dang3
@@ -863,30 +863,30 @@
 土库曼斯坦#tou2 kou3 bhuêng6 se1 tang2
 阿塞拜疆#a1 sag4 bai3 giang1
 格鲁吉亚#gêh4 lu2 gig4 a1
-亚美尼亚#a1 mui2 ni5 a1
+亚美尼亚#a1 muin2 nin5 a1
 英国#êng1 gog4
-罗马尼亚#lo5 bhê2 ni5 a1
+罗马尼亚#lo5 bhê2 nin5 a1
 法国#huab4 gog4
 波兰#bo1 lang5
 瑞士#sui6 se6
 瑞典#sui6 diêng2
 意大利#i3 dai6 li6
 德国#dêg4 gog4
-摩纳哥#mo5 nab8 go1
+摩纳哥#mon5 nab8 go1
 拉脱维亚#la1 tug4 rui6 a1
 希腊#hi1 lah8
-阿尔巴尼亚#a1 re2 ba1 ni5 a1
-挪威#no5 ui1
+阿尔巴尼亚#a1 re2 ba1 nin5 a1
+挪威#non5 ui1
 塞尔维亚#sag4 re2 rui6 a1
 保加利亚#bo2 gia1 li6 a1
-爱沙尼亚#ain3 sa1 ni5 a1
+爱沙尼亚#ain3 sa1 nin5 a1
 立陶宛#lib8 tao5 uêng2
 荷兰#ho5 lang5
 爱尔兰#ain3 re2 lang5
 捷克#ziab8 kiog4
 斯洛伐克#se1 log8 huêg8 kiog4
 葡萄牙#pu5 to5 ghê5
-斯洛文尼亚#se1 log8 bhung5 ni5 a1
+斯洛文尼亚#se1 log8 bhung5 nin5 a1
 马其顿#bhê2 ki5 dung6
 克罗地亚#kiog4 lo5 di7 a1
 梵蒂冈#huam6 dih4 gang1
@@ -894,23 +894,23 @@
 马耳他#bhê2 re2 ta1
 丹麦#dang1 bhêh8
 卢森堡#lu5|lou5 siam1 bao2
-波斯尼亚和黑塞哥维那#bo1 se1 ni5 a1 hua5 hêg4 sai3 go1 rui6 na2
+波斯尼亚和黑塞哥维那#bo1 se1 nin5 a1 hua5 hêg4 sai3 go1 rui6 nan2
 波黑#bo1 hêg4
 西班牙#sai1 bang1 ghê5
 圣马力诺#sian3 bhê2 lag8 nab8
 匈牙利#hiong1|hêng1 ghê5 li6
 奥地利#o3 di7 li6
-俄罗斯#ngo5 lo5 se1
+俄罗斯#ngon5 lo5 se1
 乌克兰#ou1 kiog4 lang5
-白俄罗斯#bêh8 ngo5 lo5 se1
-摩尔多瓦#mo5 re2 do1 ua1
+白俄罗斯#bêh8 ngon5 lo5 se1
+摩尔多瓦#mon5 re2 do1 ua1
 黑山#hêg4 suan1
 塞浦路斯#sai3 pou2 lou7 se1
 冰岛#bian1 dao2
 安道尔#ang1 dao6 re2
 芬兰#hung1 lang5
 安哥拉#ang1 go1 la1
-埃塞俄比亚#ai1 sag4 ngo5 bi2 a1
+埃塞俄比亚#ai1 sag4 ngon5 bi2 a1
 埃及#ai1 gib8
 中非#dong1 hui1
 几内亚#gi1 lai6 a1
@@ -924,26 +924,26 @@
 赤道几内亚#ciah4 dao6 gi1 lai6 a1
 冈比亚#gang1 bi2 a1
 贝宁#buê6 lêng5
-毛里求斯#mo5 li2 kiu5 se1
-毛里塔尼亚#mo5 li2 tah4 ni5 a1
+毛里求斯#mon5 li2 kiu5 se1
+毛里塔尼亚#mon5 li2 tah4 nin5 a1
 乌干达#ou1 gang1 dag8
 塞舌尔#sai3 zih8 re2
 塞拉利昂#sai3 la1 li6 ngang1
-摩洛哥#mo5 log8 go1
+摩洛哥#mon5 log8 go1
 布隆迪#bu3 long5 dêg8
 卢旺达#lu5 uang6 dag8
 乍得#za3 dig4
-尼日尔#ni5 rig8 re2
-尼日利亚#ni5 rig8 li6 a1
+尼日尔#nin5 rig8 re2
+尼日利亚#nin5 rig8 li6 a1
 加纳#gia1 nab8
 加蓬#gia1 pong5
-圣多美和普林西比#sian3 do1 mui2 hua5 pou2 lim5 sai1 bi2
+圣多美和普林西比#sian3 do1 muin2 hua5 pou2 lim5 sai1 bi2
 吉布提#gig4 bu3 ti5
 刚果#gang1 guê2
 多哥#do1 go1
 苏丹#sou1 dang1
 利比亚#li6 bi2 a1
-突尼斯#dug8 ni5 se1
+突尼斯#dug8 nin5 se1
 利比里亚#li6 bi2 li2 a1
 佛得角#hug8 dig4 gag4
 阿尔及利亚#a1 re2 gib8 li6 a1
@@ -956,16 +956,16 @@
 喀麦隆#kêh4 bhêh8 long5
 塞内加尔#sai3 lai6 gia1 re2
 南苏丹#lam5 sou1 dang1
-美国#mui2 gog4
-加拿大#gia1 na2 dai6
+美国#muin2 gog4
+加拿大#gia1 nan2 dai6
 秘鲁#bi3 lu2
 海地#hai2 di7
 萨尔瓦多#sag4 re2 ua1 do1
 智利#di3 li6
 古巴#gou2 ba1
-尼加拉瓜#ni5 gia1 la1 guê1
+尼加拉瓜#nin5 gia1 la1 guê1
 巴哈马#ba1 hah4 bhê2
-巴拿马#ba1 na2 bhê2
+巴拿马#ba1 nan2 bhê2
 玻利维亚#bo1 li6 rui6 a1
 格林纳达#gêh4 lim5 nab8 dag8
 巴拉圭#ba1 la1 gui1
@@ -976,17 +976,17 @@
 乌拉圭#ou1 la1 gui1
 巴巴多斯#ba1 ba1 do1 se1
 圣卢西亚#sian3 lu5 sai1 a1
-圭亚那#gui1 a1 na2
+圭亚那#gui1 a1 nan2
 苏里南#sou1 li2 lam5
 委内瑞拉#ui2 lai6 sui6 la1
 哥伦比亚#go1 lung5 bi2 a1
 安提瓜和巴布达#ang1 ti5 guê1 hua5 ba1 bu3 dag8
 伯利兹#bêh4 li6 ze1
 哥斯达黎加#go1 se1 dag8 li5 gia1
-特立尼达和多巴哥#dêg8 lib8 ni5 dag8 hua5 do1 ba1 go1
+特立尼达和多巴哥#dêg8 lib8 nin5 dag8 hua5 do1 ba1 go1
 墨西哥#bhag8 sai1 go1
-多米尼加#do1 bhi2 ni5 gia1
-多米尼克#do1 bhi2 ni5 kiog4
+多米尼加#do1 bhi2 nin5 gia1
+多米尼克#do1 bhi2 nin5 kiog4
 澳大利亚#o3 dai6 li6 a1
 新西兰#sing1 sai1 lang5
 斐济#hui1 zi3
@@ -994,16 +994,16 @@
 巴布亚新几内亚#ba1 bu3 a1 sing1 gi1 lai6 a1
 图瓦卢#tu5 ua1 lu5
 所罗门群岛#so2 lo5 mung5 kung5 dao2
-瑙鲁#nao2 lu2
+瑙鲁#naon2 lu2
 马绍尔群岛#bhê2 siou6 re2 kung5 dao2
 帕劳#pê3 lao5
-纽约#niu2 iêh4
+纽约#niun2 iêh4
 伦敦#lung5 dung1
 巴黎#ba1 li5
 马赛#bhê2 sai3
 南特#lam5 dêg8
 东京#dang1 gian1
-悉尼#sêg4 ni5
+悉尼#sêg4 nin5
 墨尔本#bhag8 re2 bung2
 多伦多#do1 lung5 do1
 温哥华#ung1 go1 hua5
@@ -1013,10 +1013,10 @@
 莫斯科#mog8 se1 kuê1
 圣彼得堡#sian3 bi2 dig4 bao2
 马德里#bhê2 dêg4 li2
-巴塞罗那#ba1 sai3 lo5 na2
+巴塞罗那#ba1 sai3 lo5 nan2
 阿姆斯特丹#a1 m2 se1 dêg8 dang1
 布鲁塞尔#bu3 lu2 sai3 re2
-雅典#ngia2 diêng2
+雅典#ngian2 diêng2
 伊斯坦布尔#i1 se1 tang2 bu3 re2
 开罗#kai1 lo5
 开普敦#kai1 pou2 dung1
@@ -1030,7 +1030,7 @@
 达拉斯#dag8 la1 se1
 墨西哥城#bhag8 sai1 go1 sian5
 蒙特雷#mong5 dêg8 lui5
-布宜诺斯艾利斯#bu3 ngi5 nab8 se1 ain3 li6 se1
+布宜诺斯艾利斯#bu3 ngin5 nab8 se1 ain3 li6 se1
 圣地亚哥#sian3 di7 a1 go1
 利马#li6 bhê2
 惠灵顿#hui6 lêng5 dung6
@@ -1040,7 +1040,7 @@
 阿布扎比#a1 bu3 zab4 bi2
 曼谷#mang6 gog8
 吉隆坡#gig4 long5 bo1
-雅加达#ngia2 gia1 dag8
+雅加达#ngian2 gia1 dag8
 孟买#mêng6 bhoi2
 新德里#sing1 dêg4 li2
 加尔各答#gia1 re2 gag4 dab4
@@ -1052,9 +1052,9 @@
 大马士革#dai6 bhê2 se6 gêg4
 巴格达#ba1 gêh4 dag8
 德黑兰#dêg4 hêg4 lang5
-利雅得#li6 ngia2 dig4
+利雅得#li6 ngian2 dig4
 麦加#bhêh8 gia1
-麦地那#bhêh8 di7 na2
+麦地那#bhêh8 di7 nan2
 塗坺陇#tou5 puêh8 lêng2
 棉城#miêng5 sian5
 威尔士#ui1 re2 se6
@@ -1071,17 +1071,17 @@
 科罗拉多#kuê1 lo5 la1 do1
 印第安#ing3 doin6 ang1
 德意志#dêg4 i3 zi3
-美利坚#mui2 li6 giêng1
-加利福尼亚#gia1 li6 hog4 ni5 a1
+美利坚#muin2 li6 giêng1
+加利福尼亚#gia1 li6 hog4 nin5 a1
 落基山#loh8 gi1 suan1
 华盛顿#hua5 sêng6 dung6
 曼彻斯特#bhuêng6 tiêg4 se1 dêg8
-迈阿密#mai6 a1 mig8
+迈阿密#main6 a1 mig8
 苏联#sou1 liêng5
 苏维埃#sou1 rui6 ai1
 华沙#hua5 sa1|sua1
 丹佛#dang1 hug8
-西雅图#sai1 ngia2 tu5
+西雅图#sai1 ngian2 tu5
 孟菲斯#mêng6 hui1 se1
 克利夫兰#kiog4 li6 hu1 lang5
 奥兰多#o3 lang5 do1
@@ -1090,14 +1090,14 @@
 暹罗#siam5 lo5
 实叻#sig8 lag8
 实叻埠#sig8 lag8 bou1
-高棉#gao1 mi5
+高棉#gao1 min5
 安南#ang1 lam5
 交趾#gao1 zi2
 寮国#liou5 gog4
 吕宋#le6 song3
-清迈#cêng1 mai1
+清迈#cêng1 main1
 金边#gim1 biêng1
-马尼拉#bhê2 ni5 la1
+马尼拉#bhê2 nin5 la1
 胡志明市#ou5 zi3 mêng5 ci6
 槟城#bing1 sian5
 占城#ziam3 sian5
@@ -1112,37 +1112,37 @@
 克里米亚#kiog4 li2 bhi2 a1
 阿布哈兹#a1 bu3 hah4 ze1
 南奥塞梯#lam5 o3 sai3 tui1
-多米尼加共和国#do1 bhi2 ni5 gia1 gang7 hua5 gog4
-圣基茨和尼维斯#sian3 gi1 ce5 hua5 ni5 rui6 se1
-百慕大#bêh4 mo6 dai6
+多米尼加共和国#do1 bhi2 nin5 gia1 gang7 hua5 gog4
+圣基茨和尼维斯#sian3 gi1 ce5 hua5 nin5 rui6 se1
+百慕大#bêh4 mon6 dai6
 开曼群岛#kai1 bhuêng6 kung5 dao2
 蒙特塞拉特#mong5 dêg8 sai3 la1 dêg8
 安圭拉#ang1 gui1 la1
 英属维尔京群岛#êng1 sog8 rui6 re2 gian1 kung5 dao2
 库拉索#kou3 la1 sog4
 加勒比荷兰#gia1 lêg8 bi2 ho5 lang5
-美属维尔京群岛#mui2 sog8 rui6 re2 gian1 kung5 dao2
+美属维尔京群岛#muin2 sog8 rui6 re2 gian1 kung5 dao2
 马尔维纳斯群岛#bhê2 re2 rui6 nab8 se1 kung5 dao2
 南乔治亚岛和南桑威奇群岛#lam5 kiou5 di7 a1 dao2 hua5 lam5 seng1 ui1 ki5 kung5 dao2
-法属圭亚那#huab4 sog8 gui1 a1 na2
-密克罗尼西亚联邦#mig8 kiog4 lo5 ni5 sai1 a1 liêng5 bang1
-萨摩亚#sag4 mo5 a1
-瓦努阿图#ua1 no3 a1 dou5
+法属圭亚那#huab4 sog8 gui1 a1 nan2
+密克罗尼西亚联邦#mig8 kiog4 lo5 nin5 sai1 a1 liêng5 bang1
+萨摩亚#sag4 mon5 a1
+瓦努阿图#ua1 non3 a1 dou5
 关岛#guêng1 dao2
 北马里亚纳群岛#bag4 bhê2 li2 a1 nab8 kung5 dao2
-美属萨摩亚#mui2 sog8 sag4 mo5 a1
+美属萨摩亚#muin2 sog8 sag4 mon5 a1
 中途岛#dong1 tu5 dao2
-法属波利尼西亚#huab4 sog8 bo1 li6 ni5 sai1 a1
-新喀里多尼亚#sing1 kêh4 li2 do1 ni5 a1
+法属波利尼西亚#huab4 sog8 bo1 li6 nin5 sai1 a1
+新喀里多尼亚#sing1 kêh4 li2 do1 nin5 a1
 瓦利斯和富图纳#ua1 li6 se1 hua5 bu3 dou5 nab8
-纽埃#niu2 ai1
+纽埃#niun2 ai1
 西撒哈拉#sai1 sag4 ha1 la1
 中非共和国#dong1 hui1 gang7 hua5 gog4
 刚果共和国#gang1 guê2 gang7 hua5 gog4
 刚果布拉柴维尔#gang1 guê2 bu3 la1 ca5 rui6 re2
-科摩罗#kuê1 mo5 lo5
-肯尼亚#kêng2 ni5 a1
-坦桑尼亚#tang2 seng1 ni5 a1
+科摩罗#kuê1 mon5 lo5
+肯尼亚#kêng2 nin5 a1
+坦桑尼亚#tang2 seng1 nin5 a1
 赞比亚#zang3 bi2 a1
 津巴布韦#zing1 ba1 bu3 ui2
 莱索托#lai5 sog4 toh4

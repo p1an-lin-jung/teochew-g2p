@@ -2,7 +2,7 @@
 不#houn2*
 场#ciang5*
 勒#dêg8*
-弥#mi5*
+弥#min5*
 恶#u3|e3|u1
 人#ring5|nang7
 动#tang6|dang6
@@ -12,11 +12,11 @@
 物#bhug8
 地#do3*
 汕#suan3*
-蚁#ngi6*
+蚁#ngin6*
 间#goin3
 个#go6|gai7
 芫#nguêng5
-五#ngou2|u2|u5
+五#ngoun2|u2|u5
 打#dêng3
 罩#da3
 禾#hua5
@@ -30,7 +30,7 @@
 饮#am2*
 陶#iou5
 东#dong1
-嬷#ma1*|mo1*
+嬷#man1*|mon1*
 中#dong3|dêng3
 大#tai3*
 丹#duan1
@@ -51,7 +51,7 @@
 独#dag8*
 值#dêg8
 脦#têg4
-呆#ngai5
+呆#ngain5
 沓#tah8
 苔#tai1|dai2
 逮#dai2|di6
@@ -194,7 +194,7 @@
 厦#ê6
 一#iou1
 初#ciu1
-荔#noi7
+荔#noin7
 与#e6|e7
 予#e5*
 恶#u3|e3|u1
@@ -212,7 +212,7 @@
 咽#ing1|ig4|iêg4
 吉#ga1*
 雄#hêng5*
-牙#nga5*
+牙#ngan5*
 易#i6|êg8|iah8
 浴#iog8*
 液#siêh8*
@@ -224,7 +224,7 @@
 应#ing3
 纫#neng5*
 肉#bhah4*
-妹#muê7
+妹#muên7
 万#mog8*
 皮#pi5
 唱#ciê3*
@@ -259,7 +259,7 @@
 顾#gou3
 计#gi3*
 哈#gab4*
-女#ni2*
+女#nin2*
 鸥#ou1*
 乌#u1*
 舞#mong6*
@@ -295,7 +295,7 @@
 嫂#sao2
 潘#pung1*
 没#mug8*
-我#ngo2*
+我#ngon2*
 角#giêh4
 够#gou3
 少#siou3
@@ -311,7 +311,7 @@
 邪#ia5*
 昆#hung5*
 沸#bui3
-林#na5*
+林#nan5*
 看#kang3*
 家#gia1*|ga1*|kia1*
 结#gig4
@@ -335,8 +335,8 @@
 暴#pag8*
 漠#mog8
 望#bhuang6*
-毛#mao5
-马#ma2*
+毛#maon5
+马#man2*
 母#m2*
 保#bao2
 崔#zui1*
@@ -399,7 +399,7 @@
 表#biê1|biê2
 爆#pog4*
 氓#ming5*
-芒#mê5*
+芒#mên5*
 梁#liang5*
 篱#loi7*
 联#ling5*
@@ -506,7 +506,7 @@
 先#sing1*
 饵#ri7*
 迎#ian5*
-吗#ma7*|ma6*|ma2*
+吗#man7*|man6*|man2*
 啡#pai2*|pui2*|pui3
 菲#hui6|hui2
 费#bi3*
@@ -514,7 +514,7 @@
 圈#kuêng1
 宽#kuan1
 款#kuan1*
-垃#nah4*
+垃#nanh4*
 圾#sab4*
 寇#kao3
 胡#hou5
@@ -537,11 +537,11 @@
 竿#gang1*|go1
 管#geng2*
 蘑#bhua5*
-摩#mo5|bhua5
-蔓#mua5*
-呢#ni5*|ni1*|ni7*
-淆#nao1*
-漫#mua7*
+摩#mon5|bhua5
+蔓#muan5*
+呢#nin5*|nin1*|nin7*
+淆#naon1*
+漫#muan7*
 闷#bhung6*
 草#co2
 沮#zu2*|zu6*
@@ -553,7 +553,7 @@
 涡#guê1*
 核#hug8
 狠#hng2*
-侥#ngiou5*
+侥#ngioun5*
 风#hong1
 逢#pong5*
 夫#bou1*|hu7*
@@ -562,10 +562,10 @@
 匪#huin2*
 漾#iên6
 胯#kua1*
-蓝#na5
-隅#ngou2
-寓#ngo5
-伍#ngou6*
+蓝#nan5
+隅#ngoun2
+寓#ngon5
+伍#ngoun6*
 瀑#bao6*
 劈#poh4
 瓶#bang5*
@@ -574,7 +574,7 @@
 镐#hao2*|hao1*
 冈#geng1*
 峡#hab8
-奴#nou1*
+奴#noun1*
 庞#bong5*
 蜀#zêg8*
 嗓#seng1*
@@ -608,7 +608,7 @@
 错#cag4*|coh4*
 操#cao3*
 快#kuê3*|kuan3*
-猫#bha5*|mao1*
+猫#bha5*|maon1*
 疏#siu1*|so3*
 尉#ug4*
 蔚#ug4*
@@ -623,7 +623,7 @@
 宿#siou1|siu3|siu7
 轧#ag4*|zab4*|gag4*
 纪#gi3
-诡#ngui6
+诡#nguin6
 跪#guin6*
 各#goh4*|gah4*
 生#cên1|sêng1
@@ -633,10 +633,10 @@
 添#tin1
 并#bong6*
 稽#gi1
-闹#nao7*|lao7*
+闹#naon7*|lao7*
 脑#lo2*
-乐#ghaoh8|ngaoh8
-奶#ni6|ni1
+乐#ghaoh8|ngaonh8
+奶#nin6|nin1
 几#gua3|gi2*
 被#puê6|pi1*
 算#suêng3
@@ -661,14 +661,14 @@
 经#gian1|gên1
 席#siah8
 辐#hog4
-哪#na7|na5|la5
+哪#nan7|nan5|la5
 卢#lu5
 挲#sa1*
-孬#nao1*
+孬#naon1*
 郎#lang5|lang6*
 数#su3|sog4*|suag4*
 假#gia2|gê3*
-么#mo7|iou1*
+么#mon7|iou1*
 臭#hiun3
 许#kou2|hu2*
 乏#hag8*
@@ -689,7 +689,7 @@
 胜#sêng1*
 说#suê3*|ruêg8*
 慢#bhuêng6
-妈#ma1*|ma2*
+妈#man1*|man2*
 老#lao2*
 指#zeng2|zoin2
 汗#hang5*
@@ -754,7 +754,7 @@
 朴#poh4|piou5
 番#puan1|po5|hung1
 啊#o7|o6|o2
-悬#huin5|ngui5|guin5
+悬#huin5|nguin5|guin5
 拚#pêng1*
 刮#guêh4*|guag4*|huah4*
 哒#dag4
@@ -763,7 +763,7 @@
 诐#bi3
 咯#kag4|gêh4
 暖#ruêng2
-让#niê7
+让#niên7
 密#bhag8
 把#bê2
 办#bang7
@@ -782,7 +782,7 @@
 啰#lo7|lo5
 还#huêng5
 唚#cim3
-乜#mi1|nia7
+乜#min1|nian7
 紩#diêg4*
 段#duêng6
 嗄#sah4|o6
@@ -809,5 +809,5 @@
 胪#lu5
 岁#suê3
 山#sang1
-迈#mai1
+迈#main1
 朗#lang5

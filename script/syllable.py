@@ -17,9 +17,11 @@ __rhyme_with_a_labial_ending__ = [
 __nasal_vowel__  = [
     "ain","an","en","ian",
     "in","iaon","iaonh","inh",
-    "ioun","ion","ion","oin","on","iun",
+    "ioun","ion","oin","on","iun",
     "iounh","oun","uain","uan","uin","ên","ênh",
     "uên","aon","uanh",
+    # 鼻音声母(m n ng)后的元音统一带鼻化，以下韵母由此产生
+    "anh","aonh","iên","oinh","onh","uênh",
 ]
 
 # 韵母

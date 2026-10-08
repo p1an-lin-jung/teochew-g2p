@@ -1,4 +1,4 @@
-三皇五帝#san1 huang5 ngou2 di3
+三皇五帝#san1 huang5 ngoun2 di3
 夏朝#hê7 ciou5
 夏代#hê7 do7
 商朝#siang1 ciou5
@@ -29,15 +29,15 @@
 北燕#bag4 iêng1
 南北朝#lam5 bag4 ciou5
 南朝#lam5 ciou5
-宋齐梁陈#song3 ci5 niê5 dang5
+宋齐梁陈#song3 ci5 niên5 dang5
 南朝宋#lam5 ciou5 song3
 南齐#lam5 ci5
-梁国#niê5 gog4
-南梁#lam5 niê5
-萧梁#siou1 niê5
-南朝梁#lam5 ciou5 niê5
-梁朝#niê5 ciou5
-梁代#niê5 do7
+梁国#niên5 gog4
+南梁#lam5 niên5
+萧梁#siou1 niên5
+南朝梁#lam5 ciou5 niên5
+梁朝#niên5 ciou5
+梁代#niên5 do7
 陈朝#dang5 ciou5
 陈代#dang5 do7
 南陈#lam5 dang5
@@ -53,9 +53,9 @@
 唐朝#tang5 ciou5
 唐代#tang5 do7
 隋唐#sui5 tang5
-五代#ngou2 do7
-五代十国#ngou2 do7 zab8 gog4
-后梁#ao6 niê5
+五代#ngoun2 do7
+五代十国#ngoun2 do7 zab8 gog4
+后梁#ao6 niên5
 后唐#ao6 tang5
 后晋#ao6 zing3
 前蜀#zoin5 zuag8
@@ -117,7 +117,7 @@
 冀王#gi6 uang5
 九江王#giu2 gang1 uang5
 长沙王#ciang5 sa1 uang5
-梁王#niê5 uang5
+梁王#niên5 uang5
 南越王#lam5 uêg8 uang5
 兰陵王#lang5 lêng5 uang5
 汉王#hang3 uang5
@@ -139,8 +139,8 @@
 吐谷浑#tou3 iog8 hung6
 吐蕃#tou3 buah4|boh4
 大理#dai6 li2
-伍子胥#ngou2 ze2 su1
-伍员#ngou2 uêng5
+伍子胥#ngoun2 ze2 su1
+伍员#ngoun2 uêng5
 南宫适#lam5 gêng1 kuah4
 蔺相如#liêng6 siang1 ru5
 禽滑厘#kim5 gug8 li5
@@ -184,7 +184,7 @@
 杨玉环#iên5 ghêg8 huêng5
 安禄山#ang1 log8 suan1
 史思明#se2 se1 mêng5
-史朝义#se2 ciou5 ngi6
+史朝义#se2 ciou5 ngin6
 安庆绪#ang1 kêng3 su2
 唐德宗李适#tang5 dêg4 zong1 li2 kuah4
 李适#li2 kuah4
@@ -244,7 +244,7 @@
 尚书省#siên7 ze1 sên2
 门下省#mung5 ê6 sên2
 尚书#siên7 ze1
-领尚书事#nia2 siên7 ze1 se7
+领尚书事#nian2 siên7 ze1 se7
 录尚书事#log8 siên7 ze1 se7
 尚书台#siên7 ze1 tai5
 尚书令#siên7 ze1 lêng6
@@ -254,7 +254,7 @@
 尚书右仆射#siên7 ze1 iu6 bog8 ia7
 尚书左丞#siên7 ze1 zo2 sêng5
 尚书右丞#siên7 ze1 iu6 sêng5
-开府仪同三司#kai1 hu2 ngi5 tong5 san1 si1
+开府仪同三司#kai1 hu2 ngin5 tong5 san1 si1
 左仆射#zo2 bog8 ia7
 右仆射#iu6 bog8 ia7
 中书门下平章事#dong1 ze1 mung5 ê6 pêng5 ziang1 se7
@@ -270,7 +270,7 @@
 右给事中#iu6 gib4 se7 dong1
 监察御史#gam1 cag4 ghe7 se2
 光禄大夫#guang1 log8 dai6 hu1
-谏议大夫#gang3 ngi2 dai6 hu1
+谏议大夫#gang3 ngin2 dai6 hu1
 招讨使#ziê1 to2 sai3
 副招讨使#hu3 ziê1 to2 sai3
 节度使#zag4 dou7 sai3
@@ -304,7 +304,7 @@
 少詹事#siou3 ziam1 se7
 少宰#siou3 zai2
 监丞#gam3 sêng5
-参议#cam1 ngi2
+参议#cam1 ngin2
 参政#cam1 zêng3
 知府#di1 hu2
 县令#guin7 lêng6

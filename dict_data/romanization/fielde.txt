@@ -33,6 +33,7 @@ aih#aih
 ain#aiⁿ
 am#am
 an#aⁿ
+anh#ahⁿ
 ang#ang
 ao#au
 aoh#auh
@@ -84,8 +85,10 @@ oh#o̤h
 oi#oi
 oih#oih
 oin#oiⁿ
+oinh#oihⁿ
 om#om
 on#o̤ⁿ
+onh#o̤hⁿ
 ong#ong
 ou#o
 oun#oⁿ
@@ -111,6 +114,7 @@ uêg#uek
 uêh#ueh
 uêi#uei
 uên#ueⁿ
+uênh#uehⁿ
 uêng#wng
 ê#e
 êg#ek

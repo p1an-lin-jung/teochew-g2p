@@ -27,6 +27,7 @@ aih#aiʔ
 ain#ãĩ
 am#am
 an#ã
+anh#ãʔ
 ang#aŋ
 ao#au
 aoh#auʔ
@@ -79,8 +80,10 @@ oh#oʔ
 oi#oi
 oih#oiʔ
 oin#õĩ
+oinh#õĩʔ
 om#om
 on#õ
+onh#õʔ
 ong#oŋ
 ou#ou
 oun#õũ
@@ -106,6 +109,7 @@ uêg#uek
 uêh#ueʔ
 uêi#ueɪ
 uên#ũẽ
+uênh#ũẽʔ
 uêng#ueŋ
 ê#e
 êg#ek
