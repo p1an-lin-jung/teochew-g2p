@@ -1985,6 +1985,7 @@
 谄_tiam2#tiang2
 舔_tiam2#tiang2
 掭_tiam3#tiang3
+跈_tiam3#tiang3
 湉_tiam5#tiang5
 扎_zag4#zag4
 札_zab4#zag4
@@ -2122,3 +2123,5 @@
 乞_keh4#koih4
 𠲶_ming1#mêng1
 每_muên2#muin2
+㴷_dam5#dang5
+邧_ruêng6#ruang6

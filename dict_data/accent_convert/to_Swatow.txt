@@ -227,6 +227,7 @@
 鲿_ciên5#cion5
 牆_ciên5#cion5
 象_ciên6#cion6
+象_siên3#sion3
 绱_ciên6#cion6
 像_ciên6#cion6
 像_siên3#sion3
@@ -852,6 +853,7 @@
 昜_iên5#ion5
 洋_iên5#ion5
 垟_iê5#io5
+垟_iên5#ion5
 烊_iên5#ion5
 媛_iêng5#iang5
 媛_iêng6#iang6
@@ -1565,7 +1567,7 @@
 瞋_tiêng5#tiang5
 瀍_tiêng5#tiang5
 躔_tiêng5#tiang5
-佻_tiou1#tiao1
+佻_tiou1#tiao2
 迢_tiou1#tiao1
 迢_tiou5#tiao5
 怊_tiou1#tiao1
@@ -1801,7 +1803,7 @@
 忆_ig4#êg8
 迎_ngiêng5#ngêng5
 夗_ug8#ngh8|inh8
-哟_iou1#io1
+哟_iou1#iao1
 哟_iou7#io7
 颗_ko1#ko2
 颗_lo2#ko2
@@ -1828,3 +1830,14 @@
 花_huê1#hua1
 𨅹_diê7#dio7
 板_boin1#boin2
+仯_ziê2#zio2
+现_hing7#hiang7
+邧_ruêng6#ruang6
+𬌮_ngioun2#ngiaon2
+煲_bao1#bou5
+俏_ciou3#ciao3
+𤶃_tiou5#tiao5
+又_iou6#iao6
+爪_riou3#riao3
+溅_ziouh4#ziaoh4
+拰_lim6#nim6

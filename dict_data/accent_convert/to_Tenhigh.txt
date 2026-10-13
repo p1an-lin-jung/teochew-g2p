@@ -737,6 +737,14 @@
 勳_hng1#heng1
 壎_hng1#heng1
 醺_hng1#heng1
+方_hng1#heng1
+荒_hng1#heng1
+昏_hng1#heng1
+哼_hng1#heng1
+炘_hng1#heng1
+溵_hng1#heng1
+慇_hng1#heng1
+薰_hng1#heng1
 叶_iab8#iag8
 叶_hiab8#hiag8
 协_hiab8#hiag8
@@ -1571,6 +1579,7 @@
 谄_tiam2#tiang2
 舔_tiam2#tiang2
 掭_tiam3#tiang3
+跈_tiam3#tiang3
 湉_tiam5#tiang5
 天_tiêng1#tiang1
 兲_tiêng1#tiang1
@@ -1827,3 +1836,6 @@
 唚_zim1#zing1
 蔡_cua3#cuan3
 板_boin1#boin2
+㴷_dam5#dang5
+邧_ruêng6#ruang6
+拰_lim6#ning6
