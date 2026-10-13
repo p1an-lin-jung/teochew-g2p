@@ -146,3 +146,6 @@ cython_debug/
    tests/*.pdf
    EOF
 
+
+# 暂不入库的语料
+corpus/

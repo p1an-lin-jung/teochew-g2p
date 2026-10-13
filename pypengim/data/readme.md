@@ -4,14 +4,15 @@
 文件命名约定：单字字表以 `char_` 开头，词表以 `word_` 开头，音节层面的映射放在 `phonology/`。所有文件均为 UTF-8，每行 `键#值`，以 `%` 开头的行是注释。
 
 ```
-dict_data/
+pypengim/data/        （原 dict_data/）
 ├── char_dict/        单字读音
 ├── word_dict/        词汇读音、普通话→潮汕话映射、分词词典
 ├── phonology/        音节 → 音素 / 国际音标
 ├── accent_convert/   府城音 → 各地口音
-├── romanization/     潮拼 → 其它拼音方案
-└── sentence/         句子语料
+└── romanization/     潮拼 → 其它拼音方案
 ```
+
+代码里请用 `pypengim.DATA_DIR` 定位本目录，不要写死相对路径。
 
 ## accent_convert 目录
 顾名思义，本目录存放着口音转换字典，几个txt文件分别是府城音到汕头(Swatow)、揭阳(Kityall)、澄海(Tenhigh)、金石、庵埠等地口音的映射对照。
@@ -100,7 +101,7 @@ jieba 用户词典。针对上述词典文件进行整理，辅助 jieba 库的�
 
 ## 文件更名对照
 
-| 旧路径 | 新路径 |
+| 旧路径（dict_data/ 下） | 新路径（pypengim/data/ 下） |
 |---|---|
 | vocab/origin_vocab.txt | char_dict/char_main.txt |
 | vocab/low_fre.txt | char_dict/char_low_frequency.txt |

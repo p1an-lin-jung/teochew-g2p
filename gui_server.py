@@ -1,15 +1,16 @@
 import gradio as gr
 import jieba
-from script.pyPengIm import pyPengIm 
-from script import utils
-from script import romanization
+from pypengim import pyPengIm 
+from pypengim import utils
+from pypengim import romanization, DATA_DIR
+import os
 import yaml
 
 pinyin_tool = pyPengIm()
 
 accent_dict={'tc':'府城'}
 
-with open("./dict_data/accent_convert/accent.yaml", 'r', encoding='utf-8') as file:
+with open(os.path.join(DATA_DIR, "accent_convert", "accent.yaml"), 'r', encoding='utf-8') as file:
     accent_config = yaml.safe_load(file)
     for k,v in accent_config.items():
         accent_dict[k] = v['name']

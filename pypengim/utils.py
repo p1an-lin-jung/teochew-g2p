@@ -1,4 +1,5 @@
 
+import os
 import re
 import cn2an
 from .syllable import *
@@ -33,7 +34,7 @@ def add_spaces_around_punctuation(text):
 
     return replaced_text
 
-def load_dict(dict_path='./dict_data/char_dict/char_main.txt'):
+def load_dict(dict_path=os.path.join(os.path.dirname(os.path.abspath(__file__)), 'data', 'char_dict', 'char_main.txt')):
     vocab = dict()
     with open(dict_path,'r',encoding='utf-8')as fr:
         for line in fr.readlines():

@@ -1,4 +1,4 @@
-from script.pyPengIm import pyPengIm 
+from pypengim import pyPengIm 
 
 pinyin_tool = pyPengIm()
 
@@ -69,7 +69,7 @@ print(pinyin_tool.pinyin('*',accent='ky')['result'])
 
 
 ## 处理阿拉伯数字
-from script.utils import num_to_chinese,num_to_chinese_smart
+from pypengim.utils import num_to_chinese,num_to_chinese_smart
 
 print(num_to_chinese('15'))
 print(num_to_chinese('120'))

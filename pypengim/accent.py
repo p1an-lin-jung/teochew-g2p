@@ -1,7 +1,7 @@
 """
 口音互转：任意口音 -> 任意口音（经府城音中转）。
 
-口音映射表 ``dict_data/accent_convert/to_*.txt`` 记录的是 ``汉字_府城音节#目标口音音节``，
+口音映射表 ``pypengim/data/accent_convert/to_*.txt`` 记录的是 ``汉字_府城音节#目标口音音节``，
 只能府城 -> 其它口音。要反过来或在两个非府城口音之间互转，需要先还原成府城音节：
 
 * 知道汉字时（``convert_char``、``convert_word``）：用 (汉字, 本口音读音) 反查，
@@ -16,10 +16,9 @@ import os
 
 import yaml
 
-_ACCENT_DIR = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))),
-                           'dict_data', 'accent_convert')
-_VOCAB_DIR = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))),
-                          'dict_data', 'char_dict')
+_DATA_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'data')
+_ACCENT_DIR = os.path.join(_DATA_DIR, 'accent_convert')
+_VOCAB_DIR = os.path.join(_DATA_DIR, 'char_dict')
 _VOCAB_FILES = ('char_main.txt', 'char_extension.txt', 'char_low_frequency.txt')
 
 BASE = 'tc'   # 中转用的基准口音：府城

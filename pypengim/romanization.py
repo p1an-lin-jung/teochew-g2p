@@ -2,7 +2,7 @@
 多种潮州话拼音方案之间的转换。
 
 内部统一使用本仓库的潮拼（``声母 + 韵母 + 声调数字``，如 ``zui2``）作为中间表示，
-其它方案都是 潮拼 -> 目标方案 的单向映射，映射表放在 ``dict_data/romanization/``。
+其它方案都是 潮拼 -> 目标方案 的单向映射，映射表放在 ``pypengim/data/romanization/``。
 
 支持的方案（``scheme`` 参数）：
 
@@ -26,8 +26,7 @@ import unicodedata
 
 from .syllable import INITIALS, NASALS
 
-_ROOT = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))),
-                     'dict_data', 'romanization')
+_ROOT = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'data', 'romanization')
 
 SUPERSCRIPT = {'1': '¹', '2': '²', '3': '³', '4': '⁴', '5': '⁵', '6': '⁶', '7': '⁷', '8': '⁸'}
 

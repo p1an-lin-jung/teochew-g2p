@@ -6,20 +6,29 @@ import types
 import yaml
 import os
 
-jieba.load_userdict('./dict_data/word_dict/jieba_userdict.txt')
+from . import DATA_DIR
+
+
+def _data(*parts):
+    """包内数据文件的绝对路径，与当前工作目录无关。"""
+    return os.path.join(DATA_DIR, *parts)
+
+
+with open(_data('word_dict', 'jieba_userdict.txt'), 'rb') as _fr:
+    jieba.load_userdict(_fr)
 
 class pyPengIm():
     def __init__(self, history=False) -> None:
         self._dict_paths = {
-            "char_main": "./dict_data/char_dict/char_main.txt",
-            "char_extension": "./dict_data/char_dict/char_extension.txt",
-            "word_common": "./dict_data/word_dict/word_common.txt",
-            "word_teochew": "./dict_data/word_dict/word_teochew.txt",
-            "mandarin_to_teochew": "./dict_data/word_dict/mandarin_to_teochew.txt",
-            "word_surname": "./dict_data/word_dict/word_surname.txt",
-            "syllable_to_ipa": "./dict_data/phonology/syllable_to_ipa.txt",
-            # "syllable_to_phone": "./dict_data/phonology/syllable_to_phone.txt",
-            "char_low_frequency": "./dict_data/char_dict/char_low_frequency.txt"
+            "char_main": _data('char_dict', 'char_main.txt'),
+            "char_extension": _data('char_dict', 'char_extension.txt'),
+            "word_common": _data('word_dict', 'word_common.txt'),
+            "word_teochew": _data('word_dict', 'word_teochew.txt'),
+            "mandarin_to_teochew": _data('word_dict', 'mandarin_to_teochew.txt'),
+            "word_surname": _data('word_dict', 'word_surname.txt'),
+            "syllable_to_ipa": _data('phonology', 'syllable_to_ipa.txt'),
+            # "syllable_to_phone": _data('phonology', 'syllable_to_phone.txt'),
+            "char_low_frequency": _data('char_dict', 'char_low_frequency.txt')
         }
 
         self.accent_dict = self._load_accent()
@@ -29,8 +38,8 @@ class pyPengIm():
         
         # 是否启用中国历史词典，以支持古代年号、政权、官职、人名、民族等
         if history:
-            self.word_common.update(utils.load_dict("./dict_data/word_dict/word_history.txt"))
-            self.word_common.update(utils.load_dict("./dict_data/word_dict/word_reign_title.txt"))
+            self.word_common.update(utils.load_dict(_data('word_dict', 'word_history.txt')))
+            self.word_common.update(utils.load_dict(_data('word_dict', 'word_reign_title.txt')))
 
         jieba.cut('')# 预热
 
@@ -55,13 +64,14 @@ class pyPengIm():
 
         raise AttributeError(f"'{self.__class__.__name__}' object has no attribute '{name}'")
 
-    def _load_accent(self,accent_config_path="./dict_data/accent_convert/accent.yaml"):
+    def _load_accent(self, accent_config_path=None):
+        accent_config_path = accent_config_path or _data('accent_convert', 'accent.yaml')
         with open(accent_config_path, 'r', encoding='utf-8') as file:
             accent_config = yaml.safe_load(file)
             accent_dict = {}
             for k,v in accent_config.items():
                 accent_dict[k] = (
-                        utils.load_dict(os.path.join("./dict_data/accent_convert",v['path'])),
+                        utils.load_dict(_data('accent_convert', v['path'])),
                         v['name']
                     )
 

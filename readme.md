@@ -36,7 +36,7 @@
 
 ### 最近更新
 * [2026/10/13]
-  - 重构、重命名 dict 目录与文件；
+  - **重构项目，改为标准 Python 包 `pypengim`**：代码从 `script/` 移到 `pypengim/`，词典数据从 `dict_data/` 移到 `pypengim/data/`，并重命名（字表 `char_*`、词表 `word_*`。现在支持 `pip install .` 安装，且在任意目录下都能运行。导入方式改为 `from pypengim import pyPengIm`；旧的 `from script.pyPengIm import pyPengIm` 暂时仍可用（会提示弃用）。
   - **口音转换支持词对词**：有些读音只在特定词里变化，如「家己」（自己）在揭阳读 `ga1 di7|li7`，但「己」单用不变。口音表里可写 `词_府城读音#目标读音`。
   - 姓氏列表调整：日常极少作姓氏用的单姓（如 乜、只、还、区）已注释掉。
   - **口音映射修正**：参考母语网、PUJdict与基本字词典，核对揭阳、汕头的 -oin、-iou 系列，补充、修正 20 余条映射（如 閒 ain5、苋 hain7、佻 tiao2、哟 iao1）；揭阳 门、们、扪、钔、问、晚 由 mung 改读 meng；澄海 hng1 统一读 heng1（方、荒、昏等）。
@@ -77,11 +77,18 @@
 
 ### 使用方法/示例
 
+#### 0、安装
+```
+pip install .          # 在仓库根目录执行；开发时可用 pip install -e .
+```
+依赖：jieba、cn2an、pyyaml。词典数据随包安装，不需要在仓库根目录下运行。
+
+
 #### 1、默认模式。
 声明实例，调用类函数，默认是优化模式（以府城音为标准），并自动用jieba库分词，输出最优匹配的读音。
 
 ```
-from script.pyPengIm import pyPengIm 
+from pypengim import pyPengIm
 
 pinyin_tool = pyPengIm()
 print(pinyin_tool.pinyin('中心 企业'))
@@ -163,7 +170,7 @@ print(oral_text)
 我 欲# 去 做生理#
 ```
 - 备选词模式
-  部分普通话词汇会对应多个潮汕话词汇，或者该普通话词汇不一定非要转，这部分词汇我在 [映射词典](./dict_data/word_dict/mandarin_to_teochew.txt)中，采用加数字1、2、3、4的方式控制转换。
+  部分普通话词汇会对应多个潮汕话词汇，或者该普通话词汇不一定非要转，这部分词汇我在 [映射词典](./pypengim/data/word_dict/mandarin_to_teochew.txt)中，采用加数字1、2、3、4的方式控制转换。
   ```
     print(pinyin_tool.to_oral('晚上 晚上1 晚上2 晚上3',auto_split=False))# 加数字1、2、3，启用备选词
 
@@ -226,7 +233,7 @@ print(pinyin_tool.to_scheme('ua2 ng eg4', 'ggns'))
 
 说明：
 - `result` 字段始终是潮拼，只有 `pinyin_seq` 会按 `scheme` 转换，因此可以和口音转换（`accent`）一起使用。
-- 各方案的声母、韵母对应表放在 `dict_data/romanization/`（`puj.txt`、`fielde.txt`、`dieghv.txt`、`ggn.txt`、`chen_enquan.txt`），格式同 `dict_data/phonology/syllable_to_ipa.txt`，可以自行修改。
+- 各方案的声母、韵母对应表放在 `pypengim/data/romanization/`（`puj.txt`、`fielde.txt`、`dieghv.txt`、`ggn.txt`、`chen_enquan.txt`），格式同 `pypengim/data/phonology/syllable_to_ipa.txt`，可以自行修改。
 - 白话字、斐尔德、潮语拼音、家己人的对应关系整理自 [pengim-js](https://github.com/learn-teochew/pengim-js)（MIT）；其中斐尔德词典原本没有的府城/金石韵母（如 `eng`、`iêng`、`ung`）按白话字韵母类推。
 - 陈恩泉拼音依据 `chen_enquan_ipa.txt` 中的拼音与国际音标对照，与本项目 IPA 逐个对齐：100 个韵母里 83 个与原表国际音标完全一致，另外 17 个（`iêng`、`iou`、`êi` 等府城音特有的韵母，以及金石韵）按其拼写规则类推。
 - 金石韵 `er`、`erh`、`ern`（[ɤ]）在各原方案里都没有写法，本仓库自定：白话字写 `or`、`orh`、`orⁿ`，其它方案写 `er`、`erh`、`ern`。
@@ -237,7 +244,7 @@ print(pinyin_tool.to_scheme('ua2 ng eg4', 'ggns'))
 
 
 #### 8、口音互转
-口音转换表（`dict_data/accent_convert/to_*.txt`）只记录“府城 → 其它口音”，现在支持任意口音之间互转：先把源口音的读音还原成府城音节，再转到目标口音。口音代码：`tc` 府城、`ky` 揭阳、`st` 汕头、`th` 澄海、`gz_c` / `gz_g` 金石、`ap` 庵埠。
+口音转换表（`pypengim/data/accent_convert/to_*.txt`）只记录“府城 → 其它口音”，现在支持任意口音之间互转：先把源口音的读音还原成府城音节，再转到目标口音。口音代码：`tc` 府城、`ky` 揭阳、`st` 汕头、`th` 澄海、`gz_c` / `gz_g` 金石、`ap` 庵埠。
 
 ```
 st = pinyin_tool.pinyin('冤家', accent='st', auto_split=False)['pinyin_seq']   # uang1 gê1（汕头）
@@ -279,7 +286,7 @@ print(pinyin_tool.to_phoneme(pinyin_seq))
 
 中文对于阿拉伯数字的读法有很灵活的读法，有时逐字念（手机号、身份证号、学号、班级号、年份、邮政编号等），并且【一】有时还读成【幺】；有时则念成数值。这类情况最好是自己手动检查转换。
 ```
-from script.utils import num_to_chinese,num_to_chinese_smart
+from pypengim.utils import num_to_chinese,num_to_chinese_smart
 print(num_to_chinese('15')) #【一 幺】五
 print(num_to_chinese('120')) # 【一 幺】二零
 
@@ -296,7 +303,7 @@ print(pinyin_tool.pinyin('*',accent='ky')['result']) # 转揭阳口音
 ```
 
 #### 13、自定义口音
-只需要在`dict_data/accent_convert`目录下，增加自己的口音映射文件，然后在`accent.yaml`中增加索引值，如：
+只需要在`pypengim/data/accent_convert`目录下，增加自己的口音映射文件，然后在`accent.yaml`中增加索引值，如：
 ```accent.yaml
 ky: 
   path: to_Kityall.txt

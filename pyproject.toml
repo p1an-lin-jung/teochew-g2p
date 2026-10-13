@@ -1,0 +1,18 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "pypengim"
+version = "0.2.0"
+description = "潮州话（潮汕话）文本处理工具：汉字转潮拼、多音字消歧、口音转换、拼音方案互转、潮拼转国际音标"
+readme = "readme.md"
+license = { file = "LICENSE" }
+requires-python = ">=3.8"
+dependencies = ["jieba", "cn2an", "pyyaml"]
+
+[tool.setuptools]
+packages = ["pypengim"]
+
+[tool.setuptools.package-data]
+pypengim = ["data/**/*.txt", "data/**/*.yaml", "data/**/*.md"]
