@@ -29,12 +29,25 @@ class pyPengIm():
         
         # 是否启用中国历史词典，以支持古代年号、政权、官职、人名、民族等
         if history:
-            self.word_dict.update(utils.load_dict("./dict_data/word_dict/history.txt"))
-            self.word_dict.update(utils.load_dict("./dict_data/word_dict/reign_title.txt"))
+            self.word_common.update(utils.load_dict("./dict_data/word_dict/word_history.txt"))
+            self.word_common.update(utils.load_dict("./dict_data/word_dict/word_reign_title.txt"))
 
         jieba.cut('')# 预热
 
+    # 旧属性名 -> 新属性名，兼容外部代码
+    _LEGACY_NAMES = {
+        'vocab': 'char_main',
+        'vocab_extension': 'char_extension',
+        'low_fre_dict': 'char_low_frequency',
+        'word_dict': 'word_common',
+        'teochew_word_dict': 'word_teochew',
+        'translation_dict': 'mandarin_to_teochew',
+        'surname_dict': 'word_surname',
+        'IPA_dict': 'syllable_to_ipa',
+    }
+
     def __getattr__(self, name):
+        name = self._LEGACY_NAMES.get(name, name)
         if name in self._dict_paths:
             if name not in self._loaded_dicts:
                 self._loaded_dicts[name] = utils.load_dict(self._dict_paths[name])

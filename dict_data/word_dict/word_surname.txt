@@ -1,9 +1,7 @@
-皇甫#huang5 pou2
-鲜于#siêng1 i1
+% ===== 单姓 =====
 谢#zia7
 贾#gia2
 翁#êng1
-令狐#lêng6 hu5
 于#i1
 於#u1
 赖#nain6
@@ -15,20 +13,16 @@
 潘#puan1
 连#liêng5|hian5
 汤#teng1
-仲孙#dong6 sung1
 许#kou2
 孔#kong2
 梁#niên5
 高#go1
-公羊#gong1 iên5
 庄#zeng1
 石#ziêh8
 樊#huam6
 姜#giang1
-东方#dang1 huang1
 段#duêng6
 杨#iên5
-公孙#gong1 sung1
 张#diên1
 陆#lêg8|log8
 任#rim6
@@ -41,26 +35,15 @@
 崔#cui1
 孙#seng1
 唐#deng5
-夏侯#hê7 hou5
-司空#si1 kong1
 常#siên5
-长孙#ziang2 sung1
 姚#iê5
 贝#buê6
-颜#ngang5|hian5
+颜#hian5|ngang5
 韦#ui5
-尉迟#uê3 ci5
 董#dang2
 辜#gou1
 卢#lou5
-万俟#mog8 ki5
-诸葛#zu1 guah4
-纪#gi2
-倪#ghoi5
 齐#ci5
-欧阳#ao1 iang5
-上官#ziên6 guan1
-佘#sia5
 安#ang1
 胡#ou5
 田#cang5
@@ -72,40 +55,71 @@
 邱#ku1
 丘#ku1
 洪#ang5
+代#dai3
 龚#gong1|giong2
 章#ziên1|ziang1
 顾#gou3
 叶#iab8|hiab8
 叔#sog4
-区#ao1
-费#bi3
-卜#bog4
-查#za1
-种#cong1
-召#siou6
-瞿#ke5
-解#hai6
-还#huêng5
-兴#hêng1
-裘#kiu5
-氾#huam6
-繁#po5
-乜#nian7
 伍#ngoun2
-朴#piou5
-晟#sêng5
-少#siou3
-贠#ung7
-笮#zêh4
-訾#ze1
-只#ziah4
 燕#iêng1
-蔚#ug4
 肖#siou1
 窦#dou6
-伍#ngoun2
-褚#su2
 成#sêng5
-撒#suah4
 阮#nguêng2
+种#cong1
+瞿#ke5
+朴#piou5
+费#bi3
+查#za1
+褚#su2
 甄#zing1
+纪#gi2
+倪#ghoi5
+佘#sia5
+
+% ===== 复姓 =====
+皇甫#huang5 pou2
+鲜于#siêng1 i1
+令狐#lêng6 hu5
+仲孙#dong6 sung1
+公羊#gong1 iên5
+东方#dang1 huang1
+公孙#gong1 sung1
+夏侯#hê7 hou5
+司空#si1 kong1
+长孙#ziang2 sung1
+尉迟#uê3 ci5
+万俟#mog8 ki5
+诸葛#zu1 guah4
+欧阳#ao1 iang5
+上官#ziên6 guan1
+公叔#gong1 sog4
+叔孙#sog4 sung1
+叔仲#sog4 dong6
+太叔#tai3 sog4
+叔先#sog4 soin1
+申叔#sing1 sog4
+叔服#sog4 hog8
+少叔#siou3 sog4
+中叔#dong1 sog4
+
+% ===== 低频单姓、且有其他常见释义：注释掉 =====
+% 乜#nian7
+% 贠#ung7
+% 笮#zêh4
+% 訾#ze1
+% 只#ziah4
+% 召#siou6
+% 还#huêng5
+% 兴#hêng1
+% 裘#kiu5
+% 氾#huam6
+% 繁#po5
+% 晟#sêng5
+% 少#siou3
+% 卜#bog4
+% 解#hai6
+% 蔚#ug4
+% 撒#suah4
+% 区#ao1
