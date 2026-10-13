@@ -6,20 +6,20 @@ import types
 import yaml
 import os
 
-jieba.load_userdict('./dict_data/word_dict/jieba_cut.txt')
+jieba.load_userdict('./dict_data/word_dict/jieba_userdict.txt')
 
 class pyPengIm():
     def __init__(self, history=False) -> None:
         self._dict_paths = {
-            "vocab": "./dict_data/vocab/origin_vocab.txt",
-            "vocab_extension": "./dict_data/vocab/vocab_extension.txt",
-            "word_dict": "./dict_data/word_dict/dict.txt",
-            "teochew_word_dict": "./dict_data/word_dict/teochew_local_dict.txt",
-            "translation_dict": "./dict_data/word_dict/madr_to_tch.txt",
-            "surname_dict": "./dict_data/vocab/Surname.txt",
-            "IPA_dict": "./dict_data/vocab/IPA_lexicon.txt",
-            # "phoneme_dict": "./dict_data/vocab/phone.txt",
-            "low_fre_dict": "./dict_data/vocab/low_fre.txt"
+            "char_main": "./dict_data/char_dict/char_main.txt",
+            "char_extension": "./dict_data/char_dict/char_extension.txt",
+            "word_common": "./dict_data/word_dict/word_common.txt",
+            "word_teochew": "./dict_data/word_dict/word_teochew.txt",
+            "mandarin_to_teochew": "./dict_data/word_dict/mandarin_to_teochew.txt",
+            "word_surname": "./dict_data/word_dict/word_surname.txt",
+            "syllable_to_ipa": "./dict_data/phonology/syllable_to_ipa.txt",
+            # "syllable_to_phone": "./dict_data/phonology/syllable_to_phone.txt",
+            "char_low_frequency": "./dict_data/char_dict/char_low_frequency.txt"
         }
 
         self.accent_dict = self._load_accent()
@@ -136,11 +136,23 @@ class pyPengIm():
         return ' '.join(result)
 
     def _surname_notice(self, text):
+        """找出文本里的姓氏及其读音。复姓优先（最长匹配），如「诸葛亮」只报「诸葛」。
+
+        返回格式与 pinyin() 的 result 一致：[姓氏, [第1字读音...], [第2字读音...]]。
+        """
+        surnames = self.word_surname
+        max_len = max((len(k) for k in surnames), default=1)
         result = []
-        for ch in text:
-            if ch in self.surname_dict.keys():
-                item = [ch, self._to_pinyin_list(self.surname_dict[ch])]
-                result.append(item)
+        i = 0
+        while i < len(text):
+            for length in range(min(max_len, len(text) - i), 0, -1):
+                word = text[i:i + length]
+                if word in surnames:
+                    result.append([word] + [self._to_pinyin_list(s) for s in surnames[word].split(' ')])
+                    i += length
+                    break
+            else:
+                i += 1
         return result
 
     def _pinyin_heteronym(self, text):
@@ -148,12 +160,12 @@ class pyPengIm():
         text = text.replace('#', '')
         for zh_char in text:
             item = []
-            if zh_char in self.vocab.keys():
-                item.extend(self._to_pinyin_list(self.vocab[zh_char]))
-            if zh_char in self.vocab_extension.keys():
-                item.extend(self._to_pinyin_list(self.vocab_extension[zh_char]))
-            if zh_char in self.low_fre_dict.keys():
-                item.extend(self._to_pinyin_list(self.low_fre_dict[zh_char]))
+            if zh_char in self.char_main.keys():
+                item.extend(self._to_pinyin_list(self.char_main[zh_char]))
+            if zh_char in self.char_extension.keys():
+                item.extend(self._to_pinyin_list(self.char_extension[zh_char]))
+            if zh_char in self.char_low_frequency.keys():
+                item.extend(self._to_pinyin_list(self.char_low_frequency[zh_char]))
             result.append([zh_char, item])
 
         return result
@@ -177,27 +189,27 @@ class pyPengIm():
             word_found_flag = False
 
             item = [word]
-            if word in self.teochew_word_dict.keys():
-                item.extend(self._word_to_pinyin(self.teochew_word_dict[word]))
+            if word in self.word_teochew.keys():
+                item.extend(self._word_to_pinyin(self.word_teochew[word]))
                 word_found_flag = True
 
-            if not word_translate_flag and word in self.word_dict:
+            if not word_translate_flag and word in self.word_common:
                 item = [word]
-                item.extend(self._word_to_pinyin(self.word_dict[word]))  # 在非翻译模式下，清空之前的拼音，仅保留 word_dict 结果，也就是只保存普通话语义
+                item.extend(self._word_to_pinyin(self.word_common[word]))  # 在非翻译模式下，清空之前的拼音，仅保留 word_common 结果，也就是只保存普通话语义
                 word_found_flag = True
 
             elif not word_translate_flag or not word_found_flag:
-                if word in self.word_dict:
-                    item.extend(self._word_to_pinyin(self.word_dict[word]))
+                if word in self.word_common:
+                    item.extend(self._word_to_pinyin(self.word_common[word]))
                     word_found_flag = True
 
 
             if not word_found_flag:
                 for zh_char in word:
-                    if zh_char in self.vocab.keys():
-                        item.append(self._to_pinyin_list(self.vocab[zh_char]))
-                    elif zh_char in self.vocab_extension.keys():
-                        item.append(self._to_pinyin_list(self.vocab_extension[zh_char]))
+                    if zh_char in self.char_main.keys():
+                        item.append(self._to_pinyin_list(self.char_main[zh_char]))
+                    elif zh_char in self.char_extension.keys():
+                        item.append(self._to_pinyin_list(self.char_extension[zh_char]))
                     else:
                         item.append(self._to_pinyin_list('None'))
 
@@ -205,20 +217,15 @@ class pyPengIm():
         return result
 
     def convert_accent(self, pinyin_list, accent):
-        target_vocab = self.accent_dict[accent][0]
-
+        """府城音 -> 目标口音。每个分词结果内先匹配词级映射（如揭阳「家己」），其余按字转换。"""
         result = []
         for one_pair in pinyin_list:
             word, pinyins = one_pair[0], list(one_pair[1:])
-            item = [word]
-            for i, hanzi in enumerate(word):
-                pronunciations = []
-                for pronunciation in pinyins[i]:
-                    query_item = f'{hanzi}_{pronunciation}'
-                    target_accent = target_vocab.get(query_item, pronunciation)
-                    pronunciations.extend(self._to_pinyin_list(target_accent))
-                item.append(list(dict.fromkeys(pronunciations)))# 去重
-            result.append(item)
+            if len(word) != len(pinyins):      # 字数与读音数对不上（如词典数据有误），原样保留
+                result.append([word] + pinyins)
+                continue
+            converted = self._accent_converter.convert_from_base(word, pinyins, accent)
+            result.append([word] + converted)
         return result
 
     def to_IPA(self, pinyin_seq, blank=True):
@@ -233,11 +240,11 @@ class pyPengIm():
                 ipa_item = []
                 for py in pinyin.split('|'):
                     ph_list = utils.pinyin_to_phoneme_list(py)
-                    ipa_item.append(split_char.join([self.IPA_dict[ph] if ph in self.IPA_dict else ph for ph in ph_list]))
+                    ipa_item.append(split_char.join([self.syllable_to_ipa[ph] if ph in self.syllable_to_ipa else ph for ph in ph_list]))
                 result.append("|".join(ipa_item))
             else:
                 ph_list = utils.pinyin_to_phoneme_list(pinyin)
-                result.append(split_char.join(self.IPA_dict[ph] if ph in self.IPA_dict else ph for ph in ph_list))
+                result.append(split_char.join(self.syllable_to_ipa[ph] if ph in self.syllable_to_ipa else ph for ph in ph_list))
 
         return result
 
@@ -252,14 +259,14 @@ class pyPengIm():
         else:
             return None
 
-        return ' '.join([self.translation_dict.get(word, word) + '#' if word in self.translation_dict else word for word in word_list])
+        return ' '.join([self.mandarin_to_teochew.get(word, word) + '#' if word in self.mandarin_to_teochew else word for word in word_list])
 
     def add_word_mapping(self, user_mapping: dict):
-        self.translation_dict.update(user_mapping)
+        self.mandarin_to_teochew.update(user_mapping)
 
     # 查询单个字在不同地区的口音
     def single_query(self, single_char):
-        if single_char not in self.vocab and single_char not in self.vocab_extension:
+        if single_char not in self.char_main and single_char not in self.char_extension:
             return None
 
         if len(single_char) > 1:

@@ -136,3 +136,13 @@ dmypy.json
 
 # Cython debug symbols
 cython_debug/
+ # 本地数据
+   tests/resample_22k/
+   tests/label_for_qwen_asr/
+   tests/for_g2p_training/
+   tests/annotation.txt
+   tests/annotation_ipa.txt
+   tests/raw_annotation.txt
+   tests/*.pdf
+   EOF
+

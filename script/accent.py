@@ -19,8 +19,8 @@ import yaml
 _ACCENT_DIR = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))),
                            'dict_data', 'accent_convert')
 _VOCAB_DIR = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))),
-                          'dict_data', 'vocab')
-_VOCAB_FILES = ('origin_vocab.txt', 'vocab_extension.txt', 'low_fre.txt')
+                          'dict_data', 'char_dict')
+_VOCAB_FILES = ('char_main.txt', 'char_extension.txt', 'char_low_frequency.txt')
 
 BASE = 'tc'   # 中转用的基准口音：府城
 
@@ -81,12 +81,128 @@ class AccentConverter:
             self._char_prons = chars
         return self._char_prons
 
+    def _load_tables(self, accent):
+        """读取口音表，拆成字级映射和词级映射。
+
+        字级：``字_府城音节#目标音节``，多个目标用 | 分隔。
+        词级：``词_府城读音#目标读音``，读音按字用空格分隔，每个字的多个候选用 | 分隔，
+        如 ``家己_ga1 gi7#ga1 di7|li7``。只有整个词、且读音对得上时才生效。
+        """
+        chars, words = {}, collections.defaultdict(list)
+        for key, value in _load_dict(os.path.join(_ACCENT_DIR, self._paths[accent])).items():
+            key, value = key.replace('*', ''), value.replace('*', '')
+            head, _, tc = key.partition('_')
+            if len(head) == 1 and ' ' not in tc:
+                chars[key] = value.split('|')
+                continue
+            tc_syls, targets = tc.split(), [t.split('|') for t in value.split()]
+            if len(head) != len(tc_syls) or len(head) != len(targets):
+                raise ValueError('{}: 词级映射字数与读音数不一致: {}#{}'.format(self._paths[accent], key, value))
+            words[head].append((tc_syls, targets))
+        self._forward[accent] = chars
+        self._word_rules[accent] = dict(words)
+        if words:
+            self._max_word_len[accent] = max(len(w) for w in words)
+
     def _forward_table(self, accent):
         if accent not in self._forward:
-            raw = _load_dict(os.path.join(_ACCENT_DIR, self._paths[accent]))
-            self._forward[accent] = {k.replace('*', ''): [x.replace('*', '') for x in v.split('|')]
-                                     for k, v in raw.items()}
+            self._load_tables(accent)
         return self._forward[accent]
+
+    def _word_table(self, accent):
+        """词 -> [(府城读音列表, 目标读音候选列表), ...]"""
+        if accent == BASE:
+            return {}
+        if accent not in self._word_rules:
+            self._load_tables(accent)
+        return self._word_rules[accent]
+
+    def _match_words(self, word, syllables, accent, side):
+        """在 word 里从左到右做最长匹配，返回 {起始位置: (长度, 府城读音, 目标读音)}。
+
+        side='tc'：syllables 是府城读音候选，规则的府城读音要在候选里；
+        side='target'：syllables 是该口音读音候选，规则的目标读音要和候选有交集。
+        """
+        rules = self._word_table(accent)
+        if not rules:
+            return {}
+        found, i = {}, 0
+        while i < len(word):
+            for length in range(min(self._max_word_len[accent], len(word) - i), 1, -1):
+                hit = None
+                for tc_syls, targets in rules.get(word[i:i + length], []):
+                    cands = [set(x.replace('*', '') for x in s) for s in syllables[i:i + length]]
+                    if side == 'tc':
+                        ok = all(t in c for t, c in zip(tc_syls, cands))
+                    else:
+                        ok = all(set(t) & c for t, c in zip(targets, cands))
+                    if ok:
+                        hit = (length, tc_syls, targets)
+                        break
+                if hit:
+                    found[i] = hit
+                    i += length
+                    break
+            else:
+                i += 1
+        return found
+
+    def convert_from_base(self, word, syllables, accent):
+        """府城读音 -> 目标口音，先查词级映射，再按字转换。
+
+        word 是汉字串，syllables 与汉字一一对应，每项是该字的府城读音候选列表。
+        返回同样结构的列表（每项去重、保持顺序）。没有映射的读音原样保留。
+        """
+        self._check(accent)
+        table = self._forward_table(accent) if accent != BASE else {}
+        out = []
+        for ch, prons in zip(word, syllables):
+            merged = []
+            for py in prons:
+                # 表里没有就原样保留（含 * 标记）
+                for target in table.get('{}_{}'.format(ch, py.replace('*', ''))) or [py]:
+                    if target not in merged:
+                        merged.append(target)
+            out.append(merged)
+        if accent == BASE:
+            return out
+        for start, (length, tc_syls, targets) in self._match_words(word, syllables, accent, 'tc').items():
+            for k in range(length):
+                pos = start + k
+                merged = []
+                for py in syllables[pos]:
+                    if py.replace('*', '') == tc_syls[k]:
+                        items = targets[k]
+                    else:
+                        items = self._to_accent(word[pos], py.replace('*', ''), accent)
+                    for target in items:
+                        if target not in merged:
+                            merged.append(target)
+                out[pos] = merged
+        return out
+
+    def word_to_base(self, word, syllables, from_accent):
+        """某口音读音 -> 府城读音，先查词级映射，再按字还原。结构同 convert_from_base。"""
+        self._check(from_accent)
+        out = []
+        for ch, prons in zip(word, syllables):
+            merged = []
+            for py in prons:
+                for tc in self.to_base(ch, py, from_accent):
+                    if tc not in merged:
+                        merged.append(tc)
+            out.append(merged)
+        for start, (length, tc_syls, targets) in self._match_words(word, syllables, from_accent, 'target').items():
+            for k in range(length):
+                pos = start + k
+                merged = []
+                for py in syllables[pos]:
+                    items = [tc_syls[k]] if py in targets[k] else self.to_base(word[pos], py, from_accent)
+                    for tc in items:
+                        if tc not in merged:
+                            merged.append(tc)
+                out[pos] = merged
+        return out
 
     def _to_accent(self, ch, tc_syllable, accent):
         """府城 (字, 音节) -> 目标口音的音节列表。表里没有就和府城相同。"""
@@ -146,18 +262,12 @@ class AccentConverter:
         """词转换。word 是汉字串，syllables 与汉字一一对应，每项是该字在 from_accent 下的候选读音列表。
 
         返回与 syllables 同样结构的列表。非汉字（字长不匹配、候选为 None 等）原样保留。
+        词级映射（如揭阳「家己」ga1 di7）在还原和转换两步都会生效。
         """
         self._check(from_accent)
         self._check(to_accent)
-        out = []
-        for ch, prons in zip(word, syllables):
-            merged = []
-            for syllable in prons:
-                for target in self.convert_char(ch, syllable, from_accent, to_accent):
-                    if target not in merged:
-                        merged.append(target)
-            out.append(merged)
-        return out
+        base = self.word_to_base(word, syllables, from_accent)
+        return self.convert_from_base(word, base, to_accent)
 
     def candidates(self, syllable, from_accent):
         """只有音节、不知道汉字时：返回可能的府城音节，按词典里对应的字数从多到少排序。"""
