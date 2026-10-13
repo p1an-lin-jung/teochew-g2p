@@ -47,6 +47,8 @@ class AccentConverter:
         self._reverse = {}          # 口音 -> {(字, 目标音节): {府城音节, ...}}
         self._syllable_rev = {}     # 口音 -> {目标音节: Counter({府城音节: 字数})}
         self._char_prons = None     # 字 -> [府城音节, ...]
+        self._word_rules = {}       # 口音 -> {词: [(府城读音列表, 目标读音候选列表), ...]}
+        self._max_word_len = {}
         self._load_registry()
 
     # ---------------------------------------------------------------- 加载

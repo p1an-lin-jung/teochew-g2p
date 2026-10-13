@@ -219,8 +219,8 @@ print(pinyin_tool.to_scheme('ua2 ng eg4', 'ggns'))
 
 说明：
 - `result` 字段始终是潮拼，只有 `pinyin_seq` 会按 `scheme` 转换，因此可以和口音转换（`accent`）一起使用。
-- 各方案的声母、韵母对应表放在 `dict_data/romanization/`（`puj.txt`、`fielde.txt`、`dieghv.txt`、`ggn.txt`、`chen_enquan.txt`），格式同 `IPA_lexicon.txt`，可以自行修改。
-- 白话字、斐尔德、潮语拼音、家己人的对应关系整理自 [pengim-js](https://github.com/learnteochew/pengim-js)（MIT）；其中斐尔德词典原本没有的府城/金石韵母（如 `eng`、`iêng`、`ung`）按白话字韵母类推。
+- 各方案的声母、韵母对应表放在 `dict_data/romanization/`（`puj.txt`、`fielde.txt`、`dieghv.txt`、`ggn.txt`、`chen_enquan.txt`），格式同 `dict_data/phonology/syllable_to_ipa.txt`，可以自行修改。
+- 白话字、斐尔德、潮语拼音、家己人的对应关系整理自 [pengim-js](https://github.com/learn-teochew/pengim-js)（MIT）；其中斐尔德词典原本没有的府城/金石韵母（如 `eng`、`iêng`、`ung`）按白话字韵母类推。
 - 陈恩泉拼音依据 `chen_enquan_ipa.txt` 中的拼音与国际音标对照，与本项目 IPA 逐个对齐：100 个韵母里 83 个与原表国际音标完全一致，另外 17 个（`iêng`、`iou`、`êi` 等府城音特有的韵母，以及金石韵）按其拼写规则类推。
 - 金石韵 `er`、`erh`、`ern`（[ɤ]）在各原方案里都没有写法，本仓库自定：白话字写 `or`、`orh`、`orⁿ`，其它方案写 `er`、`erh`、`ern`。
 - 前鼻音（舌尖韵尾 [n]/[t̚]）：潮汕三市市区在内的多数地区已并入舌根韵尾 [ŋ]/[k̚]，少数地区仍有保留。潮拼里 `-n` 已用来记鼻化韵，所以把这一对韵尾记为 `-nd`/`-d`；白话字写 `-n`/`-t`。目前收录 14 个韵母：`and ad iênd iêd ind id und ud end ed uênd uêd uand uad`，如 `zind1`→`tsin1`、`zad4`→`tsat4`。词典本身还没有标注这些读音，其它方案和国际音标暂未收录。

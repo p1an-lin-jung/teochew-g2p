@@ -288,6 +288,7 @@
 鲿_ciên5#cion5
 牆_ciên5#cion5
 象_ciên6#cion6
+象_siên3#sion3
 绱_ciên6#cion6
 像_ciên6#cion6
 像_siên3#sion3
@@ -796,7 +797,7 @@
 哼_hng1#hêng1
 蚬_hoin2#hain2
 还_huêng5#huang5
-苋_hoin6#hain6
+苋_hoin7#hain7
 番_huêng1#huang1
 鸮_hiou1#hiao1
 _hng1#hêng1
@@ -1003,6 +1004,7 @@
 沿_ing5#êng5
 昜_iên5#ion5
 垟_iê5#io5
+垟_iên5#ion5
 烊_iên5#ion5
 铅_ing5#êng5
 媛_iêng5#iang5
@@ -1927,7 +1929,7 @@
 篅_tuêng5#tuang5
 糰_tuêng5#tuang5
 趁_ziêng2#ziang2
-佻_tiou1#tiao1
+佻_tiou1#tiao2
 迢_tiou1#tiao1
 迢_tiou5#tiao5
 怊_tiou1#tiao1
@@ -2190,7 +2192,7 @@
 纥_ngeg4#ngiag4
 斡_uêg4#iag4
 迎_ngiêng5#ngêng5
-哟_iou1#io1
+哟_iou1#iao1
 哟_iou7#io7
 刊_kang5#kiang1
 刊_kang1#kiang1
@@ -2256,3 +2258,27 @@
 踢_tig4#têg4
 解_goi3#gai3
 𠲶_ming1#mêng1
+仯_ziê2#zio2
+邧_ruêng6#ruang6
+𬌮_ngioun2#ngiaon2
+阂_hoin6#hain6
+拰_lim6#nim6
+閒_oin5#ain5
+俏_ciou3#ciao3
+𤶃_tiou5#tiao5
+又_iou6#iao6
+爪_riou3#riao3
+溅_ziouh4#ziaoh4
+掮_goin1#gain1
+菱_noin5#nain5
+趾_zoin2#zain2
+荔_noin7#nain7
+办_poin7#bain7
+门_mung5#meng5
+们_mung5#meng5
+扪_mung5#meng5
+钔_mung5#meng5
+问_mung7#meng7
+晚_mung2#meng2
+恒_hêng5#siên5
+家己_ga1 gi7#ga1 di7|li7

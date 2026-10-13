@@ -116,7 +116,7 @@ class pyPengIm():
     def sentence_cut(self, text):
         new_text_list = []
         for ch in text:
-            if ch not in self.vocab and ch not in self.vocab_extension:
+            if ch not in self.char_main and ch not in self.char_extension:
                 new_text_list.append(' {} '.format(ch))
             else:
                 new_text_list.append(ch)

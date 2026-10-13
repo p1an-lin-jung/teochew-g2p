@@ -49,32 +49,73 @@ dict_data/
 揣：读成 cuai2
 蹭：读成 cêng3
 ```
-此类的错误发音已经成为事实，因此我增加了 `error_pronunciation.txt` 的文件，记录此类错误发音。
+此类的错误发音已经成为事实，因此我增加了 `char_mispronunciation.txt` 的文件，记录此类错误发音。
 
 该文件将持续记录。
 
-9、homophonic_substitution.txt
-谐音字替换。记录潮汕人在微信、抖音等平台习惯喜欢用的谐音字。
+#### 6、char_traditional.txt
+繁体字（与简体字读音有别时）的读音，如 臟、髒。
 
-10、history.txt
-存放历史相关词汇。
-
-#### word_dict 目录
+## word_dict 目录
 本文件夹存放着多个核心词典文件，包括：
 
-1、dict.txt
+#### 1、word_common.txt
 存放常用词汇的读音，用于多音字消歧。主要是普通话词汇为主，因为项目早期没做特别区分，所以也混杂了一些潮汕话方言词汇进去，待后续检查、改进。
 
-2、teochew_local_dict.txt
-存放方言词汇的读音。例如【生理】，在dict.txt中是【sên1 li2】，表示【生物机体的生命活动和各个器官的机能】；在teochew_local_dict.txt 中是【sêng1 li2】，表示【生意、买卖】。
+#### 2、word_teochew.txt
+存放方言词汇的读音。例如【生理】，在 word_common.txt 中是【sên1 li2】，表示【生物机体的生命活动和各个器官的机能】；在 word_teochew.txt 中是【sêng1 li2】，表示【生意、买卖】。
 
-3、madr_to_tch.txt
-用于将普通话词汇映射到更为地道的潮汕话词汇。
+#### 3、word_surname.txt
+该文件整理了常用姓氏（含复姓）的潮汕话读音情况。
 
-4、jieba_cut.txt
-针对前三个词典文件进行整理，辅助jieba库的分词，使之更加适配潮汕话的分词。
-
-5、place.txt
+#### 4、word_place.txt
 整理古今中外和潮汕本土地名，基本涵盖世界上大部分国家和地区，以及主要城市。
 本土地名尽量遵循习惯读法和白读音。
 国内其他地区和国外地名优先遵循习惯读法，如该地名较少用，则优先用文读音。
+
+#### 5、word_history.txt
+存放历史相关词汇（朝代、政权名、民族、人名、官职）。
+
+#### 6、word_reign_title.txt
+记录古代皇帝年号专用词。
+
+#### 7、mandarin_to_teochew.txt
+用于将普通话词汇映射到更为地道的潮汕话词汇。
+
+#### 8、homophone_substitution.txt
+谐音字替换。记录潮汕人在微信、抖音等平台习惯喜欢用的谐音字。
+
+#### 9、jieba_userdict.txt
+jieba 用户词典。针对上述词典文件进行整理，辅助 jieba 库的分词，使之更加适配潮汕话的分词。
+
+## phonology 目录
+
+#### 1、syllable_to_phone.txt / syllable_to_phone_nasalized.txt
+将拼音映射为更小的音素，也就是 `声母 + 韵母` 的模式。分两份：
+- `syllable_to_phone.txt`：原版，m/n/ng 声母后的元音不标鼻化，如 `ma#m a`。
+- `syllable_to_phone_nasalized.txt`：鼻化版，m/n/ng 声母后的元音一律带鼻化，如 `man#m an`、`muênh#m uênh`，与当前字典、词典和语料的标注约定一致。
+
+#### 2、syllable_to_ipa.txt
+该文件将拼音映射到国际音标IPA，方便与现有多语言语音大模型接轨。
+
+## 文件更名对照
+
+| 旧路径 | 新路径 |
+|---|---|
+| vocab/origin_vocab.txt | char_dict/char_main.txt |
+| vocab/low_fre.txt | char_dict/char_low_frequency.txt |
+| vocab/vocab_extension.txt | char_dict/char_extension.txt |
+| vocab/鼻音.txt | char_dict/char_nasal_variants.txt |
+| vocab/error_pronunciation.txt | char_dict/char_mispronunciation.txt |
+| vocab/traditional_chinese.txt | char_dict/char_traditional.txt |
+| vocab/Surname.txt | word_dict/word_surname.txt |
+| vocab/phone.txt | phonology/syllable_to_phone.txt |
+| vocab/IPA_lexicon.txt | phonology/syllable_to_ipa.txt |
+| word_dict/dict.txt | word_dict/word_common.txt |
+| word_dict/teochew_local_dict.txt | word_dict/word_teochew.txt |
+| word_dict/place.txt | word_dict/word_place.txt |
+| word_dict/history.txt | word_dict/word_history.txt |
+| word_dict/reign_title.txt | word_dict/word_reign_title.txt |
+| word_dict/madr_to_tch.txt | word_dict/mandarin_to_teochew.txt |
+| word_dict/homophonic_substitution.txt | word_dict/homophone_substitution.txt |
+| word_dict/jieba_cut.txt | word_dict/jieba_userdict.txt |
