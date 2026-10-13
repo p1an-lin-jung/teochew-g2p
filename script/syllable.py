@@ -51,7 +51,7 @@ FINALS = [
 
 # 金石、沙溪、龙湖
 __gimzieh__ = [
-    'eo','eoh','eon'
+    'er','erh','ern'
 ]
 FINALS = FINALS + __nasal_vowel__ + __rhyme_with_a_labial_ending__ + __gimzieh__
 

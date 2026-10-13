@@ -1,7 +1,7 @@
 % 潮拼 -> 家己人拼音 (Gaginang Peng'im)
 % 来源：根据 pengim-js (MIT, (c) 2024 Learn Teochew) 的映射表整理，并补全了本仓库词典里多出的韵母。
 % 格式：潮拼#目标方案。声调不在表内，由 script/romanization.py 处理。
-% 金石韵 eo/eoh/eon 在原方案中没有对应写法，本仓库自定：白话字写 or/orh/orⁿ，其它方案写 er/erh/ern。纯鼻音 hm 原样保留。
+% 金石韵（潮拼记作 er/erh/ern）在原方案中没有对应写法，本仓库自定：白话字写 or/orh/orⁿ，其它方案写 er/erh/ern。纯鼻音 hm 原样保留。
 
 % 声母
 b#b
@@ -122,9 +122,9 @@ uêng#ueng
 ên#en
 êng#eng
 ênh#enh
-eo#er
-eoh#erh
-eon#ern
+er#er
+erh#erh
+ern#ern
 iuh#iuh
 êm#em
 
