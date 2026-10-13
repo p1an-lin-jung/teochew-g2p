@@ -618,7 +618,7 @@
 接种#zih4 zêng3
 种地#zêng3 di7
 耕种#gên1 zêng3
-芒种#mang5 zêng2
+芒种#mang5 zong2
 种瓜#zêng3 guê1
 种菜#zêng3 cai3
 种花#zêng3 huê1
@@ -851,7 +851,7 @@
 
 认为#ring7 ui5
 成为#sêng5 ui5
-为什么#ui5 sim6 mon7
+为什么#ui5 sim6 monh4
 行为#gian5 ui5
 以为#in2 ui5
 称为#cêng1 ui5
@@ -1496,7 +1496,7 @@
 绵长#miêng5 ciang5
 绵延#miêng5 iêng6
 命运#mian7 ung7
-生命#sên1 mian7
+生命#sên1|sên3 mian7
 逃命#do5 mian7
 救命#giu3 mian7
 拼命#pêng1 mian7
@@ -1592,7 +1592,7 @@
 心中#sim1 dang1
 暗中#am3 dang1
 手中#ciu2 dang1
-
+垟中#iên5 dang1
 田垟中#cang5 iên5 dang1
 日常中#rig8 siên5 dang1
 目中无人#mag8 dang1 bho5 nang5
@@ -1609,7 +1609,7 @@
 懊恼#ao3 naon2
 气恼#ki3 naon2
 恼羞成怒#naon2 siu1 sêng5 non7
-哪吒#nan7 za1
+哪吒#nan5|la5 za1
 卢比#lu5 bi2
 卢布#lu5 bu3
 茅庐#maon5 lu5
@@ -2459,7 +2459,7 @@
 猫腻#ngioun1 nin6
 甜腻甜腻#diam5 nin6 diam5 nin6
 
-什么#sim6 mon7
+什么#sim6 monh4
 什乜#sib8 minh4
 什锦#zab8 gim2
 布尔什维克#bu3 re2 zab8 rui6 kiog4
@@ -3503,7 +3503,7 @@
 诏安#riou3 ang1
 安溪#ang1 koi1
 临安#lim5 uan1|ang1
-安徽#ang1 hui6
+安徽#ang1 hui1
 安庆#ang1 kêng3
 平安#pêng5 ang1
 安培#ang1 buê5
@@ -3605,6 +3605,7 @@
 颜锡祺#hian5 siah4 ki5
 
 闹热#lao7 riêg8
+劳热#lao5 riêg8
 淋柱#lam5 tiou6
 淋盐#lam5 iam5
 淋水#lam5 zui2
@@ -4510,7 +4511,7 @@
 雨来了#hou6 lai5 liou3
 
 缓慢#huêng2 mang7
-缓解#huêng2 goi2
+缓解#huêng2|mang7 goi2
 缓缓#huêng2 huêng2
 缓冲#huêng2 cong1
 缓刑#huêng2 hêng5
@@ -5777,12 +5778,13 @@
 狂欢#kuang5 huan1
 欢送#huan1 sang3
 欢聚一堂#huan1 zu6 zêg8 deng5
-饿了么#gho7 liou3 mon7
-怎么#za2 mon7
-要么#iou3 mon7
-那么#nan2 mon7
-这么#zê2 mon7
-多么#do1 mon7
+饿了么#gho7 liou3 mon1
+怎么#za2 monh4
+咋么#za2 monh4
+要么#iou3 monh4
+那么#nan2 monh4
+这么#zê2 monh4
+多么#do1 monh4
 芬芳#hung1 huang1
 芳香#huang1 hiang1
 芳草#huang1 cao2
@@ -6094,7 +6096,7 @@
 井边#zên2 biêng1
 京师#gian1 se1
 人马#nang5 bhê2
-什么人#sib8 mon7 nang5
+什么人#sim6 monh4 nang5
 从何而来#cong5 ho5 re5 lai5
 从后边#cong5 ao6 biêng1
 从生下来#cong5 sên1 hia6 lai7
@@ -6241,7 +6243,7 @@
 周朝#ziu1 ciou5
 周朝天子#ziu1 ciou5 tiêng1 ze2
 呼喊#hu1 ham3
-咋么办#za3 mon7 bang7
+咋么办#za3 monh4 bang7
 咋奈#za3 nain6
 咬牙切齿#ga6 ghê5 ciêg4 ki2
 品竹弹丝#bing2 dêg4 tang5 si1
@@ -6467,7 +6469,7 @@
 有个#u6 gai5
 有事#u6 se7
 有人#u6 nang5
-有什么#u6 sib8 mon7
+有什么#u6 sim6 monh4
 有病#u6 bên7
 望见#mon7 giêng3
 朝廷#ciou5 têng5
@@ -7719,7 +7721,8 @@
 强降水#kiang5 gang3 zui2
 强对流#kiang5 dui3 liu5
 现场会#hing7 diên5 huê6
-看家#kang3 gê1
+看家#kang1|kang3 gê1
+看门狗#kang1 mung1 gao2
 歪主意#uai1 zu2 i3
 校区#hao6 ku1
 高考#gao1 kao2
@@ -8668,7 +8671,7 @@
 厅长#tian1 ziang2
 一家亲#zêg8 gê1 cing1
 点燃#diam2 riêng5
-生命力#sên1 mian7 lag8
+生命力#sên1|sên3 mian7 lag8
 年中#nin5 dong1
 扎实#zab4 sig8
 二十二#ri6 zab8 ri6
@@ -9319,7 +9322,7 @@
 好友#ho2 iu2
 相撞#siang1 zuang6
 下体#ê6 ti2
-趣味#cu2 bhi6|bhi7
+趣味#cu3 bhi5|bhi7
 能为#lêng5 ui5
 下毒手#hia6 dag8 ciu2
 目无王法#mag8 bho5 uang5 huab4
@@ -9708,3 +9711,18 @@
 鳝鱼#siêng6 he5
 黄鳝#ng5 siêng6
 鲢鱼#liêng5 he5
+苹婆#ping5 po5|to5
+
+喹啉#gui1 lim5
+异喹啉#i6 gui1 lim5
+卟啉#bog4 lim5
+菲啰啉#hui1 lo1 lim5
+菲罗啉#hui1 lo5 lim5
+吗啉#man2 lim5
+吗啡啉#man2 hui1 lim5
+喹喔啉#gui1 og4 lim5
+羟基喹啉#kiang2 gi1 gui1 lim5
+甲基喹啉#gah4 gi1 gui1 lim5
+四苯基卟啉#si3 bung2 gi1 bog4 lim5
+尿卟啉#riê7 bog4 lim5
+原卟啉#nguêng5 bog4 lim5

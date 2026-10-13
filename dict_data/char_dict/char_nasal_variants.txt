@@ -1,0 +1,98 @@
+% 同一个字既可读鼻化韵、也可读非鼻化韵的读音对（自动从字表、词表、语料中整理，同声母同声调）。
+% 格式：字#非鼻化|鼻化，按语料中出现次数从多到少排列。
+% 两个读音都有字表/词表收录，或在语料中各出现 3 次以上的，列为正式条目；
+% m/n/ng 声母按约定一律鼻化，不在此列。
+
+% ===== i-in =====
+递#di5|din5
+倚#i2|in2
+挤#zi3|zin3
+侈#ci2|cin2
+糍#zi5|zin5
+耻#ci2|cin2
+踦#i2|in2
+薏#i3|in3
+喜#hi2|hin2
+支#zi1|zin1
+
+% ===== iu-iun =====
+幽#hiu1|hiun1
+休#hiu1|hiun1
+悠#hiu1|hiun1
+朽#hiu2|hiun2
+攸#hiu1|hiun1
+咻#hiu1|hiun1
+庥#hiu1|hiun1
+浟#hiu1|hiun1
+鸺#hiu1|hiun1
+貅#hiu1|hiun1
+麀#hiu1|hiun1
+髹#hiu1|hiun1
+
+% ===== ua-uan =====
+蔡#cua3|cuan3
+抓#zua1|zuan1
+𪡩#tua3|tuan3
+闩#cua3|cuan3
+𠾎#sua3|suan3
+寡#gua2|guan2
+
+% ===== ui-uin =====
+非#hui1|huin1
+婓#hui1|huin1
+毁#hui2|huin2
+畏#ui3|uin3
+跪#gui6|guin6
+诽#hui2|huin2
+匪#hui2|huin2
+榧#hui2|huin2
+篚#hui2|huin2
+
+% ===== a-an =====
+阿#a1|an1
+啊#a7|an7
+炸#za3|zan3
+㫜#da1|dan1
+迒#ha5|han5
+哈#ha7|han7
+咋#za3|zan3
+哈#ha2|han2
+
+% ===== ê-ên =====
+生#sê1|sên1
+些#sê1|sên1
+寨#zê7|zên7
+平#pê1|pên1
+怎#zê6|zên6
+诶#ê7|ên7
+
+% ===== oi-oin =====
+第#doi6|doin6
+底#doi2|doin2
+
+% ===== iê-iên =====
+照#ziê3|ziên3
+𠀒#hiê2|hiên2
+垟#iê5|iên5
+
+% ===== uah-uanh =====
+頞#uah4|uanh4
+活#uah8|uanh8
+
+% ===== êh-ênh =====
+赫#hêh4|hênh4
+唬#hêh4|hênh4
+
+% ===== uai-uain ===== 注：揣@cuai2 为讹读。
+侉#huai2|huain2
+揣#cuai2|cuain2
+
+% ===== io-ion ===== 注：揭阳、饶平、潮阳等口音读dio6，汕头口音读 dion6
+赵#dio6|dion6
+
+% ===== uê-uên =====
+果#guê2|guên2
+果#gua2|guan2
+
+% ===== aoh-aonh =====
+哠#haoh8|haonh8

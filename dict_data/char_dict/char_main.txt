@@ -1316,7 +1316,7 @@
 睊#geng3|giêng3
 靳#geng3
 觐#geng3
-凝#ngêng5|geng5|ngang5
+凝#ngiêng5|ngêng5|geng5|ngang5
 近#geng6
 脘#uêng2|geng6
 墐#geng6
@@ -2002,7 +2002,7 @@
 饿#gho7
 倪#ngin5|ghoi5
 艺#ghoi7
-呓#ngin3|ghoi7
+呓#ngin3|ghoi7|nin3
 蓺#ghoi7
 寱#ngin3
 吴#ghou5
@@ -2678,7 +2678,7 @@
 耲#huai5
 坏#huai6
 幻#huêng3
-氾#huam6|huam3
+氾#huam3
 汎#huam3
 泛#huam3
 凢#huam5|huam6
@@ -4316,7 +4316,7 @@
 林#lim5
 临#lim5
 冧#lim5
-啉#lim5
+啉#lim1|lim5
 琳#lim5
 綝#cim1|tim1|lim5
 霖#lim5
@@ -4876,7 +4876,7 @@
 微#muin5
 薇#muin5
 文#bhung5
-纹#bhung5|mung7
+纹#bhung5
 那#nan2
 乸#nuan3|nan2
 拏#nan2
@@ -4900,7 +4900,7 @@
 掿#nag8
 搦#nag8|nêg8
 乃#nain6|nain2
-奶#nin6
+奶#nain2|nin6
 廼#nain6|nain2
 迺#nain6|nain2
 鼐#nain6|nain2
@@ -5246,7 +5246,7 @@
 踒#o1
 鏖#ao1|o1
 袄#o2
-啊#a7
+啊#a7|an7
 岙#ao3|o3
 奥#o3
 奧#o3
@@ -6036,7 +6036,7 @@
 桑#seng1
 痠#seng1
 酸#seng1
-霜#seng1
+霜#seng1|sang1
 孀#seng1
 礵#seng1
 鹴#seng1
@@ -6098,7 +6098,7 @@
 娠#sing5
 宸#sing5
 乘#sêng6|sêng5
-晟#sêng6|sêng5
+晟#sêng6
 晨#sing5
 盛#sêng6|sing5
 铖#sêng5
@@ -7172,7 +7172,7 @@
 掾#uêng3
 汍#uêng5
 芄#uêng5
-贠#uêng5|ung7
+贠#uêng5
 岏#uêng5
 员#uêng5
 完#uêng5
@@ -7343,7 +7343,7 @@
 拶#zag4|zang2
 栉#zag4
 铡#zag4
-笮#zag4|zêh4
+笮#zag4
 蚻#zag4
 族#zog8
 扱#zah4|cah4
@@ -7452,7 +7452,7 @@
 孳#ze1
 赍#ze1
 锱#ze1
-訾#ze2|ze1
+訾#ze2
 趑#ze1
 觜#cui3|ze1
 龇#ze1

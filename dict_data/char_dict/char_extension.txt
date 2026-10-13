@@ -12,7 +12,7 @@
 倵#bhu5
 僫#oh4
 㘰#dou6
-噜#luh8
+噜#luh4
 𠼀#ziên1
 鳓#lêg8
 盺#geng3
@@ -130,8 +130,16 @@
 䠧#tu5
 坺#puêh8
 𢞴#ng3
-A#êi1
-B#bi1
+仯#ziê2
+𠡒#dui2
+䀛#bhai7
+衐#ge5
+汿#su7|suh8
+毨#soi1
+夋#so5
+拰#lim6
+A#êi1|ê1
+B#bi1|bhi1
 C#si1
 D#di1
 E#i1
@@ -156,3 +164,4 @@ W#dag8 buh4 liu7
 X#ê2 keh4 seh4
 Y#uai1
 Z#rêi1
+
