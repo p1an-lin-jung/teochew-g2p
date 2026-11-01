@@ -26,6 +26,8 @@ class pyPengIm():
             "word_teochew": _data('word_dict', 'word_teochew.txt'),
             "mandarin_to_teochew": _data('word_dict', 'mandarin_to_teochew.txt'),
             "word_surname": _data('word_dict', 'word_surname.txt'),
+            "word_person_real": _data('word_dict', 'word_Chinese_names.txt'),
+            "word_person_synthetic": _data('word_dict', 'word_Chinese_names_fake.txt'),
             "syllable_to_ipa": _data('phonology', 'syllable_to_ipa.txt'),
             # "syllable_to_phone": _data('phonology', 'syllable_to_phone.txt'),
             "char_low_frequency": _data('char_dict', 'char_low_frequency.txt')
@@ -225,6 +227,14 @@ class pyPengIm():
                 if word in self.word_common:
                     item.extend(self._word_to_pinyin(self.word_common[word]))
                     word_found_flag = True
+
+            # 人名词典（真实 + 合成），懒加载；只在前面的词典都没命中时查
+            if not word_found_flag:
+                for person_dict in (self.word_person_real, self.word_person_synthetic):
+                    if word in person_dict:
+                        item.extend(self._word_to_pinyin(person_dict[word]))
+                        word_found_flag = True
+                        break
 
 
             if not word_found_flag:
