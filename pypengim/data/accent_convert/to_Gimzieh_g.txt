@@ -2054,6 +2054,7 @@
 凡_huam5#huang5
 凡_huam6#huang6
 樊_huam6#huang6
+樊_huêng5#huang5
 淋_lim5#ling5
 林_lim5#ling5
 拈_liam1#niang1
@@ -2125,3 +2126,9 @@
 每_muên2#muin2
 㴷_dam5#dang5
 邧_ruêng6#ruang6
+拰_lim6#ling6
+相辅_siê1 hu6#siou1 hu6
+神阴_sing5 im1#sing5 ing1
+羽毛球_u2 mo5 giu5#ou1 mo5 giu5
+打羽毛_pah4 u2 mo5#pah4 ou1 giu5
+麻烦_muan5 huêng5#mon5 huang5

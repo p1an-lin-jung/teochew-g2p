@@ -165,6 +165,7 @@
 㘰粪堆#dou6 bung3 du1
 单于#siêng5 u1
 单雄信#siêng6 hiong5 sing3
+单县#siêng6 guin7
 酒坛#ziu2 tam5
 铁椎#tih4 tui5
 椎鼓#dui5 gou2
@@ -1077,7 +1078,7 @@
 荷包#ho5 bao1
 荷兰薯#ho5 lang5 ze5
 荷兰豆#ho5 lang5 dao7
-薄荷#boh8 ho3
+薄荷#bo5 ho3
 荷花#o5 huê1
 菏泽#o5 zêg8
 荷塘#o5 deng5
@@ -7630,7 +7631,7 @@
 一名#zêg8 mian5
 风险#huang1 hiam2
 热传#riêg8 tuêng5
-衹些样#zi2 sên1 iên7
+衹生样#zi2 sên1 iên7
 二百#non6 bêh4
 两份#non6 hung7
 出圈#cug4 kuêng1
@@ -7770,7 +7771,7 @@
 六点半说吧#lag8 diam2 buan3 suêh4 ba1
 不见不散#bug4 giêng3 bug4 suan3
 陈晓卿#dang5 hiou2 kêng1
-乜些样#minh4 sên1 iên7
+乜生样#minh4 sên1 iên7
 二零二三#ri6 lêng5 ri6 san1
 二零二#ri6 lêng5 ri6
 感动#gam2 dong6
@@ -9726,3 +9727,7 @@
 四苯基卟啉#si3 bung2 gi1 bog4 lim5
 尿卟啉#riê7 bog4 lim5
 原卟啉#nguêng5 bog4 lim5
+婆婆妈妈#pua5 pua5 man1 man1
+薛丁山#sih4 dêng1 sang1
+王莽#uang5 mang2
+翘楚#kiou5 co2

@@ -1800,6 +1800,7 @@
 凡_huam5#huang5
 凡_huam6#huang6
 樊_huam6#huang6
+樊_huêng5#huang5
 孕_hêng6#rêng6
 荥_iong5#êng5
 迎_ngiêng5#ngêng5
@@ -1839,3 +1840,6 @@
 㴷_dam5#dang5
 邧_ruêng6#ruang6
 拰_lim6#ning6
+相隔_siê1 gêh4#sên1 gêh4
+今年_gim1 nin5#gi1 nin5
+老爷_lao6 ia5#lao5 ia5

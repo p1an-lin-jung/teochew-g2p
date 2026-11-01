@@ -2050,6 +2050,7 @@
 凡_huam5#huang5
 凡_huam6#huang6
 樊_huam6#huang6
+樊_huêng5#huang5
 淋_lim5#ling5
 林_lim5#ling5
 拈_liam1#niang1
@@ -2303,3 +2304,6 @@
 㴷_dam5#dang5
 邧_ruêng6#ruang6
 仯_ziê2#zio2
+拰_lim6#ling6
+相辅_siê1 hu6#siou1 hu6
+神阴_sing5 im1#sing5 ing1

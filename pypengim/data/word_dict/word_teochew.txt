@@ -16,7 +16,7 @@
 学孬#oh8 mon2
 生歪#sên1 cua2
 生来然#sên1 lai5 riêng5
-照些做#ziê3 sên1 zo3
+照生做#ziê3 sên1 zo3
 禾皋#huên5 gao1
 秽刷#uê3 suêh4
 哩啰#li1 lo1
@@ -268,7 +268,7 @@
 兮块#hi1 go3
 衹主#zi2 zu2
 衹个#zi2 gai5
-乜些样#minh4 sên1 iên7
+乜生样#minh4 sên1 iên7
 衹一次#zi2 zêg8 ce3
 衹条#zi2 diou5
 衹轮#zi2 lung5
@@ -348,7 +348,8 @@
 家内人#gê1 lai6 nang5
 返去内#deng2 ke3 lai6
 想欲#siên6 ain3
-孥仔#noun5 gian2
+孥仔#noun1 gian2
+孥囝#noun1 gian2
 更欲#gêng3 ain3
 个外#gai5 ghua7
 衹段#zi2 deng7
@@ -372,6 +373,7 @@
 熇相#ho3 siên3
 熇相机#ho3 siên3 gi1
 跋落去#buah8 loh8 ke3
+徼迈#giou2 main2
 物到徼迈#muênh8 gao3 giou2 main2
 旧年#gu7 nin5
 唔同#m6 dang5
@@ -436,12 +438,12 @@
 许种#he2 zêng2
 头眩#tao5 hing5
 面顶#ming7 dêng2
-乜些样#minh4 sên1 iên7
+乜生样#minh4 sên1 iên7
 待下#tai6 ê6
 下畔#ê6 boin5
 遇着#ngon6 diêh4
-照些样#ziê3 sên1 iên7
-照些#ziê3 sên1
+照生样#ziê3 sên1 iên7
+照生#ziê3 sên1
 赴唔着#hu3 m6 diêh8
 徛𢕍#kia6 nan7
 满底块#man2 di7 go3
@@ -473,6 +475,7 @@
 离唔开#li5 m6 kui1
 大大细细#dua7 dua7 soi3 soi3
 厝边#cu3 bin1
+相隔#siê1 gêh4
 迒车#han5 cia1
 通间#tong1 goin1
 昨下旰#za1 ê6 gua3
@@ -791,3 +794,9 @@
 华坞#hao7 u5
 鲎坞#hao7 u5
 担待#dang1 dai3
+油麻#iu5 muan5
+乌油麻#ou1 iu5 muan5
+怎得#zai6 dig4
+在得#zai6 dig4
+怎生样#zai6 sên1 iên7
+在生样#zai6 sên1 iên7

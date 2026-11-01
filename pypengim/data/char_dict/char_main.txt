@@ -277,13 +277,14 @@
 盯#dêng3|dêng1
 耵#dêng1
 征#zêng1|dêng1
+炡#zêng1
 酊#dêng1
 症#zêng3|dêng1
 靪#dêng1
 裎#dêng1
 登#dêng1
 僜#têng1|dêng1|dêng6
-徵#di2|dêng1
+徵#zêng1|dêng1
 噔#dêng1
 颠#diêng1
 镫#dêng3|dêng1
@@ -1621,6 +1622,7 @@
 纠#giu6
 咎#giu6
 柩#giu6
+柾#giu6
 哥#go1
 挝#zuan1|ko1
 羔#go1
@@ -2197,6 +2199,7 @@
 吓#hêh4
 唬#houn2|hêh4|hênh4
 赫#hêh4
+爀#hêh4
 忻#hng1
 轩#hng1
 昕#hng1
@@ -2370,6 +2373,7 @@
 甗#ngiêng2|hiêng3
 巘#ngiêng2|hiêng3
 玄#hiêng5
+玹#hiêng5
 泫#hiêng5
 贤#hiêng5
 炫#hiêng5
@@ -2683,6 +2687,7 @@
 泛#huam3
 凢#huam5|huam6
 凡#huam5|huam6
+杋#huam5
 钒#huam5
 犯#huam6
 饭#bung7
@@ -2690,7 +2695,7 @@
 患#huam6
 梵#huam6
 漶#huam6
-樊#huam6|huang5
+樊#huam6|huêng5|huang5
 欢#huan1|huêng1
 驩#huan1
 垾#huan7
@@ -5019,7 +5024,7 @@
 胬#non3
 懦#non3
 糯#zug8|non3
-孥#non5|noun5
+孥#noun5|noun1
 帑#tang2|non5
 挪#non5
 娜#non5
@@ -5822,6 +5827,7 @@
 潍#rui5
 遗#rui6
 允#rung2
+玧#rung2
 吮#rung2
 狁#rung2
 润#rung6
@@ -8678,6 +8684,7 @@
 鍤#cah4
 猜#cai1
 采#cai2
+採#cai2
 彩#cai2
 寀#cai2|cai3
 䌽#cai2
@@ -8756,6 +8763,7 @@
 藻#cao3
 躁#cao3
 曹#cao5
+曺#cao5
 巢#cao5
 缫#cao5
 嘈#cao5
