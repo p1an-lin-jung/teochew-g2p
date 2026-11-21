@@ -928,7 +928,7 @@
 陈孟欣#dang5 mêng6 hng1
 张卓唯#diên1 doh4 rui5
 吴若骐#ghou5 riag8 ki5
-黄莟洋#ng5 ? iang5
+黄莟洋#ng5 ham5 iang5
 郑可欣#dên7 ko2 hng1
 陈晓淇#dang5 hiou2 ki5
 许奕真#kou2 êg8 zing1
@@ -1725,7 +1725,7 @@
 郑炳权#dên7 bêng2 kuêng5
 郑俊祺#dên7 zung3 ki5
 郑松彬#dên7 song5 bing1
-朱博煬#zu1 pag4 ?
+朱博炀#zu1 pag4 iang5
 朱凛#zu1 lim2
 蔡楠#cua3 lam5
 蔡烨鑫#cua3 iab8 him1
@@ -2010,7 +2010,7 @@
 高小蕾#go1 siou2 lui2
 官蔓茹#guan1 bhuêng6 ru5
 郭兆#guêh4 diou6
-何湧涛#ho5 ? tiu5
+何涌涛#ho5 iong3 tiu5
 洪佳漫#ang5 gia1 bhuêng6
 洪哲鑫#ang5 diêg4 him1
 洪梓楠#ang5 ze2 lam5
@@ -2360,7 +2360,7 @@
 陈主丰#dang5 zu2 hong1
 陈卓彦#dang5 doh4 ngang6
 方威权#bung1 ui1 kuêng5
-郭鐘涛#guêh4 ? tiu5
+郭钟涛#guêh4 zêng1 tiu5
 洪灿伟#ang5 cang3 ui2
 洪柳洵#ang5 liu2 sung5
 洪铭锴#ang5 mêng5 kai2
@@ -2442,7 +2442,7 @@
 张谦#diên1 kiam1
 张仕瀚#diên1 se6 hang5
 赵镒#diên6 êg8
-郑钦湧#dên7 kim1 ?
+郑钦涌#dên7 kim1 iong3
 郑彤#dên7 tong5
 郑文仪#dên7 bhung5 ngin5
 郑翼然#dên7 êg8 riêng5
@@ -2751,7 +2751,7 @@
 郑桐#dên7 tong5
 郑欣栩#dên7 hng1 hu2
 郑悦#dên7 ruêg8
-庄栢杨#zeng1 ? iang5
+庄柏杨#zeng1 bêh4 iang5
 庄凯琳#zeng1 kai2 lim5
 庄童#zeng1 tong5
 庄晓琛#zeng1 hiou2 dim1
@@ -3320,7 +3320,7 @@
 马铄淮#bhê2 iag4 huai5
 胡浩楠#ou5 hao1 lam5
 张越#diên1 uêg8
-郑梓暉#dên7 ze2 ?
+郑梓晖#dên7 ze2 hui1
 张易#diên1 i6
 卢锐彬#lou5 ruê6 bing1
 赵得远#diên6 dig4 iêng2
@@ -4139,7 +4139,7 @@
 蔡梓立#cua3 ze2 lib8
 林思宇#lim5 se1 u2
 黄思杰#ng5 se1 giêg8
-黄馨儀#ng5 hêng1 ?
+黄馨仪#ng5 hêng1 ngin5
 苏浩波#sou1 hao1 bo1
 陈一佳#dang5 ig4 gia1
 刘志松#lao5 zi3 song5
@@ -4821,7 +4821,7 @@
 林羽江#lim5 u2 gang1
 林冰婷#lim5 bian1 dêng5
 郭锦铨#guêh4 gim2 cuêng5
-陈彦鎔#dang5 ngang6 ?
+陈彦镕#dang5 ngang6 iong5
 曾烁宇#zang1 iag4 u2
 成伟楷#sêng5 ui2 kai2
 卢月湘#lou5 ghuêh8 siang1
@@ -6144,7 +6144,7 @@
 王纯#hêng5 sung5
 王恩乔#hêng5 eng1 kiou5
 王佳格#hêng5 gia1 gêh4
-王家婻#hêng5 gê1 ?
+王家婻#hêng5 gê1 lam5
 王嘉越#hêng5 gia1 uêg8
 王键锋#hêng5 giêng6 hong1
 王康宇#hêng5 kang1 u2
@@ -6316,7 +6316,7 @@
 许梓淮#kou2 ze2 huai5
 许梓楠#kou2 ze2 lam5
 许梓欣#kou2 ze2 hng1
-许梓湧#kou2 ze2 ?
+许梓涌#kou2 ze2 iong3
 许梓越#kou2 ze2 uêg8
 杨爱#iên5 ain3
 杨桉#iên5 ang1
@@ -6798,7 +6798,6 @@
 林晓森#lim5 hiou2 siam1
 陈积柱#dang5 zêh4 tiou6
 蔡创宏#cua3 cang3 hong5
-郑炜垹#dên7 ui2 ?
 朱泓玮#zu1 hong5 ui2
 黄圳绅#ng5 zung3 sing1
 蔡润楠#cua3 rung6 lam5
@@ -6807,7 +6806,7 @@
 李烁修#li2 iag4 siu1
 朱杰豪#zu1 giêg8 hao5
 张昱然#diên1 hiog4 riêng5
-郑廣涵#dên7 ? ham5
+郑广涵#dên7 guang2 ham5
 张峻硕#diên1 zung3 sêg4
 曾博轩#zang1 pag4 hng1
 林建濠#lim5 giêng6 hao5
@@ -7116,7 +7115,7 @@
 颜圳煜#ngang5 zung3 hiog4
 黄楚婷#ng5 co2 dêng5
 李浩民#li2 hao1 ming5
-黄雲艺#ng5 ? ghoi7
+黄云艺#ng5 hung5 ghoi7
 谢雨欢#zia7 u2* huêng1
 许楚强#kou2 co2 kiang5
 黄垚鑫#ng5 ngioun5 him1
@@ -7237,10 +7236,9 @@
 蔡雨佳#cua3 u2* gia1
 吴武科#ghou5 bhu2 kuê1
 方佳烨#bung1 gia1 iab8
-卓坚軒#doh4 giêng1 ?
+卓坚轩#doh4 giêng1 hng1
 方奕慧#bung1 êg8 hui6
 翁炜煜#êng1 ui2 hiog4
-高少楧#go1 siou3 ?
 胡益鸿#ou5 iah4 hong5
 蔡佳淋#cua3 gia1 lim5
 何松周#ho5 song5 ziu1
@@ -7319,7 +7317,7 @@
 方楚腾#bung1 co2 têng5
 林楚濠#lim5 co2 hao5
 史梓炫#se2 ze2 hiêng5
-肖焬#siou1 ?
+肖焬#siou1 iang5
 方嘉昱#bung1 gia1 hiog4
 方群友#bung1 kung5 iu2
 王润艺#hêng5 rung6 ghoi7
@@ -7337,7 +7335,7 @@
 林铭彤#lim5 mêng5 tong5
 方严乐#bung1 ngiam5 lag8
 洪勤#ang5 keng5
-朱崇銨#zu1 cong5 ?
+朱崇铵#zu1 cong5 ang1
 林雪涵#lim5 soh4 ham5
 方紫涵#bung1 zi2 ham5
 翁继域#êng1 gi3 hog8
@@ -7400,7 +7398,7 @@
 林子欣#lim5 ze2 hng1
 沈育研#sim2 iog8 ngiêng2
 吴燕婷#ghou5 in3 dêng5
-翁崧#êng1 ?
+翁嵩#êng1 song1
 陈尉烁#dang5 uê3 iag4
 谢嘉堋#zia7 gia1 pêng5
 蔡恺怡#cua3 kai2 i5
@@ -7599,7 +7597,6 @@
 翁雪钰#êng1 soh4 ghêg8
 吴子轩#ghou5 ze2 hng1
 黄烁迎#ng5 iag4 ngiêng5
-杨呇#iên5 ?
 廖灿金#liou7 cang3 gim1
 许炜业#kou2 ui2 ngiab8
 李昌烔#li2 ciang1 tong5
@@ -7932,7 +7929,7 @@
 黄浩翔#ng5 hao1 siang5
 张锦镇#diên1 gim2 ding3
 方志瀚#bung1 zi3 hang5
-高昊楊#go1 hao1 ?
+高昊杨#go1 hao1 iang5
 吴良宇#ghou5 liang5 u2
 陈佑茵#dang5 iu6 ing1
 黄恩文#ng5 eng1 bhung5
@@ -8042,7 +8039,7 @@
 许铭聪#kou2 mêng5 cong1
 罗子涵#lo5 ze2 ham5
 方婉婷#bung1 uêng2 dêng5
-胡佳褀#ou5 gia1 ?
+胡佳褀#ou5 gia1 ki5
 方木锦#bung1 bhag8 gim2
 方怡涵#bung1 i5 ham5
 蔡乐涵#cua3 lag8 ham5
@@ -8611,7 +8608,6 @@
 吴海航#ghou5 hai2 hang5
 杨淑怡#iên5 sog4 i5
 林逸洪#lim5 ig8 hong5
-翁楷烇#êng1 kai2 ?
 方桐#bung1 tong5
 方志杰#bung1 zi3 giêg8
 吴晓漩#ghou5 hiou2 suêng5
@@ -8651,7 +8647,7 @@
 高少淳#go1 siou3 sung5
 张芷嘉#diên1 zi2 gia1
 江仕楷#gang1 se6 kai2
-方鎔秋#bung1 ? ciu1
+方镕秋#bung1 iong5 ciu1
 林寿鹏#lim5 siu7 pong5
 方舒颖#bung1 su1 têng2
 陈泽弘#dang5 zêg8 hong5
@@ -8696,7 +8692,7 @@
 林亿璇#lim5 êg8 suêng5
 黄嘉玲#ng5 gia1 lêng5
 张金麟#diên1 gim1 ling5
-黃加琳#? gia1 lim5
+黄加琳#ng5 gia1 lim5
 林恩慧#lim5 eng1 hui6
 朱新宝#zu1 sing1 bo2
 方俊浩#bung1 zung3 hao1
@@ -9044,7 +9040,7 @@
 方思恩#bung1 se1 eng1
 肖梓亿#siou1 ze2 êg8
 伍益焕#ngoun2 iah4 huêng3
-方少雲#bung1 siou3 ?
+方少云#bung1 siou3 hung5
 钟凯灿#zêng1 kai2 cang3
 方乐鑫#bung1 lag8 him1
 朱嘉仪#zu1 gia1 ngin5
@@ -9343,7 +9339,7 @@
 吴珮媛#ghou5 buê6 iêng5
 方宝媛#bung1 bo2 iêng5
 吴楷辉#ghou5 kai2 hui1
-陈志逺#dang5 zi3 ?
+陈志远#dang5 zi3 iêng2
 林鸿煊#lim5 hong5 suang1
 郑静冰#dên7 zên6 bian1
 方昱燚#bung1 hiog4 ig8
@@ -9440,7 +9436,7 @@
 贺王鸿#ho7 uang5 hong5
 吴舒婷#ghou5 su1 dêng5
 方薏玉#bung1 i3 ghêg8
-方語嫣#bung1 ? iêng1
+方语嫣#bung1 ghe2 iêng1
 吴泽睿#ghou5 zêg8 ruê6
 吴静双#ghou5 zên6 sang1
 吴增锐#ghou5 zêng1 ruê6
@@ -9512,7 +9508,7 @@
 方凯霖#bung1 kai2 lim5
 陈嘉欣#dang5 gia1 hng1
 方栩灵#bung1 hu2 lêng5
-王億桐#hêng5 ? tong5
+王亿桐#hêng5 êg8 tong5
 吴佳德#ghou5 gia1 dêg4
 胡骏濠#ou5 zung3 hao5
 吴楷渲#ghou5 kai2 suang1
@@ -9548,7 +9544,7 @@
 吴楚昕#ghou5 co2 hng1
 张嘉栎#diên1 gia1 iag4
 郑芝迎#dên7 ze1 ngiêng5
-刘毅東#lao5 ngin5 ?
+刘毅东#lao5 ngin5 dang1
 方烔耀#bung1 tong5 iou6
 谢佳佳#zia7 gia1 gia1
 林峻彤#lim5 zung3 tong5
@@ -9647,7 +9643,6 @@
 方锐#bung1 ruê6
 方琼妍#bung1 kuang5 ngiêng2
 陈相如#dang5 siang1 ru5
-王鋐轩#hêng5 ? hng1
 方奎淞#bung1 gui1 song5
 冯依玲#bang5 i1 lêng5
 杨子淏#iên5 ze2 hao1
@@ -9824,7 +9819,7 @@
 方瑞茵#bung1 sui6 ing1
 林凯铭#lim5 kai2 mêng5
 吴梓睿#ghou5 ze2 ruê6
-许泽躍#kou2 zêg8 ?
+许泽跃#kou2 zêg8 iag4
 李灿燊#li2 cang3 sing1
 林威宇#lim5 ui1 u2
 吴志洪#ghou5 zi3 hong5
@@ -10069,7 +10064,7 @@
 蔡子恩#cua3 ze2 eng1
 谢永生#zia7 iong2 sêng1
 方文祯#bung1 bhung5 zêng1
-黃圳英#? zung3 êng1
+黄圳英#ng5 zung3 êng1
 黄圳锐#ng5 zung3 ruê6
 黄薇#ng5 muin5
 钟梓欣#zêng1 ze2 hng1
@@ -10277,12 +10272,12 @@
 吴炯清#ghou5 guang2 cêng1
 张俊楠#diên1 zung3 lam5
 刘佳亮#lao5 gia1 liang6
-谢雨锖#zia7 u2* ?
+谢雨锖#zia7 u2* cêng1
 林思婷#lim5 se1 dêng5
 方赞豪#bung1 zang3 hao5
 方希文#bung1 hi1 bhung5
 张静仪#diên1 zên6 ngin5
-黄浩淩#ng5 hao1 ?
+黄浩凌#ng5 hao1 lêng5
 黄正淑#ng5 zian3 sog4
 陈炜祺#dang5 ui2 ki5
 方梓涵#bung1 ze2 ham5
@@ -10424,7 +10419,6 @@
 黄冬满#ng5 dang1 muan2
 张浩钦#diên1 hao1 kim1
 夏俊丰#hê7 zung3 hong1
-唐丽檽#deng5 li6 ?
 黄妍悦#ng5 ngiêng2 ruêg8
 张煜楠#diên1 hiog4 lam5
 林慧#lim5 hui6
@@ -10537,7 +10531,7 @@
 吴镇旭#ghou5 ding3 hiog4
 蔡燕鑫#cua3 in3 him1
 吴锦旋#ghou5 gim2 suêng5
-张燕鈴#diên1 in3 ?
+张燕铃#diên1 in3 lêng1
 方淑芹#bung1 sog4 keng5
 林义森#lim5 ngin6 siam1
 周俊廷#ziu1 zung3 têng5
@@ -10963,12 +10957,12 @@
 严子铉#ngiam5 ze2 hiêng5
 颜苑妃#hian5 uêng2 hui1
 颜苑妃#ngang5 uêng2 hui1
-杨栢裕#iên5 ? ru6
+杨柏裕#iên5 bêh4 ru6
 杨灿杰#iên5 cang3 giêg8
 杨灿烯#iên5 cang3 hi1
 杨承信#iên5 sêng5 sing3
 杨楚健#iên5 co2 giêng6
-杨创東#iên5 cang3 ?
+杨创东#iên5 cang3 dang1
 杨耿轩#iên5 geng2 hng1
 杨佳庆#iên5 gia1 kêng3
 方灿栩#bung1 cang3 hu2
@@ -11009,7 +11003,7 @@
 方洛太#bung1 log8 tai3
 方洛阳#bung1 log8 iang5
 方梦轩#bung1 mang7 hng1
-方銘杰#bung1 ? giêg8
+方铭杰#bung1 mêng5 giêg8
 方培杰#bung1 buê5 giêg8
 方培炫#bung1 buê5 hiêng5
 林家晓#lim5 gê1 hiou2
@@ -11023,7 +11017,7 @@
 林金轩#lim5 gim1 hng1
 林静玟#lim5 zên6 bhung5
 林静仪#lim5 zên6 ngin5
-林静雲#lim5 zên6 ?
+林静云#lim5 zên6 hung5
 林俊蓬#lim5 zung3 pong5
 林楷润#lim5 kai2 rung6
 林可然#lim5 ko2 riêng5
@@ -11156,7 +11150,7 @@
 林羿驰#lim5 ngin5 ci5
 林胤熙#lim5 iêng6 hi1
 林英杰#lim5 êng1 giêg8
-林锳淇#lim5 ? ki5
+林瑛淇#lim5 êng1 ki5
 林永城#lim5 iong2 sian5
 林佑杰#lim5 iu6 giêg8
 林妤晞#lim5 e5 hi1
@@ -11211,7 +11205,7 @@
 张钧证#diên1 geng1 zêng3
 张俊静#diên1 zung3 zên6
 张俊涛#diên1 zung3 tiu5
-张俊楊#diên1 zung3 ?
+张俊杨#diên1 zung3 iang5
 张峻赫#diên1 zung3 hêh4
 张铠淳#diên1 kai2 sung5
 张坤烨#diên1 kung1 iab8
@@ -11264,7 +11258,7 @@
 何柳冰#ho5 liu2 bian1
 林镇涛#lim5 ding3 tiu5
 林植煌#lim5 sêg4 huang5
-林淽怡#lim5 ? i5
+林芷怡#lim5 zi2 i5
 林致龙#lim5 di3 lêng5
 林壮浒#lim5 zang3 hu2
 林壮炜#lim5 zang3 ui2
@@ -11347,7 +11341,7 @@
 胡恩琪#ou5 eng1 ki5
 胡浩森#ou5 hao1 siam1
 胡佳诚#ou5 gia1 sêng5
-胡家椬#ou5 gê1 ?
+胡家怡#ou5 gê1 i5
 胡铠滨#ou5 kai2 bing1
 胡鹏熙#ou5 pong5 hi1
 胡润#ou5 rung6
@@ -11366,7 +11360,7 @@
 黄灿新#ng5 cang3 sing1
 黄焯圳#ng5 doh4 zung3
 黄楚明#ng5 co2 mêng5
-黄楚勝#ng5 co2 ?
+黄楚胜#ng5 co2 sêng3
 黄传博#ng5 tuêng5 pag4
 黄菲#ng5 hui1
 黄耿楠#ng5 geng2 lam5
@@ -11502,7 +11496,6 @@
 黄清柔#ng5 cêng1 riu5
 黄清伟#ng5 cêng1 ui2
 黄荣熙#ng5 iong5 hi1
-黄润甝#ng5 rung6 ?
 黄绍洋#ng5 siou6 iang5
 黄沈杰#ng5 sim2 giêg8
 黄淑敏#ng5 sog4 miêng2
@@ -11633,7 +11626,7 @@
 杨艺铭#iên5 ghoi7 mêng5
 吴恩熹#ghou5 eng1 hi1
 卢思铭#lou5 se1 mêng5
-蔡楒程#cua3 ? tian5
+蔡思程#cua3 se1 tian5
 陈昭林#dang5 ziou1 lim5
 蔡艺铄#cua3 ghoi7 iag4
 叶斯博#iab8 se1 pag4
@@ -11765,8 +11758,8 @@
 黄梓淇#ng5 ze2 ki5
 杨米琪#iên5 bhi2 ki5
 谢锶暖#zia7 se1 luêng2
-叶莹萓#iab8 iong5 ?
-叶莹萓#hiab8 iong5 ?
+叶莹萓#iab8 iong5 ngi5
+叶莹萓#hiab8 iong5 ngi5
 吴树炜#ghou5 su6 ui2
 王柏越#hêng5 bêh4 uêg8
 李依涵#li2 i1 ham5
@@ -12119,7 +12112,7 @@
 王心媛#hêng5 sim1 iêng5
 杨伊琦#iên5 i1 ki5
 王杰铠#hêng5 giêg8 kai2
-池楙轩#di5 ? hng1
+池茂轩#di5 mong6 hng1
 江可瑶#gang1 ko2 iou5
 李钰琦#li2 ghêg8 ki5
 蔡心悦#cua3 sim1 ruêg8
@@ -12280,7 +12273,7 @@
 高辰皓#go1 sing5 hao1
 陈艺桐#dang5 ghoi7 tong5
 吴洋洋#ghou5 iang5 iang5
-陈俙颖#dang5 ? têng2
+陈俙颖#dang5 hi1 têng2
 林恩锐#lim5 eng1 ruê6
 陈柯含#dang5 gua1 ham5
 郑铭豪#dên7 mêng5 hao5
@@ -14058,7 +14051,7 @@
 李昊宸#li2 hao1 sing5
 江佳凯#gang1 gia1 kai2
 吴逸思#ghou5 ig8 se1
-吴廷俙#ghou5 têng5 ?
+吴廷俙#ghou5 têng5 hi1
 吴恩童#ghou5 eng1 tong5
 吴逸熙#ghou5 ig8 hi1
 王诗妍#hêng5 si1 ngiêng2
@@ -14109,7 +14102,6 @@
 倪敏#ghoi5 miêng2
 吴思妍#ghou5 se1 ngiêng2
 吴一乐#ghou5 ig4 lag8
-罗栩煵#lo5 hu2 ?
 吴锶勃#ghou5 se1 buêg8
 陈蔓银#dang5 bhuêng6 ngeng5
 江文楷#gang1 bhung5 kai2
@@ -14344,7 +14336,7 @@
 郭谋格#guêh4 mong5 gêh4
 王聪锐#hêng5 cong1 ruê6
 黄思瑜#ng5 se1 ru5
-林楒瑶#lim5 ? iou5
+林思瑶#lim5 se1 iou5
 江坤鸿#gang1 kung1 hong5
 陈泓铭#dang5 hong5 mêng5
 曾斯帆#zang1 se1 pang5
@@ -14367,7 +14359,7 @@
 陈惟熙#dang5 rui6 hi1
 陈逸胜#dang5 ig8 sêng3
 吴仲琳#ghou5 dong6 lim5
-吴楒埼#ghou5 ? ki5
+吴思埼#ghou5 se1 ki5
 钟家宜#zêng1 gê1 ngin5
 方希颖#bung1 hi1 têng2
 曾悦仪#zang1 ruêg8 ngin5
@@ -14392,7 +14384,7 @@
 吴伊晗#ghou5 i1 ham5
 林庭宇#lim5 têng5 u2
 吴畅垚#ghou5 tiang3 ngioun5
-谢楒炀#zia7 ? iang5
+谢思炀#zia7 se1 iang5
 吴镇宇#ghou5 ding3 u2
 吴俊熹#ghou5 zung3 hi1
 黄乐琪#ng5 lag8 ki5
@@ -14496,7 +14488,6 @@
 李周翰#li2 ziu1 hang5
 江若希#gang1 riag8 hi1
 蔡暖庭#cua3 luêng2 têng5
-李釨莹#li2 ? iong5
 陈信#dang5 sing3
 吴瑾萱#ghou5 geng2 suang1
 纪梓铭#gi2 ze2 mêng5
@@ -14691,7 +14682,7 @@
 陈家越#dang5 gê1 uêg8
 吴姿颖#ghou5 ze1 têng2
 吴钟羽#ghou5 zêng1 u2
-吴暻弘#ghou5 ? hong5
+吴暻弘#ghou5 gêng2 hong5
 林思颖#lim5 se1 têng2
 吴梓立#ghou5 ze2 lib8
 黄欣仪#ng5 hng1 ngin5
@@ -14699,7 +14690,7 @@
 叶芯彤#hiab8 sim1 tong5
 梁思琦#niên5 se1 ki5
 杨心彤#iên5 sim1 tong5
-蔡媄丞#cua3 ? sêng5
+蔡美丞#cua3 muin2 sêng5
 江冉岳#gang1 riam2 ngag8
 江俊淼#gang1 zung3 mioun2
 张瑾萱#diên1 geng2 suang1
@@ -15358,7 +15349,6 @@
 吴杭婷#ghou5 hang5 dêng5
 李锶妍#li2 se1 ngiêng2
 庄泰扬#zeng1 tai3 iang5
-吴皓榳#ghou5 hao1 ?
 蔡铭洋#cua3 mêng5 iang5
 郑博航#dên7 pag4 hang5
 冯紫灵#bang5 zi2 lêng5
@@ -16665,7 +16655,7 @@
 林培勇#lim5 buê5 iong2
 刘林钊#lao5 lim5 ziou1
 林钶潼#lim5 ko1 tong5
-林栢豪#lim5 ? hao5
+林柏豪#lim5 bêh4 hao5
 林爽#lim5 suang2
 张满熙#diên1 muan2 hi1
 张乔磊#diên1 kiou5 lui2
@@ -16821,7 +16811,7 @@
 林米妮#lim5 bhi2 nin5
 韦锶琪#ui5 se1 ki5
 张正泰#diên1 zian3 tai3
-林妍媗#lim5 ngiêng2 ?
+林妍媗#lim5 ngiêng2 suang1
 张怡纯#diên1 i5 sung5
 林晴#lim5 zên5
 林铮泓#lim5 zêng1 hong5
@@ -16880,7 +16870,7 @@
 林妍彤#lim5 ngiêng2 tong5
 牛钰轩#ghu5 ghêg8 hng1
 张暖欣#diên1 luêng2 hng1
-林楒程#lim5 ? tian5
+林思程#lim5 se1 tian5
 林梓榕#lim5 ze2 iong5
 陈启钊#dang5 ki2 ziou1
 林可苹#lim5 ko2 ping5
@@ -16922,7 +16912,7 @@
 刘悦宇#lao5 ruêg8 u2
 林瑾萱#lim5 geng2 suang1
 林姝菡#lim5 su5 ham5
-林楒晗#lim5 ? ham5
+林思晗#lim5 se1 ham5
 林国润#lim5 gog4 rung6
 黄柯文#ng5 gua1 bhung5
 陈诗娴#dang5 si1 hiêng5
@@ -16933,7 +16923,7 @@
 林铠烁#lim5 kai2 iag4
 卢幸童#lou5 hêng6 tong5
 林昊樾#lim5 hao1 uêg8
-许栢润#kou2 ? rung6
+许柏润#kou2 bêh4 rung6
 林泓林#lim5 hong5 lim5
 陈子熙#dang5 ze2 hi1
 夏婉涵#hê7 uêng2 ham5
@@ -16944,7 +16934,7 @@
 杨可馨#iên5 ko2 hêng1
 许轩博#kou2 hng1 pag4
 林森烁#lim5 siam1 iag4
-林禹莟#lim5 u2 ?
+林禹莟#lim5 u2 ham5
 林小玄#lim5 siou2 hiêng5
 林俏怡#lim5 ciou2 i5
 胡芷媛#ou5 zi2 iêng5
@@ -17106,7 +17096,7 @@
 吴思淇#ghou5 se1 ki5
 林谚希#lim5 ngang6 hi1
 许梓鑫#kou2 ze2 him1
-林泽堯#lim5 zêg8 ?
+林泽尧#lim5 zêg8 ngioun5
 林昊磊#lim5 hao1 lui2
 夏灿豪#hê7 cang3 hao5
 林赞#lim5 zang3
@@ -17128,7 +17118,7 @@
 梁钰涛#niên5 ghêg8 tiu5
 林文博#lim5 bhung5 pag4
 许溢璇#kou2 êg8 suêng5
-薛媄妙#sih4 ? mioun6
+薛美妙#sih4 muin2 mioun6
 郑俊瀚#dên7 zung3 hang5
 夏耿哲#hê7 geng2 diêg4
 洪钰#ang5 ghêg8
@@ -17258,7 +17248,6 @@
 黄梓标#ng5 ze2 piou1
 陈伊唯#dang5 i1 rui5
 李妍禧#li2 ngiêng2 hi1
-林凘怡#lim5 ? i5
 袁烨含#uêng5 iab8 ham5
 许宇腾#kou2 u2 têng5
 夏思昊#hê7 se1 hao1
@@ -17806,7 +17795,7 @@
 陈泽亮#dang5 zêg8 liang6
 邓翠兰#dêng6 cui3 lang5
 郑智强#dên7 di3 kiang5
-王湧新#hêng5 ? sing1
+王涌新#hêng5 iong3 sing1
 陈娇娜#dang5 giou1 non5
 林力#lim5 lag8
 刘睿宸#lao5 ruê6 sing5
@@ -18766,7 +18755,7 @@
 黄继生#ng5 gi3 sêng1
 林鸿涛#lim5 hong5 tiu5
 李春霖#li2 cung1 lim5
-黄晓湧#ng5 hiou2 ?
+黄晓涌#ng5 hiou2 iong3
 罗兰#lo5 lang5
 郑宏凯#dên7 hong5 kai2
 房增杰#bang5 zêng1 giêg8
@@ -18883,7 +18872,7 @@
 蔡伟杰#cua3 ui2 giêg8
 蔡毅豪#cua3 ngin5 hao5
 蔡泽辉#cua3 zêg8 hui1
-曹栢健#cao5 ? giêng6
+曹柏健#cao5 bêh4 giêng6
 曹承#cao5 sêng5
 曾航旭#zang1 hang5 hiog4
 陈柏顺#dang5 bêh4 sung6
@@ -21103,7 +21092,7 @@
 高光宇#go1 guang1 u2
 林俊佳#lim5 zung3 gia1
 蔡锐斌#cua3 ruê6 bing1
-江桂湧#gang1 gui3 ?
+江桂涌#gang1 gui3 iong3
 陈密航#dang5 mig8 hang5
 尚德峰#siang6 dêg4 hong1
 徐漆涛#ce5 cag4 tiu5
@@ -21764,7 +21753,7 @@
 黄玉龙#ng5 ghêg8 lêng5
 黄泽佳#ng5 zêg8 gia1
 简波#gang2 bo1
-江湧楠#gang1 ? lam5
+江涌楠#gang1 iong3 lam5
 李三明#li2 san1 mêng5
 李维鑫#li2 rui5 him1
 李壮辉#li2 zang3 hui1
@@ -21896,7 +21885,7 @@
 陈烨铌#dang5 iab8 nin5
 陈逸阳#dang5 ig8 iang5
 陈滢莹#dang5 iong5 iong5
-陈湧生#dang5 ? sêng1
+陈涌生#dang5 iong3 sêng1
 陈煜松#dang5 hiog4 song5
 陈悦群#dang5 ruêg8 kung5
 陈震#dang5 zing2
@@ -22423,7 +22412,7 @@
 吴晓莉#ghou5 hiou2 li6
 吴鑫涛#ghou5 him1 tiu5
 吴旭锐#ghou5 hiog4 ruê6
-吴湧彬#ghou5 ? bing1
+吴涌彬#ghou5 iong3 bing1
 谢婷#zia7 dêng5
 谢梓铨#zia7 ze2 cuêng5
 熊光耀#him5 guang1 iou6
@@ -22635,7 +22624,7 @@
 高晓璇#go1 hiou2 suêng5
 古桔银#gou2 gig4 ngeng5
 郭冰彤#guêh4 bian1 tong5
-郭惪#guêh4 ?
+郭德#guêh4 dêg4
 郭焕斌#guêh4 huêng3 bing1
 韩凤琼#hang5 hong6 kuang5
 何东升#ho5 dang1 sêng1
@@ -23064,7 +23053,7 @@
 林欢仪#lim5 huêng1 ngin5
 林佳婉#lim5 gia1 uêng2
 林凯娟#lim5 kai2 giêng1
-林崐迪#lim5 ? dêg8
+林昆迪#lim5 kung1 dêg8
 林韶梅#lim5 siou6 bhuê5
 林深旺#lim5 cim1 uang6
 林晓玉#lim5 hiou2 ghêg8
@@ -23356,7 +23345,7 @@
 陈侨俊#dang5 kiou5 zung3
 黄佳旋#ng5 gia1 suêng5
 江泽纯#gang1 zêg8 sung5
-杨泓塽#iên5 hong5 ?
+杨泓爽#iên5 hong5 suang2
 黄森仪#ng5 siam1 ngin5
 林香娜#lim5 hiang1 non5
 林梅#lim5 bhuê5
@@ -23463,7 +23452,7 @@
 覃永志#tam5 iong2 zi3
 周志威#ziu1 zi3 ui1
 谢远华#zia7 iêng2 hua5
-林栢桦#lim5 ? hua5
+林柏桦#lim5 bêh4 hua5
 章瑶#ziên1 iou5
 章瑶#ziang1 iou5
 黄泽涵#ng5 zêg8 ham5
@@ -23493,7 +23482,7 @@
 张佳杰#diên1 gia1 giêg8
 赖伟国#nain6 ui2 gog4
 孙泽鑫#seng1 zêg8 him1
-刘湧#lao5 ?
+刘涌#lao5 iong3
 谢昊志#zia7 hao1 zi3
 余希璇#e5 hi1 suêng5
 陈鹏楠#dang5 pong5 lam5
@@ -24451,7 +24440,7 @@
 陈燕佳#dang5 in3 gia1
 章锐思#ziên1 ruê6 se1
 章锐思#ziang1 ruê6 se1
-袁煒堯#uêng5 ? ?
+袁炜尧#uêng5 ui2 ngioun5
 黄鸿斌#ng5 hong5 bing1
 廖思婷#liou7 se1 dêng5
 彭于莹#pên5 i1 iong5
@@ -24566,7 +24555,7 @@
 陈幸淇#dang5 hêng6 ki5
 王雅涵#hêng5 ngian2 ham5
 黄照斐#ng5 ziê3 hui1
-许塽烨#kou2 ? iab8
+许爽烨#kou2 suang2 iab8
 吴品辰#ghou5 bing2 sing5
 黄佳佳#ng5 gia1 gia1
 卢梓浠#lou5 ze2 hi1
@@ -24730,7 +24719,7 @@
 陈桦仪#dang5 hua5 ngin5
 梁舒涵#niên5 su1 ham5
 黄浚桐#ng5 zung3 tong5
-佘國瀚#sia5 ? hang5
+佘国瀚#sia5 gog4 hang5
 陈厚铭#dang5 gao6 mêng5
 黄孜桔#ng5 ze1 gig4
 蔡骏涛#cua3 zung3 tiu5
@@ -25012,7 +25001,7 @@
 谢淞羽#zia7 song5 u2
 孙艺畅#seng1 ghoi7 tiang3
 周子乔#ziu1 ze2 kiou5
-赖詠明#nain6 ? mêng5
+赖咏明#nain6 iong3 mêng5
 侯皓腾#hou5 hao1 têng5
 侯皓腾#gao5 hao1 têng5
 陈景洋#dang5 gêng2 iang5
@@ -25137,7 +25126,7 @@
 陈焓烁#dang5 ham5 iag4
 杨子娴#iên5 ze2 hiêng5
 洪桢昊#ang5 zêng1 hao1
-林镆涵#lim5 ? ham5
+林镆涵#lim5 mog8 ham5
 蔡嘉桐#cua3 gia1 tong5
 林涵萱#lim5 ham5 suang1
 黄婉淳#ng5 uêng2 sung5
@@ -25224,7 +25213,6 @@
 许斯越#kou2 se1 uêg8
 潘钰菁#puan1 ghêg8 cên1
 谢谨博#zia7 geng2 pag4
-黄乐鈗#ng5 lag8 ?
 许庆午#kou2 kêng3 ngoun2
 林景书#lim5 gêng2 ze1
 李子岚#li2 ze2 lam5
@@ -25365,7 +25353,6 @@
 陈保含#dang5 bo2 ham5
 江林浩#gang1 lim5 hao1
 杨炀#iên5 iang5
-林祾#lim5 ?
 林宛聆#lim5 uêng2 lêng5
 廖柏豪#liou7 bêh4 hao5
 林雪铌#lim5 soh4 nin5
@@ -25436,7 +25423,7 @@
 廖沛翔#liou7 pai3 siang5
 蔡樵鑫#cua3 ziou1 him1
 苏淼#sou1 mioun2
-吴浠淩#ghou5 hi1 ?
+吴浠凌#ghou5 hi1 lêng5
 唐梓桐#deng5 ze2 tong5
 姚凯琪#iê5 kai2 ki5
 蔡心妍#cua3 sim1 ngiêng2
@@ -26225,7 +26212,6 @@
 郑昊烁#dên7 hao1 iag4
 陈艺珈#dang5 ghoi7 gia1
 赖佳仪#nain6 gia1 ngin5
-黄诗鋡#ng5 si1 ?
 李依晴#li2 i1 zên5
 黄楷烨#ng5 kai2 iab8
 魏俊炜#ghui7 zung3 ui2
@@ -26236,7 +26222,7 @@
 郑泽森#dên7 zêg8 siam1
 洪泽鑫#ang5 zêg8 him1
 巫珏滢#bhu5 gag4 iong5
-高栢乐#go1 ? lag8
+高柏乐#go1 bêh4 lag8
 吴霞#ghou5 hia5
 彭钰淇#pên5 ghêg8 ki5
 袁炜智#uêng5 ui2 di3
@@ -26427,7 +26413,7 @@
 袁懋#uêng5 mong6
 陈希琳#dang5 hi1 lim5
 蔡斯琪#cua3 se1 ki5
-陈希燑#dang5 hi1 ?
+陈希燑#dang5 hi1 tong5
 黄腾宇#ng5 têng5 u2
 陈庆链#dang5 kêng3 liêng7
 许百文#kou2 bêh4 bhung5
@@ -26865,7 +26851,7 @@
 张培鑫#diên1 buê5 him1
 陈枳瑶#dang5 zi2 iou5
 林艺玟#lim5 ghoi7 bhung5
-史栩鈿#se2 hu2 ?
+史栩钿#se2 hu2 tiêng5
 林诗涵#lim5 si1 ham5
 谢沁桓#zia7 cim3 huêng5
 郭运烨#guêh4 ung7 iab8
@@ -27103,7 +27089,7 @@
 蔡诗颖#cua3 si1 têng2
 吴涛#ghou5 tiu5
 林弘泰#lim5 hong5 tai3
-李锐埥#li2 ruê6 ?
+李锐埥#li2 ruê6 cêng1
 刘子琪#lao5 ze2 ki5
 彭濯煌#pên5 dêg8 huang5
 林崇寅#lim5 cong5 ing5
@@ -27184,7 +27170,6 @@
 黄楷睿#ng5 kai2 ruê6
 林慧涵#lim5 hui6 ham5
 朱彦豪#zu1 ngang6 hao5
-吴泓瑸#ghou5 hong5 ?
 吴煜祺#ghou5 hiog4 ki5
 黄炫凯#ng5 hiêng5 kai2
 陈子泓#dang5 ze2 hong5
@@ -27226,7 +27211,7 @@
 黄海清#ng5 hai2 cêng1
 黄忆涵#ng5 i3 ham5
 罗垲斌#lo5 kai2 bing1
-黄炀埈#ng5 iang5 ?
+黄炀埈#ng5 iang5 zung3
 王妍涵#hêng5 ngiêng2 ham5
 郑宇浩#dên7 u2 hao1
 林沐馨#lim5 mog8 hêng1
@@ -27387,7 +27372,6 @@
 欧锦榕#ao1 gim2 iong5
 潘瑾瑶#puan1 geng2 iou5
 池嘉敏#di5 gia1 miêng2
-吴垙乐#ghou5 ? lag8
 郑泽群#dên7 zêg8 kung5
 陈思霏#dang5 se1 hui1
 柯子谦#gua1 ze2 kiam1
@@ -27577,7 +27561,7 @@
 吴元元#ghou5 nguêng5 nguêng5
 洪子曦#ang5 ze2 hi1
 沈皓轩#sim2 hao1 hng1
-林宇銓#lim5 u2 ?
+林宇铨#lim5 u2 cuêng5
 周彦宇#ziu1 ngang6 u2
 王铠#hêng5 kai2
 王博炫#hêng5 pag4 hiêng5
@@ -28691,7 +28675,7 @@
 卢圻#lou5 ki5
 蔡玮桐#cua3 ui2 tong5
 王思含#hêng5 se1 ham5
-黄胜陽#ng5 sêng3 ?
+黄胜阳#ng5 sêng3 iang5
 魏嘉彤#ghui7 gia1 tong5
 黄奕婷#ng5 êg8 dêng5
 柯蕾#gua1 lui2
@@ -28733,7 +28717,7 @@
 纪宛彤#gi2 uêng2 tong5
 黄佳娴#ng5 gia1 hiêng5
 陈俊韩#dang5 zung3 hang5
-卢乙埈#lou5 ig4 ?
+卢乙埈#lou5 ig4 zung3
 黄家伟#ng5 gê1 ui2
 张峰睿#diên1 hong1 ruê6
 吴亮驻#ghou5 liang6 zu6
@@ -28840,7 +28824,7 @@
 陈捷祺#dang5 ziab8 ki5
 陈斯琪#dang5 se1 ki5
 林童烁#lim5 tong5 iag4
-袁埈涵#uêng5 ? ham5
+袁埈涵#uêng5 zung3 ham5
 林翊腾#lim5 êg8 têng5
 李满亿#li2 muan2 êg8
 黄皓贤#ng5 hao1 hiêng5
@@ -29006,10 +28990,9 @@
 吴伊洛#ghou5 i1 log8
 谢梓韵#zia7 ze2 ung7
 林天贤#lim5 tiêng1 hiêng5
-吴宇儀#ghou5 u2 ?
+吴宇仪#ghou5 u2 ngin5
 黄朝鑫#ng5 ziou1 him1
 高诗晨#go1 si1 sing5
-蒙漌#mong5 ?
 林锦豪#lim5 gim2 hao5
 沈冰如#sim2 bian1 ru5
 林泓钦#lim5 hong5 kim1
@@ -29082,7 +29065,7 @@
 郑堉#dên7 iog8
 徐浩桓#ce5 hao1 huêng5
 李浩锴#li2 hao1 kai2
-黄湙玲#ng5 ? lêng5
+黄湙玲#ng5 êg8 lêng5
 林锶帆#lim5 se1 pang5
 徐博洋#ce5 pag4 iang5
 黄潼烁#ng5 tong5 iag4
@@ -29253,7 +29236,7 @@
 郑晓烨#dên7 hiou2 iab8
 张一帆#diên1 ig4 pang5
 黄煜钊#ng5 hiog4 ziou1
-魏旨槾#ghui7 zi2 ?
+魏旨槾#ghui7 zi2 bhuêng6
 张梓文#diên1 ze2 bhung5
 黄铭泰#ng5 mêng5 tai3
 洪翊伦#ang5 êg8 lung5
@@ -29544,7 +29527,6 @@
 陈品孜#dang5 bing2 ze1
 李立宇#li2 lib8 u2
 李卓琳#li2 doh4 lim5
-黄旴泠#ng5 ? lêng5
 朱丽娜#zu1 li6 non5
 魏晓珠#ghui7 hiou2 zu1
 陈莞茸#dang5 uêng2 rong5
@@ -29988,7 +29970,7 @@
 胡铭恩#ou5 mêng5 eng1
 黄偲妍#ng5 se1 ngiêng2
 邢荣凯#hian5 iong5 kai2
-黄铭媗#ng5 mêng5 ?
+黄铭媗#ng5 mêng5 suang1
 郑艺颖#dên7 ghoi7 têng2
 李泽昊#li2 zêg8 hao1
 吴沁琳#ghou5 cim3 lim5
@@ -30112,7 +30094,7 @@
 杨琼婷#iên5 kuang5 dêng5
 郭金宣#guêh4 gim1 suang1
 方奕晨#bung1 êg8 sing5
-魏增洤#ghui7 zêng1 ?
+魏增全#ghui7 zêng1 cuêng5
 黄欣锶#ng5 hng1 se1
 谢润希#zia7 rung6 hi1
 王彦婷#hêng5 ngang6 dêng5
@@ -30173,7 +30155,7 @@
 陈芷萱#dang5 zi2 suang1
 何烜扬#ho5 hiêng2 iang5
 邱童蕾#ku1 tong5 lui2
-黄藝彤#ng5 ? tong5
+黄艺彤#ng5 ghoi7 tong5
 夏楷烨#hê7 kai2 iab8
 林俊业#lim5 zung3 ngiab8
 蔡研含#cua3 ngiêng2 ham5
@@ -30213,7 +30195,7 @@
 王梓灿#hêng5 ze2 cang3
 林镘#lim5 bhuêng6
 陈卓妮#dang5 doh4 nin5
-陈樺#dang5 ?
+陈桦#dang5 hua5
 吴俞含#ghou5 ru5 ham5
 林志涵#lim5 zi3 ham5
 陈泓廷#dang5 hong5 têng5
@@ -30376,7 +30358,6 @@
 洪秋彤#ang5 ciu1 tong5
 洪奕标#ang5 êg8 piou1
 黄凯航#ng5 kai2 hang5
-邱翆娜#ku1 ? non5
 王翌超#hêng5 êg8 tiou3
 王鹏#hêng5 pong5
 张梓扬#diên1 ze2 iang5
@@ -30411,7 +30392,7 @@
 陈沐榆#dang5 mog8 ru5
 陈森亮#dang5 siam1 liang6
 邓冬梅#dêng6 dang1 bhuê5
-黄堒丹#ng5 ? dang1
+黄堒丹#ng5 kung1 dang1
 黄楚雄#ng5 co2 hiong5
 彭婉儿#pên5 uêng2 ri5
 彭少伟#pên5 siou3 ui2
@@ -31068,7 +31049,7 @@
 刘岩琳#lao5 ngam5 lim5
 何嘉涵#ho5 gia1 ham5
 林煌奇#lim5 huang5 ki5
-黄昷超#ng5 ? tiou3
+黄温超#ng5 ung1 tiou3
 许潜希#kou2 ciam5 hi1
 孙嘉裕#seng1 gia1 ru6
 郑逸鸿#dên7 ig8 hong5
@@ -31276,7 +31257,6 @@
 林锋禹#lim5 hong1 u2
 黄鸿铭#ng5 hong5 mêng5
 黄梓燊#ng5 ze2 sing1
-方杸#bung1 ?
 林庆烘#lim5 kêng3 hong5
 周逸#ziu1 ig8
 王育航#hêng5 iog8 hang5
@@ -31574,7 +31554,6 @@
 王喆磊#hêng5 diêg4 lui2
 吴婕妤#ghou5 ziab8 e5
 黄墡宜#ng5 siêng6 ngin5
-邱莤琦#ku1 ? ki5
 詹浚翔#ziam1 zung3 siang5
 张小薇#diên1 siou2 muin5
 陈锐浩#dang5 ruê6 hao1
@@ -32055,7 +32034,6 @@
 魏闻航#ghui7 bhung6 hang5
 叶博烁#iab8 pag4 iag4
 叶博烁#hiab8 pag4 iag4
-游栫桦#iu5 ? hua5
 彭欣玥#pên5 hng1 ghuêh8
 陈泓信#dang5 hong5 sing3
 郭思琳#guêh4 se1 lim5
@@ -32071,7 +32049,6 @@
 黄欣昀#ng5 hng1 ung5
 卢圆和#lou5 in5 hua5
 郑雅潼#dên7 ngian2 tong5
-何珝熙#ho5 ? hi1
 涂炜坤#tu5 ui2 kung1
 黄晨皓#ng5 sing5 hao1
 黄诗妍#ng5 si1 ngiêng2
@@ -32162,7 +32139,7 @@
 郑思琪#dên7 se1 ki5
 李宇翰#li2 u2 hang5
 符珈瑜#hu5 gia1 ru5
-黄塡鑫#ng5 ? him1
+黄填鑫#ng5 tiêng5 him1
 林锐烁#lim5 ruê6 iag4
 林壕烽#lim5 hao5 hong1
 何昱庆#ho5 hiog4 kêng3
@@ -32359,7 +32336,7 @@
 王韵娇#hêng5 ung7 giou1
 黄晨阳#ng5 sing5 iang5
 郭炯源#guêh4 guang2 nguêng5
-黄鉢妍#ng5 ? ngiêng2
+黄钵妍#ng5 buah4 ngiêng2
 陈鸿恺#dang5 hong5 kai2
 邢楷城#hian5 kai2 sian5
 邱安逸#ku1 ang1 ig8
@@ -32476,7 +32453,6 @@
 黄桐沁#ng5 tong5 cim3
 池佳林#di5 gia1 lim5
 王呈琎#hêng5 tian5 zing1
-李铻烨#li2 ? iab8
 曹涵仪#cao5 ham5 ngin5
 陈可为#dang5 ko2 ui5
 郑勋元#dên7 hng1 nguêng5
@@ -32689,7 +32665,6 @@
 王林烁#hêng5 lim5 iag4
 陈翊航#dang5 êg8 hang5
 林晞聪#lim5 hi1 cong1
-黄墱萱#ng5 ? suang1
 林婕媛#lim5 ziab8 iêng5
 许诗扬#kou2 si1 iang5
 黄一斯#ng5 ig4 se1
@@ -32709,7 +32684,7 @@
 李哲熙#li2 diêg4 hi1
 黄立昕#ng5 lib8 hng1
 陈金泰#dang5 gim1 tai3
-陈一鳴#dang5 ig4 ?
+陈一鸣#dang5 ig4 mêng5
 郑楷桐#dên7 kai2 tong5
 陈瑾翔#dang5 geng2 siang5
 王钰烽#hêng5 ghêg8 hong1
@@ -33216,7 +33191,6 @@
 王梓煌#hêng5 ze2 huang5
 林澄锴#lim5 têng5 kai2
 黄佳妍#ng5 gia1 ngiêng2
-陈煜煐#dang5 hiog4 ?
 许宸畅#kou2 sing5 tiang3
 唐奕强#deng5 êg8 kiang5
 林铛儿#lim5 dang1 ri5
@@ -33379,7 +33353,7 @@
 张奕婷#diên1 êg8 dêng5
 袁泽灏#uêng5 zêg8 hao1
 谢佳烨#zia7 gia1 iab8
-黄湙洋#ng5 ? iang5
+黄湙洋#ng5 êg8 iang5
 林胜帆#lim5 sêng3 pang5
 许欣宜#kou2 hng1 ngin5
 吴浩龙#ghou5 hao1 lêng5
@@ -34219,7 +34193,7 @@
 黄宇恒#ng5 u2 hêng5
 黄泽菡#ng5 zêg8 ham5
 谢楷轩#zia7 kai2 hng1
-郑淽涵#dên7 ? ham5
+郑芷涵#dên7 zi2 ham5
 方梓晔#bung1 ze2 iab4
 钟郅瀚#zêng1 diêg4 hang5
 黄帅瀚#ng5 suê3 hang5
@@ -34263,11 +34237,10 @@
 王凯双#hêng5 kai2 sang1
 潘卫娜#puan1 uê6 non5
 郑金香#dên7 gim1 hiang1
-高湧葵#go1 ? kui5
+高涌葵#go1 iong3 kui5
 黄爱珊#ng5 ain3 sang1
 林梓杨#lim5 ze2 iang5
 林育林#lim5 iog8 lim5
-卢通嗮#lou5 tong1 ?
 倪德芬#ghoi5 dêg4 hung1
 袁金树#uêng5 gim1 su6
 吴洁纯#ghou5 giêg4 sung5
@@ -34470,7 +34443,7 @@
 林伟林#lim5 ui2 lim5
 徐燕珊#ce5 in3 sang1
 袁槿嘉#uêng5 geng2 gia1
-黄宝湧#ng5 bo2 ?
+黄宝涌#ng5 bo2 iong3
 江源城#gang1 nguêng5 sian5
 杨耿瑜#iên5 geng2 ru5
 周锐华#ziu1 ruê6 hua5
@@ -34518,7 +34491,7 @@
 黄凯星#ng5 kai2 cên1
 李晓丽#li2 hiou2 li6
 陈洁彬#dang5 giêg4 bing1
-陈暘安#dang5 ? ang1
+陈旸安#dang5 iang5 ang1
 林晓燕#lim5 hiou2 in3
 詹晓伟#ziam1 hiou2 ui2
 黄美芬#ng5 muin2 hung1
@@ -34659,7 +34632,7 @@
 林琬雯#lim5 uêng2 bhung5
 蔡希娴#cua3 hi1 hiêng5
 朱苎青#zu1 diu6 cên1
-黄埈泫#ng5 ? hiêng5
+黄埈泫#ng5 zung3 hiêng5
 林集广#lim5 zib8 guang2
 钟雨欣#zêng1 u2* hng1
 章子怡#ziên1 ze2 i5
@@ -35103,7 +35076,7 @@
 林子超#lim5 ze2 tiou3
 黄勋#ng5 hng1
 林妍熙#lim5 ngiêng2 hi1
-杨燨#iên5 ?
+杨熙#iên5 hi1
 郭心怡#guêh4 sim1 i5
 许书卉#kou2 ze1 hui2
 苏骏耀#sou1 zung3 iou6
@@ -36019,7 +35992,7 @@
 张洁瑜#diên1 giêg4 ru5
 杨伟庆#iên5 ui2 kêng3
 郑燕珊#dên7 in3 sang1
-陈博湧#dang5 pag4 ?
+陈博涌#dang5 pag4 iong3
 侯思佳#hou5 se1 gia1
 侯思佳#gao5 se1 gia1
 吴建冬#ghou5 giêng6 dang1
@@ -36747,7 +36720,7 @@
 林楠楠#lim5 lam5 lam5
 林盛峰#lim5 sêng6 hong1
 林佳皓#lim5 gia1 hao1
-钟栐贤#zêng1 ? hiêng5
+钟栐贤#zêng1 iong2 hiêng5
 夏焯琳#hê7 doh4 lim5
 许婉玫#kou2 uêng2 bhung5
 郑培森#dên7 buê5 siam1
@@ -37117,7 +37090,6 @@
 方盈盈#bung1 iong5 iong5
 李佳虹#li2 gia1 hong5
 林圳烨#lim5 zung3 iab8
-姚伊吖#iê5 i1 ?
 田培鑫#cang5 buê5 him1
 蔡澳琪#cua3 o3 ki5
 何梓曼#ho5 ze2 bhuêng6
@@ -37415,7 +37387,7 @@
 刘茵茵#lao5 ing1 ing1
 陈哲帆#dang5 diêg4 pang5
 李泽坤#li2 zêg8 kung1
-柯晓菓#gua1 hiou2 ?
+柯晓果#gua1 hiou2 guê2
 杨斯婷#iên5 se1 dêng5
 陆圳桐#lêg8 zung3 tong5
 陆圳桐#log8 zung3 tong5
@@ -37835,7 +37807,7 @@
 李行#li2 hêng5
 陈娴逸#dang5 hiêng5 ig8
 李溢佳#li2 êg8 gia1
-郑湋龙#dên7 ? lêng5
+郑𣲗龙#dên7 ui5 lêng5
 黄梓阳#ng5 ze2 iang5
 马崇杰#bhê2 cong5 giêg8
 黄冠霖#ng5 guêng3 lim5
@@ -37925,7 +37897,7 @@
 林蓝冰#lim5 lam5 bian1
 张依桐#diên1 i1 tong5
 杨镁铃#iên5 muin2 lêng1
-黄思瑒#ng5 se1 ?
+黄思玚#ng5 se1 iang5
 蔡依宁#cua3 i1 lêng5
 林松增#lim5 song5 zêng1
 王全汶#hêng5 cuêng5 bhung5
@@ -38091,7 +38063,6 @@
 蔡嘉宇#cua3 gia1 u2
 卢嘉愉#lou5 gia1 ru5
 陈晗超#dang5 ham5 tiou3
-陈坤淓#dang5 kung1 ?
 林壕#lim5 hao5
 魏曼雯#ghui7 bhuêng6 bhung5
 江尔琦#gang1 re2 ki5
@@ -38295,11 +38266,9 @@
 曾浩#zang1 hao1
 吴伊诚#ghou5 i1 sêng5
 吴泓锐#ghou5 hong5 ruê6
-陈梣炀#dang5 ? iang5
 孙名阳#seng1 mian5 iang5
 黄心逸#ng5 sim1 ig8
 王思媛#hêng5 se1 iêng5
-张润芓#diên1 rung6 ?
 施展#si1 diêng2
 王锦华#hêng5 gim2 hua5
 刘林俐#lao5 lim5 li6
@@ -38357,7 +38326,7 @@
 王勇顺#hêng5 iong2 sung6
 曾相淳#zang1 siang1 sung5
 徐艺玄#ce5 ghoi7 hiêng5
-张二湧#diên1 ri6 ?
+张二涌#diên1 ri6 iong3
 潘卓贤#puan1 doh4 hiêng5
 卢思彤#lou5 se1 tong5
 杨梓萱#iên5 ze2 suang1
@@ -39892,7 +39861,7 @@
 池翊森#di5 êg8 siam1
 林展涛#lim5 diêng2 tiu5
 黄润宇#ng5 rung6 u2
-黄陸畅#ng5 ? tiang3
+黄陆畅#ng5 lêg8 tiang3
 林洋庆#lim5 iang5 kêng3
 蔡蛮#cua3 mang5
 洪关宇#ang5 guêng1 u2
@@ -39923,7 +39892,7 @@
 郑佳琳#dên7 gia1 lim5
 方键睿#bung1 giêng6 ruê6
 黄北臣#ng5 bag4 cing5
-黄锳烨#ng5 ? iab8
+黄瑛烨#ng5 êng1 iab8
 王铮#hêng5 zêng1
 吴思卫#ghou5 se1 uê6
 郑树杰#dên7 su6 giêg8
@@ -40174,7 +40143,7 @@
 侯嘉琳#hou5 gia1 lim5
 侯嘉琳#gao5 gia1 lim5
 黄炜博#ng5 ui2 pag4
-李建達#li2 giêng6 ?
+李建达#li2 giêng6 dag8
 林可翰#lim5 ko2 hang5
 林祺炫#lim5 ki5 hiêng5
 林清鑫#lim5 cêng1 him1
@@ -40541,7 +40510,6 @@
 林千跃#lim5 coin1 iag4
 林宇畅#lim5 u2 tiang3
 吕伟龙#le6 ui2 lêng5
-施偉鎽#si1 ? ?
 汪海晖#uang1 hai2 hui1
 王子夏#hêng5 ze2 hê7
 吴薇#ghou5 muin5
@@ -40878,7 +40846,7 @@
 卢景立#lou5 gêng2 lib8
 王艺尹#hêng5 ghoi7 ng2
 王卓敏#hêng5 doh4 miêng2
-翁楷渏#êng1 kai2 ?
+翁楷渏#êng1 kai2 i1
 谢钜泓#zia7 ge6 hong5
 谢婉仪#zia7 uêng2 ngin5
 徐浩#ce5 hao1
@@ -41439,7 +41407,7 @@
 杨烁韩#iên5 iag4 hang5
 林泽曦#lim5 zêg8 hi1
 杨启鑫#iên5 ki2 him1
-黄潓恩#ng5 ? eng1
+黄潓恩#ng5 hui6 eng1
 吴晋轩#ghou5 zing3 hng1
 陈洁欢#dang5 giêg4 huêng1
 江艺昕#gang1 ghoi7 hng1
@@ -41496,7 +41464,7 @@
 王昕菡#hêng5 hng1 ham5
 赖天佑#nain6 tiêng1 iu6
 陈柔柔#dang5 riu5 riu5
-孔湧#kong2 ?
+孔涌#kong2 iong3
 陈博源#dang5 pag4 nguêng5
 刘飘扬#lao5 piou1 iang5
 黄锴#ng5 kai2
@@ -41878,7 +41846,7 @@
 杨铿錞#iên5 giêng1 sung5
 谢睿#zia7 ruê6
 黄润樱#ng5 rung6 êng1
-林湧杰#lim5 ? giêg8
+林涌杰#lim5 iong3 giêg8
 谢钰璇#zia7 ghêg8 suêng5
 黄子扬#ng5 ze2 iang5
 袁嘉乐#uêng5 gia1 lag8
@@ -42694,7 +42662,6 @@
 黄铉淼#ng5 hiêng5 mioun2
 翁梓媛#êng1 ze2 iêng5
 许楷润#kou2 kai2 rung6
-黄钰惞#ng5 ghêg8 ?
 李采妍#li2 cai2 ngiêng2
 黄碧燕#ng5 pêg4 in3
 柯舒晴#gua1 su1 zên5
@@ -43312,12 +43279,12 @@
 林亚冰#lim5 a1 bian1
 林扬巽#lim5 iang5 sung3
 林伊丹#lim5 i1 dang1
-林伊淩#lim5 i1 ?
+林伊凌#lim5 i1 lêng5
 林依凡#lim5 i1 huam5
 林依璇#lim5 i1 suêng5
 林以诺#lim5 in2 nab8
 林意彤#lim5 i3 tong5
-林湧润#lim5 ? rung6
+林涌润#lim5 iong3 rung6
 林宥含#lim5 iu6 ham5
 林于斯#lim5 i1 se1
 林于颖#lim5 i1 têng2
@@ -45132,7 +45099,6 @@
 林锐坚#lim5 ruê6 giêng1
 黄壁桐#ng5 biah4 tong5
 洪欢仪#ang5 huêng1 ngin5
-官锦鈜#guan1 gim2 ?
 赖浩亮#nain6 hao1 liang6
 陈爽玲#dang5 suang2 lêng5
 刘献秀#lao5 hiêng3 siu3
@@ -45150,7 +45116,7 @@
 李薯媛#li2 ze5 iêng5
 詹淑珍#ziam1 sog4 diêng1
 温婉艳#ung1 uêng2 iam7
-江崧炜#gang1 ? ui2
+江嵩炜#gang1 song1 ui2
 王银娲#hêng5 ngeng5 o1
 游楚鑫#iu5 co2 him1
 官思茵#guan1 se1 ing1
@@ -45263,7 +45229,6 @@
 方艺博#bung1 ghoi7 pag4
 刘洁苗#lao5 giêg4 mioun5
 周海娜#ziu1 hai2 non5
-陈漫滮#dang5 bhuêng6 ?
 刘楠#lao5 lam5
 詹佳纯#ziam1 gia1 sung5
 李阿艺#li2 a1 ghoi7
@@ -45343,7 +45308,7 @@
 赖怡珊#nain6 i5 sang1
 郑子瑶#dên7 ze2 iou5
 李可依#li2 ko2 i1
-赖潔婷#nain6 ? dêng5
+赖洁婷#nain6 giêg4 dêng5
 温佳娴#ung1 gia1 hiêng5
 李凯钊#li2 kai2 ziou1
 温俊生#ung1 zung3 sêng1
@@ -45375,7 +45340,6 @@
 洪彤桐#ang5 tong5 tong5
 黄润源#ng5 rung6 nguêng5
 方诗惠#bung1 si1 hui6
-何耿墴#ho5 geng2 ?
 伍家慧#ngoun2 gê1 hui6
 吴楚虹#ghou5 co2 hong5
 温雨麟#ung1 u2* ling5
@@ -46898,7 +46862,6 @@
 谢锐沁#zia7 ruê6 cim3
 詹佳雪#ziam1 gia1 soh4
 詹猷松#ziam1 iu5 song5
-吴燘根#ghou5 ? geng1
 李韬#li2 tao1
 方锦泓#bung1 gim2 hong5
 林昂增#lim5 ngang1 zêng1
@@ -46943,7 +46906,6 @@
 杨斌#iên5 bing1
 陈明俊#dang5 mêng5 zung3
 姚梁坤#iê5 niên5 kung1
-许璟珃#kou2 gêng2 ?
 林穗华#lim5 sui7 hua5
 方燚#bung1 ig8
 陈铠荣#dang5 kai2 iong5
@@ -47790,7 +47752,7 @@
 巫琳茹#bhu5 lim5 ru5
 陈婷怡#dang5 dêng5 i5
 李玫婷#li2 bhung5 dêng5
-李欣橞#li2 hng1 ?
+李欣橞#li2 hng1 hui6
 江蕙萍#gang1 hui6 piê5
 王钟贤#hêng5 zêng1 hiêng5
 庄丽薇#zeng1 li6 muin5
@@ -48008,7 +47970,7 @@
 林婉淇#lim5 uêng2 ki5
 郑韵涵#dên7 ung7 ham5
 何梓煜#ho5 ze2 hiog4
-钟栩聦#zêng1 hu2 ?
+钟栩聪#zêng1 hu2 cong1
 张漫琳#diên1 bhuêng6 lim5
 黄义创#ng5 ngin6 cang3
 黄玉芹#ng5 ghêg8 keng5
@@ -49636,7 +49598,7 @@
 蔡佳惟#cua3 gia1 rui6
 黄楚城#ng5 co2 sian5
 詹坚杰#ziam1 giêng1 giêg8
-杨锐楊#iên5 ruê6 ?
+杨锐杨#iên5 ruê6 iang5
 谢紫晗#zia7 zi2 ham5
 李卓浩#li2 doh4 hao1
 张洁涵#diên1 giêg4 ham5
@@ -50480,7 +50442,6 @@
 郑茵茵#dên7 ing1 ing1
 陈俞洁#dang5 ru5 giêg4
 赖洁博#nain6 giêg4 pag4
-许姵娴#kou2 ? hiêng5
 余法仪#e5 huab4 ngin5
 李依然#li2 i1 riêng5
 吕锦豪#le6 gim2 hao5
@@ -51338,7 +51299,6 @@
 方淼丹#bung1 mioun2 dang1
 方浩#bung1 hao1
 方城#bung1 sian5
-方焾#bung1 ?
 方梦橦#bung1 mang7 tong5
 陈培钰#dang5 buê5 ghêg8
 叶艺睿#iab8 ghoi7 ruê6
@@ -52949,7 +52909,7 @@
 罗美芬#lo5 muin2 hung1
 张浩然#diên1 hao1 riêng5
 薛金纯#sih4 gim1 sung5
-韦凱彤#ui5 ? tong5
+韦凯彤#ui5 kai2 tong5
 郑梓璇#dên7 ze2 suêng5
 方锐琪#bung1 ruê6 ki5
 梁露凡#niên5 lou7 huam5
@@ -53471,7 +53431,7 @@
 李凯迪#li2 kai2 dêg8
 王梓琼#hêng5 ze2 kuang5
 杜可琳#dou6 ko2 lim5
-吴塇轩#ghou5 ? hng1
+吴塇轩#ghou5 suang1 hng1
 陆浩博#lêg8 hao1 pag4
 陆浩博#log8 hao1 pag4
 何奕翰#ho5 êg8 hang5
@@ -53644,7 +53604,6 @@
 李浩瀚#li2 hao1 hang5
 陈梦琳#dang5 mang7 lim5
 官钰婷#guan1 ghêg8 dêng5
-张槡焓#diên1 ? ham5
 黄志恒#ng5 zi3 hêng5
 詹佳乐#ziam1 gia1 lag8
 王文铠#hêng5 bhung5 kai2
@@ -53958,7 +53917,7 @@
 颜裕轩#hian5 ru6 hng1
 颜裕轩#ngang5 ru6 hng1
 沈宗佑#sim2 zong1 iu6
-杜锦煕#dou6 gim2 ?
+杜锦熙#dou6 gim2 hi1
 郭凡#guêh4 huam5
 肖怡爽#siou1 i5 suang2
 吴佩琳#ghou5 buê6 lim5
@@ -54190,7 +54149,7 @@
 罗嘉伟#lo5 gia1 ui2
 陈子宜#dang5 ze2 ngin5
 罗浩宇#lo5 hao1 u2
-许达欽#kou2 dag8 ?
+许达钦#kou2 dag8 kim1
 魏嘉烊#ghui7 gia1 iang5
 曾芷琪#zang1 zi2 ki5
 邱梓茵#ku1 ze2 ing1
@@ -54742,7 +54701,7 @@
 陈翘槟#dang5 kiou5 bing1
 方培文#bung1 buê5 bhung5
 黄贞贤#ng5 zêng1 hiêng5
-林鑫湧#lim5 him1 ?
+林鑫涌#lim5 him1 iong3
 张泽鸿#diên1 zêg8 hong5
 陈贝妍#dang5 buê6 ngiêng2
 庄卓豪#zeng1 doh4 hao5
@@ -55898,7 +55857,7 @@
 饶惠敏#riou5 hui6 miêng2
 叶萱铌#iab8 suang1 nin5
 叶萱铌#hiab8 suang1 nin5
-李埈熹#li2 ? hi1
+李埈熹#li2 zung3 hi1
 李泽基#li2 zêg8 gi1
 陈漫娴#dang5 bhuêng6 hiêng5
 官佳怡#guan1 gia1 i5
@@ -55961,7 +55920,7 @@
 方炜城#bung1 ui2 sian5
 吴飞枫#ghou5 hui1 bang1
 杨敏敏#iên5 miêng2 miêng2
-王凯埮#hêng5 kai2 ?
+王凯埮#hêng5 kai2 tam5
 蔡子萍#cua3 ze2 piê5
 邱名豪#ku1 mian5 hao5
 连诗怡#liêng5 si1 i5
@@ -56177,7 +56136,6 @@
 秦源浩#cing5 nguêng5 hao1
 梁洺溢#niên5 mêng5 êg8
 郑裕鑫#dên7 ru6 him1
-罗佳溂#lo5 gia1 ?
 马政翰#bhê2 zêng3 hang5
 曾奕翰#zang1 êg8 hang5
 赖佳蔓#nain6 gia1 bhuêng6
@@ -56198,7 +56156,7 @@
 邱泽岚#ku1 zêg8 lam5
 陈亿铠#dang5 êg8 kai2
 庄卓宇#zeng1 doh4 u2
-陈桐榮#dang5 tong5 ?
+陈桐荣#dang5 tong5 iong5
 周宏钊#ziu1 hong5 ziou1
 杨阳量#iên5 iang5 liang6
 张意桐#diên1 i3 tong5
@@ -56304,7 +56262,7 @@
 刘泓楷#lao5 hong5 kai2
 江钇霖#gang1 ig4 lim5
 陈炷豪#dang5 zu6 hao5
-吴嘉葙#ghou5 gia1 ?
+吴嘉葙#ghou5 gia1 siang1
 江铠慧#gang1 kai2 hui6
 赖嘉桐#nain6 gia1 tong5
 陈诗橦#dang5 si1 tong5
@@ -56358,7 +56316,7 @@
 马嘉锌#bhê2 gia1 sing1
 陈明瑜#dang5 mêng5 ru5
 庄铭铭#zeng1 mêng5 mêng5
-赖栢炫#nain6 ? hiêng5
+赖柏炫#nain6 bêh4 hiêng5
 卢伊婷#lou5 i1 dêng5
 郑博林#dên7 pag4 lim5
 李泽桐#li2 zêg8 tong5
@@ -56677,7 +56635,7 @@
 蔡弘辉#cua3 hong5 hui1
 郭洵桦#guêh4 sung5 hua5
 伍应铭#ngoun2 êng3 mêng5
-伍栢纯#ngoun2 ? sung5
+伍柏纯#ngoun2 bêh4 sung5
 林泽丽#lim5 zêg8 li6
 陈林发#dang5 lim5 huêg4
 方伟帆#bung1 ui2 pang5
@@ -56914,7 +56872,6 @@
 黄杨煜#ng5 iang5 hiog4
 谢梦柳#zia7 mang7 liu2
 张文琼#diên1 bhung5 kuang5
-黄暐政#ng5 ? zêng3
 黄舒情#ng5 su1 cêng5
 杨锦霞#iên5 gim2 hia5
 杨君亮#iên5 gung1 liang6
@@ -57196,7 +57153,7 @@
 邱梓杰#ku1 ze2 giêg8
 方桂涛#bung1 gui3 tiu5
 丘子侨#ku1 ze2 kiou5
-张鈞策#diên1 ? cêh4
+张钧策#diên1 geng1 cêh4
 傅淼欣#bou3 mioun2 hng1
 蒋柱国#ziên2 tiou6 gog4
 王术帆#hêng5 sug8 pang5
@@ -57693,7 +57650,7 @@
 苏佳丽#sou1 gia1 li6
 苏永轩#sou1 iong2 hng1
 苏梓杰#sou1 ze2 giêg8
-杨淑锳#iên5 sog4 ?
+杨淑瑛#iên5 sog4 êng1
 詹姿琪#ziam1 ze1 ki5
 陈澔灿#dang5 hao1 cang3
 谢弘燊#zia7 hong5 sing1
@@ -57995,7 +57952,7 @@
 李婷玉#li2 dêng5 ghêg8
 江梓龙#gang1 ze2 lêng5
 杨冰珠#iên5 bian1 zu1
-黄锳琦#ng5 ? ki5
+黄瑛琦#ng5 êng1 ki5
 许楷佳#kou2 kai2 gia1
 吕佳昕#le6 gia1 hng1
 刘晓煜#lao5 hiou2 hiog4
@@ -58373,7 +58330,7 @@
 陈恒增#dang5 hêng5 zêng1
 秦梓诚#cing5 ze2 sêng5
 李弘铭#li2 hong5 mêng5
-江杺玥#gang1 ? ghuêh8
+江杺玥#gang1 sim1 ghuêh8
 张煜炳#diên1 hiog4 bêng2
 张煜宜#diên1 hiog4 ngin5
 江文琪#gang1 bhung5 ki5
@@ -58678,7 +58635,6 @@
 庄泽锴#zeng1 zêg8 kai2
 许钦豪#kou2 kim1 hao5
 张翼勋#diên1 êg8 hng1
-傅炩翔#bou3 ? siang5
 庄艺淳#zeng1 ghoi7 sung5
 李静芬#li2 zên6 hung1
 许境轩#kou2 gêng2 hng1
@@ -59226,7 +59182,7 @@
 黄已翔#ng5 in2 siang5
 肖志跃#siou1 zi3 iag4
 蔡楷运#cua3 kai2 ung7
-林楷湧#lim5 kai2 ?
+林楷涌#lim5 kai2 iong3
 文思怡#bhung5 se1 i5
 高锐佳#go1 ruê6 gia1
 方涵琳#bung1 ham5 lim5
@@ -60192,7 +60148,7 @@
 苏盈盈#sou1 iong5 iong5
 马锐楷#bhê2 ruê6 kai2
 杨庆虹#iên5 kêng3 hong5
-潘湧滨#puan1 ? bing1
+潘涌滨#puan1 iong3 bing1
 黄启鸿#ng5 ki2 hong5
 陈灿耿#dang5 cang3 geng2
 郑婉琳#dên7 uêng2 lim5
@@ -60614,7 +60570,7 @@
 陈熠佳#dang5 sib8 gia1
 罗琼纯#lo5 kuang5 sung5
 洪圳峰#ang5 zung3 hong1
-蔡毓璿#cua3 hiog4 ?
+蔡毓璇#cua3 hiog4 suêng5
 罗培煜#lo5 buê5 hiog4
 游泽涛#iu5 zêg8 tiu5
 郑泽杭#dên7 zêg8 hang5
@@ -60712,7 +60668,7 @@
 孔禹哲#kong2 u2 diêg4
 高旭佳#go1 hiog4 gia1
 杨嘉荣#iên5 gia1 iong5
-马蕓玥#bhê2 ? ghuêh8
+马芸玥#bhê2 ung5 ghuêh8
 官桂宁#guan1 gui3 lêng5
 林凯宇#lim5 kai2 u2
 唐文澜#deng5 bhung5 lang5
@@ -60875,7 +60831,7 @@
 颜俊鹏#ngang5 zung3 pong5
 肖灿佳#siou1 cang3 gia1
 许睿雅#kou2 ruê6 ngian2
-李宗龍#li2 zong1 ?
+李宗龙#li2 zong1 lêng5
 方悦#bung1 ruêg8
 吕嘉茵#le6 gia1 ing1
 刘益伶#lao5 iah4 lêng5
@@ -62260,7 +62216,7 @@
 陈佳美#dang5 gia1 muin2
 陈栩静#dang5 hu2 zên6
 陈宇彬#dang5 u2 bing1
-陈祈瑨#dang5 ki5 ?
+陈祈晋#dang5 ki5 zing3
 黄楚瑞#ng5 co2 sui6
 钟展柯#zêng1 diêng2 gua1
 陈岳群#dang5 ngag8 kung5
@@ -63049,7 +63005,6 @@
 许锴泽#kou2 kai2 zêg8
 王钊辉#hêng5 ziou1 hui1
 张洁怡#diên1 giêg4 i5
-吴焜垰#ghou5 kung1 ?
 温怡钰#ung1 i5 ghêg8
 赖孝凯#nain6 hao3 kai2
 洪锦锐#ang5 gim2 ruê6
@@ -64058,7 +64013,6 @@
 许智健#kou2 di3 giêng6
 李鑫鸿#li2 him1 hong5
 潘金艳#puan1 gim1 iam7
-谢宇墺#zia7 u2 ?
 房锦来#bang5 gim2 lai5
 陈梓铿#dang5 ze2 giêng1
 林伟锋#lim5 ui2 hong1
@@ -64575,7 +64529,7 @@
 江金鋆#gang1 gim1 geng1
 王泽翔#hêng5 zêg8 siang5
 卢星曈#lou5 cên1 tong5
-方煒明#bung1 ? mêng5
+方炜明#bung1 ui2 mêng5
 赖泓宇#nain6 hong5 u2
 黄怀熙#ng5 huai5 hi1
 陈煜祺#dang5 hiog4 ki5
@@ -64587,7 +64541,7 @@
 许霞菱#kou2 hia5 lêng5
 陈凯胜#dang5 kai2 sêng3
 黄炫杰#ng5 hiêng5 giêg8
-陈楷蘇#dang5 kai2 ?
+陈楷苏#dang5 kai2 sou1
 叶炜煜#iab8 ui2 hiog4
 叶炜煜#hiab8 ui2 hiog4
 陈浩维#dang5 hao1 rui5
@@ -64749,8 +64703,8 @@
 李枚珊#li2 bhuê5 sang1
 何思琪#ho5 se1 ki5
 肖紫萱#siou1 zi2 suang1
-叶晞妧#iab8 hi1 ?
-叶晞妧#hiab8 hi1 ?
+叶晞妧#iab8 hi1 nguêng2
+叶晞妧#hiab8 hi1 nguêng2
 吴浩阳#ghou5 hao1 iang5
 覃晟彬#tam5 sêng6 bing1
 杜彦仪#dou6 ngang6 ngin5
@@ -64970,7 +64924,7 @@
 林禹含#lim5 u2 ham5
 吕芷韵#le6 zi2 ung7
 黄迦龄#ng5 gia1 lêng5
-林湙锶#lim5 ? se1
+林湙锶#lim5 êg8 se1
 高邵雅#go1 siou6 ngian2
 林墐#lim5 geng6
 黄英锐#ng5 êng1 ruê6
@@ -65060,7 +65014,6 @@
 黄悦欣#ng5 ruêg8 hng1
 杨梓烨#iên5 ze2 iab8
 黄啟辉#ng5 ki2 hui1
-黄子苪#ng5 ze2 ?
 张佐平#diên1 zo2 pêng5
 王彩凤#hêng5 cai2 hong6
 刘思宝#lao5 se1 bo2
@@ -65805,7 +65758,6 @@
 潘依静#puan1 i1 zên6
 叶耿壕#iab8 geng2 hao5
 叶耿壕#hiab8 geng2 hao5
-李培榢#li2 buê5 ?
 江宇帆#gang1 u2 pang5
 赖柯妍#nain6 gua1 ngiêng2
 陈子霖#dang5 ze2 lim5
@@ -66634,7 +66586,7 @@
 庄欣漫#zeng1 hng1 bhuêng6
 秦菀函#cing5 uêng2 ham5
 黄冠鑫#ng5 guêng3 him1
-高塽斌#go1 ? bing1
+高爽斌#go1 suang2 bing1
 蓝天源#nan5 tiêng1 nguêng5
 王佳勇#hêng5 gia1 iong2
 赖子楠#nain6 ze2 lam5
@@ -66830,7 +66782,6 @@
 何嘉俊#ho5 gia1 zung3
 杨悦彤#iên5 ruêg8 tong5
 夏漫玲#hê7 bhuêng6 lêng5
-范梓淁#huam6 ze2 ?
 张雯琪#diên1 bhung5 ki5
 孟栩柔#mêng6 hu2 riu5
 陈智烁#dang5 di3 iag4
@@ -67051,7 +67002,6 @@
 许泽寅#kou2 zêg8 ing5
 林奕蓁#lim5 êg8 zing1
 黄子锐#ng5 ze2 ruê6
-林杅睿#lim5 ? ruê6
 周子翔#ziu1 ze2 siang5
 黄昕玲#ng5 hng1 lêng5
 夏逸坤#hê7 ig8 kung1
@@ -67067,7 +67017,7 @@
 林煌翔#lim5 huang5 siang5
 温鸿洲#ung1 hong5 ziu1
 温锡龙#ung1 siah4 lêng5
-李盛堒#li2 sêng6 ?
+李盛堒#li2 sêng6 kung1
 罗皓霖#lo5 hao1 lim5
 陈柔漫#dang5 riu5 bhuêng6
 何卓霖#ho5 doh4 lim5
@@ -67607,7 +67557,7 @@
 王东泽#hêng5 dang1 zêg8
 洪明杰#ang5 mêng5 giêg8
 郝怀宇#hag4 huai5 u2
-黄湙锐#ng5 ? ruê6
+黄湙锐#ng5 êg8 ruê6
 钟嘉桐#zêng1 gia1 tong5
 巫梓旭#bhu5 ze2 hiog4
 巫梓程#bhu5 ze2 tian5
@@ -68050,7 +68000,6 @@
 薛元越#sih4 nguêng5 uêg8
 黄坤杰#ng5 kung1 giêg8
 邓悦恩#dêng6 ruêg8 eng1
-吴暟杰#ghou5 ? giêg8
 肖传灿#siou1 tuêng5 cang3
 沈浩铅#sim2 hao1 ing5
 罗皓燃#lo5 hao1 riêng5
@@ -68125,7 +68074,7 @@
 陈旺华#dang5 uang6 hua5
 魏宗承#ghui7 zong1 sêng5
 方炜彤#bung1 ui2 tong5
-陈梓彥#dang5 ze2 ?
+陈梓彦#dang5 ze2 ngang6
 赖志勇#nain6 zi3 iong2
 谈俊杰#tam5 zung3 giêg8
 纪凯瀚#gi2 kai2 hang5
@@ -68397,7 +68346,6 @@
 魏梦彤#ghui7 mang7 tong5
 李晋#li2 zing3
 黄炜宸#ng5 ui2 sing5
-陈钊梒#dang5 ziou1 ?
 陈铵淇#dang5 ang1 ki5
 赖咨轩#nain6 ze1 hng1
 张灏森#diên1 hao1 siam1
@@ -68419,7 +68367,6 @@
 陈楠浠#dang5 lam5 hi1
 许思凯#kou2 se1 kai2
 蔡佳旋#cua3 gia1 suêng5
-陈赫楻#dang5 hêh4 ?
 卢俊庆#lou5 zung3 kêng3
 赵树鑫#diên6 su6 him1
 许洲豪#kou2 ziu1 hao5
@@ -68450,7 +68397,7 @@
 赖艺轩#nain6 ghoi7 hng1
 陈梦蓝#dang5 mang7 lam5
 刘元耀#lao5 nguêng5 iou6
-张栢川#diên1 ? cuêng1
+张柏川#diên1 bêh4 cuêng1
 曹君#cao5 gung1
 张锋祺#diên1 hong1 ki5
 方柳欢#bung1 liu2 huêng1
@@ -68557,7 +68504,6 @@
 赖浩宇#nain6 hao1 u2
 苏袁梦洁#sou1 uêng5 mang7 giêg4
 许灏泽#kou2 hao1 zêg8
-罗漫鎐#lo5 bhuêng6 ?
 王佳锋#hêng5 gia1 hong1
 唐炳诚#deng5 bêng2 sêng5
 马浩锐#bhê2 hao1 ruê6
@@ -68885,7 +68831,7 @@
 吴皓晨#ghou5 hao1 sing5
 钦紫涵#kim1 zi2 ham5
 毕雅轩#big8 ngian2 hng1
-黄鎧勝#ng5 ? ?
+黄铠胜#ng5 kai2 sêng3
 洪新婷#ang5 sing1 dêng5
 周莹莹#ziu1 iong5 iong5
 赖俞彤#nain6 ru5 tong5
@@ -70123,7 +70069,7 @@
 蔡梓珩#cua3 ze2 hang5
 杨勉#iên5 miêng2
 陈昶#dang5 ciang2
-罗育澂#lo5 iog8 ?
+罗育澄#lo5 iog8 têng5
 黄锴妮#ng5 kai2 nin5
 卢培林#lou5 buê5 lim5
 张叶纯#diên1 hiêh8 sung5
@@ -71061,7 +71007,7 @@
 刘瀛#lao5 iong5
 杨岳武#iên5 ngag8 bhu2
 佘陆鑫#sia5 lêg8 him1
-陈梖琪#dang5 ? ki5
+陈𪱷琪#dang5 buê6 ki5
 许鹏#kou2 pong5
 张佩珊#diên1 buê6 sang1
 郑琲#dên7 buê6
@@ -71486,7 +71432,7 @@
 黄焯楷#ng5 doh4 kai2
 彭晓冉#pên5 hiou2 riam2
 蔡梓豪#cua3 ze2 hao5
-王培榮#hêng5 buê5 ?
+王培荣#hêng5 buê5 iong5
 吴泽山#ghou5 zêg8 suan1
 郭霖泽#guêh4 lim5 zêg8
 陈欣语#dang5 hng1 ghe2
@@ -71602,7 +71548,7 @@
 颜梓逸#hian5 ze2 ig8
 颜梓逸#ngang5 ze2 ig8
 郭桐瑶#guêh4 tong5 iou5
-陈锳涵#dang5 ? ham5
+陈瑛涵#dang5 êng1 ham5
 章榕蓁#ziên1 iong5 zing1
 章榕蓁#ziang1 iong5 zing1
 陈凯泽#dang5 kai2 zêg8
@@ -71946,7 +71892,7 @@
 董伟涛#dang2 ui2 tiu5
 林少雪#lim5 siou3 soh4
 王友彤#hêng5 iu2 tong5
-杜骏煕#dou6 zung3 ?
+杜骏熙#dou6 zung3 hi1
 王佳澄#hêng5 gia1 têng5
 吴杰淳#ghou5 giêg8 sung5
 吴淦封#ghou5 gam3 hong1
@@ -72568,7 +72514,6 @@
 黄嘉艺#ng5 gia1 ghoi7
 黄洁芳#ng5 giêg4 huang1
 黄逸鸿#ng5 ig8 hong5
-林丹鶣#lim5 dang1 ?
 卢宜聪#lou5 ngin5 cong1
 罗紫莹#lo5 zi2 iong5
 史张滔#se2 diên1 tao1
@@ -72645,7 +72590,7 @@
 赖梓凯#nain6 ze2 kai2
 李敏萍#li2 miêng2 piê5
 李梓彤#li2 ze2 tong5
-林淳堒#lim5 sung5 ?
+林淳堒#lim5 sung5 kung1
 林槐哲#lim5 huai5 diêg4
 林楷旭#lim5 kai2 hiog4
 林俏琳#lim5 ciou2 lim5
@@ -72829,7 +72774,7 @@
 林琪洳#lim5 ki5 ru5
 刘乐宜#lao5 lag8 ngin5
 麦佳琳#bhêh8 gia1 lim5
-苏源東#sou1 nguêng5 ?
+苏源东#sou1 nguêng5 dang1
 谭茗翎#tam5 mêng5 lêng5
 唐咏雪#deng5 iong3 soh4
 翁依煌#êng1 i1 huang5
@@ -73032,7 +72977,7 @@
 杨绍坤#iên5 siou6 kung1
 廖晞博#liou7 hi1 pag4
 曾伊柠#zang1 i1 lêng5
-张楒晓#diên1 ? hiou2
+张思晓#diên1 se1 hiou2
 蓝灵儿#nan5 lêng5 ri5
 张艺祺#diên1 ghoi7 ki5
 许隽祺#kou2 zung3 ki5
@@ -73346,7 +73291,7 @@
 杨佳贤#iên5 gia1 hiêng5
 丁梓博#dêng1 ze2 pag4
 黄恩圻#ng5 eng1 ki5
-陈槾萱#dang5 ? suang1
+陈槾萱#dang5 bhuêng6 suang1
 翁昕可#êng1 hng1 ko2
 林祺杰#lim5 ki5 giêg8
 陈泰川#dang5 tai3 cuêng1
@@ -73635,7 +73580,7 @@
 严紫薇#ngiam5 zi2 muin5
 幸树炜#hêng6 su6 ui2
 欧梦琪#ao1 mang7 ki5
-蓝锳纯#nan5 ? sung5
+蓝瑛纯#nan5 êng1 sung5
 黄礼炫#ng5 loi2 hiêng5
 朱紫娴#zu1 zi2 hiêng5
 蓝洋#nan5 iang5
@@ -73671,7 +73616,7 @@
 蔡梓艺#cua3 ze2 ghoi7
 蔡钇熹#cua3 ig4 hi1
 戴凯勋#do3 kai2 hng1
-潘栢屹#puan1 ? ngeg4
+潘柏屹#puan1 bêh4 ngeg4
 温梓琪#ung1 ze2 ki5
 李筱诺#li2 siou2 nab8
 张树哲#diên1 su6 diêg4
@@ -74100,7 +74045,6 @@
 许益睿#kou2 iah4 ruê6
 吴岱勋#ghou5 dai3 hng1
 许伟略#kou2 ui2 liag8
-林昱杶#lim5 hiog4 ?
 林蓝泽#lim5 lam5 zêg8
 邱欣烁#ku1 hng1 iag4
 刘映岚#lao5 iang3 lam5
@@ -74229,7 +74173,7 @@
 徐钰涵#ce5 ghêg8 ham5
 魏顺达#ghui7 sung6 dag8
 高镕婷#go1 iong5 dêng5
-颜廉泰#? liam5 tai3
+颜廉泰#nguêng5 liam5 tai3
 张洽#diên1 ziab8
 陈瀚琳#dang5 hang5 lim5
 林庭帆#lim5 têng5 pang5
@@ -74369,7 +74313,7 @@
 肖鑫鹏#siou1 him1 pong5
 张子焓#diên1 ze2 ham5
 黄梓乐#ng5 ze2 lag8
-杨彭鈞#iên5 pên5 ?
+杨彭钧#iên5 pên5 geng1
 赵涵#diên6 ham5
 江琪#gang1 ki5
 张瑛琦#diên1 êng1 ki5
@@ -75462,10 +75406,10 @@
 蓝从祯#nan5 cong5 zêng1
 张可淇#diên1 ko2 ki5
 刘锶烨#lao5 se1 iab8
-吴元懇#ghou5 nguêng5 ?
+吴元恳#ghou5 nguêng5 keng2
 廖晓琳#liou7 hiou2 lim5
 廖迎纯#liou7 ngiêng5 sung5
-潘才湧#puan1 cai5 ?
+潘才涌#puan1 cai5 iong3
 李晗妍#li2 ham5 ngiêng2
 谢梓茹#zia7 ze2 ru5
 郭钰祁#guêh4 ghêg8 ki5
@@ -75647,7 +75591,7 @@
 施堰烁#si1 iam2 iag4
 杨正航#iên5 zian3 hang5
 李涵青#li2 ham5 cên1
-黄楒颖#ng5 ? têng2
+黄思颖#ng5 se1 têng2
 黄钰骐#ng5 ghêg8 ki5
 林霖#lim5 lim5
 魏莉灵#ghui7 li6 lêng5
@@ -76068,7 +76012,7 @@
 刘泽楷#lao5 zêg8 kai2
 刘依梵#lao5 i1 huam6
 徐信博#ce5 sing3 pag4
-张羽晳#diên1 u2 ?
+张羽晰#diên1 u2 sêg4
 许展桓#kou2 diêng2 huêng5
 卢洛苒#lou5 log8 riam2
 郑喻秦#dên7 ru6 cing5
@@ -76208,7 +76152,6 @@
 詹嘉楠#ziam1 gia1 lam5
 丁荣炫#dêng1 iong5 hiêng5
 张淡婷#diên1 dan6 dêng5
-何思朣#ho5 se1 ?
 刘立辉#lao5 lib8 hui1
 李欣怡#li2 hng1 i5
 陈德杰#dang5 dêg4 giêg8
@@ -76746,7 +76689,7 @@
 陈金慧#dang5 gim1 hui6
 蔡新雅#cua3 sing1 ngian2
 陈湘灵#dang5 siang1 lêng5
-曾赞湧#zang1 zang3 ?
+曾赞涌#zang1 zang3 iong3
 陈建楠#dang5 giêng6 lam5
 黄逸瀚#ng5 ig8 hang5
 黄子峻#ng5 ze2 zung3
@@ -76866,7 +76809,7 @@
 廖润铎#liou7 rung6 dag8
 吴烯妍#ghou5 hi1 ngiêng2
 陈梓恩#dang5 ze2 eng1
-周枍洋#ziu1 ? iang5
+周枍洋#ziu1 i3 iang5
 许芯瑜#kou2 sim1 ru5
 叶淑艺#iab8 sog4 ghoi7
 叶淑艺#hiab8 sog4 ghoi7
@@ -77463,7 +77406,7 @@
 谢钿纯#zia7 tiêng5 sung5
 廖佳恩#liou7 gia1 eng1
 丁逸瀚#dêng1 ig8 hang5
-刘楒宏#lao5 ? hong5
+刘思宏#lao5 se1 hong5
 陈烁锴#dang5 iag4 kai2
 蓝涵鑫#nan5 ham5 him1
 苏妙锋#sou1 mioun6 hong1
@@ -77523,7 +77466,6 @@
 章梓越#ziên1 ze2 uêg8
 章梓越#ziang1 ze2 uêg8
 黄创成#ng5 cang3 sêng5
-温墤颖#ung1 ? têng2
 张堃锐#diên1 kung1 ruê6
 卢杜班#lou5 dou6 bang1
 郭桀轩#guêh4 giêg8 hng1
@@ -77852,8 +77794,8 @@
 蔡铉熙#cua3 hiêng5 hi1
 蔡昊澄#cua3 hao1 têng5
 江曼齐#gang1 bhuêng6 ci5
-陆栢钏#lêg8 ? cuêng1
-陆栢钏#log8 ? cuêng1
+陆柏钏#lêg8 bêh4 cuêng1
+陆柏钏#log8 bêh4 cuêng1
 谭昶轩#tam5 ciang2 hng1
 陈琳滢#dang5 lim5 iong5
 卢姿霖#lou5 ze1 lim5
@@ -77905,7 +77847,7 @@
 张翰宇#diên1 hang5 u2
 陈若可#dang5 riag8 ko2
 黄增妍#ng5 zêng1 ngiêng2
-庄澐翰#zeng1 ? hang5
+庄沄翰#zeng1 ung5 hang5
 郑延绵#dên7 iêng6 miêng5
 陈沛楠#dang5 pai3 lam5
 袁鸣森#uêng5 mêng5 siam1
@@ -78301,7 +78243,7 @@
 陈梓垌#dang5 ze2 tong5
 蔡泽菀#cua3 zêg8 uêng2
 蔡钰涵#cua3 ghêg8 ham5
-王楒塬#hêng5 ? nguêng5
+王思塬#hêng5 se1 nguêng5
 陈锦昊#dang5 gim2 hao1
 林晓铭#lim5 hiou2 mêng5
 廖锐嘉#liou7 ruê6 gia1
@@ -79117,7 +79059,7 @@
 罗如意#lo5 ru5 i3
 钟名优#zêng1 mian5 iu1
 蔡桔妍#cua3 gig4 ngiêng2
-周楒琪#ziu1 ? ki5
+周思琪#ziu1 se1 ki5
 张嘉柃#diên1 gia1 lêng5
 陈柯琪#dang5 gua1 ki5
 李雁栩#li2 ngang6 hu2
@@ -79221,7 +79163,7 @@
 林豪竣#lim5 hao5 zung3
 古向檀#gou2 hiang3 tang5
 余芊涵#e5 ciêng1 ham5
-黄锌埥#ng5 sing1 ?
+黄锌埥#ng5 sing1 cêng1
 章熙肯#ziên1 hi1 kêng2
 章熙肯#ziang1 hi1 kêng2
 袁洛熙#uêng5 log8 hi1
@@ -79240,14 +79182,13 @@
 丁琪淇#dêng1 ki5 ki5
 温堉颖#ung1 iog8 têng2
 余昱雯#e5 hiog4 bhung5
-赵之墑#diên6 ze1 ?
 洪腕翼#ang5 uêng2 êg8
 卢悦淋#lou5 ruêg8 lim5
 刘堞渲#lao5 diab8 suang1
 谢钰纯#zia7 ghêg8 sung5
 林雅靖#lim5 ngian2 zêng6
 吕宇漫#le6 u2 bhuêng6
-陈婉婗#dang5 uêng2 ?
+陈婉婗#dang5 uêng2 ngi5
 刘斯博#lao5 se1 pag4
 张秀玉#diên1 siu3 ghêg8
 林梓爽#lim5 ze2 suang2
@@ -79255,7 +79196,7 @@
 黄鑫培#ng5 him1 buê5
 宋澄佳#song3 têng5 gia1
 石声炫#ziêh8 sian1 hiêng5
-黄圻煬#ng5 ki5 ?
+黄圻炀#ng5 ki5 iang5
 梁铭峻#niên5 mêng5 zung3
 刘键勋#lao5 giêng6 hng1
 卢树涛#lou5 su6 tiu5
@@ -79804,7 +79745,6 @@
 刘梦#lao5 mang7
 薛晴柔#sih4 zên5 riu5
 蔡泽涛#cua3 zêg8 tiu5
-邱娴鮰#ku1 hiêng5 ?
 石雅静#ziêh8 ngian2 zên6
 郑璟勋#dên7 gêng2 hng1
 巫思炀#bhu5 se1 iang5
@@ -80154,7 +80094,7 @@
 陈沛灵#dang5 pai3 lêng5
 谢灵煊#zia7 lêng5 suang1
 胡俊豪#ou5 zung3 hao5
-蔡楒沛#cua3 ? pai3
+蔡思沛#cua3 se1 pai3
 曾思淇#zang1 se1 ki5
 吴灵玲#ghou5 lêng5 lêng5
 冯烁维#bang5 iag4 rui5
@@ -80254,7 +80194,6 @@
 吴晓任#ghou5 hiou2 rim6
 吴紫榕#ghou5 zi2 iong5
 陈子乐#dang5 ze2 lag8
-黄雨姳#ng5 u2* ?
 韩慧婷#hang5 hui6 dêng5
 孙明涵#seng1 mêng5 ham5
 王益康#hêng5 iah4 kang1
@@ -80302,7 +80241,7 @@
 文梓铄#bhung5 ze2 iag4
 戴家敏#do3 gê1 miêng2
 翁烨杭#êng1 iab8 hang5
-刘栢汶#lao5 ? bhung5
+刘柏汶#lao5 bêh4 bhung5
 郭婕#guêh4 ziab8
 廖逸欣#liou7 ig8 hng1
 梁梓健#niên5 ze2 giêng6
@@ -80313,7 +80252,7 @@
 林志东#lim5 zi3 dang1
 王银淳#hêng5 ngeng5 sung5
 周奕岑#ziu1 êg8 ngim5
-李琋帆#li2 ? pang5
+李琋帆#li2 hi1 pang5
 张晟涵#diên1 sêng6 ham5
 李铭妍#li2 mêng5 ngiêng2
 陆佳溶#lêg8 gia1 iong5
@@ -80383,7 +80322,7 @@
 叶旭煜#hiab8 hiog4 hiog4
 吴嘉涵#ghou5 gia1 ham5
 刘裕煌#lao5 ru6 huang5
-戴琸悦#do3 ? ruêg8
+戴琸悦#do3 dog4 ruêg8
 喻语馨#ru6 ghe2 hêng1
 余铭希#e5 mêng5 hi1
 张锶琪#diên1 se1 ki5
@@ -80478,7 +80417,7 @@
 卢思梦#lou5 se1 mang7
 廖岱珊#liou7 dai3 sang1
 陈孝霖#dang5 hao3 lim5
-陈栢暄#dang5 ? suang1
+陈柏暄#dang5 bêh4 suang1
 苏京坛#sou1 gian1 duan5
 刘湘玥#lao5 siang1 ghuêh8
 许岱媛#kou2 dai3 iêng5
@@ -81406,7 +81345,7 @@
 郑铮媛#dên7 zêng1 iêng5
 郑婉紫#dên7 uêng2 zi2
 陈梦蓉#dang5 mang7 iong5
-黃佳纯#? gia1 sung5
+黄佳纯#ng5 gia1 sung5
 陈钢#dang5 geng3
 邰红军#tai5 ang5 gung1
 郑漫琦#dên7 bhuêng6 ki5
@@ -81951,7 +81890,7 @@
 陈逸超#dang5 ig8 tiou3
 郑灿阳#dên7 cang3 iang5
 陈柳#dang5 liu2
-陈鍵洲#dang5 ? ziu1
+陈键洲#dang5 giêng6 ziu1
 陈孟涵#dang5 mêng6 ham5
 沈腾铎#sim2 têng5 dag8
 郑永帆#dên7 iong2 pang5
@@ -81996,7 +81935,7 @@
 张佳倩#diên1 gia1 ceng3
 洪逸驰#ang5 ig8 ci5
 郑碧玫#dên7 pêg4 bhung5
-姚佳煬#iê5 gia1 ?
+姚佳炀#iê5 gia1 iang5
 陈铭跃#dang5 mêng5 iag4
 陈凯莉#dang5 kai2 li6
 陈逸韩#dang5 ig8 hang5
@@ -82166,7 +82105,7 @@
 陈燕双#dang5 in3 sang1
 陈铱曼#dang5 i1 bhuêng6
 林冠樾#lim5 guêng3 uêg8
-罗辉鎧#lo5 hui1 ?
+罗辉铠#lo5 hui1 kai2
 陈锶韩#dang5 se1 hang5
 陈烁姿#dang5 iag4 ze1
 刘恩乐#lao5 eng1 lag8
@@ -82852,7 +82791,7 @@
 苏依敏#sou1 i1 miêng2
 苏丽勤#sou1 li6 keng5
 王雨欣#hêng5 u2* hng1
-陈栢年#dang5 ? nin5
+陈柏年#dang5 bêh4 nin5
 赵格敏#diên6 gêh4 miêng2
 郑梓枫#dên7 ze2 bang1
 欧阳佳杰#ao1 iang5 gia1 giêg8
@@ -83005,7 +82944,7 @@
 苏熙峻#sou1 hi1 zung3
 谢秋涵#zia7 ciu1 ham5
 邱键涵#ku1 giêng6 ham5
-谢瀚湧#zia7 hang5 ?
+谢瀚涌#zia7 hang5 iong3
 梅广#bhuê5 guang2
 柯嘉濠#gua1 gia1 hao5
 谢健欣#zia7 giêng6 hng1
@@ -83081,7 +83020,6 @@
 邱思琳#ku1 se1 lim5
 王寿阳#hêng5 siu7 iang5
 蔡泽荣#cua3 zêg8 iong5
-苏鉨豪#sou1 ? hao5
 汤珏滢#teng1 gag4 iong5
 陈佳泳#dang5 gia1 iong3
 张博威#diên1 pag4 ui1
@@ -83858,7 +83796,6 @@
 谢楷瀚#zia7 kai2 hang5
 姬莱儿#gi1 lai5 ri5
 陈杭喆#dang5 hang5 diêg4
-陈佳砡#dang5 gia1 ?
 苏勋#sou1 hng1
 邢顺茹#hian5 sung6 ru5
 邢锦坤#hian5 gim2 kung1
@@ -84718,7 +84655,6 @@
 沈梓芸#sim2 ze2 ung5
 田乐祺#cang5 lag8 ki5
 魏依葶#ghui7 i1 dêng5
-徐湘灡#ce5 siang1 ?
 许润欣#kou2 rung6 hng1
 薛依环#sih4 i1 huêng5
 杨尔萱#iên5 re2 suang1
@@ -85130,7 +85066,7 @@
 孙一#seng1 ig4
 孙依萍#seng1 i1 piê5
 孙奕彬#seng1 êg8 bing1
-孙奕瑔#seng1 êg8 ?
+孙奕瑔#seng1 êg8 zuan5
 孙浥杭#seng1 ib4 hang5
 孙于晴#seng1 i1 zên5
 孙于冉#seng1 i1 riam2
@@ -85378,7 +85314,6 @@
 蔡书欣#cua3 ze1 hng1
 陈惠乔#dang5 hui6 kiou5
 陈钐乔#dang5 sam1 kiou5
-沈依圑#sim2 i1 ?
 孙思颖#seng1 se1 têng2
 陈梓芳#dang5 ze2 huang1
 蔡梓越#cua3 ze2 uêg8
@@ -85781,7 +85716,6 @@
 倪晴#ghoi5 zên5
 孙佳漫#seng1 gia1 bhuêng6
 郑堉龙#dên7 iog8 lêng5
-陈莄媛#dang5 ? iêng5
 孙佳琪#seng1 gia1 ki5
 李金晗#li2 gim1 ham5
 蔡梓濛#cua3 ze2 mong5
@@ -85873,7 +85807,7 @@
 陈潇海#dang5 siou1 hai2
 吴玲淳#ghou5 lêng5 sung5
 孙建栩#seng1 giêng6 hu2
-陈雯瑩#dang5 bhung5 ?
+陈雯莹#dang5 bhung5 iong5
 李胤捷#li2 iêng6 ziab8
 刘伟翔#lao5 ui2 siang5
 严桢灿#ngiam5 zêng1 cang3
@@ -86020,7 +85954,7 @@
 陈柔涵#dang5 riu5 ham5
 陈玺轩#dang5 re2 hng1
 吴杭杭#ghou5 hang5 hang5
-林雯僅#lim5 bhung5 ?
+林雯仅#lim5 bhung5 geng2
 谢思华#zia7 se1 hua5
 林金湖#lim5 gim1 ou5
 郑锶焓#dên7 se1 ham5
@@ -86414,7 +86348,7 @@
 孙楷炫#seng1 kai2 hiêng5
 孙梓锟#seng1 ze2 kung1
 孙思悦#seng1 se1 ruêg8
-孙楒炀#seng1 ? iang5
+孙思炀#seng1 se1 iang5
 孙志炜#seng1 zi3 ui2
 孙岱博#seng1 dai3 pag4
 邰龙王#tai5 lêng5 uang5
@@ -86473,7 +86407,6 @@
 孙佳娜#seng1 gia1 non5
 孙烽越#seng1 hong1 uêg8
 孙梓婷#seng1 ze2 dêng5
-孙跃堔#seng1 iag4 ?
 孙培睿#seng1 buê5 ruê6
 蔡柯欣#cua3 gua1 hng1
 孙逸贤#seng1 ig8 hiêng5
@@ -86586,7 +86519,7 @@
 蔡润熙#cua3 rung6 hi1
 叶棨煜#iab8 ki2 hiog4
 叶棨煜#hiab8 ki2 hiog4
-蔡鋕豪#cua3 ? hao5
+蔡志豪#cua3 zi3 hao5
 郑栩佳#dên7 hu2 gia1
 孙柯漫#seng1 gua1 bhuêng6
 孙佳铠#seng1 gia1 kai2
@@ -86778,7 +86711,7 @@
 陈铄淳#dang5 iag4 sung5
 陈晴涵#dang5 zên5 ham5
 陈泽栋#dang5 zêg8 dong3
-陈楒泓#dang5 ? hong5
+陈思泓#dang5 se1 hong5
 陈梓栩#dang5 ze2 hu2
 郑杰沛#dên7 giêg8 pai3
 郑亿圻#dên7 êg8 ki5
@@ -86968,7 +86901,7 @@
 谢佳斌#zia7 gia1 bing1
 李艺蓁#li2 ghoi7 zing1
 邱梓林#ku1 ze2 lim5
-陈栢承#dang5 ? sêng5
+陈柏承#dang5 bêh4 sêng5
 余梓婉#e5 ze2 uêng2
 邵烁婷#siou6 iag4 dêng5
 蔡腾熙#cua3 têng5 hi1
@@ -86977,7 +86910,6 @@
 蔡峻泳#cua3 zung3 iong3
 蔡桂焕#cua3 gui3 huêng3
 蔡嘉铭#cua3 gia1 mêng5
-蔡熙埇#cua3 hi1 ?
 蔡保娴#cua3 bo2 hiêng5
 蔡森莲#cua3 siam1 noin5
 陈瀚栩#dang5 hang5 hu2
@@ -87246,7 +87178,6 @@
 李冬筠#li2 dang1 geng1
 李庚骏#li2 gên1 zung3
 李冠容#li2 guêng3 iong5
-李琻漫#li2 ? bhuêng6
 李炯宇#li2 guang2 u2
 李凌杰#li2 lêng5 giêg8
 李洛涵#li2 log8 ham5
@@ -87482,7 +87413,7 @@
 谢湘阳#zia7 siang1 iang5
 谢晓斌#zia7 hiou2 bing1
 谢协希#zia7 hiab8 hi1
-谢湧淦#zia7 ? gam3
+谢涌淦#zia7 iong3 gam3
 谢羽淇#zia7 u2 ki5
 谢哲欢#zia7 diêg4 huêng1
 谢圳炜#zia7 zung3 ui2
@@ -87499,7 +87430,7 @@
 许思梅#kou2 se1 bhuê5
 许业扬#kou2 ngiab8 iang5
 许艺滨#kou2 ghoi7 bing1
-许湧堃#kou2 ? kung1
+许涌堃#kou2 iong3 kung1
 许梓敏#kou2 ze2 miêng2
 薛洁涵#sih4 giêg4 ham5
 薛潍乐#sih4 rui5 lag8
@@ -87649,8 +87580,6 @@
 孙佳媛#seng1 gia1 iêng5
 孙洁茹#seng1 giêg4 ru5
 孙依棋#seng1 i1 gi5
-刘瓃雯#lao5 ? bhung5
-孙爃煊#seng1 ? suang1
 孙心悦#seng1 sim1 ruêg8
 孙伊桐#seng1 i1 tong5
 陈钰圻#dang5 ghêg8 ki5
@@ -87789,7 +87718,7 @@
 郑铄潼#dên7 iag4 tong5
 蔡鑫沛#cua3 him1 pai3
 蔡家舜#cua3 gê1 sung3
-陈润杺#dang5 rung6 ?
+陈润杺#dang5 rung6 sim1
 倪晨栩#ghoi5 sing5 hu2
 郑培扬#dên7 buê5 iang5
 林奕濠#lim5 êg8 hao5
@@ -87819,7 +87748,6 @@
 孙偲鑫#seng1 se1 him1
 孙柏楷#seng1 bêh4 kai2
 郑秋骅#dên7 ciu1 hua5
-蔡铄潌#cua3 iag4 ?
 倪逸斌#ghoi5 ig8 bing1
 谢梓博#zia7 ze2 pag4
 林东壕#lim5 dang1 hao5
@@ -88051,7 +87979,7 @@
 郑城焕#dên7 sian5 huêng3
 郑桢仪#dên7 zêng1 ngin5
 郑依洁#dên7 i1 giêg4
-李珦杭#li2 ? hang5
+李珦杭#li2 hiang3 hang5
 李铱妮#li2 i1 nin5
 李芝艺#li2 ze1 ghoi7
 孙泽森#seng1 zêg8 siam1
@@ -88065,7 +87993,7 @@
 孙乐煌#seng1 lag8 huang5
 孙梓豪#seng1 ze2 hao5
 孙堉楷#seng1 iog8 kai2
-孙悦瑧#seng1 ruêg8 ?
+孙悦瑧#seng1 ruêg8 zing1
 孙文嘉#seng1 bhung5 gia1
 孙城滨#seng1 sian5 bing1
 孙柏恩#seng1 bêh4 eng1
@@ -88346,7 +88274,7 @@
 陈圣瀚#dang5 sian3 hang5
 陈书圻#dang5 ze1 ki5
 陈斯煜#dang5 se1 hiog4
-陈楒婷#dang5 ? dêng5
+陈思婷#dang5 se1 dêng5
 陈锶菊#dang5 se1 gêg4
 陈希晗#dang5 hi1 ham5
 陈浠潆#dang5 hi1 iong5
@@ -89017,7 +88945,7 @@
 薛明烨#sih4 mêng5 iab8
 郭哲奇#guêh4 diêg4 ki5
 张汶楷#diên1 bhung5 kai2
-陈铭達#dang5 mêng5 ?
+陈铭达#dang5 mêng5 dag8
 陈增泳#dang5 zêng1 iong3
 罗佳浩#lo5 gia1 hao1
 郭俊炜#guêh4 zung3 ui2
@@ -89510,7 +89438,7 @@
 滕进贤#têng5 zing3 hiêng5
 王奥#hêng5 o3
 王博艺#hêng5 pag4 ghoi7
-王恩婻#hêng5 eng1 ?
+王恩婻#hêng5 eng1 lam5
 王方顺#hêng5 huang1 sung6
 王宏#hêng5 hong5
 王佳儿#hêng5 gia1 ri5
@@ -90531,7 +90459,7 @@
 吴子铉#ghou5 ze2 hiêng5
 吴梓恩#ghou5 ze2 eng1
 吴梓婉#ghou5 ze2 uêng2
-吴梓塇#ghou5 ze2 ?
+吴梓塇#ghou5 ze2 suang1
 吴梓铱#ghou5 ze2 i1
 吴梓颖#ghou5 ze2 têng2
 吴梓媛#ghou5 ze2 iêng5
@@ -90825,7 +90753,7 @@
 何欣怡#ho5 hng1 i5
 何雅湘#ho5 ngian2 siang1
 洪梁泓#ang5 niên5 hong5
-洪晓燑#ang5 hiou2 ?
+洪晓燑#ang5 hiou2 tong5
 洪臻宇#ang5 zing1 u2
 洪梓钒#ang5 ze2 huam5
 洪梓沛#ang5 ze2 pai3
@@ -91497,7 +91425,7 @@
 颜婉涵#hian5 uêng2 ham5
 颜婉涵#ngang5 uêng2 ham5
 徐晗恩#ce5 ham5 eng1
-陈铮東#dang5 zêng1 ?
+陈铮东#dang5 zêng1 dang1
 吴嘉妍#ghou5 gia1 ngiêng2
 陈诗儿#dang5 si1 ri5
 郭绪烁#guêh4 su2 iag4
@@ -91903,7 +91831,7 @@
 陈铮帆#dang5 zêng1 pang5
 方景扬#bung1 gêng2 iang5
 方林曦#bung1 lim5 hi1
-方楒琪#bung1 ? ki5
+方思琪#bung1 se1 ki5
 洪锶仰#ang5 se1 ngiang2
 黄烨晗#ng5 iab8 ham5
 黄优柯#ng5 iu1 gua1
@@ -92086,7 +92014,7 @@
 方艺婷#bung1 ghoi7 dêng5
 方银珊#bung1 ngeng5 sang1
 方悦沁#bung1 ruêg8 cim3
-方樂彤#bung1 ? tong5
+方乐彤#bung1 lag8 tong5
 方梓漫#bung1 ze2 bhuêng6
 冯涵柔#bang5 ham5 riu5
 高琳涵#go1 lim5 ham5
@@ -92195,7 +92123,7 @@
 吴烁霖#ghou5 iag4 lim5
 吴铄润#ghou5 iag4 rung6
 吴思曼#ghou5 se1 bhuêng6
-吴楒锜#ghou5 ? ki5
+吴思锜#ghou5 se1 ki5
 吴天琦#ghou5 tiêng1 ki5
 吴希乐#ghou5 hi1 lag8
 吴欣梦#ghou5 hng1 mang7
@@ -92346,7 +92274,7 @@
 刘湃跃#lao5 pai3 iag4
 刘森跃#lao5 siam1 iag4
 刘涛菡#lao5 tiu5 ham5
-刘葙翼#lao5 ? êg8
+刘葙翼#lao5 siang1 êg8
 刘钇钒#lao5 ig4 huam5
 刘亿佳#lao5 êg8 gia1
 刘奕漩#lao5 êg8 suêng5
@@ -92434,7 +92362,7 @@
 许书泳#kou2 ze1 iong3
 许思乐#kou2 se1 lag8
 许思漫#kou2 se1 bhuêng6
-许楒烁#kou2 ? iag4
+许思烁#kou2 se1 iag4
 许婉琪#kou2 uêng2 ki5
 许妍涵#kou2 ngiêng2 ham5
 许琰桦#kou2 iam2 hua5
@@ -92868,7 +92796,7 @@
 张菡洁#diên1 ham5 giêg4
 陈丽满#dang5 li6 muan2
 孙增越#seng1 zêng1 uêg8
-林滿欣#lim5 ? hng1
+林满欣#lim5 muan2 hng1
 陈晓铭#dang5 hiou2 mêng5
 潘子煌#puan1 ze2 huang5
 廖增涵#liou7 zêng1 ham5
@@ -93197,7 +93125,7 @@
 林进华#lim5 zing3 hua5
 林满青#lim5 muan2 cên1
 黄恩仪#ng5 eng1 ngin5
-林锶湧#lim5 se1 ?
+林锶涌#lim5 se1 iong3
 陈格杭#dang5 gêh4 hang5
 林欣熠#lim5 hng1 sib8
 郑琦琪#dên7 ki5 ki5
@@ -93231,7 +93159,7 @@
 郑子铤#dên7 ze2 têng2
 许伟坚#kou2 ui2 giêng1
 郑子敏#dên7 ze2 miêng2
-林晨燨#lim5 sing5 ?
+林晨熙#lim5 sing5 hi1
 林湘铄#lim5 siang1 iag4
 林熙朝#lim5 hi1 ziou1
 林培涛#lim5 buê5 tiu5
@@ -93786,7 +93714,7 @@
 蓝侃侃#nan5 kang2 kang2
 林沈冰#lim5 sim2 bian1
 陈鑫源#dang5 him1 nguêng5
-吴湧杰#ghou5 ? giêg8
+吴涌杰#ghou5 iong3 giêg8
 洪秋雅#ang5 ciu1 ngian2
 张永林#diên1 iong2 lim5
 李梓林#li2 ze2 lim5
@@ -95291,7 +95219,7 @@
 顾灼梵#gou3 ziag4 huam6
 郑延华#dên7 iêng6 hua5
 林沛东#lim5 pai3 dang1
-陈湧鑫#dang5 ? him1
+陈涌鑫#dang5 iong3 him1
 陈冰煌#dang5 bian1 huang5
 杨毅#iên5 ngin5
 刘佩丽#lao5 buê6 li6
@@ -95625,7 +95553,6 @@
 邢俊敏#hian5 zung3 miêng2
 刘泽勋#lao5 zêg8 hng1
 庄锦燕#zeng1 gim2 in3
-苏丹埐#sou1 dang1 ?
 赖世泽#nain6 si3 zêg8
 陈键辉#dang5 giêng6 hui1
 曾晓丽#zang1 hiou2 li6
@@ -95977,7 +95904,7 @@
 魏燕纯#ghui7 in3 sung5
 庄梓婷#zeng1 ze2 dêng5
 李讷敏#li2 nab8 miêng2
-方湧成#bung1 ? sêng5
+方涌成#bung1 iong3 sêng5
 陈旭金#dang5 hiog4 gim1
 蔡镱萍#cua3 i3 piê5
 柯绮冰#gua1 i2 bian1
@@ -96035,7 +95962,7 @@
 陈斐斐#dang5 hui1 hui1
 陈润钧#dang5 rung6 geng1
 郑柏川#dên7 bêh4 cuêng1
-李晓鍁#li2 hiou2 ?
+李晓锨#li2 hiou2 hng1
 林王锐#lim5 uang5 ruê6
 王金斌#hêng5 gim1 bing1
 李旭伟#li2 hiog4 ui2
@@ -96467,7 +96394,7 @@
 许泽垲#kou2 zêg8 kai2
 庄镕菡#zeng1 iong5 ham5
 陈沛佳#dang5 pai3 gia1
-辜佳樑#gou1 gia1 ?
+辜佳梁#gou1 gia1 niên5
 洪涛#ang5 tiu5
 许纯#kou2 sung5
 谢易淳#zia7 i6 sung5
@@ -96592,7 +96519,7 @@
 陈湘如#dang5 siang1 ru5
 周淑莹#ziu1 sog4 iong5
 赖乙燕#nain6 ig4 in3
-翁博湧#êng1 pag4 ?
+翁博涌#êng1 pag4 iong3
 杨微#iên5 muin5
 沈友杰#sim2 iu2 giêg8
 舒林丹#su1 lim5 dang1
@@ -97228,7 +97155,7 @@
 郭彦英#guêh4 ngang6 êng1
 许琳澄#kou2 lim5 têng5
 陈璋铎#dang5 ziang1 dag8
-柯栢婷#gua1 ? dêng5
+柯柏婷#gua1 bêh4 dêng5
 丁锦帆#dêng1 gim2 pang5
 张佩美#diên1 buê6 muin2
 许禧#kou2 hi1
@@ -97256,7 +97183,7 @@
 苏桂锋#sou1 gui3 hong1
 陈玮杰#dang5 ui2 giêg8
 黄润漫#ng5 rung6 bhuêng6
-柯栢帆#gua1 ? pang5
+柯柏帆#gua1 bêh4 pang5
 丁锦美#dêng1 gim2 muin2
 张佩哲#diên1 buê6 diêg4
 蔡晓琦#cua3 hiou2 ki5
@@ -97316,7 +97243,7 @@
 许桂澄#kou2 gui3 têng5
 苏玮钿#sou1 ui2 tiêng5
 黄佳杰#ng5 gia1 giêg8
-黄栢漫#ng5 ? bhuêng6
+黄柏漫#ng5 bêh4 bhuêng6
 柯锦婷#gua1 gim2 dêng5
 丁俊帆#dêng1 zung3 pang5
 陈垤琳#dang5 diêg4 lim5
@@ -98428,7 +98355,7 @@
 刘橙橙#lao5 cêng5 cêng5
 蔡鹏杰#cua3 pong5 giêg8
 李铭蓉#li2 mêng5 iong5
-王湧兵#hêng5 ? bian1
+王涌兵#hêng5 iong3 bian1
 曾晓意#zang1 hiou2 i3
 杨清华#iên5 cêng1 hua5
 程茵#tian5 ing1
@@ -98658,8 +98585,7 @@
 张明哲#diên1 mêng5 diêg4
 黄陆宇#ng5 lêg8 u2
 鄞灿#ngeng5 cang3
-陈韯博#dang5 ? pag4
-郑杭鍊#dên7 hang5 ?
+郑杭炼#dên7 hang5 liêng7
 杨臻#iên5 zing1
 林格尔#lim5 gêh4 re2
 陈淑婉#dang5 sog4 uêng2
@@ -98693,7 +98619,6 @@
 林衔宇#lim5 ham5 u2
 方垠#bung1 ngeng5
 苏梓潼#sou1 ze2 tong5
-王樀炽#hêng5 ? zig4
 陈泳玲#dang5 iong3 lêng5
 林健生#lim5 giêng6 sêng1
 沈志明#sim2 zi3 mêng5
@@ -98818,7 +98743,6 @@
 曾楚琴#zang1 co2 kim5
 朱佳苑#zu1 gia1 uêng2
 苏剑鑫#sou1 giam3 him1
-林依熉#lim5 i1 ?
 孙嘉煊#seng1 gia1 suang1
 李钰榕#li2 ghêg8 iong5
 黄佳芸#ng5 gia1 ung5
@@ -99217,7 +99141,7 @@
 杨泳#iên5 iong3
 沈钰#sim2 ghêg8
 尤皓#iu5 hao1
-曾晓藝#zang1 hiou2 ?
+曾晓艺#zang1 hiou2 ghoi7
 吴芋怡#ghou5 ou7 i5
 邱嘉鑫#ku1 gia1 him1
 孙子淦#seng1 ze2 gam3
@@ -99289,7 +99213,7 @@
 薛可昕#sih4 ko2 hng1
 郑梓莹#dên7 ze2 iong5
 陈诗羽#dang5 si1 u2
-洪湧杰#ang5 ? giêg8
+洪涌杰#ang5 iong3 giêg8
 倪梓鑫#ghoi5 ze2 him1
 陈艺哲#dang5 ghoi7 diêg4
 陈沁瑶#dang5 cim3 iou5
@@ -99322,7 +99246,6 @@
 曾丹璇#zang1 dang1 suêng5
 李银瑶#li2 ngeng5 iou5
 陈嘉铎#dang5 gia1 dag8
-林堾如#lim5 ? ru5
 许黛莹#kou2 dai3 iong5
 苏振杭#sou1 zing2 hang5
 廖格轩#liou7 gêh4 hng1
@@ -99503,7 +99426,7 @@
 陈育儿#dang5 iog8 ri5
 陈思祈#dang5 se1 ki5
 许东琳#kou2 dang1 lim5
-谢邱墰#zia7 ku1 ?
+谢邱坛#zia7 ku1 duan5
 陈柏欢#dang5 bêh4 huêng1
 苏铭芝#sou1 mêng5 ze1
 刘洽宁#lao5 ziab8 lêng5
@@ -99647,7 +99570,7 @@
 陈烁彤#dang5 iag4 tong5
 李锦亮#li2 gim2 liang6
 曾冰芸#zang1 bian1 ung5
-刘国樑#lao5 gog4 ?
+刘国梁#lao5 gog4 niên5
 许镁佳#kou2 muin2 gia1
 柯淑娟#gua1 sog4 giêng1
 郑梦杨#dên7 mang7 iang5
@@ -99799,7 +99722,6 @@
 房桐槿#bang5 tong5 geng2
 纪俨倩#gi2 ngiam2 ceng3
 王涵艺#hêng5 ham5 ghoi7
-王雫#hêng5 ?
 李曙冰#li2 su2 bian1
 张淳然#diên1 sung5 riêng5
 花晨椿#huê1 sing5 cung1
@@ -99930,7 +99852,7 @@
 许梓芬#kou2 ze2 hung1
 蔡梦露#cua3 mang7 lou7
 苏楷芸#sou1 kai2 ung5
-卢煖兒#lou5 luêng2 ?
+卢煖儿#lou5 luêng2 ri5
 曾斯洁#zang1 se1 giêg4
 贺宇轩#ho7 u2 hng1
 郑金彤#dên7 gim1 tong5
@@ -100564,7 +100486,7 @@
 曾依涵#zang1 i1 ham5
 李美婷#li2 muin2 dêng5
 庄茜楠#zeng1 cêng3 lam5
-郭丹雲#guêh4 dang1 ?
+郭丹云#guêh4 dang1 hung5
 宋洢敏#song3 i1 miêng2
 王曼瀚#hêng5 bhuêng6 hang5
 吴悦菲#ghou5 ruêg8 hui1
@@ -100648,10 +100570,10 @@
 胡家欣#ou5 gê1 hng1
 陈诗敏#dang5 si1 miêng2
 彭艺涵#pên5 ghoi7 ham5
-廖瑩瑩#liou7 ? ?
+廖莹莹#liou7 iong5 iong5
 严泽纯#ngiam5 zêg8 sung5
 辛忆琪#sing1 i3 ki5
-黄憶如#ng5 ? ru5
+黄忆如#ng5 i3 ru5
 李鑫琪#li2 him1 ki5
 蔡若涵#cua3 riag8 ham5
 黄慧#ng5 hui6
@@ -101098,7 +101020,6 @@
 丁佳榆#dêng1 gia1 ru5
 谢洽#zia7 ziab8
 卢奕瀚#lou5 êg8 hang5
-丁堁#dêng1 ?
 陈彦芯#dang5 ngang6 sim1
 丁新泽#dêng1 sing1 zêg8
 欧涵彬#ao1 ham5 bing1
@@ -101125,7 +101046,6 @@
 谢佳锴#zia7 gia1 kai2
 陈润泽#dang5 rung6 zêg8
 邱伯茜#ku1 bêh4 cêng3
-胡琩瑜#ou5 ? ru5
 王泽宸#hêng5 zêg8 sing5
 陆梓钰#lêg8 ze2 ghêg8
 陆梓钰#log8 ze2 ghêg8
@@ -101214,7 +101134,6 @@
 陈孜越#dang5 ze1 uêg8
 卢思圳#lou5 se1 zung3
 高琴#go1 kim5
-蔡栚跃#cua3 ? iag4
 吴若曦#ghou5 riag8 hi1
 余湘仪#e5 siang1 ngin5
 丁卫豪#dêng1 uê6 hao5
@@ -101243,7 +101162,6 @@
 成真#sêng5 zing1
 胡博锶#ou5 pag4 se1
 雷泳骏#lui5 iong3 zung3
-何翊菎#ho5 êg8 ?
 林嘉钰#lim5 gia1 ghêg8
 黄昭煌#ng5 ziou1 huang5
 吴健扬#ghou5 giêng6 iang5
@@ -101386,7 +101304,7 @@
 苏伊琳#sou1 i1 lim5
 余思凡#e5 se1 huam5
 黄思钿#ng5 se1 tiêng5
-黄佳瑨#ng5 gia1 ?
+黄佳晋#ng5 gia1 zing3
 王柱博#hêng5 tiou6 pag4
 章涵圻#ziên1 ham5 ki5
 章涵圻#ziang1 ham5 ki5
@@ -101394,7 +101312,6 @@
 李修戈#li2 siu1 ko1
 吴小钰#ghou5 siou2 ghêg8
 蔡傑霖#cua3 giêg8 lim5
-吴钎烰#ghou5 ciêng1 ?
 薛嘉霖#sih4 gia1 lim5
 黄健东#ng5 giêng6 dang1
 李小艺#li2 siou2 ghoi7
@@ -101609,7 +101526,7 @@
 蔡渲#cua3 suang1
 严晓潼#ngiam5 hiou2 tong5
 杜卓轩#dou6 doh4 hng1
-张博翹#diên1 pag4 ?
+张博翘#diên1 pag4 kiou5
 蔡芝楠#cua3 ze1 lam5
 林铭洽#lim5 mêng5 ziab8
 庄茗淇#zeng1 mêng5 ki5
@@ -101638,7 +101555,7 @@
 吴学圻#ghou5 hag8 ki5
 蔡瑾雯#cua3 geng2 bhung5
 陈思偲#dang5 se1 se1
-林琋#lim5 ?
+林琋#lim5 hi1
 林沐轩#lim5 mog8 hng1
 蔡文炫#cua3 bhung5 hiêng5
 谢馥冰#zia7 hiog4 bian1
@@ -102393,7 +102310,6 @@
 曾煜钦#zang1 hiog4 kim1
 易慧瑄#êg8 hui6 suang1
 丁梓瀚#dêng1 ze2 hang5
-陈垶晴#dang5 ? zên5
 黄铮博#ng5 zêng1 pag4
 陈佳明#dang5 gia1 mêng5
 刘梓湘#lao5 ze2 siang1
@@ -102733,7 +102649,7 @@
 丁浩杰#dêng1 hao1 giêg8
 陈霆勋#dang5 têng5 hng1
 曾若璇#zang1 riag8 suêng5
-蔡楒涵#cua3 ? ham5
+蔡思涵#cua3 se1 ham5
 许芷彤#kou2 zi2 tong5
 廖芷琳#liou7 zi2 lim5
 翁艺阳#êng1 ghoi7 iang5
@@ -102788,7 +102704,7 @@
 黄宁轩#ng5 lêng5 hng1
 黄暖婷#ng5 luêng2 dêng5
 黄思淋#ng5 se1 lim5
-黄琸涵#ng5 ? ham5
+黄琸涵#ng5 dog4 ham5
 柯艾琳#gua1 ain3 lim5
 柯文洁#gua1 bhung5 giêg4
 柯芯晴#gua1 sim1 zên5
@@ -102878,7 +102794,7 @@
 陈静冕#dang5 zên6 miêng2
 陈俊翔#dang5 zung3 siang5
 陈岢昕#dang5 ko2 hng1
-陈锳淇#dang5 ? ki5
+陈瑛淇#dang5 êng1 ki5
 陈沛泓#dang5 pai3 hong5
 陈峤潼#dang5 kiou5 tong5
 陈钦熙#dang5 kim1 hi1
@@ -102979,7 +102895,7 @@
 李沛翰#li2 pai3 hang5
 李沁容#li2 cim3 iong5
 李铨洽#li2 cuêng5 ziab8
-李楒楒#li2 ? ?
+李思思#li2 se1 se1
 李锶泳#li2 se1 iong3
 李穗宁#li2 sui7 lêng5
 李湘桥#li2 siang1 giê5
@@ -103337,7 +103253,7 @@
 苏钶#sou1 ko1
 李金泓#li2 gim1 hong5
 李淮#li2 huai5
-杨添樂#iên5 tiam1 ?
+杨添乐#iên5 tiam1 lag8
 张俊煜#diên1 zung3 hiog4
 陈李灼#dang5 li2 ziag4
 陈依俏#dang5 i1 ciou2
@@ -103601,10 +103517,10 @@
 沈烁堞#sim2 iag4 diab8
 陈锃#dang5 zêng3
 舒晓銮#su1 hiou2 luêng5
-陈舒嬋#dang5 su1 ?
+陈舒婵#dang5 su1 siam5
 蔡林满#cua3 lim5 muan2
 曾超#zang1 tiou3
-陈栢軒#dang5 ? ?
+陈柏轩#dang5 bêh4 hng1
 陈熙航#dang5 hi1 hang5
 陈小丛#dang5 siou2 zang5
 陈伊蓝#dang5 i1 lam5
@@ -104212,7 +104128,6 @@
 陈璟畅#dang5 gêng2 tiang3
 陈启山#dang5 ki2 suan1
 陈秋伶#dang5 ciu1 lêng5
-陈思楪#dang5 se1 ?
 陈勋伦#dang5 hng1 lung5
 陈一键#dang5 ig4 giêng6
 陈以思#dang5 in2 se1
@@ -104568,9 +104483,9 @@
 郑伊泛#dên7 i1 huam3
 朱雅漪#zu1 ngian2 i1
 庄晓贝#zeng1 hiou2 buê6
-叶燨#iab8 ?
-叶燨#hiab8 ?
-张嘉煕#diên1 gia1 ?
+叶熙#iab8 hi1
+叶熙#hiab8 hi1
+张嘉熙#diên1 gia1 hi1
 赖婉铌#nain6 uêng2 nin5
 蔡梓妮#cua3 ze2 nin5
 曾钰媛#zang1 ghêg8 iêng5
@@ -105434,7 +105349,6 @@
 沈锐乐#sim2 ruê6 lag8
 谢梦祺#zia7 mang7 ki5
 王坚栩#hêng5 giêng1 hu2
-陈韺佳#dang5 ? gia1
 吴昊曈#ghou5 hao1 tong5
 苏宇川#sou1 u2 cuêng1
 许倪瑜#kou2 ngin5 ru5
@@ -105562,7 +105476,7 @@
 朱熠辉#zu1 sib8 hui1
 赵彦宇#diên6 ngang6 u2
 张溢潼#diên1 êg8 tong5
-宋泱樺#song3 iang1 ?
+宋泱桦#song3 iang1 hua5
 黄璟泓#ng5 gêng2 hong5
 赵沁楠#diên6 cim3 lam5
 陈浴铭#dang5 êg8 mêng5
@@ -107285,7 +107199,6 @@
 黄漫斯#ng5 bhuêng6 se1
 许博阳#kou2 pag4 iang5
 严紫炜#ngiam5 zi2 ui2
-苏梓熍#sou1 ze2 ?
 袁心仪#uêng5 sim1 ngin5
 翁海山#êng1 hai2 suan1
 郑煜沛#dên7 hiog4 pai3
@@ -107990,7 +107903,6 @@
 蔡俊逸#cua3 zung3 ig8
 刘樱珩#lao5 êng1 hang5
 陈昭樾#dang5 ziou1 uêg8
-郑婋祺#dên7 ? ki5
 郑奕阳#dên7 êg8 iang5
 王振#hêng5 zing2
 黄肖铠#ng5 siou1 kai2
@@ -108639,7 +108551,7 @@
 陈凌峰#dang5 lêng5 hong1
 谢洽榕#zia7 ziab8 iong5
 邢凯翔#hian5 kai2 siang5
-辜湧楠#gou1 ? lam5
+辜涌楠#gou1 iong3 lam5
 赵熳琪#diên6 bhuêng6 ki5
 李洽帆#li2 ziab8 pang5
 刘敏涵#lao5 miêng2 ham5
@@ -108773,7 +108685,7 @@
 杨德勇#iên5 dêg4 iong2
 林璟勋#lim5 gêng2 hng1
 吴淮泰#ghou5 huai5 tai3
-黄湧#ng5 ?
+黄涌#ng5 iong3
 朱思敏#zu1 se1 miêng2
 吴钊楷#ghou5 ziou1 kai2
 庄凯涵#zeng1 kai2 ham5
@@ -109121,7 +109033,6 @@
 陈钤霞#dang5 kiam5 hia5
 卢杨涵#lou5 iang5 ham5
 许志坚#kou2 zi3 giêng1
-黄昱銂#ng5 hiog4 ?
 唐斯杭#deng5 se1 hang5
 朱伟杭#zu1 ui2 hang5
 黄晓涵#ng5 hiou2 ham5
@@ -109435,7 +109346,7 @@
 卢凡雅#lou5 huam5 ngian2
 许哲杉#kou2 diêg4 sam1
 刘曼桦#lao5 bhuêng6 hua5
-施潓颖#si1 ? têng2
+施潓颖#si1 hui6 têng2
 许思惠#kou2 se1 hui6
 庄俊锦#zeng1 zung3 gim2
 徐嘉儿#ce5 gia1 ri5
@@ -109542,7 +109453,7 @@
 邢佳淳#hian5 gia1 sung5
 佘轩婷#sia5 hng1 dêng5
 蔡键勋#cua3 giêng6 hng1
-卢格兒#lou5 gêh4 ?
+卢格儿#lou5 gêh4 ri5
 郭卫涵#guêh4 uê6 ham5
 吴铮楷#ghou5 zêng1 kai2
 许湘淇#kou2 siang1 ki5
@@ -110766,7 +110677,7 @@
 黄铱漫#ng5 i1 bhuêng6
 苏琳烁#sou1 lim5 iag4
 陈雨洁#dang5 u2* giêg4
-陈佳儀#dang5 gia1 ?
+陈佳仪#dang5 gia1 ngin5
 方雪瑜#bung1 soh4 ru5
 陈加恩#dang5 gia1 eng1
 辜艺洵#gou1 ghoi7 sung5
@@ -110778,7 +110689,7 @@
 张岱轩#diên1 dai3 hng1
 苏凯冰#sou1 kai2 bian1
 张佳芸#diên1 gia1 ung5
-陈楒璜#dang5 ? huang5
+陈思璜#dang5 se1 huang5
 黄樱仪#ng5 êng1 ngin5
 刘键宇#lao5 giêng6 u2
 刘晓瀚#lao5 hiou2 hang5
@@ -111002,7 +110913,7 @@
 林跃瀚#lim5 iag4 hang5
 柯慧琴#gua1 hui6 kim5
 吴林烨#ghou5 lim5 iab8
-李湧新#li2 ? sing1
+李涌新#li2 iong3 sing1
 吴烁然#ghou5 iag4 riêng5
 洪梓源#ang5 ze2 nguêng5
 邱梅漩#ku1 bhuê5 suêng5
@@ -111125,7 +111036,7 @@
 曾楠滨#zang1 lam5 bing1
 许润鑫#kou2 rung6 him1
 朱晓佳#zu1 hiou2 gia1
-许锦湧#kou2 gim2 ?
+许锦涌#kou2 gim2 iong3
 方冰钿#bung1 bian1 tiêng5
 范鲲涛#huam6 kung1 tiu5
 潘阳彬#puan1 iang5 bing1
@@ -111257,7 +111168,6 @@
 谢韩煜#zia7 hang5 hiog4
 李海彤#li2 hai2 tong5
 张镘宜#diên1 bhuêng6 ngin5
-黄皛#ng5 ?
 李逸洁#li2 ig8 giêg4
 许希然#kou2 hi1 riêng5
 罗艺坤#lo5 ghoi7 kung1
@@ -111320,7 +111230,6 @@
 刘雯静#lao5 bhung5 zên6
 谭书姿#tam5 ze1 ze1
 许逸佳#kou2 ig8 gia1
-陈楒嫝#dang5 ? ?
 李思淼#li2 se1 mioun2
 肖雍康#siou1 iong1 kang1
 许佳雯#kou2 gia1 bhung5
@@ -111337,7 +111246,7 @@
 肖雅恩#siou1 ngian2 eng1
 李岱涵#li2 dai3 ham5
 李佳佳#li2 gia1 gia1
-吴楒岑#ghou5 ? ngim5
+吴思岑#ghou5 se1 ngim5
 李长烁#li2 ciang5 iag4
 李耀堂#li2 iou6 deng5
 黄明慈#ng5 mêng5 ce5
@@ -111557,7 +111466,7 @@
 蔡锐哲#cua3 ruê6 diêg4
 刘霖霖#lao5 lim5 lim5
 翁梓雄#êng1 ze2 hiong5
-林楒琪#lim5 ? ki5
+林思琪#lim5 se1 ki5
 刘培锦#lao5 buê5 gim2
 李银丹#li2 ngeng5 dang1
 刘煜年#lao5 hiog4 nin5
@@ -111715,7 +111624,6 @@
 邱炜泓#ku1 ui2 hong5
 陈广楠#dang5 guang2 lam5
 李翌丞#li2 êg8 sêng5
-舒润鮆#su1 rung6 ?
 郑秋金#dên7 ciu1 gim1
 徐远铭#ce5 iêng2 mêng5
 邱佳友#ku1 gia1 iu2
@@ -111876,7 +111784,7 @@
 余乐游#e5 lag8 iu5
 李雨芯#li2 u2* sim1
 廖陆丰#liou7 lêg8 hong1
-李湙熙#li2 ? hi1
+李湙熙#li2 êg8 hi1
 方雅淇#bung1 ngian2 ki5
 黄子皓#ng5 ze2 hao1
 苏恺博#sou1 kai2 pag4
@@ -111940,7 +111848,6 @@
 冯键鸿#bang5 giêng6 hong5
 柯语凡#gua1 ghe2 huam5
 蔡彦琳#cua3 ngang6 lim5
-黄槻仪#ng5 ? ngin5
 李宇鲲#li2 u2 kung1
 谢映川#zia7 iang3 cuêng1
 邢金城#hian5 gim1 sian5
@@ -112030,8 +111937,8 @@
 蔡湘豪#cua3 siang1 hao5
 邱武#ku1 bhu2
 黄健栋#ng5 giêng6 dong3
-黃沛勇#? pai3 iong2
-黃梓楠#? ze2 lam5
+黄沛勇#ng5 pai3 iong2
+黄梓楠#ng5 ze2 lam5
 林尚铭#lim5 siang6 mêng5
 苏靖博#sou1 zêng6 pag4
 邱德湘#ku1 dêg4 siang1
@@ -112045,29 +111952,28 @@
 肖梓阳#siou1 ze2 iang5
 林铎瀚#lim5 dag8 hang5
 苏宇煌#sou1 u2 huang5
-黃润鑫#? rung6 him1
+黄润鑫#ng5 rung6 him1
 朱楷锐#zu1 kai2 ruê6
 李镟跃#li2 suêng5 iag4
 陈梓敬#dang5 ze2 gêng3
-黃铭杰#? mêng5 giêg8
+黄铭杰#ng5 mêng5 giêg8
 翁楷翰#êng1 kai2 hang5
 吴旭鹏#ghou5 hiog4 pong5
 蔡桂瀚#cua3 gui3 hang5
-蔡玮瑧#cua3 ui2 ?
+蔡玮瑧#cua3 ui2 zing1
 陈海兵#dang5 hai2 bian1
-林梈#lim5 ?
-黃一帆#? ig4 pang5
+黄一帆#ng5 ig4 pang5
 张俊源#diên1 zung3 nguêng5
 张洽栩#diên1 ziab8 hu2
 张钧彦#diên1 geng1 ngang6
 陈捷浩#dang5 ziab8 hao1
 庄梓鑫#zeng1 ze2 him1
 李烨权#li2 iab8 kuêng5
-黃子达#? ze2 dag8
+黄子达#ng5 ze2 dag8
 蔡湘楠#cua3 siang1 lam5
 蔡汶鑫#cua3 bhung5 him1
 邱锶凯#ku1 se1 kai2
-黃铠霖#? kai2 lim5
+黄铠霖#ng5 kai2 lim5
 邱佳凯#ku1 gia1 kai2
 王堂铎#hêng5 deng5 dag8
 陈根贤#dang5 geng1 hiêng5
@@ -112113,7 +112019,7 @@
 唐广兵#deng5 guang2 bian1
 张家辉#diên1 gê1 hui1
 陈劲裕#dang5 gên3 ru6
-童鎰#tong5 ?
+童镒#tong5 êg8
 苏锦涵#sou1 gim2 ham5
 翁烨烔#êng1 iab8 tong5
 许钊林#kou2 ziou1 lim5
@@ -112132,7 +112038,7 @@
 刘亿帆#lao5 êg8 pang5
 刘志钟#lao5 zi3 zêng1
 江畅彤#gang1 tiang3 tong5
-余柔潔#e5 riu5 ?
+余柔洁#e5 riu5 giêg4
 林泽湘#lim5 zêg8 siang1
 黄育莹#ng5 iog8 iong5
 刘琳珊#lao5 lim5 sang1
@@ -112886,7 +112792,7 @@
 谢望颖#zia7 mon7 têng2
 詹益翔#ziam1 iah4 siang5
 黄煜彬#ng5 hiog4 bing1
-王銥蓉#hêng5 ? iong5
+王铱蓉#hêng5 i1 iong5
 杨梓镛#iên5 ze2 iong5
 黄思澎#ng5 se1 pên5
 林纹慧#lim5 bhung5 hui6
@@ -113286,7 +113192,7 @@
 丁格致#dêng1 gêh4 di3
 赖建林#nain6 giêng6 lim5
 阮健淳#nguêng2 giêng6 sung5
-蔡栢杭#cua3 ? hang5
+蔡柏杭#cua3 bêh4 hang5
 刘高泳#lao5 gao1 iong3
 丁敏烨#dêng1 miêng2 iab8
 丁崇楷#dêng1 cong5 kai2
@@ -113304,7 +113210,7 @@
 沈友泰#sim2 iu2 tai3
 翁伟群#êng1 ui2 kung5
 谢博涛#zia7 pag4 tiu5
-谢获鉞#zia7 uag8 ?
+谢获钺#zia7 uag8 uêg8
 谢锡锋#zia7 siah4 hong1
 谢映翰#zia7 iang3 hang5
 徐伟航#ce5 ui2 hang5
@@ -113919,7 +113825,7 @@
 余妙烔#e5 mioun6 tong5
 岳晓敏#ngag8 hiou2 miêng2
 佘泽楷#sia5 zêg8 kai2
-郭艺樹#guêh4 ghoi7 ?
+郭艺树#guêh4 ghoi7 su6
 吴灵意#ghou5 lêng5 i3
 许书嘉#kou2 ze1 gia1
 冯雅欣#bang5 ngian2 hng1
@@ -114215,7 +114121,7 @@
 刘映兰#lao5 iang3 lang5
 蔡涛#cua3 tiu5
 刘丽银#lao5 li6 ngeng5
-丁時楠#dêng1 ? lam5
+丁时楠#dêng1 si5 lam5
 刘沈烁#lao5 sim2 iag4
 丁烁塬#dêng1 iag4 nguêng5
 丁欣琪#dêng1 hng1 ki5
@@ -114734,7 +114640,7 @@
 黄渔悦#ng5 he5 ruêg8
 邱灵哲#ku1 lêng5 diêg4
 吴海宁#ghou5 hai2 lêng5
-庄思瑩#zeng1 se1 ?
+庄思莹#zeng1 se1 iong5
 吴烁昊#ghou5 iag4 hao1
 周希#ziu1 hi1
 刘樾#lao5 uêg8
@@ -115219,15 +115125,15 @@
 沈梓壅#sim2 ze2 iong2
 陈惠泽#dang5 hui6 zêg8
 刘淮津#lao5 huai5 zing1
-单晟#duan1 sêng6
-吴惜鈺#ghou5 siêh4 ?
+单晟#siêng6 sêng6
+吴惜钰#ghou5 siêh4 ghêg8
 黄润哲#ng5 rung6 diêg4
 苏楠烨#sou1 lam5 iab8
 刘依苗#lao5 i1 mioun5
 陈初烁#dang5 co1 iag4
 廖逸钿#liou7 ig8 tiêng5
 韦亮涵#ui5 liang6 ham5
-黄崧凯#ng5 ? kai2
+黄嵩凯#ng5 song1 kai2
 苏培齐#sou1 buê5 ci5
 林子智#lim5 ze2 di3
 孙依翎#seng1 i1 lêng5
@@ -115517,7 +115423,7 @@
 陈培楷#dang5 buê5 kai2
 吕跃琪#le6 iag4 ki5
 陈念慈#dang5 liam6 ce5
-苏文鈊#sou1 bhung5 ?
+苏文心#sou1 bhung5 sim1
 李广#li2 guang2
 谢尚霖#zia7 siang6 lim5
 翁舜钿#êng1 sung3 tiêng5
@@ -115546,7 +115452,6 @@
 丁悦榕#dêng1 ruêg8 iong5
 黄键鸿#ng5 giêng6 hong5
 吴锴能#ghou5 kai2 lêng5
-陈錤#dang5 ?
 李子澜#li2 ze2 lang5
 刘晓霖#lao5 hiou2 lim5
 丁庞#dêng1 pang5
@@ -115702,7 +115607,7 @@
 胡思佳#ou5 se1 gia1
 李锨跃#li2 hng1 iag4
 卢奕琦#lou5 êg8 ki5
-洪锳子#ang5 ? ze2
+洪瑛子#ang5 êng1 ze2
 廖晓燕#liou7 hiou2 in3
 沈思泓#sim2 se1 hong5
 徐铭烁#ce5 mêng5 iag4
@@ -116418,7 +116323,6 @@
 陈炫镕#dang5 hiêng5 iong5
 陈雅婕#dang5 ngian2 ziab8
 陈艺熳#dang5 ghoi7 bhuêng6
-陈檍媚#dang5 ? min6
 陈樱姿#dang5 êng1 ze1
 陈钰漫#dang5 ghêg8 bhuêng6
 成沐珂#sêng5 mog8 ko1
@@ -117071,14 +116975,14 @@
 郭锐涛#guêh4 ruê6 tiu5
 郑博绅#dên7 pag4 sing1
 林祺云#lim5 ki5 hung5
-陈栢颂#dang5 ? song6
+陈柏颂#dang5 bêh4 song6
 黄鹏钊#ng5 pong5 ziou1
 林冬钿#lim5 dang1 tiêng5
 陈楚漫#dang5 co2 bhuêng6
 梁芷彤#niên5 zi2 tong5
 朱梓华#zu1 ze2 hua5
 卢思帆#lou5 se1 pang5
-苏思瑩#sou1 se1 ?
+苏思莹#sou1 se1 iong5
 王淮博#hêng5 huai5 pag4
 柯晓嫚#gua1 hiou2 bhuêng6
 张炜宸#diên1 ui2 sing5
@@ -117231,7 +117135,7 @@
 卢锌仰#lou5 sing1 ngiang2
 姚伊沛#iê5 i1 pai3
 邓妍#dêng6 ngiêng2
-杨子億#iên5 ze2 ?
+杨子亿#iên5 ze2 êg8
 陈沛权#dang5 pai3 kuêng5
 蔡婷茹#cua3 dêng5 ru5
 叶文娜#iab8 bhung5 non5
@@ -117419,7 +117323,7 @@
 谢烁林#zia7 iag4 lim5
 苏梓炫#sou1 ze2 hiêng5
 王婉蓉#hêng5 uêng2 iong5
-余婉瑩#e5 uêng2 ?
+余婉莹#e5 uêng2 iong5
 张小扬#diên1 siou2 iang5
 游玮轩#iu5 ui2 hng1
 翁仁慧#êng1 ring5 hui6
@@ -117728,7 +117632,7 @@
 黄思菡#ng5 se1 ham5
 方涵榕#bung1 ham5 iong5
 张森咏#diên1 siam1 iong3
-刘暻涵#lao5 ? ham5
+刘暻涵#lao5 gêng2 ham5
 蓝思淇#nan5 se1 ki5
 沈银浩#sim2 ngeng5 hao1
 陈韵蕊#dang5 ung7 lui2
@@ -118179,7 +118083,6 @@
 张珏菡#diên1 gag4 ham5
 翁雍竣#êng1 iong1 zung3
 谢梓峰#zia7 ze2 hong1
-庄沛葴#zeng1 pai3 ?
 庄沛逸#zeng1 pai3 ig8
 张榆昊#diên1 ru5 hao1
 刘童兮#lao5 tong5 hi1
@@ -118695,7 +118598,6 @@
 李恒樾#li2 hêng5 uêg8
 江美霖#gang1 muin2 lim5
 郑亿挺#dên7 êg8 têng2
-陈宝莔#dang5 bo2 ?
 陈贝芯#dang5 buê6 sim1
 文培杰#bhung5 buê5 giêg8
 周昕宇#ziu1 hng1 u2
@@ -118924,7 +118826,7 @@
 蔡骏熙#cua3 zung3 hi1
 章亿琦#ziên1 êg8 ki5
 章亿琦#ziang1 êg8 ki5
-许楒漫#kou2 ? bhuêng6
+许思漫#kou2 se1 bhuêng6
 章嘉轩#ziên1 gia1 hng1
 章嘉轩#ziang1 gia1 hng1
 黄子力#ng5 ze2 lag8
@@ -118969,7 +118871,6 @@
 陈恬楠#dang5 tiam5 lam5
 杨子樾#iên5 ze2 uêg8
 詹智廷#ziam1 di3 têng5
-涂姝妶#tu5 su5 ?
 吴梦琦#ghou5 mang7 ki5
 蔡宥栩#cua3 iu6 hu2
 洪桂熙#ang5 gui3 hi1
@@ -119040,7 +118941,7 @@
 陈黄炜#dang5 ng5 ui2
 章梦萱#ziên1 mang7 suang1
 章梦萱#ziang1 mang7 suang1
-谢楒远#zia7 ? iêng2
+谢思远#zia7 se1 iêng2
 欧师如#ao1 se1 ru5
 陈奕滨#dang5 êg8 bing1
 林祎博#lim5 i1 pag4
@@ -119071,8 +118972,8 @@
 陈沐淇#dang5 mog8 ki5
 谢楷毅#zia7 kai2 ngin5
 蔡沛霆#cua3 pai3 têng5
-蔡晙宇#cua3 ? u2
-蔡晙童#cua3 ? tong5
+蔡晙宇#cua3 zung3 u2
+蔡晙童#cua3 zung3 tong5
 张栩涵#diên1 hu2 ham5
 许博烨#kou2 pag4 iab8
 谢泰祺#zia7 tai3 ki5
@@ -119087,7 +118988,7 @@
 刘垠杓#lao5 ngeng5 ziag4
 周梦希#ziu1 mang7 hi1
 王曼坻#hêng5 bhuêng6 di2
-张湇彤#diên1 ? tong5
+张湇彤#diên1 cib4 tong5
 刘俊桐#lao5 zung3 tong5
 邱婉茹#ku1 uêng2 ru5
 蔡维睦#cua3 rui5 mog8
@@ -119620,7 +119521,7 @@
 陆霄贝#log8 siou1 buê6
 廖健凯#liou7 giêng6 kai2
 周芝沐#ziu1 ze1 mog8
-陈楒桐#dang5 ? tong5
+陈思桐#dang5 se1 tong5
 杨若淇#iên5 riag8 ki5
 张子荣#diên1 ze2 iong5
 许元泰#kou2 nguêng5 tai3
@@ -119650,7 +119551,7 @@
 郑云程#dên7 hung5 tian5
 陈齐越#dang5 ci5 uêg8
 柯彦泽#gua1 ngang6 zêg8
-林楒煊#lim5 ? suang1
+林思煊#lim5 se1 suang1
 章梓渲#ziên1 ze2 suang1
 章梓渲#ziang1 ze2 suang1
 廖钰婷#liou7 ghêg8 dêng5
@@ -120004,7 +119905,7 @@
 陆筱溢#lêg8 siou2 êg8
 陆筱溢#log8 siou2 êg8
 马志桓#bhê2 zi3 huêng5
-黄湇杭#ng5 ? hang5
+黄湇杭#ng5 cib4 hang5
 刘子圻#lao5 ze2 ki5
 李琳雅#li2 lim5 ngian2
 谢汶楷#zia7 bhung5 kai2
@@ -120180,7 +120081,7 @@
 冯洛珂#bang5 log8 ko1
 谢静函#zia7 zên6 ham5
 方伊潼#bung1 i1 tong5
-卓場曼#doh4 ? bhuêng6
+卓场曼#doh4 diên5 bhuêng6
 卢曼婷#lou5 bhuêng6 dêng5
 周穆纯#ziu1 mog8 sung5
 黄铭杭#ng5 mêng5 hang5
@@ -120347,7 +120248,7 @@
 刘宇涵#lao5 u2 ham5
 黄梓承#ng5 ze2 sêng5
 陈艺旸#dang5 ghoi7 iang5
-吴楒逸#ghou5 ? ig8
+吴思逸#ghou5 se1 ig8
 成启骏#sêng5 ki2 zung3
 吴崇烨#ghou5 cong5 iab8
 陈沐驰#dang5 mog8 ci5
@@ -120380,7 +120281,7 @@
 詹树芸#ziam1 su6 ung5
 陈玥帆#dang5 ghuêh8 pang5
 陈允#dang5 rung2
-陈楒垲#dang5 ? kai2
+陈思垲#dang5 se1 kai2
 陈允淏#dang5 rung2 hao1
 谢语轩#zia7 ghe2 hng1
 曾若初#zang1 riag8 co1
@@ -120519,7 +120420,7 @@
 陈博业#dang5 pag4 ngiab8
 温子丰#ung1 ze2 hong1
 苏烁雯#sou1 iag4 bhung5
-孙楒妍#seng1 ? ngiêng2
+孙思妍#seng1 se1 ngiêng2
 丁林涵#dêng1 lim5 ham5
 苏轩宇#sou1 hng1 u2
 刘之琳#lao5 ze1 lim5
@@ -120733,7 +120634,7 @@
 林昕悦#lim5 hng1 ruêg8
 魏昕熠#ghui7 hng1 sib8
 陈采颐#dang5 cai2 hi1
-苏小錡#sou1 siou2 ?
+苏小锜#sou1 siou2 ki5
 丁希恬#dêng1 hi1 tiam5
 蔡凌越#cua3 lêng5 uêg8
 刘毓琳#lao5 hiog4 lim5
@@ -120755,7 +120656,7 @@
 陆语含#log8 ghe2 ham5
 黄艺烜#ng5 ghoi7 hiêng2
 林儒满#lim5 ru5 muan2
-李楒琪#li2 ? ki5
+李思琪#li2 se1 ki5
 谢怡填#zia7 i5 tiêng5
 陈宏越#dang5 hong5 uêg8
 吴沐恬#ghou5 mog8 tiam5
@@ -121064,7 +120965,7 @@
 赵科羽#diên6 kuê1 u2
 吴亦可#ghou5 êg8 ko2
 姚赞淼#iê5 zang3 mioun2
-邱楒桐#ku1 ? tong5
+邱思桐#ku1 se1 tong5
 蔡灿熙#cua3 cang3 hi1
 陈亦易#dang5 êg8 i6
 邱平峻#ku1 pêng5 zung3
@@ -121100,7 +121001,7 @@
 文均驰#bhung5 geng1 ci5
 金曈炘#gim1 tong5 hng1
 郑楠瀚#dên7 lam5 hang5
-陈楒淇#dang5 ? ki5
+陈思淇#dang5 se1 ki5
 柯恩霓#gua1 eng1 ngin5
 何梦洁#ho5 mang7 giêg4
 蔡沅淇#cua3 nguêng5 ki5
@@ -121231,7 +121132,7 @@
 廖尹铒#liou7 ng2 re2
 丁柏康#dêng1 bêh4 kang1
 丁淋纯#dêng1 lim5 sung5
-赵雨杺#diên6 u2* ?
+赵雨杺#diên6 u2* sim1
 蔡友川#cua3 iu2 cuêng1
 陈新跃#dang5 sing1 iag4
 丁悦涵#dêng1 ruêg8 ham5
@@ -121537,7 +121438,7 @@
 王汝桐#hêng5 re2 tong5
 黄逸涵#ng5 ig8 ham5
 吴悦可#ghou5 ruêg8 ko2
-郑楒淇#dên7 ? ki5
+郑思淇#dên7 se1 ki5
 陈津琦#dang5 zing1 ki5
 黄淳凯#ng5 sung5 kai2
 陈熙恩#dang5 hi1 eng1
@@ -121827,8 +121728,8 @@
 吴宁箬#ghou5 lêng5 riag8
 曾柏淇#zang1 bêh4 ki5
 文林跃#bhung5 lim5 iag4
-陆橞洋#lêg8 ? iang5
-陆橞洋#log8 ? iang5
+陆橞洋#lêg8 hui6 iang5
+陆橞洋#log8 hui6 iang5
 林添#lim5 tiam1
 丁语桐#dêng1 ghe2 tong5
 丁芯越#dêng1 sim1 uêg8
@@ -121939,7 +121840,7 @@
 方增庆#bung1 zêng1 kêng3
 陈一柔#dang5 ig4 riu5
 蔡佳越#cua3 gia1 uêg8
-黄楒羽#ng5 ? u2
+黄思羽#ng5 se1 u2
 林恩熙#lim5 eng1 hi1
 刘学铭#lao5 hag8 mêng5
 丁祎涵#dêng1 i1 ham5
@@ -121992,9 +121893,9 @@
 庄恩林#zeng1 eng1 lim5
 李乐章#li2 lag8 ziang1
 周依灵#ziu1 i1 lêng5
-陈楒琪#dang5 ? ki5
+陈思琪#dang5 se1 ki5
 曾德权#zang1 dêg4 kuêng5
-翁乐楒#êng1 lag8 ?
+翁乐思#êng1 lag8 se1
 张梓潼#diên1 ze2 tong5
 文魏楷#bhung5 ghui7 kai2
 施洺名#si1 mêng5 mian5
@@ -122019,7 +121920,7 @@
 刘卓阳#lao5 doh4 iang5
 龙怡乐#lêng5 i5 lag8
 曾佳妮#zang1 gia1 nin5
-黄楒煊#ng5 ? suang1
+黄思煊#ng5 se1 suang1
 苏小丹#sou1 siou2 dang1
 谢良益#zia7 liang5 iah4
 丁柱勋#dêng1 tiou6 hng1
@@ -122098,7 +121999,7 @@
 刘萦妍#lao5 iong5 ngiêng2
 王淑瑶#hêng5 sog4 iou5
 陈烨清#dang5 iab8 cêng1
-丁栢铄#dêng1 ? iag4
+丁柏铄#dêng1 bêh4 iag4
 魏力选#ghui7 lag8 suêng2
 张子昱#diên1 ze2 hiog4
 刘洋林#lao5 iang5 lim5
@@ -122141,7 +122042,7 @@
 蔡宇博#cua3 u2 pag4
 苏梓梦#sou1 ze2 mang7
 彭苡立#pên5 in2 lib8
-蔡睿楒#cua3 ruê6 ?
+蔡睿思#cua3 ruê6 se1
 毛嘉豪#mon5 gia1 hao5
 卢熠圳#lou5 sib8 zung3
 陈欢洋#dang5 huêng1 iang5
@@ -122346,7 +122247,7 @@
 陈佳弘#dang5 gia1 hong5
 吴亦涵#ghou5 êg8 ham5
 张潼潼#diên1 tong5 tong5
-陈楒潼#dang5 ? tong5
+陈思潼#dang5 se1 tong5
 韦姝含#ui5 su5 ham5
 刘培骏#lao5 buê5 zung3
 刘泱博#lao5 iang1 pag4
@@ -122383,7 +122284,7 @@
 陈靖涵#dang5 zêng6 ham5
 屈正宇#kug4 zian3 u2
 刘淇萱#lao5 ki5 suang1
-陈栐祁#dang5 ? ki5
+陈栐祁#dang5 iong2 ki5
 杨语桐#iên5 ghe2 tong5
 洪泽凯#ang5 zêg8 kai2
 吴承彦#ghou5 sêng5 ngang6
@@ -122939,7 +122840,7 @@
 许子熙#kou2 ze2 hi1
 林叙妍#lim5 su6 ngiêng2
 林乐淇#lim5 lag8 ki5
-石楒洁#ziêh8 ? giêg4
+石思洁#ziêh8 se1 giêg4
 伍静琪#ngoun2 zên6 ki5
 蔡芷钰#cua3 zi2 ghêg8
 许孜澄#kou2 ze1 têng5
@@ -123096,7 +122997,6 @@
 黄樱淇#ng5 êng1 ki5
 邱轩铭#ku1 hng1 mêng5
 钟晗#zêng1 ham5
-李杍腾#li2 ? têng5
 江卓勋#gang1 doh4 hng1
 林栩腾#lim5 hu2 têng5
 余廷昂#e5 têng5 ngang1
@@ -123167,7 +123067,7 @@
 卢铠睿#lou5 kai2 ruê6
 刘舒心#lao5 su1 sim1
 薛沅航#sih4 nguêng5 hang5
-佃楒琳#doin6 ? lim5
+佃思琳#doin6 se1 lim5
 蔡欣庭#cua3 hng1 têng5
 吴煜韩#ghou5 hiog4 hang5
 林彦淮#lim5 ngang6 huai5
@@ -123195,7 +123095,7 @@
 沈雅焓#sim2 ngian2 ham5
 沈乐焓#sim2 lag8 ham5
 邱雅梦#ku1 ngian2 mang7
-张楒渟#diên1 ? têng5
+张思渟#diên1 se1 têng5
 蔡以柔#cua3 in2 riu5
 陈创烨#dang5 cang3 iab8
 张文联#diên1 bhung5 liêng5
@@ -123431,7 +123331,7 @@
 黄佳新#ng5 gia1 sing1
 黄露瑶#ng5 lou7 iou5
 余梓焓#e5 ze2 ham5
-黄湙桉#ng5 ? ang1
+黄湙桉#ng5 êg8 ang1
 陆炜佳#lêg8 ui2 gia1
 陆炜佳#log8 ui2 gia1
 刘泓沂#lao5 hong5 ki5
@@ -123665,7 +123565,7 @@
 陈擎宇#dang5 kêng5* u2
 姚旭炀#iê5 hiog4 iang5
 周博勋#ziu1 pag4 hng1
-张楒画#diên1 ? uê7
+张思画#diên1 se1 uê7
 许婧仪#kou2 zêng6 ngin5
 李沐权#li2 mog8 kuêng5
 卢楷烁#lou5 kai2 iag4
@@ -123713,7 +123613,7 @@
 赵欣贝#diên6 hng1 buê6
 伍梓曼#ngoun2 ze2 bhuêng6
 蔡喆熙#cua3 diêg4 hi1
-丁楒悦#dêng1 ? ruêg8
+丁思悦#dêng1 se1 ruêg8
 章欣潼#ziên1 hng1 tong5
 章欣潼#ziang1 hng1 tong5
 章蒽淇#ziên1 eng1 ki5
@@ -123987,7 +123887,6 @@
 邱雅钿#ku1 ngian2 tiêng5
 谢潆琳#zia7 iong5 lim5
 蔡锦淏#cua3 gim2 hao1
-陈琟晞#dang5 ? hi1
 卢沛锴#lou5 pai3 kai2
 刘凯源#lao5 kai2 nguêng5
 陈孜翊#dang5 ze1 êg8
@@ -124339,7 +124238,6 @@
 丁蕴珩#dêng1 ung2 hang5
 洪湘宜#ang5 siang1 ngin5
 徐俊楷#ce5 zung3 kai2
-陈杣冰#dang5 ? bian1
 刘斯嘉#lao5 se1 gia1
 王一翀#hêng5 ig4 cong1
 吴语潼#ghou5 ghe2 tong5
@@ -124789,7 +124687,7 @@
 蔡锶宇#cua3 se1 u2
 翁江跃#êng1 gang1 iag4
 谢乐昕#zia7 lag8 hng1
-苏楒炫#sou1 ? hiêng5
+苏思炫#sou1 se1 hiêng5
 曾子墨#zang1 ze2 bhag8
 郭雅浠#guêh4 ngian2 hi1
 郑新誉#dên7 sing1 e6
@@ -124838,7 +124736,7 @@
 邱睿霆#ku1 ruê6 têng5
 余铱乔#e5 i1 kiou5
 丁逸恺#dêng1 ig8 kai2
-张葙梓#diên1 ? ze2
+张葙梓#diên1 siang1 ze2
 余莘格#e5 sing1 gêh4
 邓沐渲#dêng6 mog8 suang1
 丁子羲#dêng1 ze2 hi1
@@ -125354,7 +125252,7 @@
 陈柏浚#dang5 bêh4 zung3
 徐弘恺#ce5 hong5 kai2
 王汐玥#hêng5 sêg4 ghuêh8
-林汇烶#lim5 huê6 ?
+林汇烶#lim5 huê6 têng2
 李向荣#li2 hiang3 iong5
 陈麒菲#dang5 ki5 hui1
 刘桐浠#lao5 tong5 hi1
@@ -125684,7 +125582,7 @@
 伍栒玉#ngoun2 sung5 ghêg8
 杨桂堉#iên5 gui3 iog8
 王鑫燃#hêng5 him1 riêng5
-蔡思楒#cua3 se1 ?
+蔡思思#cua3 se1 se1
 曹辰#cao5 sing5
 卢橦宇#lou5 tong5 u2
 龙彦泽#lêng5 ngang6 zêg8
@@ -125811,7 +125709,7 @@
 陈蓓欣#dang5 buê6 hng1
 章悦琪#ziên1 ruêg8 ki5
 章悦琪#ziang1 ruêg8 ki5
-孙垚潾#seng1 ngioun5 ?
+孙垚粼#seng1 ngioun5 ling5
 邱锦烁#ku1 gim2 iag4
 林艺淇#lim5 ghoi7 ki5
 许书帆#kou2 ze1 pang5
@@ -125981,7 +125879,7 @@
 章诺萱#ziên1 nab8 suang1
 章诺萱#ziang1 nab8 suang1
 卢铭泓#lou5 mêng5 hong5
-吴楒煊#ghou5 ? suang1
+吴思煊#ghou5 se1 suang1
 李希铨#li2 hi1 cuêng5
 蔡天皓#cua3 tiêng1 hao1
 章梓晞#ziên1 ze2 hi1
@@ -126526,7 +126424,7 @@
 彭思雅#pên5 se1 ngian2
 周思旖#ziu1 se1 i2
 杨熹悦#iên5 hi1 ruêg8
-丁楒烨#dêng1 ? iab8
+丁思烨#dêng1 se1 iab8
 刘桦轩#lao5 hua5 hng1
 林沐濠#lim5 mog8 hao5
 周毅霆#ziu1 ngin5 têng5
@@ -126599,7 +126497,7 @@
 柯妍乔#gua1 ngiêng2 kiou5
 邱熙沐#ku1 hi1 mog8
 周湘钿#ziu1 siang1 tiêng5
-唐楒童#deng5 ? tong5
+唐思童#deng5 se1 tong5
 蔡艺晴#cua3 ghoi7 zên5
 曾伊诺#zang1 i1 nab8
 陈溢霖#dang5 êg8 lim5
@@ -126705,7 +126603,7 @@
 蔡欣乐#cua3 hng1 lag8
 刘林鑫#lao5 lim5 him1
 蔡昊译#cua3 hao1 êg8
-周楒沐#ziu1 ? mog8
+周思沐#ziu1 se1 mog8
 谢芃芃#zia7 pong5 pong5
 周悦潼#ziu1 ruêg8 tong5
 冯嘉逸#bang5 gia1 ig8
@@ -127156,7 +127054,7 @@
 蒋煜进#ziên2 hiog4 zing3
 庄子牧#zeng1 ze2 mog8
 陈妙菁#dang5 mioun6 cên1
-许楒惠#kou2 ? hui6
+许思惠#kou2 se1 hui6
 黄丽侨#ng5 li6 kiou5
 刘锦沛#lao5 gim2 pai3
 林漾琦#lim5 iang6 ki5
@@ -127212,7 +127110,7 @@
 蔡乔翊#cua3 kiou5 êg8
 吴恩潼#ghou5 eng1 tong5
 黄立燊#ng5 lib8 sing1
-蔡楒烨#cua3 ? iab8
+蔡思烨#cua3 se1 iab8
 蔡可驰#cua3 ko2 ci5
 林育薇#lim5 iog8 muin5
 罗烁琳#lo5 iag4 lim5
@@ -127273,7 +127171,7 @@
 李子泰#li2 ze2 tai3
 卢静雯#lou5 zên6 bhung5
 卢毅杭#lou5 ngin5 hang5
-卢楒琪#lou5 ? ki5
+卢思琪#lou5 se1 ki5
 谢沣致#zia7 hong1 di3
 丁语暄#dêng1 ghe2 suang1
 廖悦淇#liou7 ruêg8 ki5
@@ -127426,7 +127324,7 @@
 蔡孜沐#cua3 ze1 mog8
 石子昂#ziêh8 ze2 ngang1
 翁诗妍#êng1 si1 ngiêng2
-郑沐鍠#dên7 mog8 ?
+郑沐锽#dên7 mog8 huang5
 陈培祺#dang5 buê5 ki5
 庄雯悦#zeng1 bhung5 ruêg8
 谢烯桐#zia7 hi1 tong5
@@ -127521,7 +127419,7 @@
 谢瑞镔#zia7 sui6 bing1
 蔡祎沐#cua3 i1 mog8
 曾博栋#zang1 pag4 dong3
-张楒琦#diên1 ? ki5
+张思琦#diên1 se1 ki5
 杨俊浠#iên5 zung3 hi1
 周书樾#ziu1 ze1 uêg8
 郑淙钺#dên7 zong1 uêg8
@@ -127548,7 +127446,7 @@
 陆又齐#log8 iu7 ci5
 蔡憬桐#cua3 gêng2 tong5
 林乔怡#lim5 kiou5 i5
-杨楒瑶#iên5 ? iou5
+杨思瑶#iên5 se1 iou5
 章烨壕#ziên1 iab8 hao5
 章烨壕#ziang1 iab8 hao5
 林瑶琪#lim5 iou5 ki5
@@ -127935,8 +127833,8 @@
 潘俊钰#puan1 zung3 ghêg8
 郑瑾熙#dên7 geng2 hi1
 李远满#li2 iêng2 muan2
-丁锳妮#dêng1 ? nin5
-丁楒潼#dêng1 ? tong5
+丁瑛妮#dêng1 êng1 nin5
+丁思潼#dêng1 se1 tong5
 陈霖宥#dang5 lim5 iu6
 陈紫煊#dang5 zi2 suang1
 庄贤哲#zeng1 hiêng5 diêg4
@@ -127988,7 +127886,7 @@
 林钟煌#lim5 zêng1 huang5
 林夕农#lim5 sêg4 long5
 郑锦轩#dên7 gim2 hng1
-卢楒愉#lou5 ? ru5
+卢思愉#lou5 se1 ru5
 陆雯妮#lêg8 bhung5 nin5
 陆雯妮#log8 bhung5 nin5
 陈语希#dang5 ghe2 hi1
@@ -128141,7 +128039,7 @@
 赖以诺#nain6 in2 nab8
 谢书钺#zia7 ze1 uêg8
 孙橦恩#seng1 tong5 eng1
-陈柯烶#dang5 gua1 ?
+陈柯烶#dang5 gua1 têng2
 陈悦语#dang5 ruêg8 ghe2
 陈乐伊#dang5 lag8 i1
 吴芯语#ghou5 sim1 ghe2
@@ -128331,7 +128229,7 @@
 谢翎恩#zia7 lêng5 eng1
 庄烁煊#zeng1 iag4 suang1
 谢铄煊#zia7 iag4 suang1
-谢堒湉#zia7 ? tiam5
+谢堒湉#zia7 kung1 tiam5
 丁可湉#dêng1 ko2 tiam5
 黄姿意#ng5 ze1 i3
 陈启盛#dang5 ki2 sêng6
@@ -128362,7 +128260,7 @@
 刘思奕#lao5 se1 êg8
 黄舟墨#ng5 ziu1 bhag8
 谢铭熙#zia7 mêng5 hi1
-丁俙烨#dêng1 ? iab8
+丁俙烨#dêng1 hi1 iab8
 陆润锋#lêg8 rung6 hong1
 陆润锋#log8 rung6 hong1
 陈雨珂#dang5 u2* ko1
@@ -128381,7 +128279,7 @@
 冯恩希#bang5 eng1 hi1
 赵芯乐#diên6 sim1 lag8
 任慕翊#rim6 mon6 êg8
-陈楒驰#dang5 ? ci5
+陈思驰#dang5 se1 ci5
 李明铠#li2 mêng5 kai2
 黄熙婕#ng5 hi1 ziab8
 黄乐淇#ng5 lag8 ki5
@@ -128532,7 +128430,7 @@
 余昕林#e5 hng1 lim5
 陈禧晗#dang5 hi1 ham5
 陈雁翔#dang5 ngang6 siang5
-苏楒桐#sou1 ? tong5
+苏思桐#sou1 se1 tong5
 谢芮芯#zia7 ruê6 sim1
 魏子榆#ghui7 ze2 ru5
 张温心#diên1 ung1 sim1
@@ -128610,7 +128508,7 @@
 郑睿垲#dên7 ruê6 kai2
 苏思妍#sou1 se1 ngiêng2
 陈驰晗#dang5 ci5 ham5
-刘柠瑔#lao5 lêng5 ?
+刘柠瑔#lao5 lêng5 zuan5
 苏翊帆#sou1 êg8 pang5
 林芝霓#lim5 ze1 ngin5
 谢子安#zia7 ze2 ang1
@@ -128900,8 +128798,8 @@
 蔡露葵#cua3 lou7 kui5
 李乐洋#li2 lag8 iang5
 丁沐炜#dêng1 mog8 ui2
-陆楒婷#lêg8 ? dêng5
-陆楒婷#log8 ? dêng5
+陆思婷#lêg8 se1 dêng5
+陆思婷#log8 se1 dêng5
 郭书瑜#guêh4 ze1 ru5
 陈穗艺#dang5 sui7 ghoi7
 谢以恩#zia7 in2 eng1
@@ -128934,7 +128832,7 @@
 陈米杨#dang5 bhi2 iang5
 刘湘毅#lao5 siang1 ngin5
 李长阳#li2 ciang5 iang5
-张楒颖#diên1 ? têng2
+张思颖#diên1 se1 têng2
 苏庚镒#sou1 gên1 êg8
 陈洽司#dang5 ziab8 si1
 朱沐欣#zu1 mog8 hng1
@@ -128987,7 +128885,7 @@
 许润麒#kou2 rung6 ki5
 池希铠#di5 hi1 kai2
 蔡允菲#cua3 rung2 hui1
-黄楒晗#ng5 ? ham5
+黄思晗#ng5 se1 ham5
 田书萁#cang5 ze1 gi1
 李宣玥#li2 suang1 ghuêh8
 张艺菲#diên1 ghoi7 hui1
@@ -129003,7 +128901,7 @@
 丁欢悦#dêng1 huêng1 ruêg8
 苏烁臻#sou1 iag4 zing1
 张婧怡#diên1 zêng6 i5
-阮楒溢#nguêng2 ? êg8
+阮思溢#nguêng2 se1 êg8
 卢芊桐#lou5 ciêng1 tong5
 刘柏康#lao5 bêh4 kang1
 翁子妍#êng1 ze2 ngiêng2
@@ -129023,7 +128921,7 @@
 张芷莹#diên1 zi2 iong5
 丁锦涵#dêng1 gim2 ham5
 黄侨曦#ng5 kiou5 hi1
-陈煕垌#dang5 ? tong5
+陈熙垌#dang5 hi1 tong5
 雷棕跃#lui5 zong1 iag4
 郑芯栎#dên7 sim1 iag4
 庄乔#zeng1 kiou5
@@ -129241,7 +129139,7 @@
 蔡均铠#cua3 geng1 kai2
 李晟宇#li2 sêng6 u2
 刘轶青#lao5 ig8 cên1
-周楒博#ziu1 ? pag4
+周思博#ziu1 se1 pag4
 卢启宁#lou5 ki2 lêng5
 谢恩杰#zia7 eng1 giêg8
 周钰潼#ziu1 ghêg8 tong5
@@ -129342,7 +129240,7 @@
 许海成#kou2 hai2 sêng5
 蔡泫墀#cua3 hiêng5 ci5
 张籽韵#diên1 ze2 ung7
-蔡栢涵#cua3 ? ham5
+蔡柏涵#cua3 bêh4 ham5
 徐澄#ce5 têng5
 李乐思#li2 lag8 se1
 卢艺匀#lou5 ghoi7 ung5
@@ -131070,7 +130968,7 @@
 谢沐苒#zia7 mog8 riam2
 韦伊蓓#ui5 i1 buê6
 郭栎燊#guêh4 iag4 sing1
-丁楒嘉#dêng1 ? gia1
+丁思嘉#dêng1 se1 gia1
 温灿煜#ung1 cang3 hiog4
 李沐然#li2 mog8 riêng5
 林子荞#lim5 ze2 kiou5
@@ -131270,7 +131168,7 @@
 梁思雅#niên5 se1 ngian2
 陈沣铄#dang5 hong1 iag4
 方铭铄#bung1 mêng5 iag4
-林楒宁#lim5 ? lêng5
+林思宁#lim5 se1 lêng5
 孙一宁#seng1 ig4 lêng5
 郑乐钒#dên7 lag8 huam5
 何允嬉#ho5 rung2 hi1
@@ -131453,7 +131351,7 @@
 邱嵩超#ku1 song1 tiou3
 陈炜杭#dang5 ui2 hang5
 唐博衍#deng5 pag4 iêng6
-陈楒妧#dang5 ? ?
+陈思妧#dang5 se1 nguêng2
 林坦扬#lim5 tang2 iang5
 林安悦#lim5 ang1 ruêg8
 陈羿文#dang5 ngin5 bhung5
@@ -131737,7 +131635,7 @@
 黄铭宥#ng5 mêng5 iu6
 张锦川#diên1 gim2 cuêng1
 陈言恺#dang5 ngang5 kai2
-陈楒#dang5 ?
+陈思#dang5 se1
 丁锶瑜#dêng1 se1 ru5
 郑昕悦#dên7 hng1 ruêg8
 陈乐天#dang5 lag8 tiêng1
@@ -132506,7 +132404,7 @@
 陈葭苏#dang5 gia1 sou1
 陈萱彤#dang5 suang1 tong5
 陈品秀#dang5 bing2 siu3
-陈愢雅#dang5 ? ngian2
+陈愢雅#dang5 se1 ngian2
 林锐哲#lim5 ruê6 diêg4
 蔡沐哲#cua3 mog8 diêg4
 孙一烊#seng1 ig4 iang5
@@ -132655,7 +132553,6 @@
 岳子泓#ngag8 ze2 hong5
 王沅睿#hêng5 nguêng5 ruê6
 蔡亦桁#cua3 êg8 ên5
-阙启炑#kuêh4 ki2 ?
 卢悦豪#lou5 ruêg8 hao5
 吴嘉源#ghou5 gia1 nguêng5
 丁心洁#dêng1 sim1 giêg4
@@ -133053,7 +132950,7 @@
 陆梓烨#lêg8 ze2 iab8
 陆梓烨#log8 ze2 iab8
 李紫菡#li2 zi2 ham5
-刘羽簣#lao5 u2 ?
+刘羽篑#lao5 u2 kui6
 卢述晖#lou5 sug8 hui1
 卢宇濠#lou5 u2 hao5
 翁皓炀#êng1 hao1 iang5
@@ -133098,7 +132995,7 @@
 蔡欣儒#cua3 hng1 ru5
 杨哲莼#iên5 diêg4 sung5
 李沐颜#li2 mog8 nguêng5
-刘潾婷#lao5 ? dêng5
+刘粼婷#lao5 ling5 dêng5
 吴希雯#ghou5 hi1 bhung5
 章博晗#ziên1 pag4 ham5
 章博晗#ziang1 pag4 ham5
@@ -133297,7 +133194,6 @@
 谢明润#zia7 mêng5 rung6
 蔡梦琳#cua3 mang7 lim5
 王玉麟#hêng5 ghêg8 ling5
-陈汋#dang5 ?
 赖玉纯#nain6 ghêg8 sung5
 陈薪阳#dang5 sing1 iang5
 卢芯妍#lou5 sim1 ngiêng2
@@ -133491,7 +133387,7 @@
 赖昕悦#nain6 hng1 ruêg8
 陈明锐#dang5 mêng5 ruê6
 麦嘉宇#bhêh8 gia1 u2
-黄楒帆#ng5 ? pang5
+黄思帆#ng5 se1 pang5
 陈舒容#dang5 su1 iong5
 吴沫然#ghou5 muêg8 riêng5
 苏沐瑶#sou1 mog8 iou5
@@ -133578,7 +133474,6 @@
 刘热#lao5 riêg8
 陈新婷#dang5 sing1 dêng5
 曾文浩#zang1 bhung5 hao1
-蔡锌芠#cua3 sing1 ?
 卢建浩#lou5 giêng6 hao1
 余浩淼#e5 hao1 mioun2
 郑垚菡#dên7 ngioun5 ham5
@@ -133796,7 +133691,7 @@
 陈睿扬#dang5 ruê6 iang5
 廖栩翰#liou7 hu2 hang5
 陈金漫#dang5 gim1 bhuêng6
-陈湞珂#dang5 ? ko1
+陈浈珂#dang5 zêng1 ko1
 谢嘉淇#zia7 gia1 ki5
 文靖博#bhung5 zêng6 pag4
 苏润德#sou1 rung6 dêg4
@@ -133899,7 +133794,7 @@
 许之泓#kou2 ze1 hong5
 廖子添#liou7 ze2 tiam1
 钟思潼#zêng1 se1 tong5
-李塽琪#li2 ? ki5
+李爽琪#li2 suang2 ki5
 陈艾霏#dang5 ain3 hui1
 周唯昕#ziu1 rui5 hng1
 林子晞#lim5 ze2 hi1
@@ -133994,7 +133889,7 @@
 蔡烁煊#cua3 iag4 suang1
 蔡锌悦#cua3 sing1 ruêg8
 孙楷宸#seng1 kai2 sing5
-王思錡#hêng5 se1 ?
+王思锜#hêng5 se1 ki5
 卢博皓#lou5 pag4 hao1
 谢宋治#zia7 song3 di7
 谢宋乔#zia7 song3 kiou5
@@ -134105,7 +134000,6 @@
 林子昂#lim5 ze2 ngang1
 蔡钧瑶#cua3 geng1 iou5
 林敬淏#lim5 gêng3 hao1
-蔡楤铠#cua3 ? kai2
 苏孜漾#sou1 ze1 iang6
 谢忻潼#zia7 hng1 tong5
 丁霆恩#dêng1 têng5 eng1
@@ -134550,7 +134444,7 @@
 陈渲颖#dang5 suang1 têng2
 余铮栩#e5 zêng1 hu2
 王雯茹#hêng5 bhung5 ru5
-蔡楒乔#cua3 ? kiou5
+蔡思乔#cua3 se1 kiou5
 林塬淞#lim5 nguêng5 song5
 黄孜婷#ng5 ze1 dêng5
 魏宇伶#ghui7 u2 lêng5
@@ -134613,7 +134507,6 @@
 刘熙泰#lao5 hi1 tai3
 罗蔓莉#lo5 bhuêng6 li6
 李涵雪#li2 ham5 soh4
-吴愷箖#ghou5 ? ?
 陆恩希#lêg8 eng1 hi1
 陆恩希#log8 eng1 hi1
 黄锶羽#ng5 se1 u2
@@ -134655,7 +134548,7 @@
 丁小瀚#dêng1 siou2 hang5
 丁资恩#dêng1 ze1 eng1
 刘斯垚#lao5 se1 ngioun5
-林楒铄#lim5 ? iag4
+林思铄#lim5 se1 iag4
 丁涵羽#dêng1 ham5 u2
 王正勋#hêng5 zian3 hng1
 苏艺宁#sou1 ghoi7 lêng5
@@ -134664,7 +134557,7 @@
 方沁瑶#bung1 cim3 iou5
 陈译梵#dang5 êg8 huam6
 刘艾菱#lao5 ain3 lêng5
-刘霖崧#lao5 lim5 ?
+刘霖嵩#lao5 lim5 song1
 丁诗恩#dêng1 si1 eng1
 邱恩钒#ku1 eng1 huam5
 郑铠笛#dên7 kai2 dêg8
@@ -134721,7 +134614,7 @@
 陆雅纯#lêg8 ngian2 sung5
 陆雅纯#log8 ngian2 sung5
 苏忻彤#sou1 hng1 tong5
-阮楒霖#nguêng2 ? lim5
+阮思霖#nguêng2 se1 lim5
 庄逸宁#zeng1 ig8 lêng5
 蔡堉杭#cua3 iog8 hang5
 林谨韩#lim5 geng2 hang5
@@ -134762,7 +134655,7 @@
 谢贝烁#zia7 buê6 iag4
 蓝沁彤#nan5 cim3 tong5
 杨思鹏#iên5 se1 pong5
-陈锶熗#dang5 se1 ?
+陈锶炝#dang5 se1 cang3
 许米朵#kou2 bhi2 do5
 陆淼琳#lêg8 mioun2 lim5
 陆淼琳#log8 mioun2 lim5
@@ -134925,7 +134818,7 @@
 周烨超#ziu1 iab8 tiou3
 巫沐洋#bhu5 mog8 iang5
 郑妍烁#dên7 ngiêng2 iag4
-蔡尓谦#cua3 ? kiam1
+蔡尔谦#cua3 re2 kiam1
 韦忻妍#ui5 hng1 ngiêng2
 丁腾泽#dêng1 têng5 zêg8
 苏珈萱#sou1 gia1 suang1
@@ -135193,7 +135086,7 @@
 余可申#e5 ko2 sing1
 李沐紫#li2 mog8 zi2
 陈沛文#dang5 pai3 bhung5
-丁楒琪#dêng1 ? ki5
+丁思琪#dêng1 se1 ki5
 陈恩浚#dang5 eng1 zung3
 谢庚博#zia7 gên1 pag4
 胡润泓#ou5 rung6 hong5
@@ -135220,7 +135113,7 @@
 陈钰柔#dang5 ghêg8 riu5
 陈骏跃#dang5 zung3 iag4
 苏楷豪#sou1 kai2 hao5
-彭湇妍#pên5 ? ngiêng2
+彭湇妍#pên5 cib4 ngiêng2
 林桐广#lim5 tong5 guang2
 李佳茵#li2 gia1 ing1
 张熙智#diên1 hi1 di3
@@ -135795,10 +135688,10 @@
 田炯斌#cang5 guang2 bing1
 方佳津#bung1 gia1 zing1
 许芸仪#kou2 ung5 ngin5
-李佳燑#li2 gia1 ?
+李佳燑#li2 gia1 tong5
 谢智淳#zia7 di3 sung5
 蔡东#cua3 dang1
-邱湧纯#ku1 ? sung5
+邱涌纯#ku1 iong3 sung5
 方楚怡#bung1 co2 i5
 蔡佳念#cua3 gia1 liam6
 蔡瑞红#cua3 sui6 ang5
@@ -135810,7 +135703,6 @@
 丁梓冰#dêng1 ze2 bian1
 覃杨杨#tam5 iang5 iang5
 张文森#diên1 bhung5 siam1
-陈尧焴#dang5 ngioun5 ?
 薛幞帆#sih4 pog4 pang5
 蔡湜娜#cua3 sig8 non5
 黄秀炀#ng5 siu3 iang5
@@ -135895,7 +135787,6 @@
 曹莘琪#cao5 sing1 ki5
 刘奕汾#lao5 êg8 hung1
 刘桐婉#lao5 tong5 uêng2
-郭子滜#guêh4 ze2 ?
 杨安妮#iên5 ang1 nin5
 舒小冬#su1 siou2 dang1
 刘溢新#lao5 êg8 sing1
@@ -135924,7 +135815,7 @@
 刘勉妮#lao5 miêng2 nin5
 许焕枫#kou2 huêng3 bang1
 傅梓轩#bou3 ze2 hng1
-陈埈婕#dang5 ? ziab8
+陈埈婕#dang5 zung3 ziab8
 张梓蔚#diên1 ze2 uê3
 黄湘润#ng5 siang1 rung6
 柯桂婷#gua1 gui3 dêng5
@@ -135954,7 +135845,7 @@
 肖嘉熙#siou1 gia1 hi1
 陈美仪#dang5 muin2 ngin5
 胡淳贤#ou5 sung5 hiêng5
-谢澂#zia7 ?
+谢澄#zia7 têng5
 黄丽湘#ng5 li6 siang1
 肖斌#siou1 bing1
 王子龙#hêng5 ze2 lêng5
@@ -135969,7 +135860,7 @@
 赖金翊#nain6 gim1 êg8
 谢宾#zia7 bing1
 黄梓蔓#ng5 ze2 bhuêng6
-黄钰焬#ng5 ghêg8 ?
+黄钰焬#ng5 ghêg8 iang5
 陈博灵#dang5 pag4 lêng5
 陈淼武#dang5 mioun2 bhu2
 许珂烁#kou2 ko1 iag4
@@ -136888,7 +136779,7 @@
 陆培蓉#lêg8 buê5 iong5
 陆培蓉#log8 buê5 iong5
 张艺贤#diên1 ghoi7 hiêng5
-袁鑾轩#uêng5 ? hng1
+袁銮轩#uêng5 luêng5 hng1
 邱婉莹#ku1 uêng2 iong5
 何安康#ho5 ang1 kang1
 方欣语#bung1 hng1 ghe2
@@ -136947,7 +136838,7 @@
 吴其烁#ghou5 ki5 iag4
 钱梓仪#zin5 ze2 ngin5
 江罗芳#gang1 lo5 huang1
-王淩宁#hêng5 ? lêng5
+王凌宁#hêng5 lêng5 lêng5
 郑尔邦#dên7 re2 bang1
 何安强#ho5 ang1 kiang5
 陈镜辛#dang5 gian3 sing1
@@ -137098,7 +136989,7 @@
 张艺泳#diên1 ghoi7 iong3
 陈培颖#dang5 buê5 têng2
 邱锦鸿#ku1 gim2 hong5
-曾锳铌#zang1 ? nin5
+曾瑛铌#zang1 êng1 nin5
 陈可意#dang5 ko2 i3
 柯瑞煜#gua1 sui6 hiog4
 高坤栩#go1 kung1 hu2
@@ -137790,7 +137681,7 @@
 蔡思杭#cua3 se1 hang5
 叶杨晴#iab8 iang5 zên5
 叶杨晴#hiab8 iang5 zên5
-黄暘#ng5 ?
+黄旸#ng5 iang5
 陈吉丹#dang5 gig4 dang1
 林烨超#lim5 iab8 tiou3
 蔡嘉鸿#cua3 gia1 hong5
@@ -137963,13 +137854,12 @@
 曾梓丹#zang1 ze2 dang1
 曾梓墩#zang1 ze2 dung1
 陈超博#dang5 tiou3 pag4
-陈朲#dang5 ?
 陈桂阳#dang5 gui3 iang5
 陈佳韩#dang5 gia1 hang5
 陈佳镕#dang5 gia1 iong5
 陈晶晶#dang5 zian1 zian1
 陈锴铎#dang5 kai2 dag8
-陈琳澐#dang5 lim5 ?
+陈琳沄#dang5 lim5 ung5
 陈千杭#dang5 coin1 hang5
 陈澍#dang5 su6
 陈天钢#dang5 tiêng1 geng3
@@ -138011,7 +137901,7 @@
 赖陈阳#nain6 ting5 iang5
 雷露#lui5 lou7
 李菁昀#li2 cên1 ung5
-李盼瑩#li2 pang3 ?
+李盼莹#li2 pang3 iong5
 李垠莹#li2 ngeng5 iong5
 廖琳炯#liou7 lim5 guang2
 廖伟楠#liou7 ui2 lam5
@@ -138594,7 +138484,7 @@
 吴泽萍#ghou5 zêg8 piê5
 蔡熳桐#cua3 bhuêng6 tong5
 郑铖浩#dên7 sêng5 hao1
-张畇達#diên1 ung5 ?
+张畇达#diên1 ung5 dag8
 翁忆珊#êng1 i3 sang1
 邱畅铠#ku1 tiang3 kai2
 卢墁铃#lou5 bhuêng6 lêng1
@@ -138609,7 +138499,6 @@
 林栩煌#lim5 hu2 huang5
 蔡景#cua3 gêng2
 吴家涵#ghou5 gê1 ham5
-林帅鄅#lim5 suê3 ?
 林萌羿#lim5 mêng5 ngin5
 张昭宏#diên1 ziou1 hong5
 叶柔#iab8 riu5
@@ -138894,7 +138783,7 @@
 张琳珊#diên1 lim5 sang1
 庄烁丽#zeng1 iag4 li6
 谢烨琦#zia7 iab8 ki5
-文丽紋#bhung5 li6 ?
+文丽纹#bhung5 li6 bhung5
 陈冰怡#dang5 bian1 i5
 李侠#li2 hiab8
 蔡佳荧#cua3 gia1 iong5
@@ -138965,7 +138854,7 @@
 倪梓聪#ghoi5 ze2 cong1
 彭淼#pên5 mioun2
 邱芝欢#ku1 ze1 huêng1
-沈東源#sim2 ? nguêng5
+沈东源#sim2 dang1 nguêng5
 沈杭琴#sim2 hang5 kim5
 沈浩扬#sim2 hao1 iang5
 沈洁莹#sim2 giêg4 iong5
@@ -139097,7 +138986,6 @@
 黄桂钿#ng5 gui3 tiêng5
 黄锦璇#ng5 gim2 suêng5
 黄可恩#ng5 ko2 eng1
-黄若嵆#ng5 riag8 ?
 黄炜晴#ng5 ui2 zên5
 黄艺烁#ng5 ghoi7 iag4
 黄子越#ng5 ze2 uêg8
@@ -139139,7 +139027,6 @@
 沈阳#sim2 iang5
 沈煜彤#sim2 hiog4 tong5
 沈姿佑#sim2 ze1 iu6
-石燿榛#ziêh8 ? zing1
 宋泱橦#song3 iang1 tong5
 苏成跃#sou1 sêng5 iag4
 苏钢毅#sou1 geng3 ngin5
@@ -139236,7 +139123,7 @@
 陈博焓#dang5 pag4 ham5
 陈春淼#dang5 cung1 mioun2
 陈戴琪#dang5 dai3 ki5
-陈埮珊#dang5 ? sang1
+陈埮珊#dang5 tam5 sang1
 陈耕乐#dang5 gên1 lag8
 陈晗熠#dang5 ham5 sib8
 陈涵菲#dang5 ham5 hui1
@@ -139392,7 +139279,7 @@
 李佳哲#li2 gia1 diêg4
 李兰若#li2 lang5 riag8
 李玟炫#li2 bhung5 hiêng5
-李培婗#li2 buê5 ?
+李培婗#li2 buê5 ngi5
 李润杰#li2 rung6 giêg8
 李若思#li2 riag8 se1
 李添乐#li2 tiam1 lag8
@@ -140768,7 +140655,7 @@
 陈翊川#dang5 êg8 cuêng1
 陈垣妃#dang5 huêng5 hui1
 陈重仰#dang5 dong6 ngiang2
-陈姿憲#dang5 ze1 ?
+陈姿宪#dang5 ze1 hiêng3
 成若琳#sêng5 riag8 lim5
 丁润生#dêng1 rung6 sêng1
 丁婉棋#dêng1 uêng2 gi5
@@ -141053,7 +140940,7 @@
 吴俣昊#ghou5 ngon3 hao1
 吴裕康#ghou5 ru6 kang1
 吴志润#ghou5 zi3 rung6
-谢栢臣#zia7 ? cing5
+谢柏臣#zia7 bêh4 cing5
 谢沉炼#zia7 dim5 liêng7
 谢涵仪#zia7 ham5 ngin5
 谢泓杰#zia7 hong5 giêg8
@@ -141091,7 +140978,6 @@
 薛涵颖#sih4 ham5 têng2
 严洋帆#ngiam5 iang5 pang5
 杨博嘉#iên5 pag4 gia1
-杨沐旳#iên5 mog8 ?
 杨婉洵#iên5 uêng2 sung5
 游铵圻#iu5 ang1 ki5
 余陈诺#e5 ting5 nab8
@@ -141606,7 +141492,7 @@
 沈诗桐#sim2 si1 tong5
 沈泰坤#sim2 tai3 kung1
 沈泽栩#sim2 zêg8 hu2
-沈梓锖#sim2 ze2 ?
+沈梓锖#sim2 ze2 cêng1
 施媛媛#si1 iêng5 iêng5
 苏家琪#sou1 gê1 ki5
 苏丽淳#sou1 li6 sung5
@@ -141987,7 +141873,7 @@
 陈烁庭#dang5 iag4 têng5
 陈丹可#dang5 dang1 ko2
 陈董悦#dang5 dong2 ruêg8
-陈鉺坚#dang5 ? giêng1
+陈铒坚#dang5 re2 giêng1
 陈晗晔#dang5 ham5 iab4
 陈和#dang5 hua5
 陈慧坭#dang5 hui6 nin5
@@ -142237,7 +142123,7 @@
 林润柔#lim5 rung6 riu5
 林珅毅#lim5 sing1 ngin5
 林书钿#lim5 ze1 tiêng5
-林塽培#lim5 ? buê5
+林爽培#lim5 suang2 buê5
 林桐尘#lim5 tong5 ding5
 林伟博#lim5 ui2 pag4
 林熙淇#lim5 hi1 ki5
@@ -142263,7 +142149,7 @@
 林欣柔#lim5 hng1 riu5
 林雅乐#lim5 ngian2 lag8
 林铱畅#lim5 i1 tiang3
-林錡纯#lim5 ? sung5
+林锜纯#lim5 ki5 sung5
 林艺哲#lim5 ghoi7 diêg4
 林毅韩#lim5 ngin5 hang5
 林泳桓#lim5 iong3 huêng5
@@ -142697,7 +142583,7 @@
 詹炫威#ziam1 hiêng5 ui1
 詹耀昌#ziam1 iou6 ciang1
 占仪琳#ziam3 ngin5 lim5
-张廣泰#diên1 ? tai3
+张广泰#diên1 guang2 tai3
 张基鸿#diên1 gi1 hong5
 张建铭#diên1 giêng6 mêng5
 张金凌#diên1 gim1 lêng5
@@ -142762,7 +142648,7 @@
 郑佳煜#dên7 gia1 hiog4
 郑锦锋#dên7 gim2 hong1
 郑境睦#dên7 gêng2 mog8
-郑林燦#dên7 lim5 ?
+郑林灿#dên7 lim5 cang3
 郑铄桐#dên7 iag4 tong5
 郑思杰#dên7 se1 giêg8
 郑晞琳#dên7 hi1 lim5
@@ -142968,7 +142854,7 @@
 陈圳宣#dang5 zung3 suang1
 陈孜铱#dang5 ze1 i1
 陈姿琪#dang5 ze1 ki5
-陈子鍠#dang5 ze2 ?
+陈子锽#dang5 ze2 huang5
 陈子绵#dang5 ze2 miêng5
 陈梓烜#dang5 ze2 hiêng2
 陈梓瑛#dang5 ze2 êng1
@@ -143438,7 +143324,7 @@
 孙鑫淼#seng1 him1 mioun2
 孙奕力#seng1 êg8 lag8
 孙璋洁#seng1 ziang1 giêg4
-唐湧鑫#deng5 ? him1
+唐涌鑫#deng5 iong3 him1
 王诚#hêng5 sêng5
 王恩祈#hêng5 eng1 ki5
 王俊森#hêng5 zung3 siam1
@@ -143597,7 +143483,7 @@
 严跃林#ngiam5 iag4 lim5
 杨陈泽#iên5 ting5 zêg8
 杨梵琛#iên5 huam6 dim1
-杨佳鎔#iên5 gia1 ?
+杨佳镕#iên5 gia1 iong5
 杨立#iên5 lib8
 杨漫华#iên5 bhuêng6 hua5
 杨舒然#iên5 su1 riêng5
@@ -143890,7 +143776,7 @@
 陈周洋#dang5 ziu1 iang5
 陈卓玥#dang5 doh4 ghuêh8
 陈孜嘉#dang5 ze1 gia1
-陈梓燨#dang5 ze2 ?
+陈梓熙#dang5 ze2 hi1
 戴跃晨#do3 iag4 sing5
 佃跃齐#doin6 iag4 ci5
 丁度棱#dêng1 dou7 lêng5
@@ -144401,7 +144287,7 @@
 曾浩峪#zang1 hao1 gog4
 曾琳烨#zang1 lim5 iab8
 曾语楠#zang1 ghe2 lam5
-陈栢烽#dang5 ? hong1
+陈柏烽#dang5 bêh4 hong1
 陈达挺#dang5 dag8 têng2
 陈锭悦#dang5 dêng6 ruêg8
 陈格儿#dang5 gêh4 ri5
@@ -144425,7 +144311,7 @@
 陈晓填#dang5 hiou2 tiêng5
 陈炫粤#dang5 hiêng5 uêg8
 陈雪菲#dang5 soh4 hui1
-陈妡涵#dang5 ? ham5
+陈妡涵#dang5 heng1 ham5
 陈彦乐#dang5 ngang6 lag8
 陈易乐#dang5 i6 lag8
 陈易琪#dang5 i6 ki5
@@ -144434,7 +144320,6 @@
 陈育迅#dang5 iog8 sing3
 陈卓跃#dang5 doh4 iag4
 陈梓翎#dang5 ze2 lêng5
-陈梓焑#dang5 ze2 ?
 陈梓闻#dang5 ze2 bhung6
 成夏萱#sêng5 hê7 suang1
 成宇#sêng5 u2
@@ -144452,7 +144337,7 @@
 辜潇瑶#gou1 siou1 iou5
 辜子越#gou1 ze2 uêg8
 管梓淇#guêng2 ze2 ki5
-郭栢翰#guêh4 ? hang5
+郭柏翰#guêh4 bêh4 hang5
 郭雅彤#guêh4 ngian2 tong5
 何欣洁#ho5 hng1 giêg4
 何雅煊#ho5 ngian2 suang1
@@ -144707,7 +144592,7 @@
 蔡奕哲#cua3 êg8 diêg4
 蔡咏彤#cua3 iong3 tong5
 蔡昀洛#cua3 ung5 log8
-曾佳煬#zang1 gia1 ?
+曾佳炀#zang1 gia1 iang5
 曾锴泽#zang1 kai2 zêg8
 曾希彤#zang1 hi1 tong5
 曾紫妍#zang1 zi2 ngiêng2
@@ -144739,7 +144624,7 @@
 陈灿益#dang5 cang3 iah4
 陈传文#dang5 tuêng5 bhung5
 陈东晓#dang5 dang1 hiou2
-陈恩妡#dang5 eng1 ?
+陈恩妡#dang5 eng1 heng1
 陈贵涵#dang5 gui3 ham5
 陈弘轩#dang5 hong5 hng1
 陈徽京#dang5 hui1 gian1
@@ -145033,7 +144918,6 @@
 雷烜霆#lui5 hiêng2 têng5
 李艾嘉#li2 ain3 gia1
 李瀚宇#li2 hang5 u2
-李崨勇#li2 ? iong2
 李瑾瑜#li2 geng2 ru5
 李立帆#li2 lib8 pang5
 李思萱#li2 se1 suang1
@@ -145050,7 +144934,6 @@
 廖亿涵#liou7 êg8 ham5
 林焕恺#lim5 huêng3 kai2
 林境炫#lim5 gêng2 hiêng5
-林绮渘#lim5 i2 ?
 林柔汐#lim5 riu5 sêg4
 林书煜#lim5 ze1 hiog4
 林万里#lim5 bhuêng7 li2
@@ -145415,7 +145298,7 @@
 许皓铄#kou2 hao1 iag4
 许佳悦#kou2 gia1 ruêg8
 许乐翔#kou2 lag8 siang5
-许镆淇#kou2 ? ki5
+许镆淇#kou2 mog8 ki5
 许铭晖#kou2 mêng5 hui1
 许锐鸿#kou2 ruê6 hong5
 许瑞希#kou2 sui6 hi1
@@ -145632,7 +145515,7 @@
 李天助#li2 tiêng1 zo6
 李天成#li2 tiêng1 sêng5
 林恺妮#lim5 kai2 nin5
-张晗鈊#diên1 ham5 ?
+张晗心#diên1 ham5 sim1
 黄敬栩#ng5 gêng3 hu2
 翁扬#êng1 iang5
 李一骋#li2 ig4 pêng3
@@ -145696,11 +145579,9 @@
 丁铭梅#dêng1 mêng5 bhuê5
 黄祖恩#ng5 zou2 eng1
 梁若宜#niên5 riag8 ngin5
-蔡梓羏#cua3 ze2 ?
 陆蔚皓#lêg8 uê3 hao1
 陆蔚皓#log8 uê3 hao1
 张锦灏#diên1 gim2 hao1
-麦秀桪#bhêh8 siu3 ?
 薛晞花#sih4 hi1 huê1
 林栩榕#lim5 hu2 iong5
 张铭铄#diên1 mêng5 iag4
@@ -145773,7 +145654,6 @@
 陈姝语#dang5 su5 ghe2
 庄隽洋#zeng1 zung3 iang5
 余振北#e5 zing2 bag4
-方嘒晴#bung1 ? zên5
 张润林#diên1 rung6 lim5
 林沐翰#lim5 mog8 hang5
 刘楷韩#lao5 kai2 hang5
@@ -147261,7 +147141,7 @@
 阮奕程#nguêng2 êg8 tian5
 章少坤#ziên1 siou3 kung1
 章少坤#ziang1 siou3 kung1
-袁愢恬#uêng5 ? tiam5
+袁愢恬#uêng5 se1 tiam5
 郭柏祺#guêh4 bêh4 ki5
 蔡枫瑞#cua3 bang1 sui6
 黄桢棋#ng5 zêng1 gi5
@@ -147479,7 +147359,6 @@
 何晓燕#ho5 hiou2 in3
 缪文辉#mog8 bhung5 hui1
 黄绮湘#ng5 i2 siang1
-杨啺圻#iên5 ? ki5
 杨填杰#iên5 tiêng5 giêg8
 舒炫臻#su1 hiêng5 zing1
 阮逸梓#nguêng2 ig8 ze2
@@ -147574,7 +147453,6 @@
 谢润松#zia7 rung6 song5
 谢创越#zia7 cang3 uêg8
 谢创坤#zia7 cang3 kung1
-蔡卓橝#cua3 doh4 ?
 颜泽宇#hian5 zêg8 u2
 颜泽宇#ngang5 zêg8 u2
 颜泽航#hian5 zêg8 hang5
@@ -147683,7 +147561,7 @@
 王澎帅#hêng5 pên5 suê3
 陈艺锦#dang5 ghoi7 gim2
 丁澳填#dêng1 o3 tiêng5
-蔡澗杰#cua3 ? giêg8
+蔡涧杰#cua3 gang2 giêg8
 蔡铭开#cua3 mêng5 kai1
 陈妮#dang5 nin5
 丁育柔#dêng1 iog8 riu5
@@ -148366,7 +148244,7 @@
 余森昊#e5 siam1 hao1
 陆怡柠#lêg8 i5 lêng5
 陆怡柠#log8 i5 lêng5
-魏墒薔#ghui7 siang1 ?
+魏墒蔷#ghui7 siang1 ciang5
 陈柳伟#dang5 liu2 ui2
 谢诗博#zia7 si1 pag4
 郭信伊#guêh4 sing3 i1
@@ -148474,7 +148352,7 @@
 陆哲宏#lêg8 diêg4 hong5
 陆哲宏#log8 diêg4 hong5
 舒梓晟#su1 ze2 sêng6
-陈燨堃#dang5 ? kung1
+陈熙堃#dang5 hi1 kung1
 黄堉楠#ng5 iog8 lam5
 苏秀媛#sou1 siu3 iêng5
 陈奕仰#dang5 êg8 ngiang2
@@ -148750,8 +148628,8 @@
 陈沛槿#dang5 pai3 geng2
 范琳珙#huam6 lim5 gong2
 陈鲁钺#dang5 lu2 uêg8
-王伯瑧#hêng5 bêh4 ?
-王仲瑧#hêng5 dong6 ?
+王伯瑧#hêng5 bêh4 zing1
+王仲瑧#hêng5 dong6 zing1
 丁跃霖#dêng1 iag4 lim5
 赖源越#nain6 nguêng5 uêg8
 石健鸿#ziêh8 giêng6 hong5
@@ -148834,7 +148712,7 @@
 吴馥媛#ghou5 hiog4 iêng5
 钟宇炯#zêng1 u2 guang2
 林锶灵#lim5 se1 lêng5
-何徳莹#ho5 ? iong5
+何德莹#ho5 dêg4 iong5
 覃柳盼#tam5 liu2 pang3
 张铃#diên1 lêng1
 丁柯焓#dêng1 gua1 ham5
@@ -149420,7 +149298,6 @@
 罗泽轩#lo5 zêg8 hng1
 陈柳宣#dang5 liu2 suang1
 陈亿玄#dang5 êg8 hiêng5
-许侠蔯#kou2 hiab8 ?
 王锐杰#hêng5 ruê6 giêg8
 文奕钦#bhung5 êg8 kim1
 江妍楠#gang1 ngiêng2 lam5
@@ -149428,8 +149305,8 @@
 黄煜帆#ng5 hiog4 pang5
 丁柳烷#dêng1 liu2 uêng5
 王锶乐#hêng5 se1 lag8
-陆潥旭#lêg8 ? hiog4
-陆潥旭#log8 ? hiog4
+陆潥旭#lêg8 sog4 hiog4
+陆潥旭#log8 sog4 hiog4
 陈林炫#dang5 lim5 hiêng5
 刘楚煊#lao5 co2 suang1
 刘柔煊#lao5 riu5 suang1
@@ -149708,7 +149585,7 @@
 刘家容#lao5 gê1 iong5
 陈毓治#dang5 hiog4 di7
 刘楷杭#lao5 kai2 hang5
-廖鍶敏#liou7 ? miêng2
+廖锶敏#liou7 se1 miêng2
 黎思琪#loi5 se1 ki5
 张子楷#diên1 ze2 kai2
 李泽钜#li2 zêg8 ge6
@@ -150224,7 +150101,7 @@
 廖渤#liou7 buêg8
 范奕帆#huam6 êg8 pang5
 雷艾淇#lui5 ain3 ki5
-江丽葉#gang1 li6 ?
+江丽叶#gang1 li6 hiêh8
 王铭乾#hêng5 mêng5 kiêng5
 刘文佳#lao5 bhung5 gia1
 冯钰涵#bang5 ghêg8 ham5
@@ -150441,7 +150318,6 @@
 陈蕙琳#dang5 hui6 lim5
 雷金德#lui5 gim1 dêg4
 刘榆#lao5 ru5
-吴柟熙#ghou5 ? hi1
 陈书昀#dang5 ze1 ung5
 黄云捷#ng5 hung5 ziab8
 卢梓佳#lou5 ze2 gia1
@@ -150490,7 +150366,7 @@
 钱翼#zin5 êg8
 刘雁栩#lao5 ngang6 hu2
 何梓端#ho5 ze2 duêng1
-赵元燦#diên6 nguêng5 ?
+赵元灿#diên6 nguêng5 cang3
 方艺冰#bung1 ghoi7 bian1
 刘思筠#lao5 se1 geng1
 任梓豪#rim6 ze2 hao5
@@ -150686,7 +150562,7 @@
 黄依晴#ng5 i1 zên5
 郑雅慈#dên7 ngian2 ce5
 刘佳洪#lao5 gia1 hong5
-江锳淳#gang1 ? sung5
+江瑛淳#gang1 êng1 sung5
 邱天麟#ku1 tiêng1 ling5
 蔡丽君#cua3 li6 gung1
 蔡艺杰#cua3 ghoi7 giêg8
@@ -150784,9 +150660,8 @@
 曾鑫权#zang1 him1 kuêng5
 肖辉#siou1 hui1
 王沛琦#hêng5 pai3 ki5
-蓝美娸#nan5 muin2 ?
 王麟瑜#hêng5 ling5 ru5
-陈埰柔#dang5 ? riu5
+陈采柔#dang5 cai2 riu5
 林莉纯#lim5 li6 sung5
 廖可#liou7 ko2
 叶锦清#iab8 gim2 cêng1
@@ -150940,7 +150815,7 @@
 黄志超#ng5 zi3 tiou3
 柯锴#gua1 kai2
 丁秋萍#dêng1 ciu1 piê5
-邱艺雲#ku1 ghoi7 ?
+邱艺云#ku1 ghoi7 hung5
 王嘉宝#hêng5 gia1 bo2
 罗铭扬#lo5 mêng5 iang5
 韦佳锜#ui5 gia1 ki5
@@ -151343,12 +151218,12 @@
 傅铱汛#bou3 i1 sing3
 黄敏桩#ng5 miêng2 zeng1
 邹夏榛#zou1 hê7 zing1
-罗栢川#lo5 ? cuêng1
+罗柏川#lo5 bêh4 cuêng1
 蔡苗#cua3 mioun5
 陈丰林#dang5 hong1 lim5
 黄芯柔#ng5 sim1 riu5
 林堉槿#lim5 iog8 geng2
-郑澐禧#dên7 ? hi1
+郑沄禧#dên7 ung5 hi1
 林依霞#lim5 i1 hia5
 陈咨婷#dang5 ze1 dêng5
 吴景烁#ghou5 gêng2 iag4
@@ -151627,7 +151502,7 @@
 曾培根#zang1 buê5 geng1
 舒金栩#su1 gim1 hu2
 吴鸿铎#ghou5 hong5 dag8
-洪澌鈿#ang5 se1 ?
+洪澌钿#ang5 se1 tiêng5
 曾家润#zang1 gê1 rung6
 洪至铨#ang5 zi3 cuêng5
 许润苗#kou2 rung6 mioun5
@@ -151882,7 +151757,7 @@
 彭陈曦#pên5 ting5 hi1
 薛烁冰#sih4 iag4 bian1
 吴伊洋#ghou5 i1 iang5
-李俠#li2 ?
+李侠#li2 hiab8
 朱庭誉#zu1 têng5 e6
 孙杭锟#seng1 hang5 kung1
 姚思轩#iê5 se1 hng1
@@ -152172,7 +152047,6 @@
 张斯韵#diên1 se1 ung7
 苏阳#sou1 iang5
 潘浣宜#puan1 uêng2 ngin5
-陈梓瀓#dang5 ze2 ?
 杨锶滢#iên5 se1 iong5
 邱贝淳#ku1 buê6 sung5
 陈贵濠#dang5 gui3 hao5
@@ -153438,7 +153312,6 @@
 谢秋妍#zia7 ciu1 ngiêng2
 杨汝丹#iên5 re2 dang1
 熊逸瀚#him5 ig8 hang5
-陈柋#dang5 ?
 陈键川#dang5 giêng6 cuêng1
 张维锌#diên1 rui5 sing1
 刘鑫梁#lao5 him1 niên5
@@ -153546,7 +153419,7 @@
 谢嘉瑶#zia7 gia1 iou5
 刘思嫚#lao5 se1 bhuêng6
 林艺嘉#lim5 ghoi7 gia1
-邱锳琪#ku1 ? ki5
+邱瑛琪#ku1 êng1 ki5
 佘伊曼#sia5 i1 bhuêng6
 王婉玥#hêng5 uêng2 ghuêh8
 陈羽梵#dang5 u2 huam6
@@ -153877,7 +153750,7 @@
 佘铄倪#sia5 iag4 ngin5
 黄楦琪#ng5 suang1 ki5
 佘梓韩#sia5 ze2 hang5
-刘湇#lao5 ?
+刘湇#lao5 cib4
 鄞子涵#ngeng5 ze2 ham5
 李堉鑫#li2 iog8 him1
 黄境琪#ng5 gêng2 ki5
@@ -153891,7 +153764,7 @@
 许景越#kou2 gêng2 uêg8
 蔡坍坭#cua3 dang1 nin5
 李沛锘#li2 pai3 nab8
-麦樹宇#bhêh8 ? u2
+麦树宇#bhêh8 su6 u2
 佘翊琅#sia5 êg8 lang5
 杨骐硕#iên5 ki5 sêg4
 庄沁铭#zeng1 cim3 mêng5
@@ -154920,7 +154793,7 @@
 陈秋亦#dang5 ciu1 êg8
 陈颢霆#dang5 hao1 têng5
 何语萱#ho5 ghe2 suang1
-黄历鎛#ng5 lêh8 ?
+黄历镈#ng5 lêh8 pag4
 李皓宇#li2 hao1 u2
 田鑫博#cang5 him1 pag4
 蓝锐娜#nan5 ruê6 non5
@@ -154948,7 +154821,7 @@
 黄垲煜#ng5 kai2 hiog4
 曾静琳#zang1 zên6 lim5
 李承泽#li2 sêng5 zêg8
-单泓鑫#duan1 hong5 him1
+单泓鑫#siêng6 hong5 him1
 雷航宇#lui5 hang5 u2
 刘佳宛#lao5 gia1 uêng2
 陈昊霆#dang5 hao1 têng5
@@ -154969,7 +154842,7 @@
 连子睿#hian5 ze2 ruê6
 廖梓阳#liou7 ze2 iang5
 钟承锴#zêng1 sêng5 kai2
-刘璟妧#lao5 gêng2 ?
+刘璟妧#lao5 gêng2 nguêng2
 阮大桂#nguêng2 dai6 gui3
 詹少萍#ziam1 siou3 piê5
 吴岱恩#ghou5 dai3 eng1
@@ -155444,7 +155317,7 @@
 黄文妍#ng5 bhung5 ngiêng2
 许浩泓#kou2 hao1 hong5
 潘钺#puan1 uêg8
-赖湋子#nain6 ? ze2
+赖𣲗子#nain6 ui5 ze2
 黄梓焕#ng5 ze2 huêng3
 吴泽煌#ghou5 zêg8 huang5
 黄钊琳#ng5 ziou1 lim5
@@ -156643,7 +156516,7 @@
 吴种楠#ghou5 zêng2 lam5
 黄思廷#ng5 se1 têng5
 谢心语#zia7 sim1 ghe2
-张琸苑#diên1 ? uêng2
+张琸苑#diên1 dog4 uêng2
 罗若绮#lo5 riag8 i2
 刘静霏#lao5 zên6 hui1
 黄张派#ng5 diên1 pai3
@@ -156754,7 +156627,6 @@
 赖斯壕#nain6 se1 hao5
 陈锵明#dang5 cang1 mêng5
 黄辰晞#ng5 sing5 hi1
-林桐煾#lim5 tong5 ?
 郑序钒#dên7 su6 huam5
 谢依倩#zia7 i1 ceng3
 卢启宇#lou5 ki2 u2
@@ -158738,7 +158610,7 @@
 李兰芳#li2 lang5 huang1
 蓝美凤#nan5 muin2 hong6
 孙晓林#seng1 hiou2 lim5
-孙贇#seng1 ?
+孙赟#seng1 ung5
 李钧妍#li2 geng1 ngiêng2
 刘哲坤#lao5 diêg4 kung1
 谢小榕#zia7 siou2 iong5
@@ -159164,7 +159036,7 @@
 黄溥铉#ng5 pou2 hiêng5
 邓梓杰#dêng6 ze2 giêg8
 黄苑凌#ng5 uêng2 lêng5
-陈锶楒#dang5 se1 ?
+陈锶思#dang5 se1 se1
 蔡欢绚#cua3 huêng1 sung5
 黄瑞锴#ng5 sui6 kai2
 邱旭煊#ku1 hiog4 suang1
@@ -159304,7 +159176,7 @@
 方依璇#bung1 i1 suêng5
 鄞智博#ngeng5 di3 pag4
 陈秦萱#dang5 cing5 suang1
-黄淽伊#ng5 ? i1
+黄芷伊#ng5 zi2 i1
 蓝熙媛#nan5 hi1 iêng5
 黎晓韵#loi5 hiou2 ung7
 尤思若#iu5 se1 riag8
@@ -159380,7 +159252,7 @@
 朱航希#zu1 hang5 hi1
 周跃锐#ziu1 iag4 ruê6
 李佳恩#li2 gia1 eng1
-田楒锶#cang5 ? se1
+田思锶#cang5 se1 se1
 陆洋萱#lêg8 iang5 suang1
 陆洋萱#log8 iang5 suang1
 杨志宏#iên5 zi3 hong5
@@ -159481,7 +159353,6 @@
 林淳妍#lim5 sung5 ngiêng2
 陆裕铭#lêg8 ru6 mêng5
 陆裕铭#log8 ru6 mêng5
-蔡思榣#cua3 se1 ?
 黄畅荣#ng5 tiang3 iong5
 李梓毅#li2 ze2 ngin5
 蓝元杰#nan5 nguêng5 giêg8
@@ -159567,7 +159438,6 @@
 王锶涵#hêng5 se1 ham5
 蔡希曈#cua3 hi1 tong5
 李子欣#li2 ze2 hng1
-翁俽奕#êng1 ? êg8
 黄新铄#ng5 sing1 iag4
 李芝妍#li2 ze1 ngiêng2
 蔡梦晞#cua3 mang7 hi1
@@ -159639,7 +159509,7 @@
 林博媛#lim5 pag4 iêng5
 任彦嘉#rim6 ngang6 gia1
 刘艺楦#lao5 ghoi7 suang1
-卢琳婻#lou5 lim5 ?
+卢琳婻#lou5 lim5 lam5
 黄玉淇#ng5 ghêg8 ki5
 苏炎宇#sou1 iam7 u2
 陆淄琳#lêg8 ze1 lim5
@@ -159681,8 +159551,8 @@
 林镱涵#lim5 i3 ham5
 张逸晴#diên1 ig8 zên5
 黄德轩#ng5 dêg4 hng1
-陆鍶妍#lêg8 ? ngiêng2
-陆鍶妍#log8 ? ngiêng2
+陆锶妍#lêg8 se1 ngiêng2
+陆锶妍#log8 se1 ngiêng2
 陈雁轩#dang5 ngang6 hng1
 夏奕洁#hê7 êg8 giêg4
 陆囿印#lêg8 iu6 ing3
@@ -159705,7 +159575,7 @@
 钟熙霖#zêng1 hi1 lim5
 陈韩哲#dang5 hang5 diêg4
 卢克瀚#lou5 kiog4 hang5
-肖牧珦#siou1 mog8 ?
+肖牧珦#siou1 mog8 hiang3
 蔡晞跃#cua3 hi1 iag4
 朱宏毅#zu1 hong5 ngin5
 蔡垲伦#cua3 kai2 lung5
@@ -159890,7 +159760,7 @@
 王疏影#hêng5 so1 ian2
 王一任#hêng5 ig4 rim6
 方崇烨#bung1 cong5 iab8
-陈芷錡#dang5 zi2 ?
+陈芷锜#dang5 zi2 ki5
 张育瑜#diên1 iog8 ru5
 林惠丽#lim5 hui6 li6
 韦灵#ui5 lêng5
@@ -160454,7 +160324,7 @@
 罗冰洁#lo5 bian1 giêg4
 谢晓蕊#zia7 hiou2 lui2
 詹咏庭#ziam1 iong3 têng5
-佘奕銜#sia5 êg8 ?
+佘奕衔#sia5 êg8 ham5
 涂成思#tu5 sêng5 se1
 许永佳#kou2 iong2 gia1
 辜瑞绒#gou1 sui6 rong5
@@ -160475,7 +160345,7 @@
 姚景诚#iê5 gêng2 sêng5
 王实#hêng5 sig8
 许震霖#kou2 zing2 lim5
-吴樂翰#ghou5 ? hang5
+吴乐翰#ghou5 lag8 hang5
 朱俊羽#zu1 zung3 u2
 黄烁睿#ng5 iag4 ruê6
 林桢烜#lim5 zêng1 hiêng2
@@ -160495,7 +160365,7 @@
 施锦彬#si1 gim2 bing1
 吕奕樟#le6 êg8 ziang1
 谢泽树#zia7 zêg8 su6
-谢曉艺#zia7 ? ghoi7
+谢晓艺#zia7 hiou2 ghoi7
 陈衍皓#dang5 iêng6 hao1
 郑越腾#dên7 uêg8 têng5
 余悦霆#e5 ruêg8 têng5
@@ -160579,7 +160449,7 @@
 彭百骏#pên5 bêh4 zung3
 李根延#li2 geng1 iêng6
 许欣煜#kou2 hng1 hiog4
-吴雲骢#ghou5 ? cong1
+吴云骢#ghou5 hung5 cong1
 陈志耿#dang5 zi3 geng2
 李思捷#li2 se1 ziab8
 罗伊璇#lo5 i1 suêng5
@@ -160850,7 +160720,7 @@
 黄馨淇#ng5 hêng1 ki5
 余倩淋#e5 ceng3 lim5
 林瑶纯#lim5 iou5 sung5
-蔡晓梖#cua3 hiou2 ?
+蔡晓𪱷#cua3 hiou2 buê6
 许偲琪#kou2 se1 ki5
 吴军杰#ghou5 gung1 giêg8
 郭森坤#guêh4 siam1 kung1
@@ -160952,7 +160822,7 @@
 方景晗#bung1 gêng2 ham5
 杨嘉淇#iên5 gia1 ki5
 温妙燕#ung1 mioun6 in3
-李愷倫#li2 ? ?
+李恺伦#li2 kai2 lung5
 林子祁#lim5 ze2 ki5
 杜政熹#dou6 zêng3 hi1
 苏夏桓#sou1 hê7 huêng5
@@ -160999,7 +160869,7 @@
 陈腾骏#dang5 têng5 zung3
 曾奕杰#zang1 êg8 giêg8
 曾昱皓#zang1 hiog4 hao1
-蔡晙熙#cua3 ? hi1
+蔡晙熙#cua3 zung3 hi1
 李艾轩#li2 ain3 hng1
 张焯泓#diên1 doh4 hong5
 张德宏#diên1 dêg4 hong5
@@ -161123,7 +160993,6 @@
 黄晓妮#ng5 hiou2 nin5
 洪鑫涵#ang5 him1 ham5
 余生源#e5 sêng1 nguêng5
-肖蔳晗#siou1 ? ham5
 陈煜欢#dang5 hiog4 huêng1
 李柯澄#li2 gua1 têng5
 郭润植#guêh4 rung6 sêg4
@@ -161153,7 +161022,6 @@
 顾容光#gou3 iong5 guang1
 郑皓轩#dên7 hao1 hng1
 郑乔曦#dên7 kiou5 hi1
-吴晹#ghou5 ?
 刘锐#lao5 ruê6
 周厚立#ziu1 gao6 lib8
 姚梓乔#iê5 ze2 kiou5
@@ -161263,7 +161131,7 @@
 黄培智#ng5 buê5 di3
 魏薇#ghui7 muin5
 吴欣庭#ghou5 hng1 têng5
-伍枍彤#ngoun2 ? tong5
+伍枍彤#ngoun2 i3 tong5
 詹润煜#ziam1 rung6 hiog4
 黄灏铄#ng5 hao1 iag4
 魏煜承#ghui7 hiog4 sêng5
@@ -161373,7 +161241,7 @@
 蔡泽远#cua3 zêg8 iêng2
 吴韦杭#ghou5 ui2 hang5
 苏琳岚#sou1 lim5 lam5
-程煇琴#tian5 ? kim5
+程辉琴#tian5 hui1 kim5
 李绮心#li2 i2 sim1
 邓少腾#dêng6 siou3 têng5
 史增楷#se2 zêng1 kai2
@@ -161529,7 +161397,6 @@
 林睿淳#lim5 ruê6 sung5
 洪树玲#ang5 su6 lêng5
 郑昌浩#dên7 ciang1 hao1
-陈阢坚#dang5 ? giêng1
 曾钰钧#zang1 ghêg8 geng1
 肖铄乐#siou1 iag4 lag8
 郑少仪#dên7 siou3 ngin5
@@ -161620,7 +161487,6 @@
 朱灿杰#zu1 cang3 giêg8
 郑少莹#dên7 siou3 iong5
 杨丽桐#iên5 li6 tong5
-方丨扬#bung1 ? iang5
 郭佩纯#guêh4 buê6 sung5
 郑辉煜#dên7 hui1 hiog4
 郑培祯#dên7 buê5 zêng1
@@ -161659,7 +161525,7 @@
 黄希鹏#ng5 hi1 pong5
 林义童#lim5 ngin6 tong5
 郑正曜#dên7 zian3 iou6
-马崧#bhê2 ?
+马嵩#bhê2 song1
 黄楷淇#ng5 kai2 ki5
 张栎楠#diên1 iag4 lam5
 张砾铭#diên1 lêh8 mêng5
@@ -161691,16 +161557,14 @@
 帅悦彤#suê3 ruêg8 tong5
 吴蔚彤#ghou5 uê3 tong5
 张健#diên1 giêng6
-周熠锍#ziu1 sib8 ?
 郑益#dên7 iah4
 杨佩茹#iên5 buê6 ru5
 魏惠慈#ghui7 hui6 ce5
 黄金丽#ng5 gim1 li6
 林璐藤#lim5 lou7 ding5
 李媚#li2 min6
-李楓#li2 ?
+李枫#li2 bang1
 彭本豪#pên5 bung2 hao5
-洪琁新#ang5 ? sing1
 林淦帆#lim5 gam3 pang5
 郑佳润#dên7 gia1 rung6
 李昊垲#li2 hao1 kai2
@@ -162124,7 +161988,6 @@
 连树锐#hian5 su6 ruê6
 马嘉耀#bhê2 gia1 iou6
 翁银莹#êng1 ngeng5 iong5
-卢姿菻#lou5 ze1 ?
 吴诗敏#ghou5 si1 miêng2
 马语唯#bhê2 ghe2 rui5
 李妍具#li2 ngiêng2 gu6
@@ -162146,7 +162009,6 @@
 郑城灶#dên7 sian5 zao3
 张楚滨#diên1 co2 bing1
 蔡梓炜#cua3 ze2 ui2
-李鍌鍑#li2 ? ?
 曾诗彤#zang1 si1 tong5
 姚杨#iê5 iang5
 郑濠铄#dên7 hao5 iag4
@@ -162346,7 +162208,7 @@
 姚奕琪#iê5 êg8 ki5
 曾萼真#zang1 ngag8 zing1
 曾泓渝#zang1 hong5 ru5
-魏钟燦#ghui7 zêng1 ?
+魏钟灿#ghui7 zêng1 cang3
 姚鸿槟#iê5 hong5 bing1
 郑梓龙#dên7 ze2 lêng5
 肖文玲#siou1 bhung5 lêng5
@@ -163049,7 +162911,7 @@
 吕欣颖#le6 hng1 têng2
 陈紫彰#dang5 zi2 ziang1
 蔡思浩#cua3 se1 hao1
-郭恩見#guêh4 eng1 ?
+郭恩见#guêh4 eng1 giêng3
 苏泽林#sou1 zêg8 lim5
 何东建#ho5 dang1 giêng6
 彭洁琪#pên5 giêg4 ki5
@@ -163154,7 +163016,7 @@
 曾俊凯#zang1 zung3 kai2
 曾若燕#zang1 riag8 in3
 姚佳容#iê5 gia1 iong5
-林楒炳#lim5 ? bêng2
+林思炳#lim5 se1 bêng2
 林洁儿#lim5 giêg4 ri5
 林伟秋#lim5 ui2 ciu1
 郑育妮#dên7 iog8 nin5
@@ -163233,7 +163095,6 @@
 彭东浩#pên5 dang1 hao1
 欧阳家纯#ao1 iang5 gê1 sung5
 庄佳健#zeng1 gia1 giêng6
-陈赽#dang5 ?
 郭增煌#guêh4 zêng1 huang5
 马剑耀#bhê2 giam3 iou6
 郭承俊#guêh4 sêng5 zung3
@@ -164126,7 +163987,7 @@
 邱锭锋#ku1 dêng6 hong1
 邱云霞#ku1 hung5 hia5
 邱乐唯#ku1 lag8 rui5
-邱湙林#ku1 ? lim5
+邱湙林#ku1 êg8 lim5
 邱锦渡#ku1 gim2 dou7
 邱嘉慧#ku1 gia1 hui6
 邱典奥#ku1 diêng2 o3
@@ -164322,7 +164183,6 @@
 吴敦洋#ghou5 dung1 iang5
 张莹煊#diên1 iong5 suang1
 张彤桐#diên1 tong5 tong5
-余楉桐#e5 ? tong5
 许韩薇#kou2 hang5 muin5
 吴旭浩#ghou5 hiog4 hao1
 卢熙曼#lou5 hi1 bhuêng6
@@ -164923,7 +164783,6 @@
 郑铠锋#dên7 kai2 hong1
 余泽松#e5 zêg8 song5
 周煜杭#ziu1 hiog4 hang5
-沈格銇#sim2 gêh4 ?
 吴佳凝#ghou5 gia1 ngêng5
 李张淇#li2 diên1 ki5
 郑佳铄#dên7 gia1 iag4
@@ -164947,7 +164806,7 @@
 余佳圻#e5 gia1 ki5
 刘易渟#lao5 i6 têng5
 廖庆翔#liou7 kêng3 siang5
-施锳琪#si1 ? ki5
+施瑛琪#si1 êng1 ki5
 詹宏俊#ziam1 hong5 zung3
 杨润奕#iên5 rung6 êg8
 詹政坤#ziam1 zêng3 kung1
@@ -168146,7 +168005,7 @@
 陈顺荣#dang5 sung6 iong5
 陈赛平#dang5 sai3 pêng5
 江初升#gang1 co1 sêng1
-江湧松#gang1 ? song5
+江涌松#gang1 iong3 song5
 陈秋彬#dang5 ciu1 bing1
 陈纯昭#dang5 sung5 ziou1
 卢龙彬#lou5 lêng5 bing1
@@ -168448,7 +168307,7 @@
 徐姿雅#ce5 ze1 ngian2
 徐奇仁#ce5 ki5 ring5
 罗静卿#lo5 zên6 kêng1
-徐湧新#ce5 ? sing1
+徐涌新#ce5 iong3 sing1
 徐少琴#ce5 siou3 kim5
 徐松荣#ce5 song5 iong5
 徐亿存#ce5 êg8 cung5
@@ -168625,7 +168484,7 @@
 何少坤#ho5 siou3 kung1
 陈春萍#dang5 cung1 piê5
 何少忠#ho5 siou3 dong1
-陈文湧#dang5 bhung5 ?
+陈文涌#dang5 bhung5 iong3
 李图鑫#li2 tu5 him1
 何培标#ho5 buê5 piou1
 郑斯彤#dên7 se1 tong5
@@ -169540,7 +169399,7 @@
 王创丰#hêng5 cang3 hong1
 王深海#hêng5 cim1 hai2
 梁璧君#niên5 biah4 gung1
-王楷湧#hêng5 kai2 ?
+王楷涌#hêng5 kai2 iong3
 蔡盖锋#cua3 gai3 hong1
 蔡林忠#cua3 lim5 dong1
 蔡梅中#cua3 bhuê5 dong1
@@ -169621,7 +169480,7 @@
 洪烨娜#ang5 iab8 non5
 洪佳希#ang5 gia1 hi1
 洪静英#ang5 zên6 êng1
-洪湧新#ang5 ? sing1
+洪涌新#ang5 iong3 sing1
 侯瑞珠#hou5 sui6 zu1
 侯瑞珠#gao5 sui6 zu1
 刘旭芬#lao5 hiog4 hung1
@@ -170005,7 +169864,7 @@
 林贵荣#lim5 gui3 iong5
 林锐雄#lim5 ruê6 hiong5
 林秀龙#lim5 siu3 lêng5
-林湧辉#lim5 ? hui1
+林涌辉#lim5 iong3 hui1
 余惜宏#e5 siêh4 hong5
 林锦波#lim5 gim2 bo1
 林美芝#lim5 muin2 ze1
@@ -170174,7 +170033,7 @@
 黄洁音#ng5 giêg4 im1
 洪超萍#ang5 tiou3 piê5
 张旭君#diên1 hiog4 gung1
-郭湧平#guêh4 ? pêng5
+郭涌平#guêh4 iong3 pêng5
 郭淡规#guêh4 dan6 gui1
 郭晓生#guêh4 hiou2 sêng1
 郭雪卿#guêh4 soh4 kêng1
@@ -170199,7 +170058,7 @@
 郭晓伟#guêh4 hiou2 ui2
 郭镇徐#guêh4 ding3 ce5
 郭喜华#guêh4 hi2 hua5
-郭湧武#guêh4 ? bhu2
+郭涌武#guêh4 iong3 bhu2
 郭和典#guêh4 hua5 diêng2
 郭怀珠#guêh4 huai5 zu1
 郭耿新#guêh4 geng2 sing1
@@ -170387,7 +170246,7 @@
 何才亮#ho5 cai5 liang6
 陈立松#dang5 lib8 song5
 陈凯信#dang5 kai2 sing3
-陈欢湧#dang5 huêng1 ?
+陈欢涌#dang5 huêng1 iong3
 陈典音#dang5 diêng2 im1
 陈绵坤#dang5 miêng5 kung1
 陈国存#dang5 gog4 cung5
@@ -170465,7 +170324,7 @@
 卢玉科#lou5 ghêg8 kuê1
 卢剑凯#lou5 giam3 kai2
 卢林松#lou5 lim5 song5
-卢湧光#lou5 ? guang1
+卢涌光#lou5 iong3 guang1
 卢贤光#lou5 hiêng5 guang1
 卢玉龙#lou5 ghêg8 lêng5
 卢伟明#lou5 ui2 mêng5
@@ -170485,7 +170344,7 @@
 卢培松#lou5 buê5 song5
 卢瑞光#lou5 sui6 guang1
 王佩銮#hêng5 buê6 luêng5
-卢湧利#lou5 ? li6
+卢涌利#lou5 iong3 li6
 卢清元#lou5 cêng1 nguêng5
 何小芳#ho5 siou2 huang1
 卢俊文#lou5 zung3 bhung5
@@ -173142,7 +173001,7 @@
 张旭平#diên1 hiog4 pêng5
 张建贞#diên1 giêng6 zêng1
 张奕强#diên1 êg8 kiang5
-张锦湧#diên1 gim2 ?
+张锦涌#diên1 gim2 iong3
 张藩雄#diên1 puêng1 hiong5
 林梅城#lim5 bhuê5 sian5
 林新华#lim5 sing1 hua5
@@ -173617,7 +173476,7 @@
 黄少钦#ng5 siou3 kim1
 黄李贤#ng5 li2 hiêng5
 赖雪庄#nain6 soh4 zeng1
-郭湧标#guêh4 ? piou1
+郭涌标#guêh4 iong3 piou1
 郭镇群#guêh4 ding3 kung5
 郭特佳#guêh4 dêg8 gia1
 郭林华#guêh4 lim5 hua5
@@ -177247,7 +177106,7 @@
 方友弟#bung1 iu2 di6
 李加汉#li2 gia1 hang3
 李美波#li2 muin2 bo1
-李楚湧#li2 co2 ?
+李楚涌#li2 co2 iong3
 杨娜霞#iên5 non5 hia5
 李玉辉#li2 ghêg8 hui1
 李楚当#li2 co2 deng1
@@ -177341,7 +177200,7 @@
 林永厚#lim5 iong2 gao6
 陈洁红#dang5 giêg4 ang5
 林伟胜#lim5 ui2 sêng3
-林飞湧#lim5 hui1 ?
+林飞涌#lim5 hui1 iong3
 林创宾#lim5 cang3 bing1
 林银任#lim5 ngeng5 rim6
 林洁鑫#lim5 giêg4 him1
@@ -179481,7 +179340,7 @@
 张生活#diên1 sêng1 uah8
 张争荣#diên1 zên1 iong5
 张瑞平#diên1 sui6 pêng5
-张春湧#diên1 cung1 ?
+张春涌#diên1 cung1 iong3
 张春茂#diên1 cung1 mong6
 张秋雪#diên1 ciu1 soh4
 张国有#diên1 gog4 iu2*
@@ -180704,7 +180563,7 @@
 陈文响#dang5 bhung5 hiang2
 杨惠存#iên5 hui6 cung5
 林来凤#lim5 lai5 hong6
-曾再湧#zang1 zai3 ?
+曾再涌#zang1 zai3 iong3
 曾细发#zang1 soi3 huêg4
 吴瑞武#ghou5 sui6 bhu2
 杨顺辉#iên5 sung6 hui1
@@ -180970,7 +180829,7 @@
 林炳心#lim5 bêng2 sim1
 林文长#lim5 bhung5 ciang5
 林益南#lim5 iah4 lam5
-林湧书#lim5 ? ze1
+林涌书#lim5 iong3 ze1
 林顺农#lim5 sung6 long5
 林争润#lim5 zên1 rung6
 林汉彪#lim5 hang3 biu1
@@ -181188,7 +181047,7 @@
 黄松发#ng5 song5 huêg4
 李松展#li2 song5 diêng2
 李剑文#li2 giam3 bhung5
-李湧庚#li2 ? gên1
+李涌庚#li2 iong3 gên1
 李汉哲#li2 hang3 diêg4
 李汉声#li2 hang3 sian1
 李汉松#li2 hang3 song5
@@ -181284,7 +181143,7 @@
 林光#lim5 guang1
 林映辉#lim5 iang3 hui1
 林溪#lim5 koi1
-林琼湧#lim5 kuang5 ?
+林琼涌#lim5 kuang5 iong3
 林连#lim5 liêng5
 林允嵩#lim5 rung2 song1
 林春叶#lim5 cung1 hiêh8
@@ -181522,7 +181381,7 @@
 李顺填#li2 sung6 tiêng5
 李选明#li2 suêng2 mêng5
 李元昌#li2 nguêng5 ciang1
-李子湧#li2 ze2 ?
+李子涌#li2 ze2 iong3
 李楚汉#li2 co2 hang3
 李英财#li2 êng1 cai5
 李木展#li2 bhag8 diêng2
@@ -181563,7 +181422,7 @@
 李良慎#li2 liang5 sim2
 李初允#li2 co1 rung2
 李秒漏#li2 mioun2 lao7
-李汉湧#li2 hang3 ?
+李汉涌#li2 hang3 iong3
 李乙陇#li2 ig4 lêng2
 李炎忠#li2 iam7 dong1
 李绿彪#li2 lêg8 biu1
@@ -182349,7 +182208,7 @@
 庄运昌#zeng1 ung7 ciang1
 庄龙耿#zeng1 lêng5 geng2
 庄振岸#zeng1 zing2 ngain6
-庄亷声#zeng1 ? sian1
+庄廉声#zeng1 liam5 sian1
 庄秀琴#zeng1 siu3 kim5
 庄文顶#zeng1 bhung5 dêng2
 庄珍衍#zeng1 diêng1 iêng6
@@ -182508,7 +182367,7 @@
 邓列南#dêng6 liêg8 lam5
 邓赐光#dêng6 se3 guang1
 杨早#iên5 za2
-杨海湧#iên5 hai2 ?
+杨海涌#iên5 hai2 iong3
 杨耀范#iên5 iou6 huam6
 曾权#zang1 kuêng5
 曾裕#zang1 ru6
@@ -182621,7 +182480,7 @@
 王伟乐#hêng5 ui2 lag8
 李炎祥#li2 iam7 siang5
 林鹏泽#lim5 pong5 zêg8
-林湧波#lim5 ? bo1
+林涌波#lim5 iong3 bo1
 林海潮#lim5 hai2 diê5
 张海滨#diên1 hai2 bing1
 张学宝#diên1 hag8 bo2
@@ -184442,7 +184301,7 @@
 林学良#lim5 hag8 liang5
 林益念#lim5 iah4 liam6
 林祜本#lim5 hu6 bung2
-林湧#lim5 ?
+林涌#lim5 iong3
 林放中#lim5 huang3 dong1
 林庆欢#lim5 kêng3 huêng1
 林炳音#lim5 bêng2 im1
@@ -194068,7 +193927,7 @@
 詹伟林#ziam1 ui2 lim5
 郑友丽#dên7 iu2 li6
 何子康#ho5 ze2 kang1
-贺祝妧#ho7 zog4 ?
+贺祝妧#ho7 zog4 nguêng2
 赖丽青#nain6 li6 cên1
 王春香#hêng5 cung1 hiang1
 杨必港#iên5 big4 gang2
@@ -198413,7 +198272,6 @@
 胡耀花#ou5 iou6 huê1
 黄泽营#ng5 zêg8 ian5
 揭高佳和#giah4 gao1 gia1 hua5
-揭惠奺#giah4 hui6 ?
 揭惠华#giah4 hui6 hua5
 揭惠琉#giah4 hui6 liu5
 揭惠奇#giah4 hui6 ki5
@@ -198744,7 +198602,7 @@
 郭耀华#guêh4 iou6 hua5
 余春华#e5 cung1 hua5
 蔡奕民#cua3 êg8 ming5
-韦雲天#ui5 ? tiêng1
+韦云天#ui5 hung5 tiêng1
 陈必洲#dang5 big4 ziu1
 蔡随阳#cua3 sui5 iang5
 陈康烁#dang5 kang1 iag4
@@ -199773,7 +199631,6 @@
 黄佩兰#ng5 buê6 lang5
 王伟中#hêng5 ui2 dong1
 廖细缄#liou7 soi3 kiam5
-陈琍敏#dang5 ? miêng2
 李银柳#li2 ngeng5 liu2
 陈清炜#dang5 cêng1 ui2
 胡植芸#ou5 sêg4 ung5
@@ -199942,7 +199799,7 @@
 李卓辉#li2 doh4 hui1
 林焕钊#lim5 huêng3 ziou1
 杨贤武#iên5 hiêng5 bhu2
-韦雲凯#ui5 ? kai2
+韦云凯#ui5 hung5 kai2
 陈浚涵#dang5 zung3 ham5
 陈继贤#dang5 gi3 hiêng5
 刘启协#lao5 ki2 hiab8
@@ -200093,7 +199950,7 @@
 郑梓键#dên7 ze2 giêng6
 潘曼琳#puan1 bhuêng6 lim5
 陈伟洽#dang5 ui2 ziab8
-林金億#lim5 gim1 ?
+林金亿#lim5 gim1 êg8
 钟妙卿#zêng1 mioun6 kêng1
 许伟洲#kou2 ui2 ziu1
 陈立煌#dang5 lib8 huang5
@@ -201548,7 +201405,7 @@
 陈加胜#dang5 gia1 sêng3
 陈庭聪#dang5 têng5 cong1
 陈妹惜#dang5 muên6 siêh4
-陈梓渏#dang5 ze2 ?
+陈梓渏#dang5 ze2 i1
 陈英腾#dang5 êng1 têng5
 许楚君#kou2 co2 gung1
 陈梓满#dang5 ze2 muan2
@@ -201804,7 +201661,7 @@
 余静烁#e5 zên6 iag4
 刘卫珊#lao5 uê6 sang1
 陈坤炎#dang5 kung1 iam7
-刘子滙#lao5 ze2 ?
+刘子汇#lao5 ze2 huê6
 李艺烽#li2 ghoi7 hong1
 苏樟海#sou1 ziang1 hai2
 杨培雄#iên5 buê5 hiong5
@@ -202078,7 +201935,7 @@
 莫树镇#mog8 su6 ding3
 郭少君#guêh4 siou3 gung1
 黄崴翀#ng5 ui1 cong1
-刘东湧#lao5 dang1 ?
+刘东涌#lao5 dang1 iong3
 陈英顺#dang5 êng1 sung6
 陈继发#dang5 gi3 huêg4
 刘少勉#lao5 siou3 miêng2
@@ -203608,7 +203465,7 @@
 郑亚谷#dên7 a1 gog4
 郑文炎#dên7 bhung5 iam7
 郑良平#dên7 liang5 pêng5
-郑二吇#dên7 ri6 ?
+郑二子#dên7 ri6 ze2
 姚琼欣#iê5 kuang5 hng1
 姚廷松#iê5 têng5 song5
 周焕鹏#ziu1 huêng3 pong5
@@ -204184,7 +204041,7 @@
 陈卓武#dang5 doh4 bhu2
 郑国雄#dên7 gog4 hiong5
 方汉斌#bung1 hang3 bing1
-郑吇仔#dên7 ? gian2
+郑子仔#dên7 ze2 gian2
 吴声海#ghou5 sian1 hai2
 吴汉振#ghou5 hang3 zing2
 吴锡泉#ghou5 siah4 zuan5
@@ -204574,7 +204431,7 @@
 陈运浩#dang5 ung7 hao1
 林灶明#lim5 zao3 mêng5
 陈景忠#dang5 gêng2 dong1
-张细吇#diên1 soi3 ?
+张细子#diên1 soi3 ze2
 郑钟益#dên7 zêng1 iah4
 林兴泽#lim5 hêng1 zêg8
 张创丰#diên1 cang3 hong1
@@ -205012,7 +204869,7 @@
 刘金鸿#lao5 gim1 hong5
 黄木松#ng5 bhag8 song5
 马进程#bhê2 zing3 tian5
-马培樑#bhê2 buê5 ?
+马培梁#bhê2 buê5 niên5
 游汉青#iu5 hang3 cên1
 黄长宏#ng5 ciang5 hong5
 马明坚#bhê2 mêng5 giêng1
@@ -205471,7 +205328,7 @@
 张炳弟#diên1 bêng2 di6
 张朝和#diên1 ziou1 hua5
 张楚荣#diên1 co2 iong5
-张二吇#diên1 ri6 ?
+张二子#diên1 ri6 ze2
 张辉邻#diên1 hui1 ling5
 张木兴#diên1 bhag8 hêng1
 张容蜂#diên1 iong5 pang1
@@ -205544,7 +205401,7 @@
 李菁纯#li2 cên1 sung5
 周婵芳#ziu1 siam5 huang1
 周厚松#ziu1 gao6 song5
-张吇弟#diên1 ? di6
+张子弟#diên1 ze2 di6
 张洪武#diên1 hong5 bhu2
 吕爱如#le6 ain3 ru5
 张少卿#diên1 siou3 kêng1
@@ -205589,7 +205446,7 @@
 张素卿#diên1 su3 kêng1
 张增瑞#diên1 zêng1 sui6
 张雍波#diên1 iong1 bo1
-张大吇#diên1 dai6 ?
+张大子#diên1 dai6 ze2
 周裕庭#ziu1 ru6 têng5
 吴镇武#ghou5 ding3 bhu2
 王泽加#hêng5 zêg8 gia1
@@ -210480,7 +210337,7 @@
 吴喜宣#ghou5 hi2 suang1
 周国锦#ziu1 gog4 gim2
 游汉贞#iu5 hang3 zêng1
-张吇仔#diên1 ? gian2
+张子仔#diên1 ze2 gian2
 吴壮杰#ghou5 zang3 giêg8
 吴灶波#ghou5 zao3 bo1
 张楚奴#diên1 co2 noun5
@@ -210806,7 +210663,7 @@
 林友道#lim5 iu2 dao6
 赵汉晖#diên6 hang3 hui1
 刘创城#lao5 cang3 sian5
-张妹哖#diên1 muên6 ?
+张妹年#diên1 muên6 nin5
 刘淑河#lao5 sog4 ho5
 张永镜#diên1 iong2 gian3
 张镇南#diên1 ding3 lam5
@@ -211490,7 +211347,7 @@
 黄楚龙#ng5 co2 lêng5
 马文展#bhê2 bhung5 diêng2
 唐楚豪#deng5 co2 hao5
-王吇弟#hêng5 ? di6
+王子弟#hêng5 ze2 di6
 林淑珠#lim5 sog4 zu1
 王荣吉#hêng5 iong5 gig4
 蔡晓华#cua3 hiou2 hua5
@@ -211560,7 +211417,7 @@
 黄加宣#ng5 gia1 suang1
 黄锡清#ng5 siah4 cêng1
 赵阿仁#diên6 a1 ring5
-柯亚吇#gua1 a1 ?
+柯亚子#gua1 a1 ze2
 刘集亮#lao5 zib8 liang6
 郑金声#dên7 gim1 sian1
 肖响忠#siou1 hiang2 dong1
@@ -212043,7 +211900,7 @@
 唐伟彬#deng5 ui2 bing1
 王明洲#hêng5 mêng5 ziu1
 林允贤#lim5 rung2 hiêng5
-薛暘#sih4 ?
+薛旸#sih4 iang5
 李宝妹#li2 bo2 muên6
 钟惠旋#zêng1 hui6 suêng5
 郭纯娇#guêh4 sung5 giou1
@@ -212226,7 +212083,7 @@
 刘国和#lao5 gog4 hua5
 周国雄#ziu1 gog4 hiong5
 赵华睦#diên6 hua5 mog8
-赵吇仔#diên6 ? gian2
+赵子仔#diên6 ze2 gian2
 陈仕和#dang5 se6 hua5
 赵辉斌#diên6 hui1 bing1
 赵细弟#diên6 soi3 di6
@@ -213100,7 +212957,7 @@
 吴伟青#ghou5 ui2 cên1
 王蜡石#hêng5 lah8 ziêh8
 陈静意#dang5 zên6 i3
-吴大吇#ghou5 dai6 ?
+吴大子#ghou5 dai6 ze2
 孙庆君#seng1 kêng3 gung1
 郑明珊#dên7 mêng5 sang1
 郑美香#dên7 muin2 hiang1
@@ -214263,7 +214120,6 @@
 萧海明#siou1 hai2 mêng5
 翁永绵#êng1 iong2 miêng5
 陈瑞燕#dang5 sui6 in3
-郑瑞傛#dên7 sui6 ?
 李琪英#li2 ki5 êng1
 谢巧燕#zia7 ka2 in3
 郑育忠#dên7 iog8 dong1
@@ -214897,7 +214753,7 @@
 周碧君#ziu1 pêg4 gung1
 吴坚鹏#ghou5 giêng1 pong5
 王加珍#hêng5 gia1 diêng1
-黄亚吇#ng5 a1 ?
+黄亚子#ng5 a1 ze2
 廖巧玉#liou7 ka2 ghêg8
 颜明胜#hian5 mêng5 sêng3
 颜明胜#ngang5 mêng5 sêng3
@@ -215398,7 +215254,7 @@
 陈运隆#dang5 ung7 long5
 陈实洪#dang5 sig8 hong5
 马梓锋#bhê2 ze2 hong1
-黄彥纯#ng5 ? sung5
+黄彦纯#ng5 ngang6 sung5
 李振烈#li2 zing2 liêg8
 张钟南#diên1 zêng1 lam5
 李友亮#li2 iu2 liang6
@@ -215482,7 +215338,6 @@
 杨永文#iên5 iong2 bhung5
 杨毅雄#iên5 ngin5 hiong5
 林汉周#lim5 hang3 ziu1
-周僯震#ziu1 ? zing2
 刘映春#lao5 iang3 cung1
 赵文成#diên6 bhung5 sêng5
 贝明水#buê6 mêng5 zui2
@@ -216718,7 +216573,7 @@
 郑镇元#dên7 ding3 nguêng5
 郑如玉#dên7 ru5 ghêg8
 刘枚坚#lao5 bhuê5 giêng1
-孙细吇#seng1 soi3 ?
+孙细子#seng1 soi3 ze2
 李先利#li2 soin1 li6
 黄秀凤#ng5 siu3 hong6
 赵彦贞#diên6 ngang6 zêng1
@@ -218135,7 +217990,7 @@
 萧进强#siou1 zing3 kiang5
 郑婵兰#dên7 siam5 lang5
 郑柔玲#dên7 riu5 lêng5
-郑吇#dên7 ?
+郑子#dên7 ze2
 郑彦英#dên7 ngang6 êng1
 章世兴#ziên1 si3 hêng1
 章世兴#ziang1 si3 hêng1
@@ -218327,7 +218182,7 @@
 周坤和#ziu1 kung1 hua5
 郑述光#dên7 sug8 guang1
 吴声农#ghou5 sian1 long5
-吴吇#ghou5 ?
+吴子#ghou5 ze2
 郑振长#dên7 zing2 ciang5
 吴楚弟#ghou5 co2 di6
 郑育如#dên7 iog8 ru5
@@ -218709,7 +218564,7 @@
 柯婵英#gua1 siam5 êng1
 林耿标#lim5 geng2 piou1
 柯映池#gua1 iang3 di5
-柯洁姮#gua1 giêg4 ?
+柯洁姮#gua1 giêg4 hêng5
 柯小珠#gua1 siou2 zu1
 林云楚#lim5 hung5 co2
 赵木雄#diên6 bhag8 hiong5
@@ -218773,7 +218628,7 @@
 黄凤金#ng5 hong6 gim1
 章伟标#ziên1 ui2 piou1
 章伟标#ziang1 ui2 piou1
-郑亚吇#dên7 a1 ?
+郑亚子#dên7 a1 ze2
 郑习典#dên7 sib8 diêng2
 张文威#diên1 bhung5 ui1
 谢钟溪#zia7 zêng1 koi1
@@ -219398,7 +219253,7 @@
 谢秀珠#zia7 siu3 zu1
 蔡乐旋#cua3 lag8 suêng5
 陈南彬#dang5 lam5 bing1
-王大吇#hêng5 dai6 ?
+王大子#hêng5 dai6 ze2
 岱细妹#dai3 soi3 muên6
 谢世叶#zia7 si3 hiêh8
 戴锦招#do3 gim2 ziou1
@@ -222785,7 +222640,7 @@
 李坤城#li2 kung1 sian5
 廖奇贞#liou7 ki5 zêng1
 廖亚哑#liou7 a1 ê2
-刘亚吇#lao5 a1 ?
+刘亚子#lao5 a1 ze2
 李绍孟#li2 siou6 mêng6
 李玉珊#li2 ghêg8 sang1
 张成才#diên1 sêng5 cai5
@@ -223197,7 +223052,7 @@
 张炎松#diên1 iam7 song5
 林炎松#lim5 iam7 song5
 冯细奴#bang5 soi3 noun5
-陈榮#dang5 ?
+陈荣#dang5 iong5
 郭淑銮#guêh4 sog4 luêng5
 郑增强#dên7 zêng1 kiang5
 吴万鑫#ghou5 bhuêng7 him1
@@ -223250,7 +223105,7 @@
 郑桂炎#dên7 gui3 iam7
 郑坚才#dên7 giêng1 cai5
 郑勇才#dên7 iong2 cai5
-姚适東#iê5 sêg4 ?
+姚适东#iê5 sêg4 dang1
 姚秀枝#iê5 siu3 gi1
 林浠钇#lim5 hi1 ig4
 姚镜生#iê5 gian3 sêng1
@@ -223328,7 +223183,7 @@
 吴镇泉#ghou5 ding3 zuan5
 郑钦潮#dên7 kim1 diê5
 郑惠贞#dên7 hui6 zêng1
-周绍瑩#ziu1 siou6 ?
+周绍莹#ziu1 siou6 iong5
 沈丁文#sim2 dêng1 bhung5
 李海文#li2 hai2 bhung5
 吴洪文#ghou5 hong5 bhung5
@@ -223413,7 +223268,7 @@
 姚荣文#iê5 iong5 bhung5
 沈焕森#sim2 huêng3 siam1
 蔡逸娟#cua3 ig8 giêng1
-郑煜東#dên7 hiog4 ?
+郑煜东#dên7 hiog4 dang1
 林良端#lim5 liang5 duêng1
 郑渝明#dên7 ru5 mêng5
 许哑#kou2 ê2
@@ -224193,7 +224048,7 @@
 周桂连#ziu1 gui3 liêng5
 姚希全#iê5 hi1 cuêng5
 肖春娟#siou1 cung1 giêng1
-李丹瑩#li2 dang1 ?
+李丹莹#li2 dang1 iong5
 郑名洪#dên7 mian5 hong5
 肖坤镛#siou1 kung1 iong5
 郑晓銮#dên7 hiou2 luêng5
@@ -224316,7 +224171,6 @@
 李金泉#li2 gim1 zuan5
 肖少东#siou1 siou3 dang1
 郑銮心#dên7 luêng5 sim1
-陈亭岄#dang5 dêng5 ?
 纪传明#gi2 tuêng5 mêng5
 郑丽溶#dên7 li6 iong5
 翁力文#êng1 lag8 bhung5
@@ -224941,7 +224795,7 @@
 王灿升#hêng5 cang3 sêng1
 郑文娇#dên7 bhung5 giou1
 李冠彬#li2 guêng3 bing1
-倪巧鎔#ghoi5 ka2 ?
+倪巧镕#ghoi5 ka2 iong5
 吕丽卿#le6 li6 kêng1
 郑则衡#dên7 zêg4 huang5
 戴昭勇#do3 ziou1 iong2
@@ -224989,7 +224843,7 @@
 王玉兰#hêng5 ghêg8 lang5
 郑爱吟#dên7 ain3 ngim5
 陈初生#dang5 co1 sêng1
-林凱茵#lim5 ? ing1
+林凯茵#lim5 kai2 ing1
 张玉玲#diên1 ghêg8 lêng5
 郑木洪#dên7 bhag8 hong5
 肖瑞农#siou1 sui6 long5
@@ -225557,7 +225411,7 @@
 叶豆芽#iab8 dao7 ghê5
 叶豆芽#hiab8 dao7 ghê5
 姚丽娥#iê5 li6 ngon5
-林宏凱#lim5 hong5 ?
+林宏凯#lim5 hong5 kai2
 郑巧娟#dên7 ka2 giêng1
 王思帆#hêng5 se1 pang5
 吴龙弟#ghou5 lêng5 di6
@@ -225569,7 +225423,7 @@
 周利鹏#ziu1 li6 pong5
 洪牛英#ang5 ghu5 êng1
 肖亮欣#siou1 liang6 hng1
-黄煜褀#ng5 hiog4 ?
+黄煜褀#ng5 hiog4 ki5
 肖努君#siou1 non3 gung1
 张成贤#diên1 sêng5 hiêng5
 林锡桂#lim5 siah4 gui3
@@ -225848,7 +225702,7 @@
 吕武彬#le6 bhu2 bing1
 郑添林#dên7 tiam1 lim5
 张宋梅#diên1 song3 bhuê5
-谢铭勝#zia7 mêng5 ?
+谢铭胜#zia7 mêng5 sêng3
 郑建喜#dên7 giêng6 hi2
 李振德#li2 zing2 dêg4
 郑邦才#dên7 bang1 cai5
@@ -226143,7 +225997,7 @@
 陈英智#dang5 êng1 di3
 张奇#diên1 ki5
 吕康吉#le6 kang1 gig4
-郑淽荧#dên7 ? iong5
+郑芷荧#dên7 zi2 iong5
 郑和英#dên7 hua5 êng1
 陈娥琴#dang5 ngon5 kim5
 周美卿#ziu1 muin2 kêng1
@@ -226539,7 +226393,7 @@
 许庆兰#kou2 kêng3 lang5
 郑武#dên7 bhu2
 肖棉雄#siou1 min5 hiong5
-单羽萱#duan1 u2 suang1
+单羽萱#siêng6 u2 suang1
 郑伯良#dên7 bêh4 liang5
 郑炫增#dên7 hiêng5 zêng1
 吴太然#ghou5 tai3 riêng5
@@ -231735,7 +231589,7 @@
 张略明#diên1 liag8 mêng5
 张略藩#diên1 liag8 puêng1
 张丽彦#diên1 li6 ngang6
-张湧#diên1 ?
+张涌#diên1 iong3
 洪婵兰#ang5 siam5 lang5
 张略树#diên1 liag8 su6
 张益源#diên1 iah4 nguêng5
@@ -232064,7 +231918,7 @@
 蔡粉娟#cua3 hung2 giêng1
 曾汝群#zang1 re2 kung5
 曾锦升#zang1 gim2 sêng1
-曾庆湧#zang1 kêng3 ?
+曾庆涌#zang1 kêng3 iong3
 曾怀昂#zang1 huai5 ngang1
 黄志群#ng5 zi3 kung5
 杨巧芳#iên5 ka2 huang1
@@ -232695,7 +232549,7 @@
 谢銮花#zia7 luêng5 huê1
 孙瑞华#seng1 sui6 hua5
 辜惠华#gou1 hui6 hua5
-孙大湧#seng1 dai6 ?
+孙大涌#seng1 dai6 iong3
 郑丽芸#dên7 li6 ung5
 陈汉杏#dang5 hang3 hêng6
 谢素芳#zia7 su3 huang1
@@ -237159,7 +237013,7 @@
 林佩生#lim5 buê6 sêng1
 谢楚霞#zia7 co2 hia5
 蔡奕仁#cua3 êg8 ring5
-李绍湧#li2 siou6 ?
+李绍涌#li2 siou6 iong3
 江洁仪#gang1 giêg4 ngin5
 薛佳瀚#sih4 gia1 hang5
 廖来生#liou7 lai5 sêng1
@@ -241137,7 +240991,7 @@
 刘选亮#lao5 suêng2 liang6
 郭楚云#guêh4 co2 hung5
 刘选泉#lao5 suêng2 zuan5
-刘敏兒#lao5 miêng2 ?
+刘敏儿#lao5 miêng2 ri5
 张略音#diên1 liag8 im1
 郭舜国#guêh4 sung3 gog4
 郭绵浩#guêh4 miêng5 hao1
@@ -244409,7 +244263,6 @@
 许美松#kou2 muin2 song5
 许钦有#kou2 kim1 iu2*
 许清亮#kou2 cêng1 liang6
-许锐唂#kou2 ruê6 ?
 许绍安#kou2 siou6 ang1
 许绍河#kou2 siou6 ho5
 许绍梓#kou2 siou6 ze2
@@ -244877,7 +244730,7 @@
 许森兰#kou2 siam1 lang5
 杨素卿#iên5 su3 kêng1
 朱钦亮#zu1 kim1 liang6
-蔡湧勍#cua3 ? kêng5
+蔡涌勍#cua3 iong3 kêng5
 蔡弟#cua3 di6
 蔡合仕#cua3 hah8 se6
 蔡素纯#cua3 su3 sung5
@@ -246524,7 +246377,7 @@
 姚锦海#iê5 gim2 hai2
 余惜娟#e5 siêh4 giêng1
 张雁#diên1 ngang6
-邹弟哖#zou1 di6 ?
+邹弟年#zou1 di6 nin5
 林等有#lim5 dêng2 iu2*
 林二嗳#lim5 ri6 ai3
 林广宏#lim5 guang2 hong5
@@ -246815,7 +246668,7 @@
 林绍关#lim5 siou6 guêng1
 林绍敏#lim5 siou6 miêng2
 林绍强#lim5 siou6 kiang5
-林天湧#lim5 tiêng1 ?
+林天涌#lim5 tiêng1 iong3
 林天霸#lim5 tiêng1 ba3
 林天耀#lim5 tiêng1 iou6
 林先存#lim5 soin1 cung5
@@ -246867,7 +246720,7 @@
 林天德#lim5 tiêng1 dêg4
 林天仅#lim5 tiêng1 geng2
 林晓茎#lim5 hiou2 kêng5
-林亚哖#lim5 a1 ?
+林亚年#lim5 a1 nin5
 林亚创#lim5 a1 cang3
 林尧强#lim5 ngioun5 kiang5
 林银玲#lim5 ngeng5 lêng5
@@ -247028,7 +246881,7 @@
 陈锡镇#dang5 siah4 ding3
 陈孝佩#dang5 hao3 buê6
 陈银福#dang5 ngeng5 hog4
-陈友湧#dang5 iu2 ?
+陈友涌#dang5 iu2 iong3
 陈友迎#dang5 iu2 ngiêng5
 陈忠田#dang5 dong1 cang5
 陈壮煌#dang5 zang3 huang5
@@ -247579,7 +247432,6 @@
 林修贵#lim5 siu1 gui3
 林耀美#lim5 iou6 muin2
 林娜清#lim5 non5 cêng1
-陈鲤鮕#dang5 li2 ?
 林贵珍#lim5 gui3 diêng1
 陈国镇#dang5 gog4 ding3
 林命合#lim5 mêng6 hah8
@@ -247701,7 +247553,6 @@
 林惜虹#lim5 siêh4 hong5
 沈幼清#sim2 iun3 cêng1
 林柔芸#lim5 riu5 ung5
-陈大恅#dang5 dai6 ?
 洪秋敏#ang5 ciu1 miêng2
 林舜良#lim5 sung3 liang5
 曾仕杰#zang1 se6 giêg8
@@ -248922,7 +248773,7 @@
 纪润忠#gi2 rung6 dong1
 纪伟鑫#gi2 ui2 him1
 纪文卿#gi2 bhung5 kêng1
-纪彦崧#gi2 ngang6 ?
+纪彦嵩#gi2 ngang6 song1
 纪友云#gi2 iu2 hung5
 蔡静珊#cua3 zên6 sang1
 纪别人#gi2 bag8 nang5
@@ -248986,7 +248837,7 @@
 石碧玉#ziêh8 pêg4 ghêg8
 吴巧娟#ghou5 ka2 giêng1
 杨丽卿#iên5 li6 kêng1
-蔡湧林#cua3 ? lim5
+蔡涌林#cua3 iong3 lim5
 蔡桂荣#cua3 gui3 iong5
 蔡和然#cua3 hua5 riêng5
 蔡松亮#cua3 song5 liang6
@@ -249303,7 +249154,7 @@
 芮广和#ruê7 guang2 hua5
 芮文龙#ruê7 bhung5 lêng5
 芮友文#ruê7 iu2 bhung5
-蔡楚湧#cua3 co2 ?
+蔡楚涌#cua3 co2 iong3
 蔡创林#cua3 cang3 lim5
 蔡革钿#cua3 gêg4 tiêng5
 蔡浩记#cua3 hao1 gi3
@@ -250053,7 +249904,7 @@
 李友兴#li2 iu2 hêng1
 曾惠#zang1 hui6
 许斯克#kou2 se1 kiog4
-谢湧顺#zia7 ? sung6
+谢涌顺#zia7 iong3 sung6
 蔡金梅#cua3 gim1 bhuê5
 谢乌弟#zia7 ou1 di6
 谢汉臣#zia7 hang3 cing5
@@ -250628,7 +250479,7 @@
 佘为鹏#sia5 ui5 pong5
 谢劝盛#zia7 keng3 sêng6
 赵奕安#diên6 êg8 ang1
-林楙#lim5 ?
+林茂#lim5 mong6
 邱玉英#ku1 ghêg8 êng1
 肖振国#siou1 zing2 gog4
 余明珠#e5 mêng5 zu1
@@ -250828,7 +250679,7 @@
 马义芬#bhê2 ngin6 hung1
 蔡媚#cua3 min6
 方动之#bung1 dong6 ze1
-杨枬#iên5 ?
+杨枬#iên5 ziêng1
 陈巧吟#dang5 ka2 ngim5
 林惠兰#lim5 hui6 lang5
 谢小萍#zia7 siou2 piê5
@@ -251239,7 +251090,7 @@
 陈禹峰#dang5 u2 hong1
 李少燕#li2 siou3 in3
 张楷聪#diên1 kai2 cong1
-林躍#lim5 ?
+林跃#lim5 iag4
 庄伟松#zeng1 ui2 song5
 黄厚翔#ng5 gao6 siang5
 许英平#kou2 êng1 pêng5
@@ -252070,7 +251921,7 @@
 黄秀娥#ng5 siu3 ngon5
 肖梦华#siou1 mang7 hua5
 许荣炼#kou2 iong5 liêng7
-郑枬#dên7 ?
+郑枬#dên7 ziêng1
 李维楠#li2 rui5 lam5
 李姿华#li2 ze1 hua5
 杨培辉#iên5 buê5 hui1
@@ -252260,7 +252111,7 @@
 李伟业#li2 ui2 ngiab8
 郑斯丹#dên7 se1 dang1
 卢勉洽#lou5 miêng2 ziab8
-王瑩瑩#hêng5 ? ?
+王莹莹#hêng5 iong5 iong5
 郑传旭#dên7 tuêng5 hiog4
 黄木顺#ng5 bhag8 sung6
 林愈惜#lim5 ru2 siêh4
@@ -252356,7 +252207,7 @@
 林典浩#lim5 diêng2 hao1
 郭永明#guêh4 iong2 mêng5
 李敬忠#li2 gêng3 dong1
-许慕崧#kou2 mon6 ?
+许慕嵩#kou2 mon6 song1
 林玩清#lim5 nguêng2 cêng1
 黄晓汶#ng5 hiou2 bhung5
 吴惜柔#ghou5 siêh4 riu5
@@ -252374,7 +252225,7 @@
 刘元辉#lao5 nguêng5 hui1
 李建霖#li2 giêng6 lim5
 林典美#lim5 diêng2 muin2
-李芫瑩#li2 nguêng5 ?
+李芫莹#li2 nguêng5 iong5
 欧钦泳#ao1 kim1 iong3
 林怡照#lim5 i5 ziê3
 蔡锦珊#cua3 gim2 sang1
@@ -252466,7 +252317,7 @@
 庄秋平#zeng1 ciu1 pêng5
 许耀才#kou2 iou6 cai5
 刘妙云#lao5 mioun6 hung5
-张鑽佳#diên1 ? gia1
+张钻佳#diên1 zeng3 gia1
 许淑琴#kou2 sog4 kim5
 张木富#diên1 bhag8 bu3
 翁耀峰#êng1 iou6 hong1
@@ -252912,7 +252763,7 @@
 刘辉娇#lao5 hui1 giou1
 杨语平#iên5 ghe2 pêng5
 翁楚瑶#êng1 co2 iou5
-郭婕瑩#guêh4 ziab8 ?
+郭婕莹#guêh4 ziab8 iong5
 赵秀丽#diên6 siu3 li6
 方鸽雄#bung1 gab4 hiong5
 黄衍帆#ng5 iêng6 pang5
@@ -254062,7 +253913,6 @@
 许维平#kou2 rui5 pêng5
 陈才利#dang5 cai5 li6
 李乾武#li2 kiêng5 bhu2
-王树鉷#hêng5 su6 ?
 欧晓贤#ao1 hiou2 hiêng5
 林意庭#lim5 i3 têng5
 廖晓雯#liou7 hiou2 bhung5
@@ -254331,7 +254181,7 @@
 张侨玮#diên1 kiou5 ui2
 李育才#li2 iog8 cai5
 赵庭南#diên6 têng5 lam5
-宋白鑽#song3 bêh8 ?
+宋白钻#song3 bêh8 zeng3
 郭可禧#guêh4 ko2 hi1
 陈良浩#dang5 liang5 hao1
 孙伟民#seng1 ui2 ming5
@@ -255166,7 +255016,7 @@
 郭茂#guêh4 mong6
 黄丰宝#ng5 hong1 bo2
 郑可贤#dên7 ko2 hiêng5
-林関贵#lim5 ? gui3
+林关贵#lim5 guêng1 gui3
 张乌有#diên1 ou1 iu2*
 蒋启聪#ziên2 ki2 cong1
 陈健伟#dang5 giêng6 ui2
@@ -255896,7 +255746,7 @@
 翁敬福#êng1 gêng3 hog4
 詹皇陶#ziam1 huang5 tao5
 杨美珠#iên5 muin2 zu1
-姚少週#iê5 siou3 ?
+姚少周#iê5 siou3 ziu1
 黄锐丹#ng5 ruê6 dang1
 方楚华#bung1 co2 hua5
 郑惜春#dên7 siêh4 cung1
@@ -255916,7 +255766,6 @@
 黄宋华#ng5 song3 hua5
 孙德生#seng1 dêg4 sêng1
 徐英凯#ce5 êng1 kai2
-徐彯然#ce5 ? riêng5
 刘文珍#lao5 bhung5 diêng1
 余烈章#e5 liêg8 ziang1
 翁伟强#êng1 ui2 kiang5
@@ -256271,7 +256120,7 @@
 郑文河#dên7 bhung5 ho5
 蔡奕斌#cua3 êg8 bing1
 陈英鹏#dang5 êng1 pong5
-郑金鈴#dên7 gim1 ?
+郑金铃#dên7 gim1 lêng1
 林凤清#lim5 hong6 cêng1
 张章其#diên1 ziang1 ki5
 谢丹书#zia7 dang1 ze1
@@ -257105,7 +256954,6 @@
 邹育娟#zou1 iog8 giêng1
 刘锦潮#lao5 gim2 diê5
 张玉芝#diên1 ghêg8 ze1
-陈镊媮#dang5 niab4 ?
 李德裕#li2 dêg4 ru6
 李侦#li2 zêng1
 林国明#lim5 gog4 mêng5
@@ -257361,7 +257209,6 @@
 陈佩宜#dang5 buê6 ngin5
 林芝芝#lim5 ze1 ze1
 林太群#lim5 tai3 kung5
-林洳嫈#lim5 ru5 ?
 蔡爱鹏#cua3 ain3 pong5
 陈燕仪#dang5 in3 ngin5
 赖汉茹#nain6 hang3 ru5
@@ -257374,7 +257221,6 @@
 汤玩珠#teng1 nguêng2 zu1
 汤小雪#teng1 siou2 soh4
 曾彩河#zang1 cai2 ho5
-林静嫆#lim5 zên6 ?
 许世运#kou2 si3 ung7
 林安顺#lim5 ang1 sung6
 林惠盛#lim5 hui6 sêng6
@@ -257433,7 +257279,7 @@
 庄意杏#zeng1 i3 hêng6
 庄照茶#zeng1 ziê3 dê5
 陈利杏#dang5 li6 hêng6
-陈暖姮#dang5 luêng2 ?
+陈暖姮#dang5 luêng2 hêng5
 陈盛城#dang5 sêng6 sian5
 陈正加#dang5 zian3 gia1
 林瑞木#lim5 sui6 bhag8
@@ -257647,7 +257493,6 @@
 郑荣清#dên7 iong5 cêng1
 鄞云龙#ngeng5 hung5 lêng5
 刁国英#diou1 gog4 êng1
-丁磸礎#dêng1 ? ?
 李章明#li2 ziang1 mêng5
 林辉卿#lim5 hui1 kêng1
 陆维喜#lêg8 rui5 hi2
@@ -258520,7 +258365,7 @@
 林榕杰#lim5 iong5 giêg8
 赖岳英#nain6 ngag8 êng1
 黄智霖#ng5 di3 lim5
-林可兒#lim5 ko2 ?
+林可儿#lim5 ko2 ri5
 翁奕徒#êng1 êg8 tu5
 翁第强#êng1 doin6 kiang5
 郑自容#dên7 ze6 iong5
@@ -258591,8 +258436,8 @@
 高丽纯#go1 li6 sung5
 林娇凤#lim5 giou1 hong6
 肖钰芸#siou1 ghêg8 ung5
-林丽锳#lim5 li6 ?
-邱锌湧#ku1 sing1 ?
+林丽瑛#lim5 li6 êng1
+邱锌涌#ku1 sing1 iong3
 谢兰芬#zia7 lang5 hung1
 吴川秀#ghou5 cuêng1 siu3
 袁明雄#uêng5 mêng5 hiong5
@@ -258672,7 +258517,6 @@
 陈厚秋#dang5 gao6 ciu1
 陈生磊#dang5 sêng1 lui2
 陈榕儿#dang5 iong5 ri5
-李永漭#li2 iong2 ?
 陈樱洲#dang5 êng1 ziu1
 陈樱乔#dang5 êng1 kiou5
 陈伟先#dang5 ui2 soin1
@@ -258773,7 +258617,7 @@
 施献源#si1 hiêng3 nguêng5
 谢棋娟#zia7 gi5 giêng1
 纪少闲#gi2 siou3 oin5
-林琦枬#lim5 ki5 ?
+林琦枬#lim5 ki5 ziêng1
 陈昌远#dang5 ciang1 iêng2
 陈滨城#dang5 bing1 sian5
 林细杏#lim5 soi3 hêng6
@@ -259127,7 +258971,6 @@
 卢理勇#lou5 li2 iong2
 陈钟如#dang5 zêng1 ru5
 吴美叶#ghou5 muin2 hiêh8
-陈镡允#dang5 ? rung2
 徐文龙#ce5 bhung5 lêng5
 徐婷婷#ce5 dêng5 dêng5
 李德一#li2 dêg4 ig4
@@ -259280,13 +259123,13 @@
 马秀琴#bhê2 siu3 kim5
 李丽荣#li2 li6 iong5
 吴淑端#ghou5 sog4 duêng1
-李憶琪#li2 ? ki5
+李忆琪#li2 i3 ki5
 周海珠#ziu1 hai2 zu1
 洪惠钗#ang5 hui6 toi1
 姚超丹#iê5 tiou3 dang1
 谢琴清#zia7 kim5 cêng1
 潘家琪#puan1 gê1 ki5
-李湧#li2 ?
+李涌#li2 iong3
 谢美高#zia7 muin2 gao1
 邵早芬#siou6 za2 hung1
 赵锡光#diên6 siah4 guang1
@@ -259728,7 +259571,7 @@
 黄汉雁#ng5 hang3 ngang6
 蔡宋良#cua3 song3 liang5
 许自勤#kou2 ze6 keng5
-何啓会#ho5 ? huê6
+何启会#ho5 ki2 huê6
 姚育明#iê5 iog8 mêng5
 唐东春#deng5 dang1 cung1
 袁春玲#uêng5 cung1 lêng5
@@ -260062,7 +259905,6 @@
 洪科珠#ang5 kuê1 zu1
 邱许翩#ku1 he2 piêng1
 赖焕杰#nain6 huêng3 giêg8
-庄娥婨#zeng1 ngon5 ?
 赖伟#nain6 ui2
 徐建富#ce5 giêng6 bu3
 张国鑫#diên1 gog4 him1
@@ -260399,7 +260241,7 @@
 李钠#li2 nab8
 李庭光#li2 têng5 guang1
 郭振成#guêh4 zing2 sêng5
-杨鑑武#iên5 ? bhu2
+杨鉴武#iên5 gam3 bhu2
 陈维舟#dang5 rui5 ziu1
 林鸿德#lim5 hong5 dêg4
 龙彩鸾#lêng5 cai2 luêng5
@@ -260475,7 +260317,6 @@
 林牛尾#lim5 ghu5 bhuê2
 巫维玲#bhu5 rui5 lêng5
 吴潘岳#ghou5 puan1 ngag8
-纪锦蠺#gi2 gim2 ?
 林茂发#lim5 mong6 huêg4
 许育光#kou2 iog8 guang1
 肖镇波#siou1 ding3 bo1
@@ -262006,7 +261847,6 @@
 邱诗潘#ku1 si1 puan1
 陈奇斌#dang5 ki5 bing1
 邱顺才#ku1 sung6 cai5
-陈炴忠#dang5 ? dong1
 邱传鑫#ku1 tuêng5 him1
 邱炳汉#ku1 bêng2 hang3
 邱礼从#ku1 loi2 cong5
@@ -262794,7 +262634,7 @@
 林树源#lim5 su6 nguêng5
 林丽彬#lim5 li6 bing1
 林丽钿#lim5 li6 tiêng5
-林榮鑫#lim5 ? him1
+林荣鑫#lim5 iong5 him1
 余世滨#e5 si3 bing1
 余禧婕#e5 hi1 ziab8
 余禧俏#e5 hi1 ciou2
@@ -263057,7 +262897,7 @@
 钟宝爱#zêng1 bo2 ain3
 余松亮#e5 song5 liang6
 黄锰标#ng5 mêng2 piou1
-余湧鑫#e5 ? him1
+余涌鑫#e5 iong3 him1
 余绵珠#e5 miêng5 zu1
 刘舜梅#lao5 sung3 bhuê5
 谢柏辉#zia7 bêh4 hui1
@@ -263108,7 +262948,7 @@
 余丽娃#e5 li6 ua1
 张彩香#diên1 cai2 hiang1
 余培锋#e5 buê5 hong1
-余妙榮#e5 mioun6 ?
+余妙荣#e5 mioun6 iong5
 连希宁#liêng5 hi1 lêng5
 连希宁#hian5 hi1 lêng5
 余德贤#e5 dêg4 hiêng5
@@ -263445,7 +263285,7 @@
 林文森#lim5 bhung5 siam1
 麦冬冬#bhêh8 dang1 dang1
 麦贤惜#bhêh8 hiêng5 siêh4
-麦冬雲#bhêh8 dang1 ?
+麦冬云#bhêh8 dang1 hung5
 麦明好#bhêh8 mêng5 ho2
 麦依虹#bhêh8 i1 hong5
 麦伟强#bhêh8 ui2 kiang5
@@ -263701,7 +263541,7 @@
 邱美斌#ku1 muin2 bing1
 邱兴莲#ku1 hêng1 noin5
 吴玩芬#ghou5 nguêng2 hung1
-邱继鋭#ku1 gi3 ?
+邱继锐#ku1 gi3 ruê6
 邱丹旋#ku1 dang1 suêng5
 邱添泉#ku1 tiam1 zuan5
 邱明粉#ku1 mêng5 hung2
@@ -263988,7 +263828,7 @@
 张义刚#diên1 ngin6 gang1
 张亚珠#diên1 a1 zu1
 张乳惜#diên1 ru2 siêh4
-张湧洪#diên1 ? hong5
+张涌洪#diên1 iong3 hong5
 张松兴#diên1 song5 hêng1
 张松宾#diên1 song5 bing1
 张鸿生#diên1 hong5 sêng1
@@ -265199,7 +265039,7 @@
 许义香#kou2 ngin6 hiang1
 张志群#diên1 zi3 kung5
 许明坦#kou2 mêng5 tang2
-肖闽鄰#siou1 mang5 ?
+肖闽邻#siou1 mang5 ling5
 张彩容#diên1 cai2 iong5
 肖汉裕#siou1 hang3 ru6
 许五华#kou2 ngoun6 hua5
@@ -266409,8 +266249,8 @@
 邱春茶#ku1 cung1 dê5
 邱海浪#ku1 hai2 lang6
 张会珍#diên1 huê6 diêng1
-邱栢妍#ku1 ? ngiêng2
-邱栢俊#ku1 ? zung3
+邱柏妍#ku1 bêh4 ngiêng2
+邱柏俊#ku1 bêh4 zung3
 邱平祥#ku1 pêng5 siang5
 邱懿楷#ku1 i6 kai2
 邱烈光#ku1 liêg8 guang1
@@ -266425,7 +266265,7 @@
 邱紫萍#ku1 zi2 piê5
 邱兴元#ku1 hêng1 nguêng5
 刘雪凤#lao5 soh4 hong6
-邱雲林#ku1 ? lim5
+邱云林#ku1 hung5 lim5
 邱泓林#ku1 hong5 lim5
 邱文通#ku1 bhung5 tong1
 邱惠容#ku1 hui6 iong5
@@ -267139,7 +266979,7 @@
 刘嘉嘉#lao5 gia1 gia1
 刘思云#lao5 se1 hung5
 刘文捷#lao5 bhung5 ziab8
-刘广煇#lao5 guang2 ?
+刘广辉#lao5 guang2 hui1
 刘会花#lao5 huê6 huê1
 刘运生#lao5 ung7 sêng1
 吴湖萍#ghou5 ou5 piê5
@@ -268272,7 +268112,7 @@
 徐静音#ce5 zên6 im1
 高香梅#go1 hiang1 bhuê5
 江丽娜#gang1 li6 non5
-周鋼生#ziu1 ? sêng1
+周钢生#ziu1 geng3 sêng1
 周俏梅#ziu1 ciou2 bhuê5
 徐汉平#ce5 hang3 pêng5
 徐桂洪#ce5 gui3 hong5
@@ -270375,7 +270215,7 @@
 黄敏娟#ng5 miêng2 giêng1
 蔡湖#cua3 ou5
 蔡木娟#cua3 bhag8 giêng1
-蔡愽楠#cua3 ? lam5
+蔡博楠#cua3 pag4 lam5
 黄解文#ng5 goi2 bhung5
 吴惠专#ghou5 hui6 zuêng1
 黄旭英#ng5 hiog4 êng1
@@ -270986,7 +270826,7 @@
 林臣玉#lim5 cing5 ghêg8
 余少华#e5 siou3 hua5
 林臣和#lim5 cing5 hua5
-郑哖目#dên7 ? mag8
+郑年目#dên7 nin5 mag8
 许松南#kou2 song5 lam5
 许桂娟#kou2 gui3 giêng1
 许晓群#kou2 hiou2 kung5
@@ -270996,7 +270836,7 @@
 许雪龙#kou2 soh4 lêng5
 许景斌#kou2 gêng2 bing1
 许跃平#kou2 iag4 pêng5
-林钡楒#lim5 buê6 ?
+林钡思#lim5 buê6 se1
 林莲笋#lim5 noin5 sung2
 沈志凤#sim2 zi3 hong6
 林松留#lim5 song5 lao5
@@ -271097,7 +270937,7 @@
 吴记耀#ghou5 gi3 iou6
 吴序雄#ghou5 su6 hiong5
 吴培英#ghou5 buê5 êng1
-吴湧江#ghou5 ? gang1
+吴涌江#ghou5 iong3 gang1
 吴檬胧#ghou5 mong5 long5
 吴玉琼#ghou5 ghêg8 kuang5
 翁惠庄#êng1 hui6 zeng1
@@ -271708,7 +271548,7 @@
 赖圳洁#nain6 zung3 giêg4
 赖婵亮#nain6 siam5 liang6
 陈美茸#dang5 muin2 rong5
-黄哖#ng5 ?
+黄年#ng5 nin5
 张丽刁#diên1 li6 diou1
 赖思键#nain6 se1 giêng6
 黄和得#ng5 hua5 dig4
@@ -272037,7 +271877,7 @@
 吴尊亮#ghou5 zung1 liang6
 陈婵辉#dang5 siam5 hui1
 吴茂群#ghou5 mong6 kung5
-吴愽泓#ghou5 ? hong5
+吴博泓#ghou5 pag4 hong5
 吴海娜#ghou5 hai2 non5
 吴淋娜#ghou5 lim5 non5
 吴长进#ghou5 ciang5 zing3
@@ -274973,7 +274813,6 @@
 张桂周#diên1 gui3 ziu1
 张长顺#diên1 ciang5 sung6
 张初明#diên1 co1 mêng5
-张圆萳#diên1 in5 ?
 张春松#diên1 cung1 song5
 张赳平#diên1 giu2 pêng5
 张青夜#diên1 cên1 mên5
@@ -276297,7 +276136,7 @@
 汤如杰#teng1 ru5 giêg8
 陈宋勤#dang5 song3 keng5
 陈赛勇#dang5 sai3 iong2
-陈春湧#dang5 cung1 ?
+陈春涌#dang5 cung1 iong3
 陈文成#dang5 bhung5 sêng5
 陈瑶潘#dang5 iou5 puan1
 李沛江#li2 pai3 gang1
@@ -278359,7 +278198,6 @@
 杨雪茵#iên5 soh4 ing1
 杨焕场#iên5 huêng3 diên5
 刘国基#lao5 gog4 gi1
-卢地坜#lou5 di7 ?
 刘苗达#lao5 mioun5 dag8
 张铁#diên1 tih4
 邱小茵#ku1 siou2 ing1
@@ -279445,7 +279283,7 @@
 庄孝生#zeng1 hao3 sêng1
 庄炳钦#zeng1 bêng2 kim1
 郑兰贞#dên7 lang5 zêng1
-郑国湧#dên7 gog4 ?
+郑国涌#dên7 gog4 iong3
 郑臣先#dên7 cing5 soin1
 郑深#dên7 cim1
 郑桂芝#dên7 gui3 ze1
@@ -279809,7 +279647,6 @@
 吕从祥#le6 cong5 siang5
 黄阳彪#ng5 iang5 biu1
 林进育#lim5 zing3 iog8
-黄吔江#ng5 ? gang1
 钟丽芳#zêng1 li6 huang1
 吴惠花#ghou5 hui6 huê1
 黄璇斌#ng5 suêng5 bing1
@@ -280206,7 +280043,6 @@
 詹雪青#ziam1 soh4 cên1
 詹金土#ziam1 gim1 tou2
 詹伟飘#ziam1 ui2 piou1
-詹晓嬣#ziam1 hiou2 ?
 詹晓平#ziam1 hiou2 pêng5
 詹乳#ziam1 ru2
 谢力#zia7 lag8
@@ -280505,7 +280341,7 @@
 林光欣#lim5 guang1 hng1
 林顺湖#lim5 sung6 ou5
 张奕松#diên1 êg8 song5
-刘创標#lao5 cang3 ?
+刘创标#lao5 cang3 piou1
 张敏璇#diên1 miêng2 suêng5
 张光钦#diên1 guang1 kim1
 林永武#lim5 iong2 bhu2
@@ -280605,7 +280441,7 @@
 张盛铭#diên1 sêng6 mêng5
 张朝凯#diên1 ziou1 kai2
 翁宏波#êng1 hong5 bo1
-张標贤#diên1 ? hiêng5
+张标贤#diên1 piou1 hiêng5
 杜林兴#dou6 lim5 hêng1
 张少帆#diên1 siou3 pang5
 张丽淳#diên1 li6 sung5
@@ -282822,7 +282658,6 @@
 张少苏#diên1 siou3 sou1
 张楚财#diên1 co2 cai5
 赖昭永#nain6 ziou1 iong2
-黄鉝樆#ng5 ? ?
 卢燕平#lou5 in3 pêng5
 张圆弟#diên1 in5 di6
 邱晓华#ku1 hiou2 hua5
@@ -283206,7 +283041,7 @@
 张锦钟#diên1 gim2 zêng1
 张俊旭#diên1 zung3 hiog4
 张海清#diên1 hai2 cêng1
-张蘭芳#diên1 ? huang1
+张兰芳#diên1 lang5 huang1
 陈钱豹#dang5 zin5 ba3
 张燕标#diên1 in3 piou1
 张钟隆#diên1 zêng1 long5
@@ -283811,7 +283646,7 @@
 徐苗婷#ce5 mioun5 dêng5
 何美真#ho5 muin2 zing1
 周艳军#ziu1 iam7 gung1
-池樑聪#di5 ? cong1
+池梁聪#di5 niên5 cong1
 王郁冰#hêng5 hiog4 bian1
 陈玉霞#dang5 ghêg8 hia5
 吴洁萍#ghou5 giêg4 piê5
@@ -284318,7 +284153,7 @@
 黄伟俊#ng5 ui2 zung3
 黄茂钦#ng5 mong6 kim1
 徐建鑫#ce5 giêng6 him1
-黄湧仟#ng5 ? coin1
+黄涌仟#ng5 iong3 coin1
 王洁芝#hêng5 giêg4 ze1
 范林群#huam6 lim5 kung5
 涂佳洲#tu5 gia1 ziu1
@@ -284402,7 +284237,7 @@
 梁丽璇#niên5 li6 suêng5
 黄树达#ng5 su6 dag8
 江炀如#gang1 iang5 ru5
-陈湧萍#dang5 ? piê5
+陈涌萍#dang5 iong3 piê5
 肖伟杰#siou1 ui2 giêg8
 陆庆珊#lêg8 kêng3 sang1
 陆庆珊#log8 kêng3 sang1
@@ -284472,7 +284307,7 @@
 罗晓晓#lo5 hiou2 hiou2
 吴渺渺#ghou5 mioun2 mioun2
 邱淑佳#ku1 sog4 gia1
-吴庭湧#ghou5 têng5 ?
+吴庭涌#ghou5 têng5 iong3
 王桂香#hêng5 gui3 hiang1
 陈协丰#dang5 hiab8 hong1
 陈铿柱#dang5 giêng1 tiou6
@@ -284633,7 +284468,7 @@
 罗巍萍#lo5 nguin5 piê5
 郑冬璇#dên7 dang1 suêng5
 何晓敏#ho5 hiou2 miêng2
-吴湧川#ghou5 ? cuêng1
+吴涌川#ghou5 iong3 cuêng1
 陈和鑫#dang5 hua5 him1
 郑徐彬#dên7 ce5 bing1
 林玉如#lim5 ghêg8 ru5
@@ -285026,7 +284861,7 @@
 曾佳华#zang1 gia1 hua5
 胡丹敏#ou5 dang1 miêng2
 罗俊涛#lo5 zung3 tiu5
-吴湧龙#ghou5 ? lêng5
+吴涌龙#ghou5 iong3 lêng5
 袁建武#uêng5 giêng6 bhu2
 陈旭英#dang5 hiog4 êng1
 彭昭华#pên5 ziou1 hua5
@@ -285394,7 +285229,7 @@
 李蝉#li2 siam5
 李玲君#li2 lêng5 gung1
 谢秀云#zia7 siu3 hung5
-吴湧娜#ghou5 ? non5
+吴涌娜#ghou5 iong3 non5
 王凯敏#hêng5 kai2 miêng2
 吴仰鑫#ghou5 ngiang2 him1
 谢勉芝#zia7 miêng2 ze1
@@ -285596,7 +285431,7 @@
 王容华#hêng5 iong5 hua5
 吴晓妹#ghou5 hiou2 muên6
 林粉娜#lim5 hung2 non5
-吴湧钊#ghou5 ? ziou1
+吴涌钊#ghou5 iong3 ziou1
 许楚冰#kou2 co2 bian1
 郑洁燕#dên7 giêg4 in3
 吴漫贤#ghou5 bhuêng6 hiêng5
@@ -286175,7 +286010,7 @@
 廖琦瑞#liou7 ki5 sui6
 林绮云#lim5 i2 hung5
 高东春#go1 dang1 cung1
-蔡湧璇#cua3 ? suêng5
+蔡涌璇#cua3 iong3 suêng5
 吴浩强#ghou5 hao1 kiang5
 陈娴娜#dang5 hiêng5 non5
 陈梓霞#dang5 ze2 hia5
@@ -287103,7 +286938,7 @@
 刘小冰#lao5 siou2 bian1
 林炎莉#lim5 iam7 li6
 黄柠泥#ng5 lêng5 nin5
-林耿崧#lim5 geng2 ?
+林耿嵩#lim5 geng2 song1
 林晓黛#lim5 hiou2 dai3
 巫剑原#bhu5 giam3 nguêng5
 袁育珊#uêng5 iog8 sang1
@@ -288472,7 +288307,7 @@
 郑丹凯#dên7 dang1 kai2
 章育华#ziên1 iog8 hua5
 章育华#ziang1 iog8 hua5
-袁湧彬#uêng5 ? bing1
+袁涌彬#uêng5 iong3 bing1
 章跃萍#ziên1 iag4 piê5
 章跃萍#ziang1 iag4 piê5
 陈银穗#dang5 ngeng5 sui7
@@ -288936,7 +288771,7 @@
 陈伟芸#dang5 ui2 ung5
 林曹平#lim5 cao5 pêng5
 许萱萱#kou2 suang1 suang1
-何晓湧#ho5 hiou2 ?
+何晓涌#ho5 hiou2 iong3
 黄奕波#ng5 êg8 bo1
 陈锐珍#dang5 ruê6 diêng1
 林楚沛#lim5 co2 pai3
@@ -289104,7 +288939,7 @@
 谢伟斌#zia7 ui2 bing1
 陈朝宋#dang5 ziou1 song3
 罗耿伟#lo5 geng2 ui2
-郑湧彬#dên7 ? bing1
+郑涌彬#dên7 iong3 bing1
 许晓丽#kou2 hiou2 li6
 陈晓旬#dang5 hiou2 sung5
 林淑苗#lim5 sog4 mioun5
@@ -290760,7 +290595,7 @@
 邢东鹏#hian5 dang1 pong5
 陈可香#dang5 ko2 hiang1
 罗林准#lo5 lim5 zung2
-陈湧凯#dang5 ? kai2
+陈涌凯#dang5 iong3 kai2
 黄壮青#ng5 zang3 cên1
 江坤洁#gang1 kung1 giêg4
 黄友树#ng5 iu2 su6
@@ -290924,7 +290759,7 @@
 朱锦鹏#zu1 gim2 pong5
 黄壁锋#ng5 biah4 hong1
 许瑜佳#kou2 ru5 gia1
-林湧彬#lim5 ? bing1
+林涌彬#lim5 iong3 bing1
 黄润华#ng5 rung6 hua5
 卢小花#lou5 siou2 huê1
 陈珍珍#dang5 diêng1 diêng1
@@ -291365,7 +291200,7 @@
 徐凤英#ce5 hong6 êng1
 袁贺珍#uêng5 ho7 diêng1
 邰秀英#tai5 siu3 êng1
-洪湧莉#ang5 ? li6
+洪涌莉#ang5 iong3 li6
 郑宗树#dên7 zong1 su6
 米鹏#bhi2 pong5
 李章君#li2 ziang1 gung1
@@ -291499,7 +291334,7 @@
 罗宝珠#lo5 bo2 zu1
 黄佩嘉#ng5 buê6 gia1
 刘佳萍#lao5 gia1 piê5
-陈湧芬#dang5 ? hung1
+陈涌芬#dang5 iong3 hung1
 许素旅#kou2 su3 li2
 黄前鹏#ng5 zoin5 pong5
 邱炼卫#ku1 liêng7 uê6
@@ -292366,7 +292201,7 @@
 辛亮华#sing1 liang6 hua5
 林文衔#lim5 bhung5 ham5
 陈图龙#dang5 tu5 lêng5
-黄锡湧#ng5 siah4 ?
+黄锡涌#ng5 siah4 iong3
 李佳瑜#li2 gia1 ru5
 许晓春#kou2 hiou2 cung1
 陈娜芬#dang5 non5 hung1
@@ -292607,7 +292442,7 @@
 王洁燕#hêng5 giêg4 in3
 王陈暖#hêng5 ting5 luêng2
 许娜娜#kou2 non5 non5
-陈湧屏#dang5 ? ping5
+陈涌屏#dang5 iong3 ping5
 林嘉萍#lim5 gia1 piê5
 陈芷珊#dang5 zi2 sang1
 林晓弟#lim5 hiou2 di6
@@ -292867,7 +292702,7 @@
 林卓阳#lim5 doh4 iang5
 蔡骏希#cua3 zung3 hi1
 钟梓妍#zêng1 ze2 ngiêng2
-吴榮填#ghou5 ? tiêng5
+吴荣填#ghou5 iong5 tiêng5
 林品萱#lim5 bing2 suang1
 魏嘉俐#ghui7 gia1 li6
 郑垲煜#dên7 kai2 hiog4
@@ -292927,7 +292762,6 @@
 黄漫莉#ng5 bhuêng6 li6
 陈安滉#dang5 ang1 huang2
 郑翔励#dên7 siang5 li6
-高竫轩#go1 ? hng1
 黄奋杰#ng5 hung3 giêg8
 黄弈鸣#ng5 êg8 mêng5
 袁琬晴#uêng5 uêng2 zên5
@@ -293172,7 +293006,7 @@
 王锦存#hêng5 gim2 cung5
 涂少鸿#tu5 siou3 hong5
 曾创华#zang1 cang3 hua5
-许楠湧#kou2 lam5 ?
+许楠涌#kou2 lam5 iong3
 王兼洪#hêng5 giam1 hong5
 罗沛鑫#lo5 pai3 him1
 陈素雄#dang5 su3 hiong5
@@ -293633,7 +293467,7 @@
 洪文泉#ang5 bhung5 zuan5
 黄涌练#ng5 iong3 liêng7
 黄壁标#ng5 biah4 piou1
-徐湧钦#ce5 ? kim1
+徐涌钦#ce5 iong3 kim1
 魏伟能#ghui7 ui2 lêng5
 黄彩鹏#ng5 cai2 pong5
 魏建华#ghui7 giêng6 hua5
@@ -293720,7 +293554,7 @@
 林荣炎#lim5 iong5 iam7
 袁宏亮#uêng5 hong5 liang6
 陈列弟#dang5 liêg8 di6
-姚澍湧#iê5 su6 ?
+姚澍涌#iê5 su6 iong3
 陈君奕#dang5 gung1 êg8
 郭雪斌#guêh4 soh4 bing1
 孙锐忠#seng1 ruê6 dong1
@@ -295001,7 +294835,7 @@
 林钦鸿#lim5 kim1 hong5
 吴梓娟#ghou5 ze2 giêng1
 李玲芝#li2 lêng5 ze1
-李淽岚#li2 ? lam5
+李芷岚#li2 zi2 lam5
 王诗蕊#hêng5 si1 lui2
 黄德勇#ng5 dêg4 iong2
 利率#li6 lug8
@@ -295147,7 +294981,7 @@
 陈国城#dang5 gog4 sian5
 温国权#ung1 gog4 kuêng5
 郑木鑫#dên7 bhag8 him1
-邓永褀#dêng6 iong2 ?
+邓永褀#dêng6 iong2 ki5
 萧洁莹#siou1 giêg4 iong5
 温秋永#ung1 ciu1 iong2
 黄娘参#ng5 niên5 cam1
@@ -295390,7 +295224,7 @@
 温路园#ung1 lou7 hng5
 朱贵燎#zu1 gui3 liou5
 郑敦银#dên7 dung1 ngeng5
-郑裕欽#dên7 ru6 ?
+郑裕钦#dên7 ru6 kim1
 邬动古#u1 dong6 gou2
 田海安#cang5 hai2 ang1
 黄杰胜#ng5 giêg8 sêng3
@@ -296297,7 +296131,7 @@
 吴廷镇#ghou5 têng5 ding3
 吴廷湖#ghou5 têng5 ou5
 吴育创#ghou5 iog8 cang3
-吴栢东#ghou5 ? dang1
+吴柏东#ghou5 bêh4 dang1
 吴增毫#ghou5 zêng1 hao5
 吴奕坚#ghou5 êg8 giêng1
 吴子洪#ghou5 ze2 hong5
@@ -296525,7 +296359,6 @@
 吴江糯#ghou5 gang1 zug8
 吴楷城#ghou5 kai2 sian5
 吴清标#ghou5 cêng1 piou1
-吴蔗橉#ghou5 zia3 ?
 吴子攀#ghou5 ze2 pang1
 吴茂杰#ghou5 mong6 giêg8
 吴苏平#ghou5 sou1 pêng5
@@ -296909,7 +296742,7 @@
 蔡跃#cua3 iag4
 纪晓玲#gi2 hiou2 lêng5
 林伦德#lim5 lung5 dêg4
-邱顕达#ku1 ? dag8
+邱显达#ku1 hiêng2 dag8
 柯韩生#gua1 hang5 sêng1
 黄立程#ng5 lib8 tian5
 王诗铭#hêng5 si1 mêng5
@@ -298218,7 +298051,7 @@
 潘洪燕#puan1 hong5 in3
 张烁婉#diên1 iag4 uêng2
 周奕纯#ziu1 êg8 sung5
-吴梓滎#ghou5 ze2 ?
+吴梓荥#ghou5 ze2 hêng5
 黄壮健#ng5 zang3 giêng6
 谢佳文#zia7 gia1 bhung5
 赵铭涛#diên6 mêng5 tiu5
@@ -298651,7 +298484,6 @@
 吴岱璇#ghou5 dai3 suêng5
 刘春莲#lao5 cung1 noin5
 谢银萱#zia7 ngeng5 suang1
-陈思妘#dang5 se1 ?
 孙泳纯#seng1 iong3 sung5
 黄仪铭#ng5 ngin5 mêng5
 孙伊纯#seng1 i1 sung5
@@ -299230,7 +299062,7 @@
 佃丽萍#doin6 li6 piê5
 李淦芸#li2 gam3 ung5
 郭华华#guêh4 hua5 hua5
-方锳漫#bung1 ? bhuêng6
+方瑛漫#bung1 êng1 bhuêng6
 陈秋爽#dang5 ciu1 suang2
 庄祖儿#zeng1 zou2 ri5
 曾伊涵#zang1 i1 ham5
@@ -299642,7 +299474,6 @@
 陈晓磊#dang5 hiou2 lui2
 蔡沐华#cua3 mog8 hua5
 陈森梅#dang5 siam1 bhuê5
-陈静嫙#dang5 zên6 ?
 蓝文臻#nan5 bhung5 zing1
 李丽丹#li2 li6 dang1
 张梓娟#diên1 ze2 giêng1
@@ -300646,7 +300477,7 @@
 丁喜姜#dêng1 hi2 giang1
 李灿权#li2 cang3 kuêng5
 李振锐#li2 zing2 ruê6
-李湧崇#li2 ? cong5
+李涌崇#li2 iong3 cong5
 李利添#li2 li6 tiam1
 刘应鹏#lao5 êng3 pong5
 洪允锦#ang5 rung2 gim2
@@ -300659,7 +300490,7 @@
 丁田宁#dêng1 cang5 lêng5
 郭钊喜#guêh4 ziou1 hi2
 李爱忠#li2 ain3 dong1
-李維强#li2 ? kiang5
+李维强#li2 rui5 kiang5
 刘李旭芬#lao5 li2 hiog4 hung1
 苏淡存#sou1 dan6 cung5
 李旭煌#li2 hiog4 huang5

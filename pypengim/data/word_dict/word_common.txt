@@ -582,7 +582,7 @@
 匈奴#hiong1 noun5
 匈牙利#hêng1 ghê5 li6
 
-御史#ghe7 se2
+御史#ghe6 se2
 御使#ghe7 sai3
 御驾#ghe7 gê3
 御赐#ghe7 se3
@@ -713,7 +713,7 @@
 视听#si6 têng3|tian1
 膣精#zi1 zian1
 精肉#zian1 nêg8
-狐狸精#hou5 lai5 zian1
+狐狸精#hu5 li5 zian1
 妖精#iou1 zian1
 成精#sêng5 zian1
 精猪肉#zian1 de1 nêg8
@@ -1115,7 +1115,7 @@
 行动#gian5 dong6
 行政#gian5 zêng3
 出行#cug4 gian5
-行书#gian5 ze1
+行书#hang5|gian5 ze1
 飞行#buê1 gian5
 发行#huêg4 gian5
 推行#tui1 gian5
@@ -1785,7 +1785,9 @@
 棉城#miêng5 sian5
 莫名其妙#mog8 mêng5 ki5 mioun6
 菱角#noin5 gag4
-漏人#lao2 gian2
+漏囝#lao2 gian2
+漏仔#lao2 gian2
+漏人#lao2 nang5
 漏去#lao2 ke3
 砂哩#sa1 li5
 补给#bou2 gib4
@@ -4459,7 +4461,7 @@
 入来#rib8 lai7
 过来#guê3 lai7
 后来#ao6 lai7|lai5
-散来#suan3 lai7
+散来#suan3 lai5
 雨来#hou6 lai7
 来去#lai2 ke3
 出来#cug4 lai7
@@ -9731,3 +9733,9 @@
 薛丁山#sih4 dêng1 sang1
 王莽#uang5 mang2
 翘楚#kiou5 co2
+家常便饭#gê1 siên5 biêng6 huêng6
+便饭#biêng6 huêng6
+第一代#doin6 ig4 do7
+安全意识#uan1 cuêng5 i3 sêg4
+上个月#ziên6 gai5 ghuêh8
+慈善会#ce5 siêng6 huê6
